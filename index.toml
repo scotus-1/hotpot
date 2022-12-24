@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "added-mods.txt"
+hash = "86731497e92d64cb3505be43a44505a9d151d39e8ed11d041515dfb6115f50bf"
+
+[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "0d456fc942c5c5cac422b51d4efffadc2d263b8b7d9e2b2d80950e7a1203500b"
 
