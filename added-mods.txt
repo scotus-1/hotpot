@@ -2,5 +2,5 @@ comforts
 couplings
 farmers delight
 sound physics remastered
-simple voice chat
+simple voice chat + vcinteraction + audioplayer
 fabric waystones + owolib

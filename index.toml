@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "added-mods.txt"
-hash = "86731497e92d64cb3505be43a44505a9d151d39e8ed11d041515dfb6115f50bf"
+hash = "abc451e251111a991e20372f192e8f3002639533f7abb3cab8a92425005ad790"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
@@ -145,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b7606dafc1939560ab63f3fadeb90e4ebbac1c25e57fb946e66bef05bee92460"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "4f64efbeb252e3b600aaf5d58e4a7db02790dd9d3609595f7ede779b988862ab"
 metafile = true
 
 [[files]]
