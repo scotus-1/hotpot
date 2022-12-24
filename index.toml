@@ -271,6 +271,11 @@ hash = "7aa8ced63d137481245c7ea9a15b5486193dc2ff944a15ca92479f093da0dc85"
 metafile = true
 
 [[files]]
+file = "mods/comforts-fabric.pw.toml"
+hash = "7a7a8c89c9961681dff5d6ad59a3b26d2e2479db2ef45402523a6d9e52448a3b"
+metafile = true
+
+[[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "362b7c2a0bee20df39b4ec433e57f71307459b9132f05298ea7355407683accf"
 metafile = true
@@ -421,6 +426,11 @@ hash = "d2559608c07650a8ae6adda7440edc2fe1ff9ce7c8b276c8aba8cc249e4ddc08"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "166af52f9b92d1b99b9108da9ec1584e5cb1a8b8483f11eace113a83b466091a"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "1dae1ed95575e8248b9fa840f1a7c22d68c86dfc3f94a199a4115e2b12d5adc0"
 metafile = true
@@ -428,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "5dddc9f3e4b683268494703ad89dfe2584ccbd0b59670bc614e9976e13eaa642"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "01229cc90ed07c223690033b98bd1cd3d04929c8e059a194cc50ebca8c3ca3f4"
 metafile = true
 
 [[files]]
@@ -591,6 +606,11 @@ hash = "932ec1df27e1a8559007ffdec5f02a1b93c0e0f0baeac3869fbfd6a606a32fa5"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
 file = "mods/physics-mod.pw.toml"
 hash = "e60176d28ad54dd6d52946bcd74d93e459fee50ad39836eb21c83d6b52614e36"
 metafile = true
@@ -648,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "80575a5f4bfcb012bcd1e2472d715fe497922674be91fdb8308f6ef8f9392bfa"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "562a04e1645b607700d70ab5df87db7906d594e66f749ded0798709180d87fb6"
 metafile = true
 
 [[files]]
@@ -723,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "982ad5242db0a63779f0738334eda8f8a8c5b12e309006c99692606d6f5c3837"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "4a63451ef8d020713651dd9d364772595b0124138511a1a39c9b8c8e72e3c0c0"
 metafile = true
 
 [[files]]
