@@ -81,6 +81,14 @@ file = "config/yosbr/config/pling.json"
 hash = "8b19dc919969a666ff68947b9a7afa7fbd3b5e9a90c9d89019cbcdebdb66820c"
 
 [[files]]
+file = "config/yosbr/config/slightguimodifications/config.json5"
+hash = "f9b7f08fdd9c3af02879db2ca5f8051bd4eb601ad0d966adb1ab74783dfeb5e9"
+
+[[files]]
+file = "config/yosbr/config/slightguimodifications/cts.groovy"
+hash = "2e14ac15db9760fc6d1631e511de4ce3dfbc93390cfd0a202eb7247444dd384c"
+
+[[files]]
 file = "config/yosbr/config/smoothswapping.json"
 hash = "471bb04a7321ccfa2e944a96912a2632e3a4195ad635e0bd76912ba1c0e6c7bd"
 
