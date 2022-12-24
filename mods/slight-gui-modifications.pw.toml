@@ -1,0 +1,13 @@
+name = "'Slight' Gui Modifications"
+filename = "slight-gui-modifications-2.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c9ab15b1b1420aa19cf2a1a68e7b688229adfdd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3943114
+project-id = 380393

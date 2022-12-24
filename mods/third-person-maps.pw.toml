@@ -1,0 +1,13 @@
+name = "Third Person Maps"
+filename = "third-person-maps-1.4.0+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9b05689d3102548cde663f44b312fa73a2a585c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3903157
+project-id = 431171

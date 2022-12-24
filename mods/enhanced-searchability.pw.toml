@@ -1,0 +1,13 @@
+name = "Enhanced Searchability"
+filename = "enhanced-searchability-mc1.19-3.0.0+build.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c59435d9a2c5fa785082a9723ceb16ed9f2f31e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3852597
+project-id = 538023

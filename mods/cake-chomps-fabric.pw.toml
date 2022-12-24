@@ -1,0 +1,13 @@
+name = "Cake Chomps (Fabric 1.16.1 - 1.19.2)"
+filename = "cakechomps-fabric-6.0.0+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db7567c68ea3d5fc50116b87f3e96ede9de8cb0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3930656
+project-id = 394718

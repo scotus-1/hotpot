@@ -1,0 +1,13 @@
+name = "Visual Overhaul"
+filename = "visualoverhaul-4.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f95f03b2bcab7848a7f26ba8cb793e50938344f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3837116
+project-id = 432008

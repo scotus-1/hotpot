@@ -1,0 +1,13 @@
+name = "Nicephore (better screenshots) [Fabric]"
+filename = "nicephore-fabric-1.19.x-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2de58b64053dab06ab36a89ecbdd623d55a2c890"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3848375
+project-id = 405990

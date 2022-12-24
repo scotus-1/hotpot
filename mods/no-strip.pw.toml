@@ -1,0 +1,13 @@
+name = "No Strip"
+filename = "nostrip-1.2.3-1.19+.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1726b964024efae00332e2422b3a6397a6a3e6fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3838244
+project-id = 405513
