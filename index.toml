@@ -815,12 +815,16 @@ file = "resourcepacks/13.zip"
 hash = "f0444baf45c5e1d76965803368bd06a791c3c7c3bd8cadab895fa07d0d99acea"
 
 [[files]]
+file = "resourcepacks/Disable+Bushy+Leaves.zip"
+hash = "c952494a418f28aab35237917bc127e0b23370113771bb8c01fe22571ee1d8c2"
+
+[[files]]
 file = "resourcepacks/Enhanced+Boss+Bars+1.1.zip"
 hash = "9efac70604c3523f8f725ebbeb7a6908f83fbed11dd8f1ff01be0037382252af"
 
 [[files]]
-file = "resourcepacks/NoBushyLeaves.zip"
-hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
+file = "resourcepacks/Stay+True+Compats+v6+[1.19].zip"
+hash = "666017575d8f092023aacf2a7bfd1ec5a4363751a19b0bf08a0f79a8bc5454de"
 
 [[files]]
 file = "resourcepacks/Stay_True_1.19.zip"
