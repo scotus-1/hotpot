@@ -4,3 +4,9 @@ farmers delight
 sound physics remastered
 simple voice chat + vcinteraction + audioplayer
 fabric waystones + owolib
+roughly enough items
+krypton
+cosmetic armor + trinkets
+friendly fire
+pyrotastic
+shoppy

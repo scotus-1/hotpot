@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "added-mods.txt"
-hash = "abc451e251111a991e20372f192e8f3002639533f7abb3cab8a92425005ad790"
+hash = "615202feeaf8a9e47ee9ddbb2d624148ab55667453dacbb9958c86185f23182e"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
@@ -313,6 +313,11 @@ hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-fabric.pw.toml"
+hash = "30afd998fbefc0d7af712d9fc973524b4c35ae5d3abad328b43b8ae3ec78f54a"
+metafile = true
+
+[[files]]
 file = "mods/couplings.pw.toml"
 hash = "113845c6f34fc699d57dffe95e5c3ddd41cb996ddeb04ec21529e3159c3dc3bf"
 metafile = true
@@ -460,6 +465,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "5dddc9f3e4b683268494703ad89dfe2584ccbd0b59670bc614e9976e13eaa642"
+metafile = true
+
+[[files]]
+file = "mods/friendly-fire.pw.toml"
+hash = "391af3da306f57234fa78588dad12a00bb4405ecef04feebd87995bf46e7b179"
 metafile = true
 
 [[files]]
@@ -693,6 +703,11 @@ hash = "aa1ead00c8b6915afa97c0a4e116937cbc167433284542165d453abf1e55b35f"
 metafile = true
 
 [[files]]
+file = "mods/pyrotastic.pw.toml"
+hash = "4d025c33f484e43c3cfbb3da39018692aba1b1b178d431e80e56ecd06ecd31e5"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "f239749fec928ef33a6204633aaa5449159f6e556348c591f609ed454de44ffa"
 metafile = true
@@ -715,6 +730,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "6340a88921b62b5e3f688fa0808817e8cb338a725b070df52405bc26e7e5b49f"
+metafile = true
+
+[[files]]
+file = "mods/shoppy.pw.toml"
+hash = "92c50566abb45c59f73bec9e7bef05b9f11bcaea3a83dfd77fc63852d05e13be"
 metafile = true
 
 [[files]]
@@ -795,6 +815,11 @@ metafile = true
 [[files]]
 file = "mods/third-person-maps.pw.toml"
 hash = "7330f418066489a7219673b89e745bb5121b41a71b07ff9788e08e03eff6f4c4"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "5a8342a2173fae11a3c37fdfc29e53404b73ad6dab4d420a154d93440bb77a1b"
 metafile = true
 
 [[files]]

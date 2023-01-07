@@ -1,0 +1,13 @@
+name = "Shoppy"
+filename = "Shoppy-1.19.2-FABRIC-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38c938da637fae6270f49321c1d4e66226a5a2cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4000325
+project-id = 559983

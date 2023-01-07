@@ -1,0 +1,13 @@
+name = "Pyrotastic 🎆"
+filename = "pyrotastic-1.19+2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3dc34e2e01a2f00a07565b4a23abc956cc4a38c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4013360
+project-id = 596990

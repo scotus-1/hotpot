@@ -1,0 +1,13 @@
+name = "Cosmetic Armor [FABRIC]"
+filename = "CosmeticArmor-1.19-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "763059d1ee1585e94313054bb296376d56436267"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3857698
+project-id = 436659
