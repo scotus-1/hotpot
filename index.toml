@@ -110,7 +110,7 @@ hash = "29474eea9aa6eac9e99f379b20492781c0745ac28d9f706b31a41ac925a280ff"
 
 [[files]]
 file = "modlist.txt"
-hash = "d5f07ced43c55d33fff8ad458385de25dc12ffcbad08d2758a1e276dfe77dde7"
+hash = "0c07711e8f44f2da1aafffb556b1a28b10def71fffbbfe7d923070646c3ede87"
 
 [[files]]
 file = "mods/accurate-block-placement.pw.toml"
@@ -190,6 +190,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "dfc995603786d283e6423fcee1c7191e4f877284e4c50d1d681901a5498bca01"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "1597f1a34a01090003c3cc3b094623b5840231a3ea57dee966755b2e8ec62bd6"
 metafile = true
 
 [[files]]
@@ -463,6 +468,11 @@ hash = "01229cc90ed07c223690033b98bd1cd3d04929c8e059a194cc50ebca8c3ca3f4"
 metafile = true
 
 [[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "776396ca2450c8cb20a052ca0fb8247ac2bd03ff5f2baa8a05103dc4bd6c405c"
+metafile = true
+
+[[files]]
 file = "mods/horsestatsvanilla.pw.toml"
 hash = "9c6b5988cce477db7f21d82bd9b02da1f783716fb2032e852a02edcf17a08c8f"
 metafile = true
@@ -490,6 +500,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-hotswap.pw.toml"
 hash = "66466fd890a7342996554b1eb14707dedb48d4157e3247f45fa80579593ae7e1"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tabs-updated.pw.toml"
+hash = "d18310fb46750b9a55ee0b226caa5489af1aa23ff0aee465733b95d09d4797f9"
 metafile = true
 
 [[files]]
@@ -598,6 +613,11 @@ hash = "6ba02ed36bd9c31c7585b3788ea70b8fbfd4027e8a4e05481e35bfb7470eaa46"
 metafile = true
 
 [[files]]
+file = "mods/music-duration-reducer.pw.toml"
+hash = "ccd193250a69fb505d43d27ba7df1f99f8984060ef0e4ab13b2d3152bcdc5e7e"
+metafile = true
+
+[[files]]
 file = "mods/nicephore-fabric.pw.toml"
 hash = "00ba1f6e8a4db81d90c67031b1888760db122f3029112420be43e680a66b2efb"
 metafile = true
@@ -605,6 +625,11 @@ metafile = true
 [[files]]
 file = "mods/nimble-fabric.pw.toml"
 hash = "a18b8b20c4450d549e8503fb4ffd3395584d2b5315193fe8caf229e7a3f04cac"
+metafile = true
+
+[[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "5c1dee12414b15eeedd87581ff7f1e4e87cfeec53a1d823bf58b9ca478b6e3a0"
 metafile = true
 
 [[files]]
@@ -673,13 +698,18 @@ hash = "d6593b7ec2735cf3867d1d01d29b8adfb3a24e93932022ea299f977e7a81dedd"
 metafile = true
 
 [[files]]
+file = "mods/quit.pw.toml"
+hash = "c233c650158104d8e0ce392a11182f51dd2ea2d44bf9fb95df485649cda53f60"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "87e71b5daeb15cbe28c108fe2dae85a61997bd644f53affb69b77c314611dc0e"
 metafile = true
 
 [[files]]
-file = "mods/replanter.pw.toml"
-hash = "551a7bf8943f394c48856cb19639a77c73920bf79856f8bd2bb0a113f66b3a8a"
+file = "mods/show-me-what-you-got.pw.toml"
+hash = "d8b366e849bb1eb654beb97e03bf12a8d52a165bf2a1f745d1c326985a773b9a"
 metafile = true
 
 [[files]]

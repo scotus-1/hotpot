@@ -1,4 +1,4 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
-
 .idea
+fscp.zip
