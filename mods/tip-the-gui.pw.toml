@@ -1,0 +1,13 @@
+name = "GUI Scale[Forge/Fabric]"
+filename = "screenscale-fabric-1.19.2-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88491670d586808f043ebbdc3f7a13d1fcf5568b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3943836
+project-id = 531749
