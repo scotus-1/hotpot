@@ -604,6 +604,11 @@ hash = "a18b8b20c4450d549e8503fb4ffd3395584d2b5315193fe8caf229e7a3f04cac"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "5c1dee12414b15eeedd87581ff7f1e4e87cfeec53a1d823bf58b9ca478b6e3a0"
 metafile = true
@@ -751,6 +756,11 @@ metafile = true
 [[files]]
 file = "mods/third-person-maps.pw.toml"
 hash = "7330f418066489a7219673b89e745bb5121b41a71b07ff9788e08e03eff6f4c4"
+metafile = true
+
+[[files]]
+file = "mods/tipthescales.pw.toml"
+hash = "1bb5ea20bdee6d50ec60e7085fdb37df1d535ebc055ae323a2a1aebefa4c89c7"
 metafile = true
 
 [[files]]
