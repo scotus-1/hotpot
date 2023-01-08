@@ -135,3 +135,5 @@ https://www.curseforge.com/minecraft/mc-mods/no-resource-pack-warnings
 https://www.curseforge.com/minecraft/mc-mods/inventory-tabs-updated
 https://www.curseforge.com/minecraft/mc-mods/quit
 https://www.curseforge.com/minecraft/mc-mods/show-me-what-you-got
+https://www.curseforge.com/minecraft/mc-mods/tipthescales
+https://www.curseforge.com/minecraft/mc-mods/no-chat-reports
