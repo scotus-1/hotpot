@@ -110,7 +110,7 @@ hash = "29474eea9aa6eac9e99f379b20492781c0745ac28d9f706b31a41ac925a280ff"
 
 [[files]]
 file = "modlist.txt"
-hash = "665cc958a33d3467193f81cb045cce6fa731cda56d65b13eaae853feaf0cf9d2"
+hash = "461fb821d78cd6802414e3811ffbe91375dd6f43e6c28233087a4016367080c8"
 
 [[files]]
 file = "mods/accurate-block-placement.pw.toml"
@@ -823,8 +823,8 @@ hash = "7330f418066489a7219673b89e745bb5121b41a71b07ff9788e08e03eff6f4c4"
 metafile = true
 
 [[files]]
-file = "mods/tipthescales.pw.toml"
-hash = "1bb5ea20bdee6d50ec60e7085fdb37df1d535ebc055ae323a2a1aebefa4c89c7"
+file = "mods/tip-the-gui.pw.toml"
+hash = "4aa709580a9de9379e936542e5ea98b88a6e42d755279c7889b65ec269a2b5e2"
 metafile = true
 
 [[files]]
