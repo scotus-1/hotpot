@@ -1,13 +1,13 @@
 name = "Charmonium"
-filename = "charmonium-fabric-1.19.2-4.2.1.jar"
+filename = "charmonium-fabric-1.19-4.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ee55ee2303178233c065a374a4a9ca8108798b81"
+hash = "b2c270fdf3a497d5e6997331690521eb94deeb91"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3995427
+file-id = 3829810
 project-id = 378696

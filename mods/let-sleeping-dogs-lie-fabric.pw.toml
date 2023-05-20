@@ -1,13 +1,13 @@
 name = "Let Sleeping Dogs Lie - Fabric (Unofficial)"
-filename = "LetSleepingDogsLie-1.19.2-1.1.1.jar"
+filename = "LetSleepingDogsLie-1.19.3-4-1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d1ebbda315c400c38d29b36a19154c12bb4c6e41"
+hash = "08965331265e3009527a93795263694a37877ba3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3989975
+file-id = 4434532
 project-id = 530666

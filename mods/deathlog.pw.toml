@@ -1,13 +1,13 @@
 name = "DeathLog"
-filename = "deathlog-0.2.11+1.19.jar"
+filename = "deathlog-0.3.2+1.19.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "399c97e9d7540f8b7f58a673befb17c03154452c"
+hash = "2ca24cb5319ace6af187abae34e33fea8df77cbc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4035273
+file-id = 4454118
 project-id = 496150

@@ -1,13 +1,13 @@
 name = "Visual Overhaul"
-filename = "visualoverhaul-4.1.1.jar"
+filename = "visualoverhaul-quilt-5.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6f95f03b2bcab7848a7f26ba8cb793e50938344f"
+hash = "380be75bb0c49f536d9ceb42e972a835036bd9fe"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3837116
+file-id = 4508361
 project-id = 432008

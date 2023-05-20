@@ -1,13 +1,13 @@
 name = "'Slight' Gui Modifications"
-filename = "slight-gui-modifications-2.3.0.jar"
+filename = "slight-gui-modifications-2.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7c9ab15b1b1420aa19cf2a1a68e7b688229adfdd"
+hash = "9f9dda713dc73c88e0861692fa2a2c34eed5e5cf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3943114
+file-id = 3943103
 project-id = 380393

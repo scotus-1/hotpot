@@ -1,13 +1,13 @@
 name = "AdvancementInfo"
-filename = "advancementinfo-1.19.1-fabric0.58.5-1.3.1.jar"
+filename = "advancementinfo-1.19.4-fabric0.76.0-1.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9ba152030c480c329653f3ae654b3fca5421c23a"
+hash = "81cb1e5413cf76977532eade93b6904a3a6db9dc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3907238
+file-id = 4470237
 project-id = 403815

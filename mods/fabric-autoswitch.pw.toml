@@ -1,13 +1,13 @@
 name = "AutoSwitch [Fabric]"
-filename = "autoswitch-5.4.7.jar"
+filename = "autoswitch-6.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fb1913719ae4a781afda63e650863d55d2b47b0f"
+hash = "37fac69996f1425a840b9202f2028f2bca09c403"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4077109
+file-id = 4409648
 project-id = 347405

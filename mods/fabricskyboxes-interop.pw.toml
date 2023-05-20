@@ -1,13 +1,13 @@
 name = "FabricSkyBoxes Interop"
-filename = "fsb-interop-1.1.3+mc1.19.2-build.25.jar"
+filename = "fsb-interop-1.2.0+mc1.19.4-build.31.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a9c4645de11fc84fb5158435bf0d4b5597955adc"
+hash = "828946056bbf4964b4dea59df73f1fcfda9d40b7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4143343
+file-id = 4438906
 project-id = 697845
