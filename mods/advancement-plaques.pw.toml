@@ -1,0 +1,13 @@
+name = "Advancement Plaques"
+filename = "AdvancementPlaques-1.19.4-fabric-1.4.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9NM0dXub/versions/Ur9liSlL/AdvancementPlaques-1.19.4-fabric-1.4.9.jar"
+hash-format = "sha1"
+hash = "6c3651f0f2476818761d873719e243017a49c442"
+
+[update]
+[update.modrinth]
+mod-id = "9NM0dXub"
+version = "Ur9liSlL"
