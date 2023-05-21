@@ -155,6 +155,11 @@ hash = "62e022bec51910486f8af152e77cd7ba1afec7e51e3c2a29db40216c2f4650a0"
 metafile = true
 
 [[files]]
+file = "mods/axolotl-bucket-fix.pw.toml"
+hash = "a7558893b89df6b3e67eac25ec1a1c3cad2e6bb43ecb1fbdde34275fdd232ad6"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-buckets.pw.toml"
 hash = "babcd7c265ebb491e5036bec3be4d9050de69c1257781f41463994cc20421351"
 metafile = true
@@ -537,6 +542,16 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
+metafile = true
+
+[[files]]
+file = "mods/mavapi.pw.toml"
+hash = "a6c66745ff4e44c84d89d2bffe88413d0209252392ee9f7776aba3c30e8b9de9"
+metafile = true
+
+[[files]]
+file = "mods/mavm.pw.toml"
+hash = "1666b7be35ee758e442f14c9f2eb21253b68447c89a1b6efe473c29c43884a47"
 metafile = true
 
 [[files]]
