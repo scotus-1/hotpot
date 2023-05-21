@@ -1,0 +1,37 @@
+accurate-block-placement
+better fps render distance
+better third person
+bookshelf
+cleancut
+controlling
+effective
+autoswitch
+illuminations
+inventory hotswap
+loud leads
+malilib
+music duration reducer
+nicephore
+nimble
+quit
+searchables
+gui scale (tip-the-gui)
+minihud
+pling
+
+
+REMOVE: pinglist
+REMOVE: tipped-tools
+REMOVE: searchable-containers-retraversal
+REMOVE: quit
+REMOVE: nimblea
+REMOVE: music-maker-mod
+REMOVE: map-atlases
+REMOVE: audiobook
+REMOVE: effectiveadvancements
+REMOVE: shadercuts
+REMOVE: Fabrication & Forgery - fabrication
+REMOVE: quick-elytra
+REMOVE: fabric-api
+REMOVE: itemswapper
+REMOVE: litematica-printer

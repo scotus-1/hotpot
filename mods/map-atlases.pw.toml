@@ -1,0 +1,13 @@
+name = "Map Atlases"
+filename = "map-atlases-2.4.0+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C255PPUX/versions/HRv8PhOY/map-atlases-2.4.0%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "6c34068cfaf26f081961a63af271cbda3bcc300f"
+
+[update]
+[update.modrinth]
+mod-id = "C255PPUX"
+version = "HRv8PhOY"

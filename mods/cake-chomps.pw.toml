@@ -1,0 +1,13 @@
+name = "Cake Chomps"
+filename = "cakechomps-quilt-6.0.1+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g646EoqQ/versions/P1fckW4E/cakechomps-quilt-6.0.1%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "092748e758401cc3b00c00d9f965252967e2d06c"
+
+[update]
+[update.modrinth]
+mod-id = "g646EoqQ"
+version = "P1fckW4E"

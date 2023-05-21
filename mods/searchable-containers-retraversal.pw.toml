@@ -1,0 +1,13 @@
+name = "Searchable Containers: Retraversal"
+filename = "SearchableContainers-2.0.3+mc1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hta1wtvf/versions/2.0.3/SearchableContainers-2.0.3%2Bmc1.19.jar"
+hash-format = "sha1"
+hash = "336624c9d2110dcc62cdcd1a5248751932c76885"
+
+[update]
+[update.modrinth]
+mod-id = "hta1wtvf"
+version = "y7khePjJ"
