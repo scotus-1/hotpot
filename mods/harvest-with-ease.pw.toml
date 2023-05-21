@@ -3,11 +3,11 @@ filename = "harvestwithease-1.19.4-6.0.1.2-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/W4Ajthd2/versions/1kZD5Hto/harvestwithease-1.19.4-6.0.1.2-fabric.jar"
 hash-format = "sha1"
-hash = "3f93e34420ab863807308df103fc9001228d785f"
-mode = "metadata:curseforge"
+hash = "35988ffe004375703e56997cd33885e3c3b57aae"
 
 [update]
-[update.curseforge]
-file-id = 4487309
-project-id = 602171
+[update.modrinth]
+mod-id = "W4Ajthd2"
+version = "1kZD5Hto"

@@ -1,13 +1,13 @@
 name = "No Resource Pack Warnings"
 filename = "no-resource-pack-warnings-1.2.0.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/6xKUDQcB/versions/V53LD9OG/no-resource-pack-warnings-1.2.0.jar"
 hash-format = "sha1"
 hash = "7f9c90214ba3061804f1217c001e18037fdaacbb"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4452220
-project-id = 627242
+[update.modrinth]
+mod-id = "6xKUDQcB"
+version = "V53LD9OG"

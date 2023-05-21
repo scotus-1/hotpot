@@ -1,13 +1,13 @@
-name = "Puzzles Lib [Forge & Fabric]"
+name = "Puzzles Lib"
 filename = "PuzzlesLib-v6.0.3-1.19.4-Fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/QAGBst4M/versions/GwsJMvCw/PuzzlesLib-v6.0.3-1.19.4-Fabric.jar"
 hash-format = "sha1"
 hash = "7c5db08865899de60213fed1eefe0101e75c5f11"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4544160
-project-id = 495476
+[update.modrinth]
+mod-id = "QAGBst4M"
+version = "GwsJMvCw"

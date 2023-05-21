@@ -1,13 +1,13 @@
 name = "Enhanced Searchability"
-filename = "enhanced-searchability-mc1.19-3.0.0+build.6.jar"
-side = "both"
+filename = "enhanced-searchability-mc1.19.4-3.0.2+build.11.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/Scg0CNUt/versions/Fcs6vtxr/enhanced-searchability-mc1.19.4-3.0.2%2Bbuild.11.jar"
 hash-format = "sha1"
-hash = "6c59435d9a2c5fa785082a9723ceb16ed9f2f31e"
-mode = "metadata:curseforge"
+hash = "f75ef5a8358df52140a8d2b114e70547307eb277"
 
 [update]
-[update.curseforge]
-file-id = 3852597
-project-id = 538023
+[update.modrinth]
+mod-id = "Scg0CNUt"
+version = "Fcs6vtxr"

@@ -3,11 +3,11 @@ filename = "soundphysics-fabric-1.19.4-1.1.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/vCR4KOzC/soundphysics-fabric-1.19.4-1.1.1.jar"
 hash-format = "sha1"
 hash = "70a3300d7a7dc297b3ae5ffb5164d19f6904d8f8"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4538601
-project-id = 535489
+[update.modrinth]
+mod-id = "qyVF9oeo"
+version = "vCR4KOzC"

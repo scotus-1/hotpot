@@ -3,11 +3,11 @@ filename = "visualoverhaul-quilt-5.0.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/YQnwl5Vv/versions/QHceqD2V/visualoverhaul-quilt-5.0.0.jar"
 hash-format = "sha1"
 hash = "380be75bb0c49f536d9ceb42e972a835036bd9fe"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4508361
-project-id = 432008
+[update.modrinth]
+mod-id = "YQnwl5Vv"
+version = "QHceqD2V"

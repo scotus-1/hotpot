@@ -3,11 +3,11 @@ filename = "ShowMeWhatYouGot-1.19.4-1.1.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/jTUiUpsh/versions/zhpbC0v6/ShowMeWhatYouGot-1.19.4-1.1.0.jar"
 hash-format = "sha1"
 hash = "755b772828914d8ca48b03c4417fe2709281088f"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4439209
-project-id = 564941
+[update.modrinth]
+mod-id = "jTUiUpsh"
+version = "zhpbC0v6"

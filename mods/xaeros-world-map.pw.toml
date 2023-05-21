@@ -3,11 +3,11 @@ filename = "XaerosWorldMap_1.30.2_Fabric_1.19.4.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/kIscoBGn/XaerosWorldMap_1.30.2_Fabric_1.19.4.jar"
 hash-format = "sha1"
 hash = "7ad026c90ed6c38a3375b633a226d9002d39842b"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4536628
-project-id = 317780
+[update.modrinth]
+mod-id = "NcUtCpym"
+version = "kIscoBGn"
