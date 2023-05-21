@@ -1,0 +1,13 @@
+name = "AutoSwitch"
+filename = "autoswitch-5.4.8-alpha.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uSdcnlts/versions/WwtTMaXZ/autoswitch-5.4.8-alpha.1.jar"
+hash-format = "sha1"
+hash = "8ff14f0973d4d8e3cae273cbd1c47c2a69f5873d"
+
+[update]
+[update.modrinth]
+mod-id = "uSdcnlts"
+version = "WwtTMaXZ"

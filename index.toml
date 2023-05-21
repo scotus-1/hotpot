@@ -545,10 +545,6 @@ hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
-file = "mods/migrate-to-modrinth.py"
-hash = "9e7cbd1a71ee59b9fe329a17c9c8ce450a649486b569ab87e058690da2bda334"
-
-[[files]]
 file = "mods/minihud.pw.toml"
 hash = "4180fe996e7b00b8eb8252dc06570ecc7cf353016a8cc1b216d3bca700aaa42b"
 metafile = true
