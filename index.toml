@@ -114,6 +114,11 @@ hash = "2905b7be42ac9c7c52eb1a5511ae67ebbff435f0630e93ace70b02ef6097d3d9"
 metafile = true
 
 [[files]]
+file = "mods/accurate-block-placement.pw.toml"
+hash = "ad1ab18d70d76f894aa813e37074356901db392885c76e5118fcb26fb17ae6dd"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "4dcf0fa2590c795155e7c39d4dcbaea9c75e91809da9bcdb16c309fc3d24b214"
 metafile = true
@@ -149,6 +154,11 @@ hash = "a086399e727b882a3ee432a3154a6b6b8b81d780e89ae860b040365507af56e7"
 metafile = true
 
 [[files]]
+file = "mods/autoswitch.pw.toml"
+hash = "62e022bec51910486f8af152e77cd7ba1afec7e51e3c2a29db40216c2f4650a0"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-buckets.pw.toml"
 hash = "019577bf41bb3e0d237a011dc1acc0f1089e743a3dbd645dddb366a239289df7"
 metafile = true
@@ -169,6 +179,11 @@ hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
 metafile = true
 
 [[files]]
+file = "mods/better-fps-render-distance-fabric.pw.toml"
+hash = "8b49556649c715d94d37b58ce1e84a456057b024b527976fa2b85a8eec53020a"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "296b4e7a1b7eee84117cc64362f27a981a820e9a39c9d8acae9937c0fca99da6"
 metafile = true
@@ -181,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "47ec314d0577a5c7973c8d8a5d88c5b7ba7b40f31e17e0a6f518727cea52aa50"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "4ee8073a39773e2eb3a51219bfd14f7cee648e855aa7f30b05adb184754d3169"
 metafile = true
 
 [[files]]
@@ -279,6 +299,11 @@ hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "839d2138218a331c0245098ca9ad3cf2ef5bdb1298b4e1957efab471d546b92f"
+metafile = true
+
+[[files]]
 file = "mods/couplings.pw.toml"
 hash = "e9959b342401ffdb0ddae4e9fd151b97a9cb94624d4658daafdac0c17d8bc262"
 metafile = true
@@ -346,6 +371,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "1358a0c7c2e0ca4efd804a38194d5bdd28f5f61869d5ba080df3ce50300c1f45"
+metafile = true
+
+[[files]]
+file = "mods/effective.pw.toml"
+hash = "3911e6bfb7c8afdde3fa70a4843ff3fd3cea04ffc6f43d2c7692fe50b02030d8"
 metafile = true
 
 [[files]]
@@ -419,6 +449,11 @@ hash = "9093028a5184449f9aa930f9562b0e12bc7487de3ad0278ea97435a461e453d1"
 metafile = true
 
 [[files]]
+file = "mods/illuminations.pw.toml"
+hash = "3f6da5e369effa47f662723c3b8c8bc1b6756c03c7dc10dbc3ab6fb49ed17beb"
+metafile = true
+
+[[files]]
 file = "mods/immersiveportals.pw.toml"
 hash = "617a5b30391bfa1d6d9d7edaf819ab4cd28259328820a1eac3604a252ac1e21c"
 metafile = true
@@ -459,6 +494,11 @@ hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
 metafile = true
 
 [[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "9b403849bf6a2524aa694a4405499596a3cd317f85f0c7cb22bdf88861c7cf83"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "1f4df9a518618ca75875f23a6dccf74acaec26963d9108468ff4d106107e02f1"
 metafile = true
@@ -494,6 +534,11 @@ hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
 metafile = true
 
 [[files]]
+file = "mods/loud-leads.pw.toml"
+hash = "a20f068bdb57b53bde90dccdff3f3122f91563f6276eb56f432813e5a0cc4d19"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "db224040c1d30819815c38efea90a362e305080935ba6a88c3d9b6ef3aec8e17"
 metafile = true
@@ -525,6 +570,11 @@ metafile = true
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
+metafile = true
+
+[[files]]
+file = "mods/music-duration-reducer.pw.toml"
+hash = "85e9a9b52b2d3673f56a288e3dcf3e48d467573cfe240c467e7fcf683a8ecbee"
 metafile = true
 
 [[files]]
@@ -573,6 +623,11 @@ hash = "d7338ca149a563693bfecce7667c654eaa3a02a8f755bec3a8d44a769fa9ed52"
 metafile = true
 
 [[files]]
+file = "mods/pling.pw.toml"
+hash = "dfc73c6ed21d8be632f3d253bd23a921b1e690107a0cd70c63c55a5568278bfd"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "e34a6d645bcfcb5a677159ac959b19ef3fde39a066f7164b565f8877bc3de525"
 metafile = true
@@ -603,6 +658,11 @@ hash = "5f70762432ca96f1897d96f36b72f248ecd3ec48abe7dffad6e1b1375998508f"
 metafile = true
 
 [[files]]
+file = "mods/quit.pw.toml"
+hash = "a0b4e8ab59384c349c37e40b7c7ed30ee671f0ab96b843684ff373a6d241a056"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
 metafile = true
@@ -610,6 +670,11 @@ metafile = true
 [[files]]
 file = "mods/searchable-containers-retraversal.pw.toml"
 hash = "5de1a8776f9235a58667ef4dec3c9f8a3847da4fb6e4a5a1999021b719649ee4"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "c0f323ff5bfab41f040119b04532ca1e1e8732c7ea52f60227a0932aa8d448af"
 metafile = true
 
 [[files]]
@@ -675,6 +740,11 @@ metafile = true
 [[files]]
 file = "mods/third-person-maps.pw.toml"
 hash = "ca78c2382eab3993581f6de4b574908a0f55f07479bcb6e9aa578750c8c49cc2"
+metafile = true
+
+[[files]]
+file = "mods/tip-the-gui.pw.toml"
+hash = "200b93872f53f52ccca2a6a87fec090ad459032eae0c68a208116d02e606cb18"
 metafile = true
 
 [[files]]
