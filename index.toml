@@ -374,16 +374,6 @@ hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "fc1323ed77ac0b485d55f12edde21a1a9cde29b90f85e353fab11b034b7ab9d8"
-metafile = true
-
-[[files]]
-file = "mods/fabrication.pw.toml"
-hash = "3b3342cb3a6bd18823e8d24ac7bec4df7294f0a834c2b9ea73049f7abf16a75e"
-metafile = true
-
-[[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
 hash = "1d15f4c23e72403f9d3f8aea27001b13808ee5881c8b36fb9f323485193cbe97"
 metafile = true
@@ -469,11 +459,6 @@ hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
 metafile = true
 
 [[files]]
-file = "mods/itemswapper.pw.toml"
-hash = "9b403849bf6a2524aa694a4405499596a3cd317f85f0c7cb22bdf88861c7cf83"
-metafile = true
-
-[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "1f4df9a518618ca75875f23a6dccf74acaec26963d9108468ff4d106107e02f1"
 metafile = true
@@ -504,11 +489,6 @@ hash = "952750128606f2e8a6d38802b937c6682f2558757b2724b51e931858d5171ae5"
 metafile = true
 
 [[files]]
-file = "mods/litematica-printer.pw.toml"
-hash = "93690c66e76fe832780244a79c0881bf08de4026b51eb986045a0ec7a9057b24"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
 metafile = true
@@ -519,14 +499,13 @@ hash = "db224040c1d30819815c38efea90a362e305080935ba6a88c3d9b6ef3aec8e17"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases.pw.toml"
-hash = "66c19bee53c690b778ece2d2a6147cfdee971c379958ceee6dfc161ac64b1844"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
+
+[[files]]
+file = "mods/migrate-to-modrinth.py"
+hash = "9e7cbd1a71ee59b9fe329a17c9c8ce450a649486b569ab87e058690da2bda334"
 
 [[files]]
 file = "mods/minihud.pw.toml"
@@ -621,11 +600,6 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "5f70762432ca96f1897d96f36b72f248ecd3ec48abe7dffad6e1b1375998508f"
-metafile = true
-
-[[files]]
-file = "mods/quick-elytra.pw.toml"
-hash = "4316869a722c334adbb9ff8833078830a33c3552cdb7c4f2e253e3d6472bfcd5"
 metafile = true
 
 [[files]]
@@ -737,6 +711,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
 metafile = true
+
+[[files]]
+file = "mods_removed.txt"
+hash = "9080e19217197ef601b44924cf32243b2ff29566231edaebbe1f76891787b334"
 
 [[files]]
 file = "resourcepacks.txt"
