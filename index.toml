@@ -105,10 +105,6 @@ file = "config/yosbr/options.txt"
 hash = "1cdcc8abe828d5c35d386c2b0edd4037efab2ef8b7a21f53d7b511df73d07235"
 
 [[files]]
-file = "modlist.txt"
-hash = "461fb821d78cd6802414e3811ffbe91375dd6f43e6c28233087a4016367080c8"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2905b7be42ac9c7c52eb1a5511ae67ebbff435f0630e93ace70b02ef6097d3d9"
 metafile = true
@@ -668,11 +664,6 @@ hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
 metafile = true
 
 [[files]]
-file = "mods/searchable-containers-retraversal.pw.toml"
-hash = "5de1a8776f9235a58667ef4dec3c9f8a3847da4fb6e4a5a1999021b719649ee4"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "c0f323ff5bfab41f040119b04532ca1e1e8732c7ea52f60227a0932aa8d448af"
 metafile = true
@@ -784,7 +775,11 @@ metafile = true
 
 [[files]]
 file = "mods_removed.txt"
-hash = "9080e19217197ef601b44924cf32243b2ff29566231edaebbe1f76891787b334"
+hash = "e94f11b777655b4a94316fe74116f75defdd568b0a3ef545b476c6fbf384f509"
+
+[[files]]
+file = "outdated_modlist.txt"
+hash = "461fb821d78cd6802414e3811ffbe91375dd6f43e6c28233087a4016367080c8"
 
 [[files]]
 file = "resourcepacks.txt"
