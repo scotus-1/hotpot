@@ -1,13 +1,13 @@
 name = "StatsSearch"
-filename = "statssearch-1.19.3-fabric0.68.1-1.0.1.jar"
+filename = "statssearch-1.19.1-fabric0.58.5-1.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jM41BciC/versions/EO6r39hd/statssearch-1.19.3-fabric0.68.1-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/jM41BciC/versions/1.19.1-fabric0.58.5-1.0.1/statssearch-1.19.1-fabric0.58.5-1.0.1.jar"
 hash-format = "sha1"
-hash = "97fc4fff938e5541f7927094cce743e3389d93c2"
+hash = "542d2630baae7431a117dbdc123565a41916d471"
 
 [update]
 [update.modrinth]
 mod-id = "jM41BciC"
-version = "EO6r39hd"
+version = "POvJr6o2"

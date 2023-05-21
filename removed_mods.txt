@@ -1,0 +1,10 @@
+nimble - version 1.19.3
+talkbubbles - QFAPI not updated to 0.80 yet
+letsleepingdogslie - version 1.19.3 + clothconfig2 not updated
+colormatic - crash
+slightguimodifications - crash
+effective - version 1.19.3 / crash
+couplings - version 1.19.3 # check pr request
+auditory - version 1.19.3 # manually compile commit
+pickup-notifier - version 1.19.3
+extrasounds - version 1.19.2
