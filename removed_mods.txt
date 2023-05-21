@@ -1,3 +1,6 @@
+
+NOTES FOR 1.19.4:
+
 nimble - version 1.19.3
 talkbubbles - QFAPI not updated to 0.80 yet
 letsleepingdogslie - version 1.19.3 + clothconfig2 not updated
@@ -8,3 +11,7 @@ couplings - version 1.19.3 # check pr request
 auditory - version 1.19.3 # manually compile commit
 pickup-notifier - version 1.19.3
 extrasounds - version 1.19.2
+
+
+NOTES FOR 1.19.2:
+immersive portals - not compatible with current version of iris

@@ -1,0 +1,13 @@
+name = "Nimble (Fabric)"
+filename = "Nimble-1.19-fabric-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "409d2568384d2f9ed48f418f7f4a29a5e0e987b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3902065
+project-id = 545613

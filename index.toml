@@ -145,6 +145,11 @@ hash = "fdea52d254e5318fe4884301ca865356ade3f685798548aaa23804b25ff01ca1"
 metafile = true
 
 [[files]]
+file = "mods/auditory.pw.toml"
+hash = "a086399e727b882a3ee432a3154a6b6b8b81d780e89ae860b040365507af56e7"
+metafile = true
+
+[[files]]
 file = "mods/autoswitch.pw.toml"
 hash = "62e022bec51910486f8af152e77cd7ba1afec7e51e3c2a29db40216c2f4650a0"
 metafile = true
@@ -280,6 +285,11 @@ hash = "2a978d8c0b447bb64aac579206b9ca85eb721a431d8af736d60633fabee22bb4"
 metafile = true
 
 [[files]]
+file = "mods/colormatic.pw.toml"
+hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
+metafile = true
+
+[[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "a206bc693d41eb72f431abfc5d4556f9e9bf7f0bb6237224b750df85aeddd434"
 metafile = true
@@ -292,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
+metafile = true
+
+[[files]]
+file = "mods/couplings.pw.toml"
+hash = "e9959b342401ffdb0ddae4e9fd151b97a9cb94624d4658daafdac0c17d8bc262"
 metafile = true
 
 [[files]]
@@ -360,6 +375,11 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
+file = "mods/effective.pw.toml"
+hash = "3853b370c0f12e4c99b15470e11c83119f96cde01d0ae26d19d93d2caf130065"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-table-descriptions.pw.toml"
 hash = "b7a5b011e2bc90a4a6942e5bd0ca20b02ea3ad4f02938967563bef03ff34140a"
 metafile = true
@@ -377,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "10841bfee1d7ad02433dd48297d4ba5dd4bae64338e4f599bf4bfe510ddc1b29"
+metafile = true
+
+[[files]]
+file = "mods/extrasounds.pw.toml"
+hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
 
 [[files]]
@@ -427,11 +452,6 @@ metafile = true
 [[files]]
 file = "mods/illuminations.pw.toml"
 hash = "80c61628b169079d182f28a3413cc87fef94a392add7afed89547844b546ba9e"
-metafile = true
-
-[[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "5dd1a25c488a1cab67d33037fd2d3483404fdfd01aa8bdef8c0b0aea99096475"
 metafile = true
 
 [[files]]
@@ -500,6 +520,11 @@ hash = "e4958dc5dc67d3595710ee4b644edd1bed50eecf2fd990949487d47999e40729"
 metafile = true
 
 [[files]]
+file = "mods/letsleepingdogslie.pw.toml"
+hash = "952750128606f2e8a6d38802b937c6682f2558757b2724b51e931858d5171ae5"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
@@ -550,6 +575,11 @@ hash = "00ba1f6e8a4db81d90c67031b1888760db122f3029112420be43e680a66b2efb"
 metafile = true
 
 [[files]]
+file = "mods/nimble-fabric.pw.toml"
+hash = "a18b8b20c4450d549e8503fb4ffd3395584d2b5315193fe8caf229e7a3f04cac"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
@@ -582,6 +612,11 @@ metafile = true
 [[files]]
 file = "mods/physicsmod.pw.toml"
 hash = "0ddd30666fead119ad453aacf1c4c30e37b45f92d4af8f5ab836b965e0d630bb"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "c1a7bfc0cfb46224708f22bda2af3727e5c9290fa3c36454343ae7e8056e8109"
 metafile = true
 
 [[files]]
@@ -630,6 +665,11 @@ hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
+file = "mods/satin-api.pw.toml"
+hash = "ef031b69a879ad13730aa1ddcb99a47cdb5a8083e228476574a7112f369932bf"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "48160b594ad78057a4ca17c07b52061ec1665c79ff30bc81c07d334610c6b21b"
 metafile = true
@@ -642,6 +682,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "06e8d589fbff47c4724c1c0e59b73ca1e87d65e75e7ea7c77bfee11fa3d8c7aa"
+metafile = true
+
+[[files]]
+file = "mods/slight-gui-modifications.pw.toml"
+hash = "bc1b62598938b58e55c752af626425317ca67210d8b16bc0dd45c9efe8cdf284"
 metafile = true
 
 [[files]]
@@ -682,6 +727,11 @@ metafile = true
 [[files]]
 file = "mods/stendhal.pw.toml"
 hash = "b4bff2848944097fff7cff99a65c0164e29c616ce83b7fc8261f0aef2db85f08"
+metafile = true
+
+[[files]]
+file = "mods/talkbubbles.pw.toml"
+hash = "4833ab71eda9697a3109ef1044db26c75514ac484cfb68d77f938abf67e73530"
 metafile = true
 
 [[files]]
@@ -735,7 +785,7 @@ hash = "461fb821d78cd6802414e3811ffbe91375dd6f43e6c28233087a4016367080c8"
 
 [[files]]
 file = "removed_mods.txt"
-hash = "c6887776cfbbe709f99f4a2320fee75a012fcd3cf86a4534672c386df227e554"
+hash = "3938110ff42512bbff6a0ecb762b40e895341536d881e7b6fa4eb33d26ed81ea"
 
 [[files]]
 file = "resourcepacks.txt"
