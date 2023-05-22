@@ -374,6 +374,11 @@ hash = "f7661fdd55181a2cbac8c8514b03ebed6a60bae165c1cb50bc3ae57ec0c8e00d"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "97a3facf4a7a210480038f11399f29808b3a8237668ac03fc90eb8e6dba6bda2"
+metafile = true
+
+[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "92f796bb39c6235298ccf33b64505923870bc3a258cbb2114d0ec036bfe18b6d"
 metafile = true
@@ -596,6 +601,11 @@ metafile = true
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
 metafile = true
 
 [[files]]
