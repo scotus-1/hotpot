@@ -77,6 +77,10 @@ file = "config/yosbr/config/pling.json"
 hash = "8b19dc919969a666ff68947b9a7afa7fbd3b5e9a90c9d89019cbcdebdb66820c"
 
 [[files]]
+file = "config/yosbr/config/quilt-loading-screen.json"
+hash = "c9b843a1d89fbd86aa5e10f015d6ebad265897bfac6f2642f1f46a3c23073e86"
+
+[[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
 hash = "f9b7f08fdd9c3af02879db2ca5f8051bd4eb601ad0d966adb1ab74783dfeb5e9"
 
@@ -330,11 +334,6 @@ hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
 
 [[files]]
-file = "mods/custom-splash-screen.pw.toml"
-hash = "23e3c4cb4e2ee0ed4cd1d9a8e1960578cf3e49839813c7930c4809aba304a1f7"
-metafile = true
-
-[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
 metafile = true
@@ -432,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "423581d9738b23798456b7ba021698355ef8f03cef93d8c1266102a227d9a200"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "f25e49ca19098f7488d30092719c0a8e480da5f01b6e7069bf1093fea82c80a8"
 metafile = true
 
 [[files]]
@@ -672,6 +676,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
 metafile = true
 
 [[files]]
