@@ -319,6 +319,11 @@ hash = "e9959b342401ffdb0ddae4e9fd151b97a9cb94624d4658daafdac0c17d8bc262"
 metafile = true
 
 [[files]]
+file = "mods/craftify.pw.toml"
+hash = "efaf52f57be50a79189640f0e7b178eb8497c49893dfec883cf12ac6a516301a"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "adfaab46668e6e7a82398b4449b30233f4ed4b01628b532ed7e818824bbeb4df"
 metafile = true
