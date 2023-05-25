@@ -13,6 +13,7 @@ hash-format = "sha256"
 <<<<<<< master
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 hash = "c3c2e1d29f744bf35d22738e4c8fc5c1e7b2b71546a6c0177b2de552ef79578f"
 =======
 hash = "80f44b2bf39a5267b22eec02218977013a0a2e7da99541a50430f66e098569d2"
@@ -35,6 +36,9 @@ hash = "028eee2704f88b91475f96d63cb356710ad8702613a0f05c944019c49b78dfad"
 =======
 hash = "d6d30a8e6f51d9ee80d0a1c8fc0dc32d2174923a86d350ba45d1abd8698c734e"
 >>>>>>> Add autotag
+=======
+hash = "14c1cbc86ba0232d778084fdb2f53b33972f1f021a492963ef69ff4d48556eb2"
+>>>>>>> Qol and content; bedspreads, vslabs, lanters, mobs, supplementaries, fire
 
 [versions]
 minecraft = "1.19.2"
