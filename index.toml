@@ -569,6 +569,11 @@ hash = "49431809d2d2402fb157fd87413e28da5484cf5ff3d9aeae00f169500b162134"
 metafile = true
 
 [[files]]
+file = "mods/herdspanic.pw.toml"
+hash = "f59e2a13023c3f393efd4378332aac48b14a511ff35d2cd81e66c73db62fc237"
+metafile = true
+
+[[files]]
 file = "mods/horsestatsvanilla.pw.toml"
 hash = "2bc10662c2d2be0ba414414651ff2029461dca4df9b7e3a27417312f0f5e7fae"
 metafile = true
@@ -634,6 +639,11 @@ hash = "cdc6994dedc82cf7807f6afbdde9000cf11841c174008b2aad20f62d9b0b08c7"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "6cb50f4dcb3f6ba70ecbae01c0691b25fb40610a859aa41bf6ce261ad70429d2"
+metafile = true
+
+[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "3a18abe31426a5abe8a607794c0d22cbb726d9c1696ef9a21edded0ff26f85a1"
 metafile = true
@@ -646,6 +656,11 @@ metafile = true
 [[files]]
 file = "mods/keybinds.pw.toml"
 hash = "729cbe277aa34adaa8404fed9c4edc10a300a850e2197468dcfc818e6d98010f"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "2ce31ab44b467a2d2ca1ef630ff879ae33236149ee02abb9a1527638614bd981"
 metafile = true
 
 [[files]]
@@ -874,6 +889,11 @@ hash = "2138a812408929d94c6753da38bea38e3be42f6891ee5a1c9a092de4ad1080de"
 metafile = true
 
 [[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "d0f89af10d2d8652d8e0081157d3b9bb1c13917e22eb5a5e4380589def4ca9d6"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "06e8d589fbff47c4724c1c0e59b73ca1e87d65e75e7ea7c77bfee11fa3d8c7aa"
 metafile = true
@@ -896,6 +916,11 @@ metafile = true
 [[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "45e75b06cdf0b30a62dd2ef95a7476e98d109bec09f8caefa9ea5902cad988a8"
 metafile = true
 
 [[files]]
@@ -956,6 +981,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "c71af8cb740fbf42b489ab24ee01ea0d09c3329cb9a62108b2b9dd85e721b3c8"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
