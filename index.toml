@@ -529,6 +529,11 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/inspecio.pw.toml"
+hash = "373a56d7f4fb25661a0585492f7ea490e7613f1191e588fec08782438d52e1fd"
+metafile = true
+
+[[files]]
 file = "mods/inventory-tabs-updated.pw.toml"
 hash = "a8ec5fd59ff7ddab287b339ca91c49af53ecea28105d764a1b560c4fbdfaf7d6"
 metafile = true
@@ -861,6 +866,11 @@ metafile = true
 [[files]]
 file = "mods/third-person-maps.pw.toml"
 hash = "3f8cfd0e555ccf0c033dddfda5bb21c80ddfc080b19b0c091e53722e486debc6"
+metafile = true
+
+[[files]]
+file = "mods/thorium.pw.toml"
+hash = "f76293001a405fa99903869bc8d5f3caa2976f0179513f73f59fc82dfbce9f72"
 metafile = true
 
 [[files]]
