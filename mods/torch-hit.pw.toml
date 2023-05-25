@@ -1,0 +1,13 @@
+name = "Torch hit!"
+filename = "torchhit-1.19.2-6.0.1.2-final-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zTOq9jEI/versions/KjIuSiXj/torchhit-1.19.2-6.0.1.2-final-fabric.jar"
+hash-format = "sha1"
+hash = "223c329ac643c5b4b7d459af97691b6eebf2e15b"
+
+[update]
+[update.modrinth]
+mod-id = "zTOq9jEI"
+version = "KjIuSiXj"
