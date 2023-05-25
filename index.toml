@@ -819,6 +819,11 @@ hash = "b4bff2848944097fff7cff99a65c0164e29c616ce83b7fc8261f0aef2db85f08"
 metafile = true
 
 [[files]]
+file = "mods/stylish-effects.pw.toml"
+hash = "d273fdfc26be30f3eca414d7ea4d4eed6e716a0625de31224eb86c8d00f2ff09"
+metafile = true
+
+[[files]]
 file = "mods/talkbubbles.pw.toml"
 hash = "4833ab71eda9697a3109ef1044db26c75514ac484cfb68d77f938abf67e73530"
 metafile = true
