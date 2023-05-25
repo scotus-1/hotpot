@@ -317,6 +317,11 @@ hash = "4ee8073a39773e2eb3a51219bfd14f7cee648e855aa7f30b05adb184754d3169"
 metafile = true
 
 [[files]]
+file = "mods/better-tridents.pw.toml"
+hash = "8033492c1f515164c70ed9ddfe5680ee3e40a1b49030adc5da5b86f462967d04"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
