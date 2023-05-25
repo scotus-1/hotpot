@@ -8,6 +8,7 @@ file = "index.toml"
 hash-format = "sha256"
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 hash = "c3c2e1d29f744bf35d22738e4c8fc5c1e7b2b71546a6c0177b2de552ef79578f"
 =======
 hash = "80f44b2bf39a5267b22eec02218977013a0a2e7da99541a50430f66e098569d2"
@@ -15,6 +16,9 @@ hash = "80f44b2bf39a5267b22eec02218977013a0a2e7da99541a50430f66e098569d2"
 =======
 hash = "9c6e8724122f070b458dbc391d8f2582ba05868a2ea4daf202261cc3bd3df0ff"
 >>>>>>> QoL mods, airhop, aqtorches, axes, minecarts, conforts, chains, diagonals
+=======
+hash = "67079adc16813e9ee46de023de7eba5a9b4ff52da5e825ce2ab148e1f7bafbea"
+>>>>>>> Qol + removing the grind mods
 
 [versions]
 minecraft = "1.19.2"
