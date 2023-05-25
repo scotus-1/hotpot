@@ -262,6 +262,11 @@ hash = "62e022bec51910486f8af152e77cd7ba1afec7e51e3c2a29db40216c2f4650a0"
 metafile = true
 
 [[files]]
+file = "mods/autotag.pw.toml"
+hash = "c330193b5ee6cecd7190dc9c6929e0d965876ae62108d9f12f6530665c87791d"
+metafile = true
+
+[[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "bb2ce8c40f0e18b52e146b304ace367e92d5e904a7c6ff2da532cfd20af1404d"
 metafile = true
