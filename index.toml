@@ -184,6 +184,11 @@ hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
 metafile = true
 
 [[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
+metafile = true
+
+[[files]]
 file = "mods/better-fps-render-distance-fabric.pw.toml"
 hash = "980f303c37a66e4eaa0cb748d540c99fd27004ba71757abec9ec92217607ccfe"
 metafile = true
@@ -276,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "1a4c9d83b0709fd2f91814eb67f81e19bb1493315c42cb65efe911d0f34c5a13"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "246cd2214d087ee9ad322af509738cf49806030fdea0ce0ed3e3def80c466848"
 metafile = true
 
 [[files]]
@@ -506,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "8d8af67b3682e79c504e52e1dc539c01107e9f8bc58d0da7eec54626d00669d5"
 metafile = true
 
 [[files]]
@@ -804,6 +819,11 @@ hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "c71af8cb740fbf42b489ab24ee01ea0d09c3329cb9a62108b2b9dd85e721b3c8"
+metafile = true
+
+[[files]]
 file = "mods/visual-overhaul.pw.toml"
 hash = "f91dfdea8cb29d3effba0c9791b9f8d75395209125d0548e6b75138d5fdfd98d"
 metafile = true
@@ -831,6 +851,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "e8036308d5fdaf3e155684892dffa19122c31745c40fbe55027a1677179263d7"
 metafile = true
 
 [[files]]
