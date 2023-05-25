@@ -149,6 +149,11 @@ hash = "fdea52d254e5318fe4884301ca865356ade3f685798548aaa23804b25ff01ca1"
 metafile = true
 
 [[files]]
+file = "mods/armor-chroma-for-fabric.pw.toml"
+hash = "d7b730ba9af222aae704a34891f41497d72620ab75da092714fc4f186d230bcf"
+metafile = true
+
+[[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "13acba8fa8b2c03e01fd88dafe9118122160d6df13b2f0ba6fb210762652e16d"
 metafile = true
