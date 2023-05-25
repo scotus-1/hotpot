@@ -1,0 +1,1 @@
+- customize vanilla refresh options

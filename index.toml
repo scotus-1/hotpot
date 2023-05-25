@@ -974,6 +974,11 @@ hash = "8f341ba9a4d44e5ceb348b9dc8dc9e9d7506a1a3f1898354df72a3a5f0bb2215"
 metafile = true
 
 [[files]]
+file = "mods/sleep-warp.pw.toml"
+hash = "5273b2fca55634de17f94eeb0eeb085017edf8a610dd256a83dbd75cf1830ecf"
+metafile = true
+
+[[files]]
 file = "mods/slight-gui-modifications.pw.toml"
 hash = "bc1b62598938b58e55c752af626425317ca67210d8b16bc0dd45c9efe8cdf284"
 metafile = true
@@ -1059,6 +1064,11 @@ hash = "3f8cfd0e555ccf0c033dddfda5bb21c80ddfc080b19b0c091e53722e486debc6"
 metafile = true
 
 [[files]]
+file = "mods/time-wind.pw.toml"
+hash = "9047965bc4ec80b16dee8bf33c23775c49fb5f8692ebfabece0b6533be0006ca"
+metafile = true
+
+[[files]]
 file = "mods/tip-the-gui.pw.toml"
 hash = "066d949825f29932dacbc5f3d01765d2720faa778d8a606c5b331fd9e2e459ff"
 metafile = true
@@ -1086,6 +1096,11 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "1fd2c6bb48d1c99ecd5f3d7bcf1e9c8700481e85388e8709698e15f135026807"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "2a4e26e883f75ecc2451accc5f2f7a5ecd077e78678f24e6266b1ab0c5594353"
 metafile = true
 
 [[files]]

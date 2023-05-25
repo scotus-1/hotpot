@@ -1,0 +1,13 @@
+name = "Time & Wind (Fabric)"
+filename = "time-and-wind-ct-1.4.3+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c649c235bed88e1d010ee4431a43c98647298aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3946077
+project-id = 477790
