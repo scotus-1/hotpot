@@ -1,0 +1,13 @@
+name = "Jumpy Boats(Fabric/Quilt)"
+filename = "jumpyboat-4.0-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "035bf73dbfa84bc756b5d76c0b757e8403a9c5cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4126701
+project-id = 615448
