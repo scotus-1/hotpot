@@ -149,18 +149,28 @@ hash = "fdea52d254e5318fe4884301ca865356ade3f685798548aaa23804b25ff01ca1"
 metafile = true
 
 [[files]]
-file = "mods/armor-chroma-for-fabric.pw.toml"
-hash = "d7b730ba9af222aae704a34891f41497d72620ab75da092714fc4f186d230bcf"
-metafile = true
-
-[[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "13acba8fa8b2c03e01fd88dafe9118122160d6df13b2f0ba6fb210762652e16d"
 metafile = true
 
 [[files]]
+file = "mods/arrows-info.pw.toml"
+hash = "ef7b66e48dfa6e7db5044310d3803dd4c12d85cfa1f49a49911cb67226834873"
+metafile = true
+
+[[files]]
 file = "mods/auditory.pw.toml"
 hash = "a086399e727b882a3ee432a3154a6b6b8b81d780e89ae860b040365507af56e7"
+metafile = true
+
+[[files]]
+file = "mods/auto-third-person.pw.toml"
+hash = "bc1d3960821bd30921f84d1218469ebe8ee236719649d9e19d83b91f716df171"
+metafile = true
+
+[[files]]
+file = "mods/autohud.pw.toml"
+hash = "3ce3ce6faae0a944e53ff91b8ce75c84ee7dffe23e28204bcfc2369ed7cc230e"
 metafile = true
 
 [[files]]
@@ -264,6 +274,11 @@ hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
 
 [[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "4c73f1af05cf34a30401806f28cc9bda4f6cdf64e8f0b76744380c1fb6f9bd41"
+metafile = true
+
+[[files]]
 file = "mods/celestria.pw.toml"
 hash = "b3eda177d099ef511ccdd9d738d902c6c10f4037bd7dd0869ae9a3ff545a5d91"
 metafile = true
@@ -296,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/cleancut.pw.toml"
 hash = "7ea37e2cbe755149aaaf569fd9999541fc766c6057fc7a062a715af51b387b93"
+metafile = true
+
+[[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "f55726e64eabcfdcb0b02657c74889f8e135a5424dc423c55450117618a2ad11"
 metafile = true
 
 [[files]]
@@ -386,6 +406,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar.pw.toml"
+hash = "59c6d5913981335b2a8870c74497807e575ee5d2843391ef708527bdbb1adbc8"
 metafile = true
 
 [[files]]
@@ -684,11 +709,6 @@ hash = "00ba1f6e8a4db81d90c67031b1888760db122f3029112420be43e680a66b2efb"
 metafile = true
 
 [[files]]
-file = "mods/nimble-fabric.pw.toml"
-hash = "a18b8b20c4450d549e8503fb4ffd3395584d2b5315193fe8caf229e7a3f04cac"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
@@ -776,6 +796,11 @@ metafile = true
 [[files]]
 file = "mods/quit.pw.toml"
 hash = "c233c650158104d8e0ce392a11182f51dd2ea2d44bf9fb95df485649cda53f60"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "99c8a639eaa387b2b24f1a5b3c1abd7d0573fc3010ea5558149153a0b8587017"
 metafile = true
 
 [[files]]

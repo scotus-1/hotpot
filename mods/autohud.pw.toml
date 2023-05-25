@@ -1,0 +1,13 @@
+name = "Auto HUD"
+filename = "autohud-3.2+1.19.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/temczoTQ/versions/TyP9drU7/autohud-3.2%2B1.19.1.jar"
+hash-format = "sha1"
+hash = "67f6d25c75f94a929bfb8b1aaf724e87f8c275d7"
+
+[update]
+[update.modrinth]
+mod-id = "temczoTQ"
+version = "TyP9drU7"
