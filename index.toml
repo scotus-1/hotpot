@@ -119,6 +119,16 @@ hash = "d2b9f3730a36ac2fb8febbd49f488175958bd52ddeb48f46f4342a9191aaca75"
 metafile = true
 
 [[files]]
+file = "mods/addadd.pw.toml"
+hash = "21d4c1c69be7ea0f9200ab3129fce65f560381618e5565fcaaf52ec02a0b3a48"
+metafile = true
+
+[[files]]
+file = "mods/additionz.pw.toml"
+hash = "15ba8a6512ca7177674289ecc7e3f50800bc497e1a270e256d3ea5de0a685ef6"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "d3a87d340439309a208ec67f0d9c8004458b315f39add685ee298909988f0d9b"
 metafile = true
@@ -406,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
+metafile = true
+
+[[files]]
+file = "mods/deepslatecutting.pw.toml"
+hash = "0479206225a4fe784aa2866d422a0f9bad857a8c1ade89179d6626f812c4fbb8"
 metafile = true
 
 [[files]]
@@ -716,6 +731,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/more-banner-features.pw.toml"
+hash = "d953314b8c2051cacb4e2d5097f8b25245da61f264d83e54d895bb4cef80ec41"
 metafile = true
 
 [[files]]
