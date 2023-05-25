@@ -217,6 +217,11 @@ hash = "60861753eab2eb7ba6885c43f178160da3573a4aa45d37329528b773be87150d"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "f30b15dc574856f6eca824f645537680ca12a6282bee89a33cbced66d6601dca"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
@@ -374,6 +379,16 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
+metafile = true
+
+[[files]]
+file = "mods/c3h6n6o6.pw.toml"
+hash = "35bc5588ec777e666a551158d3c457538203b799a62d61f234f5df1b429ed558"
 metafile = true
 
 [[files]]
@@ -635,6 +650,11 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
+file = "mods/editsign.pw.toml"
+hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
+metafile = true
+
+[[files]]
 file = "mods/effective.pw.toml"
 hash = "3853b370c0f12e4c99b15470e11c83119f96cde01d0ae26d19d93d2caf130065"
 metafile = true
@@ -858,6 +878,11 @@ hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 file = "mods/kiwi.pw.toml"
 hash = "2ce31ab44b467a2d2ca1ef630ff879ae33236149ee02abb9a1527638614bd981"
 >>>>>>> QoL, herdspanic, cosmentic-skin, snow, trinkets
+metafile = true
+
+[[files]]
+file = "mods/koro-utils-lib.pw.toml"
+hash = "e6445788e906502b942455717e4d9e34e2f6d4032d11567d7ce157ff334faedf"
 metafile = true
 
 [[files]]
