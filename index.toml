@@ -264,6 +264,11 @@ hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
 
 [[files]]
+file = "mods/celestria.pw.toml"
+hash = "b3eda177d099ef511ccdd9d738d902c6c10f4037bd7dd0869ae9a3ff545a5d91"
+metafile = true
+
+[[files]]
 file = "mods/charmonium.pw.toml"
 hash = "ccc10f99cb19427bbe111efeecce5c2934a02d4294b2fedc3ef1e7fdc60771d3"
 metafile = true
@@ -391,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "285da02342eee9622e3d2245212165c0563103d1ed54a03d485fa6939cf0b571"
+metafile = true
+
+[[files]]
+file = "mods/droplight.pw.toml"
+hash = "02264ebb63a7c738bf95ab76e496d4298a511c5429f179984ef814a7348d4af0"
 metafile = true
 
 [[files]]
@@ -741,6 +751,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+metafile = true
+
+[[files]]
+file = "mods/quickconnectbutton.pw.toml"
+hash = "62f6af6480f713e7f643c367a157597b3740f0fc3b9d4234adb391ecab236aaa"
 metafile = true
 
 [[files]]
