@@ -622,6 +622,11 @@ hash = "80c61628b169079d182f28a3413cc87fef94a392add7afed89547844b546ba9e"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "3850cf278659b33e0629f4dbe21b01b6d9174947df542b7ed618c86f3a74c7d9"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -672,6 +677,7 @@ hash = "cdc6994dedc82cf7807f6afbdde9000cf11841c174008b2aad20f62d9b0b08c7"
 metafile = true
 
 [[files]]
+<<<<<<< master
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "6f6c3d6646f445f0614c57d9b3c4d56d5b5057d6370f18ed8ac255dc8b65dbbd"
 metafile = true
@@ -679,6 +685,15 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
+=======
+file = "mods/joy-of-painting.pw.toml"
+hash = "3a18abe31426a5abe8a607794c0d22cbb726d9c1696ef9a21edded0ff26f85a1"
+metafile = true
+
+[[files]]
+file = "mods/jumpy-boats-fabric.pw.toml"
+hash = "ae6ba8751a4bffab1cdb430210a08f498f28fa6c5ab0775aac4a7c242fb9df0b"
+>>>>>>> Create fcsp++ branch, paintings, jump boats, snowundertrees
 metafile = true
 
 [[files]]
@@ -789,6 +804,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "d3e42382f6f10882d83ae9d08e9a3e1f78a331f34389629acf8e475ceb9946e7"
 metafile = true
 
 [[files]]
@@ -959,6 +979,11 @@ metafile = true
 [[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees-remastered.pw.toml"
+hash = "e6b7aed5ae934b4331ff35b6dac657aa5cd4fa0754f4a4d580c05cb74039662f"
 metafile = true
 
 [[files]]
