@@ -11,6 +11,7 @@ hash-format = "sha256"
 <<<<<<< master
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 hash = "c3c2e1d29f744bf35d22738e4c8fc5c1e7b2b71546a6c0177b2de552ef79578f"
 =======
 hash = "80f44b2bf39a5267b22eec02218977013a0a2e7da99541a50430f66e098569d2"
@@ -27,6 +28,9 @@ hash = "33e3c15b006ca264d01075096c9038dcb0d22d6176b086696b872a711da5c45a"
 =======
 hash = "6bb0d066cf2eeb73b5840cdbaef5f1edd63d1adc41eaa3dcf3c0e043ddf2adbe"
 >>>>>>> Additional tweaks and content, banners, addadd, additionz
+=======
+hash = "028eee2704f88b91475f96d63cb356710ad8702613a0f05c944019c49b78dfad"
+>>>>>>> QoL, herdspanic, cosmentic-skin, snow, trinkets
 
 [versions]
 minecraft = "1.19.2"
