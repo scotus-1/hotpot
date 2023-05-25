@@ -129,6 +129,11 @@ hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
 metafile = true
 
 [[files]]
+file = "mods/air-hop.pw.toml"
+hash = "60861753eab2eb7ba6885c43f178160da3573a4aa45d37329528b773be87150d"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
@@ -141,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+metafile = true
+
+[[files]]
+file = "mods/aquatic-torches.pw.toml"
+hash = "d107a40fce2e3239ce4d8f612bab62ec36f52e818a9abcd2c940c8aa4b4e75a8"
 metafile = true
 
 [[files]]
@@ -161,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/autoswitch.pw.toml"
 hash = "62e022bec51910486f8af152e77cd7ba1afec7e51e3c2a29db40216c2f4650a0"
+metafile = true
+
+[[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "bb2ce8c40f0e18b52e146b304ace367e92d5e904a7c6ff2da532cfd20af1404d"
 metafile = true
 
 [[files]]
@@ -254,6 +269,11 @@ hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
 metafile = true
 
 [[files]]
+file = "mods/cammies-minecart-tweaks.pw.toml"
+hash = "c146babc3f83049bc49c190308f9d190b636144c61f3c69a87099692656386fb"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
@@ -314,8 +334,18 @@ hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "e6ad077b2b20ca9bb5a6b371cd5e5c4c77bd8e6613d9a498b23c48bf16ea60c3"
+metafile = true
+
+[[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "a206bc693d41eb72f431abfc5d4556f9e9bf7f0bb6237224b750df85aeddd434"
+metafile = true
+
+[[files]]
+file = "mods/connectible_chains.pw.toml"
+hash = "3bb5d79ae78bcfa2fcb08f3852c4c1ac1893569ac75ccc2e9131d9b17dc61f5c"
 metafile = true
 
 [[files]]
@@ -371,6 +401,16 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "b13f9012e1dff94729790a6500996fd1b6790daa5a1b5e42a3926813f2960452"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-panes.pw.toml"
+hash = "435898f472db8bf1d7a295f52528540aa3965cf0f2110912eba8260618512ff4"
 metafile = true
 
 [[files]]
