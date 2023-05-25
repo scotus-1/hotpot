@@ -414,6 +414,11 @@ hash = "435898f472db8bf1d7a295f52528540aa3965cf0f2110912eba8260618512ff4"
 metafile = true
 
 [[files]]
+file = "mods/displaycase.pw.toml"
+hash = "0d7deb92fbe0f97cfc03199d2085d9b8fbb68d482aacda8005971951d417e85b"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "8d8ba1d500070cac1b9961d78e2fd90d973cee01d373175d64e3250aa1d3b2c7"
 metafile = true
@@ -436,6 +441,16 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "97a3facf4a7a210480038f11399f29808b3a8237668ac03fc90eb8e6dba6bda2"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "e8aed42ec5c235a7809cfcf8dc32494e589a02527e780635a586e2d8fea0b1f0"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "7f15312125ff9b251a60bcfcf6e368335d1be162a64f7ae28649b32bd9e2129f"
 metafile = true
 
 [[files]]
@@ -516,6 +531,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/fish-on-the-line.pw.toml"
+hash = "4ff91725a853075dd7f65be70261737cd50d359bd3f224429a11f9dc005fd2eb"
 metafile = true
 
 [[files]]
@@ -631,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/leave-my-bars-alone.pw.toml"
 hash = "3820c756f72f2c1161e30876f0c59d65a7843b557ed30b95a6c09dbfa216840f"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "408bba556516e21cfa25674fabca2e1da87f7db700a7b88c2cdf1025414b39a1"
 metafile = true
 
 [[files]]
@@ -914,8 +939,18 @@ hash = "f91dfdea8cb29d3effba0c9791b9f8d75395209125d0548e6b75138d5fdfd98d"
 metafile = true
 
 [[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "e07450f78974ba068de931778d49c0937b24d133ce023d87b09d00754e5a045a"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
+metafile = true
+
+[[files]]
+file = "mods/voidtotem.pw.toml"
+hash = "80b4fd198a83f45b937f10ae1b3fc25281daf9f4a628db2c76f238503d72ad76"
 metafile = true
 
 [[files]]

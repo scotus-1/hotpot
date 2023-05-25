@@ -1,0 +1,13 @@
+name = "Fish On The Line"
+filename = "fishontheline-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R6PYx1PW/versions/w75d0EJ4/fishontheline-1.19.2-3.0.jar"
+hash-format = "sha1"
+hash = "a7746b3bbbc3c02fef1bc5a73d9176b6534fc39a"
+
+[update]
+[update.modrinth]
+mod-id = "R6PYx1PW"
+version = "w75d0EJ4"
