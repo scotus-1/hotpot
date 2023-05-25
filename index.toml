@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "TODO.md"
+hash = "ec185cbf5c8f77b1b8374d31af850f526c948e24e79ff285376b26c2012de343"
+
+[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "0d456fc942c5c5cac422b51d4efffadc2d263b8b7d9e2b2d80950e7a1203500b"
 
@@ -151,11 +155,6 @@ metafile = true
 [[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "13acba8fa8b2c03e01fd88dafe9118122160d6df13b2f0ba6fb210762652e16d"
-metafile = true
-
-[[files]]
-file = "mods/arrows-info.pw.toml"
-hash = "ef7b66e48dfa6e7db5044310d3803dd4c12d85cfa1f49a49911cb67226834873"
 metafile = true
 
 [[files]]
@@ -426,11 +425,6 @@ metafile = true
 [[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "285da02342eee9622e3d2245212165c0563103d1ed54a03d485fa6939cf0b571"
-metafile = true
-
-[[files]]
-file = "mods/droplight.pw.toml"
-hash = "02264ebb63a7c738bf95ab76e496d4298a511c5429f179984ef814a7348d4af0"
 metafile = true
 
 [[files]]
