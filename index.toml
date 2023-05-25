@@ -129,6 +129,11 @@ hash = "15ba8a6512ca7177674289ecc7e3f50800bc497e1a270e256d3ea5de0a685ef6"
 metafile = true
 
 [[files]]
+file = "mods/advancement-frames.pw.toml"
+hash = "b41a8063944f24960f6e4cd5efcc1127a80a8222bc7de171ac18ebfd3bbec958"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "d3a87d340439309a208ec67f0d9c8004458b315f39add685ee298909988f0d9b"
 metafile = true
@@ -316,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "9cba2d347b86155259f77c55a5aeff95c1e865ff3e55146541d0f4d6fb27c8f1"
+metafile = true
+
+[[files]]
+file = "mods/chimes.pw.toml"
+hash = "909b55ac783674e90b97d08098f3d2ef7d111011b5a607a1eb30821150b60166"
 metafile = true
 
 [[files]]
@@ -844,6 +854,11 @@ hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
 file = "mods/physicsmod.pw.toml"
 hash = "0ddd30666fead119ad453aacf1c4c30e37b45f92d4af8f5ab836b965e0d630bb"
 metafile = true
@@ -1004,6 +1019,11 @@ hash = "4833ab71eda9697a3109ef1044db26c75514ac484cfb68d77f938abf67e73530"
 metafile = true
 
 [[files]]
+file = "mods/things.pw.toml"
+hash = "9c3b1066767ca662ed2de3896b51047d94e1117a1a37770d3049fcc9e3951666"
+metafile = true
+
+[[files]]
 file = "mods/third-person-maps.pw.toml"
 hash = "3f8cfd0e555ccf0c033dddfda5bb21c80ddfc080b19b0c091e53722e486debc6"
 metafile = true
@@ -1031,6 +1051,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/universal-enchants.pw.toml"
+hash = "1fd2c6bb48d1c99ecd5f3d7bcf1e9c8700481e85388e8709698e15f135026807"
 metafile = true
 
 [[files]]
