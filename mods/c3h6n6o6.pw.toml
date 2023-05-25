@@ -1,0 +1,13 @@
+name = "环三亚甲基三硝胺 Cyclotrimethylenetrinitramine (C3H6N6O6)"
+filename = "C3H6N6O6-1.0.0-beta9-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bur7oKCC/versions/vIOKMDvB/C3H6N6O6-1.0.0-beta9-1.18.2.jar"
+hash-format = "sha1"
+hash = "16cd6bb3b6f2940352edead376f0e9d286f16af4"
+
+[update]
+[update.modrinth]
+mod-id = "bur7oKCC"
+version = "vIOKMDvB"
