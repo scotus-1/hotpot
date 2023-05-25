@@ -194,6 +194,11 @@ hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
 
 [[files]]
+file = "mods/beautified-chat-client.pw.toml"
+hash = "53263f4c92485d67188073ea13cc35d13fb9edf0d0561ecb08922ac1ca825bfe"
+metafile = true
+
+[[files]]
 file = "mods/beenfo.pw.toml"
 hash = "3ce78caf9a509e6fe950a78d466bb8e0729ced84aba6aabb298f3438dd9388ed"
 metafile = true
@@ -654,6 +659,11 @@ hash = "a20f068bdb57b53bde90dccdff3f3122f91563f6276eb56f432813e5a0cc4d19"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "a348cac6a82b65dd907d857f1893fb44d724cd3d912975fb7325253eb7e7503a"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
@@ -736,6 +746,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "bb3eade7942567c36fc88230bfcf24132e8b7be8d975f26a4cd9aa502d5b86db"
 metafile = true
 
 [[files]]
@@ -906,11 +921,6 @@ metafile = true
 [[files]]
 file = "mods/thorium.pw.toml"
 hash = "f76293001a405fa99903869bc8d5f3caa2976f0179513f73f59fc82dfbce9f72"
-metafile = true
-
-[[files]]
-file = "mods/tip-the-gui.pw.toml"
-hash = "066d949825f29932dacbc5f3d01765d2720faa778d8a606c5b331fd9e2e459ff"
 metafile = true
 
 [[files]]
