@@ -15,6 +15,7 @@ hash-format = "sha256"
 <<<<<<< master
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 hash = "c3c2e1d29f744bf35d22738e4c8fc5c1e7b2b71546a6c0177b2de552ef79578f"
 =======
 hash = "80f44b2bf39a5267b22eec02218977013a0a2e7da99541a50430f66e098569d2"
@@ -43,6 +44,9 @@ hash = "14c1cbc86ba0232d778084fdb2f53b33972f1f021a492963ef69ff4d48556eb2"
 =======
 hash = "da533337b902a04a4bc38090c5ee2005d71d79030ff2f92ae85426efd082e47d"
 >>>>>>> Added lesser content mods
+=======
+hash = "0b0d6420ad18fc8bcdce2908914ad6762dfc25721ab556f4b7cf13f823e272f4"
+>>>>>>> add gliders
 
 [versions]
 minecraft = "1.19.2"

@@ -710,8 +710,18 @@ hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
 
 [[files]]
+<<<<<<< master
 file = "mods/horsebuff.pw.toml"
 hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
+=======
+file = "mods/gliders.pw.toml"
+hash = "53e09b8fdb648d4186eb7a652d0e2ac470eccd9c4bc0e3a694127574237ce3c2"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "49431809d2d2402fb157fd87413e28da5484cf5ff3d9aeae00f169500b162134"
+>>>>>>> add gliders
 metafile = true
 
 [[files]]
