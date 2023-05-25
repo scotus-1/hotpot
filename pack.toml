@@ -20,6 +20,7 @@ hash-format = "sha256"
 <<<<<<< master
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 hash = "c3c2e1d29f744bf35d22738e4c8fc5c1e7b2b71546a6c0177b2de552ef79578f"
 =======
 hash = "80f44b2bf39a5267b22eec02218977013a0a2e7da99541a50430f66e098569d2"
@@ -63,6 +64,9 @@ hash = "5f683d81fb7f430bd662e731c405dafde3ccc8d8ba33130b67f5dada144d9193"
 =======
 hash = "6e57a448e88aef52ee0a53e46a481f30687b43f4ab6400ee782f2a2ebe9990d3"
 >>>>>>> More aggresive perf mods, and editsign
+=======
+hash = "209941524b522b3aa713f1b8d7c613bbddeff3e789285ed2e9d879fe707a5965"
+>>>>>>> Furniture mods!
 
 [versions]
 minecraft = "1.19.2"
