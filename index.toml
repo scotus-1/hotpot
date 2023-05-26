@@ -1,6 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
+<<<<<<< master
 file = "config/paxi/resourcepack_load_order.json"
 hash = "dc18f26ef1c3ca66c47b25cd84e3e466c512ecb99e621ac28582d8fa7f0c1d9c"
 
@@ -71,6 +72,10 @@ hash = "23db68c9ea557ea1ec287a3bf420de502082dac144c317a13edab23fb7f8b140"
 [[files]]
 file = "config/paxi/resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.3.1]§0.zip"
 hash = "5bd8f4b8186dadb568e0f0e54a268857bddd99a379f2e28860c9a81169c7e0b9"
+=======
+file = "TODO.md"
+hash = "f3c1ab57953b33a35dc35585b3e30ba6ed6d2bd2bbaed07714c4b799fa33ffbd"
+>>>>>>> Remove c3h6n6o6 due to weird bug?
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
@@ -402,11 +407,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
-metafile = true
-
-[[files]]
-file = "mods/c3h6n6o6.pw.toml"
-hash = "35bc5588ec777e666a551158d3c457538203b799a62d61f234f5df1b429ed558"
 metafile = true
 
 [[files]]
@@ -949,11 +949,6 @@ hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 file = "mods/kiwi.pw.toml"
 hash = "2ce31ab44b467a2d2ca1ef630ff879ae33236149ee02abb9a1527638614bd981"
 >>>>>>> QoL, herdspanic, cosmentic-skin, snow, trinkets
-metafile = true
-
-[[files]]
-file = "mods/koro-utils-lib.pw.toml"
-hash = "e6445788e906502b942455717e4d9e34e2f6d4032d11567d7ce157ff334faedf"
 metafile = true
 
 [[files]]

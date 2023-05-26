@@ -22,6 +22,7 @@ hash-format = "sha256"
 <<<<<<< master
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 hash = "c3c2e1d29f744bf35d22738e4c8fc5c1e7b2b71546a6c0177b2de552ef79578f"
 =======
 hash = "80f44b2bf39a5267b22eec02218977013a0a2e7da99541a50430f66e098569d2"
@@ -71,6 +72,9 @@ hash = "209941524b522b3aa713f1b8d7c613bbddeff3e789285ed2e9d879fe707a5965"
 =======
 hash = "901319f8de7a2a7acd6c708ecebf783dab7a49cbee84cb0cfb5960ba51760089"
 >>>>>>> World building, ampnether, seasons, farmers-delight, terralith, weathering
+=======
+hash = "8ae764168c9996fb9f9ece1a63d2ca6bacf4b8feb4e026bcabc8d1d77ac5df1a"
+>>>>>>> Remove c3h6n6o6 due to weird bug?
 
 [versions]
 minecraft = "1.19.2"
