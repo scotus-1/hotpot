@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "TODO.md"
+hash = "f3c1ab57953b33a35dc35585b3e30ba6ed6d2bd2bbaed07714c4b799fa33ffbd"
+
+[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "0d456fc942c5c5cac422b51d4efffadc2d263b8b7d9e2b2d80950e7a1203500b"
 
@@ -316,11 +320,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
-metafile = true
-
-[[files]]
-file = "mods/c3h6n6o6.pw.toml"
-hash = "35bc5588ec777e666a551158d3c457538203b799a62d61f234f5df1b429ed558"
 metafile = true
 
 [[files]]
@@ -786,11 +785,6 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "2ce31ab44b467a2d2ca1ef630ff879ae33236149ee02abb9a1527638614bd981"
-metafile = true
-
-[[files]]
-file = "mods/koro-utils-lib.pw.toml"
-hash = "e6445788e906502b942455717e4d9e34e2f6d4032d11567d7ce157ff334faedf"
 metafile = true
 
 [[files]]
