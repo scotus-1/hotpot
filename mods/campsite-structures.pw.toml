@@ -1,0 +1,13 @@
+name = "Campsite Structures"
+filename = "campsite_structures-1.19.2-FABRIC-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gA6575EW/versions/fALCgXUB/campsite_structures-1.19.2-FABRIC-1.0.3.jar"
+hash-format = "sha1"
+hash = "23be7eadb12eb06e3bd8999b8c75c79049b79d62"
+
+[update]
+[update.modrinth]
+mod-id = "gA6575EW"
+version = "fALCgXUB"
