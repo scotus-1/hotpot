@@ -1,0 +1,13 @@
+name = "ChoiceTheorem's Overhauled Village - More villagers add-on"
+filename = "ctov-more-villagers-compat-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fyGliXG0/versions/4hv4E2HC/ctov-more-villagers-compat-1.1.jar"
+hash-format = "sha1"
+hash = "300c5e8ed2b235656bf137cb61c2d4a60df0766a"
+
+[update]
+[update.modrinth]
+mod-id = "fyGliXG0"
+version = "4hv4E2HC"

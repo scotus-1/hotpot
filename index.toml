@@ -483,6 +483,26 @@ hash = "0af30f0d9c044d979557fdb270ec014ceef2b5e37fe0b2c1c58aea9275b557c3"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "ed596c4c47ea344f665b52b6fbf18e4fc7a1bae12c92a1fb2a022422abcd7c43"
+metafile = true
+
+[[files]]
+file = "mods/ctov-chefs-delight-add-on.pw.toml"
+hash = "1d1cc6f24654704ad2f1017ff87d03c9bbf88055e0d4a51883624c8bbfe11dbb"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "ca49eb80ed805480d1b4fa4dd81efe4fc83f52428b1d30a4b9f3327b9bc009f7"
+metafile = true
+
+[[files]]
+file = "mods/ctov-more-villagers-compat.pw.toml"
+hash = "a3d6d07082c0de8cc4e6d97b96113a7bd4f622d4656d85ae27ad64a5dbe1dce0"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
@@ -1193,6 +1213,16 @@ hash = "b4bff2848944097fff7cff99a65c0164e29c616ce83b7fc8261f0aef2db85f08"
 metafile = true
 
 [[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "b69bb36e39cd8ed8171a373a0cef0a131e05fcd56adac72dd95f40e243160efb"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "1416161702c00780b4253fcc81cf50799a54c2de08b1b3563a1f3d748a543607"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "fe03d60134dc47ae7945cf435f52bcb10e3ba244ec80c594c8d5a3708977f49a"
 metafile = true
@@ -1248,6 +1278,11 @@ hash = "fe6c03b82fc86594bc5e49f3a49b102ef42fc7212d7d14dcb9b12b41c8dcc37d"
 metafile = true
 
 [[files]]
+file = "mods/towers-of-the-wild-additions.pw.toml"
+hash = "916a6b442bad08a86df1069d941000da110b5b24e64fa75ad45c961590cfd7b9"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "c71af8cb740fbf42b489ab24ee01ea0d09c3329cb9a62108b2b9dd85e721b3c8"
 metafile = true
@@ -1260,6 +1295,11 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "1fd2c6bb48d1c99ecd5f3d7bcf1e9c8700481e85388e8709698e15f135026807"
+metafile = true
+
+[[files]]
+file = "mods/unstructured.pw.toml"
+hash = "c8f27c8e00c92a516ec8c8ba3d81faf0e279a302313705bc53effaa7caaca868"
 metafile = true
 
 [[files]]
