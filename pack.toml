@@ -30,6 +30,7 @@ hash-format = "sha256"
 <<<<<<< master
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 hash = "c3c2e1d29f744bf35d22738e4c8fc5c1e7b2b71546a6c0177b2de552ef79578f"
 =======
 hash = "80f44b2bf39a5267b22eec02218977013a0a2e7da99541a50430f66e098569d2"
@@ -103,6 +104,9 @@ hash = "9a0d58c3478753ff776181cabf16eecc9c62ebdf00b5b582947ebcc9ee10da60"
 =======
 hash = "4e4aead4a0ed5db5495b27261a941d67c9ab58930554bc26358082078914ba11"
 >>>>>>> Replace geophilic with WWOO
+=======
+hash = "0ab50007f3111b9dfb8f72fdbcf3ca7546f098d273392ea4a1d176c7b49929fc"
+>>>>>>> Capybaras, scarecrows, shinyhorses, bookshelves, moved cf2mr for wwoo
 
 [versions]
 minecraft = "1.19.2"
