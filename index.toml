@@ -565,6 +565,26 @@ hash = "d9cca1c32beb9e3fc76717bf4f08ca8328eb3bd10e67bfd3fd45f16807be6868"
 metafile = true
 
 [[files]]
+file = "mods/create-crystal-clear-fabric.pw.toml"
+hash = "790d09e1bee44adf6f4867d2c63a4626c96c5b8eec0b9f8ea2a14f8465434f02"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "a51f3f98721a8e637e71c78d5413271cb0d4816a5d55a8b9cd5c19353d49f8a2"
+metafile = true
+
+[[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "4b74d44c2456358257d7f5728a012bd3dbc1a761350c1fd169fc5e401c80cbb7"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "0af30f0d9c044d979557fdb270ec014ceef2b5e37fe0b2c1c58aea9275b557c3"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
@@ -1288,6 +1308,11 @@ hash = "5273b2fca55634de17f94eeb0eeb085017edf8a610dd256a83dbd75cf1830ecf"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "a0729ad918d2b36e4188bd27cbcf6ea41575ace36e31334e6b196bdad98402af"
+metafile = true
+
+[[files]]
 file = "mods/slight-gui-modifications.pw.toml"
 hash = "bc1b62598938b58e55c752af626425317ca67210d8b16bc0dd45c9efe8cdf284"
 metafile = true
@@ -1355,6 +1380,7 @@ metafile = true
 [[files]]
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 file = "mods/stylish-effects.pw.toml"
 hash = "d273fdfc26be30f3eca414d7ea4d4eed6e716a0625de31224eb86c8d00f2ff09"
 =======
@@ -1370,6 +1396,8 @@ metafile = true
 
 [[files]]
 >>>>>>> Add smaller structure mods, geophilic and chefsdelight
+=======
+>>>>>>> Remove and replace structory later, add create-fabric
 file = "mods/supplementaries.pw.toml"
 hash = "fe03d60134dc47ae7945cf435f52bcb10e3ba244ec80c594c8d5a3708977f49a"
 >>>>>>> Qol and content; bedspreads, vslabs, lanters, mobs, supplementaries, fire

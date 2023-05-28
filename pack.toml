@@ -25,6 +25,7 @@ hash-format = "sha256"
 <<<<<<< master
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 hash = "c3c2e1d29f744bf35d22738e4c8fc5c1e7b2b71546a6c0177b2de552ef79578f"
 =======
 hash = "80f44b2bf39a5267b22eec02218977013a0a2e7da99541a50430f66e098569d2"
@@ -83,6 +84,9 @@ hash = "2dbb72fd9e4653824d475232d5f8bdf9c69b9c46d804a08ffa21b069b02e6a0a"
 =======
 hash = "bd69f5e5bb45cd467fc0b9fa42d1ed475a2c8bbdbc6ba433abdde7bdbee8f6cc"
 >>>>>>> Add smaller structure mods, geophilic and chefsdelight
+=======
+hash = "d17c34db999c96a55dedf0882370a498be913306d0408ee636667bef5d79a777"
+>>>>>>> Remove and replace structory later, add create-fabric
 
 [versions]
 minecraft = "1.19.2"
