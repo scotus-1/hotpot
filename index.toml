@@ -415,11 +415,6 @@ hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
-metafile = true
-
-[[files]]
 file = "mods/cake-chomps.pw.toml"
 hash = "a6dd7c4d9101f127c0a0b5ce1154dcf8d28cc6822d35b62c0be3c052852b8e92"
 metafile = true
@@ -1053,11 +1048,6 @@ hash = "d598c5abfc32a00787af111b5f119e02c23e2b13567adb16391094089bb557c5"
 metafile = true
 
 [[files]]
-file = "mods/lanterns-bow.pw.toml"
-hash = "4dcbc0c13835a68f1c58e75216beed433609e4565800f22342279f7934f7044b"
-metafile = true
-
-[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
@@ -1080,6 +1070,11 @@ metafile = true
 [[files]]
 file = "mods/letsleepingdogslie.pw.toml"
 hash = "952750128606f2e8a6d38802b937c6682f2558757b2724b51e931858d5171ae5"
+metafile = true
+
+[[files]]
+file = "mods/library-ferret-fabric.pw.toml"
+hash = "15961eaca493ab4139541d78a58b685de2bd9a7f49979d5c495d963dabb88ad9"
 metafile = true
 
 [[files]]
@@ -1302,7 +1297,11 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
+<<<<<<< master
 hash = "977fa64f69701ba5617640bf048abc10257ed00ddba615ceca1b52e65e118c2f"
+=======
+hash = "24ca6901df336de9e8d866ebbbc93f5563a13d52141ce934dd6293746003ea44"
+>>>>>>> Remove c2me, lanters, structory for now, wwoo, update qkl, add dep
 metafile = true
 
 [[files]]
@@ -1470,6 +1469,7 @@ metafile = true
 <<<<<<< master
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 file = "mods/stylish-effects.pw.toml"
 hash = "d273fdfc26be30f3eca414d7ea4d4eed6e716a0625de31224eb86c8d00f2ff09"
 =======
@@ -1492,6 +1492,8 @@ metafile = true
 >>>>>>> Remove and replace structory later, add create-fabric
 =======
 >>>>>>> CT Overhauled villages, readd structory, other structures
+=======
+>>>>>>> Remove c2me, lanters, structory for now, wwoo, update qkl, add dep
 file = "mods/supplementaries.pw.toml"
 hash = "fe03d60134dc47ae7945cf435f52bcb10e3ba244ec80c594c8d5a3708977f49a"
 >>>>>>> Qol and content; bedspreads, vslabs, lanters, mobs, supplementaries, fire
@@ -1620,6 +1622,7 @@ metafile = true
 [[files]]
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 file = "mods/way2wayfabric.pw.toml"
 hash = "099641cf99fc6c5a46820fe4b856368c6c47c297f99679bafe6c0760425bd9d9"
 metafile = true
@@ -1638,6 +1641,8 @@ hash = "dc31ab32c3bfb20a19432f07f8540dd7c0b5563a0d2ac922551f5ca7b4d019fd"
 metafile = true
 
 [[files]]
+=======
+>>>>>>> Remove c2me, lanters, structory for now, wwoo, update qkl, add dep
 file = "mods/xaeros-world-map.pw.toml"
 hash = "92fabf6009485130edf43bd6dbef2b5bb093d6b90c386f8a2fb3cac12b785d38"
 metafile = true

@@ -33,6 +33,7 @@ hash-format = "sha256"
 <<<<<<< master
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 hash = "c3c2e1d29f744bf35d22738e4c8fc5c1e7b2b71546a6c0177b2de552ef79578f"
 =======
 hash = "80f44b2bf39a5267b22eec02218977013a0a2e7da99541a50430f66e098569d2"
@@ -115,6 +116,9 @@ hash = "50e6addaec632c05193e53333863fe4a56b29693462c5de5032873edf257d972"
 =======
 hash = "852cd56476e0d0b12e2002e855ad142c5261f6c776b14f5a19e419c7919e6232"
 >>>>>>> Add nullscape
+=======
+hash = "4fa1703d2c7d6ef7b3295c2361cc307d560f87d2f7e0e5141457a7bbd2c00e76"
+>>>>>>> Remove c2me, lanters, structory for now, wwoo, update qkl, add dep
 
 [versions]
 minecraft = "1.19.2"
