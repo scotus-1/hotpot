@@ -353,6 +353,11 @@ hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
 
 [[files]]
+file = "mods/capybara-fabric.pw.toml"
+hash = "66da0fec8e8aef0a2937aed297cf37a7f66d59254064d11984cc60f98a343c39"
+metafile = true
+
+[[files]]
 file = "mods/charmonium.pw.toml"
 hash = "ccc10f99cb19427bbe111efeecce5c2934a02d4294b2fedc3ef1e7fdc60771d3"
 metafile = true
@@ -938,6 +943,11 @@ hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
 metafile = true
 
 [[files]]
+file = "mods/mob-scarecrows.pw.toml"
+hash = "633990f96e15b07dab59b895b36b9b8250b0c6d28791ba3f087152331841a91c"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
@@ -1115,6 +1125,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "48160b594ad78057a4ca17c07b52061ec1665c79ff30bc81c07d334610c6b21b"
+metafile = true
+
+[[files]]
+file = "mods/shiny-horses.pw.toml"
+hash = "7922cf5fccd8c309bd930c79ed07295df09531c7fd4d1ec5a74bc3d884f0a584"
 metafile = true
 
 [[files]]
@@ -1303,6 +1318,11 @@ hash = "2a4e26e883f75ecc2451accc5f2f7a5ecd077e78678f24e6266b1ab0c5594353"
 metafile = true
 
 [[files]]
+file = "mods/variant-bookshelves.pw.toml"
+hash = "6d24b6e146806eafaea364083ce88244e22e7f01a95b005dfff5b67cdf8209e9"
+metafile = true
+
+[[files]]
 file = "mods/visual-overhaul.pw.toml"
 hash = "f91dfdea8cb29d3effba0c9791b9f8d75395209125d0548e6b75138d5fdfd98d"
 metafile = true
@@ -1328,8 +1348,8 @@ hash = "8a4a4e24b30d401e195211153879287b4e2bb1bbb3e56d904ca84bffbecd7f99"
 metafile = true
 
 [[files]]
-file = "mods/william-wythers-overhauled-overworld.pw.toml"
-hash = "0af59fbe4fe56bd71f3fe134cac065aa91720f9d8fd412e134ba2b3b70625081"
+file = "mods/wwoo.pw.toml"
+hash = "dc31ab32c3bfb20a19432f07f8540dd7c0b5563a0d2ac922551f5ca7b4d019fd"
 metafile = true
 
 [[files]]
