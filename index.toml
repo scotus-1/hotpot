@@ -733,11 +733,6 @@ hash = "5ebaa368b8497942a070b4216a182d6850bbd1e6dd19390c34b47b07b5b0887f"
 metafile = true
 
 [[files]]
-file = "mods/geophilic.pw.toml"
-hash = "5d5e6d15156b2452e86faf869b21643a7cf5e90af7747071044500adba22c305"
-metafile = true
-
-[[files]]
 file = "mods/gliders.pw.toml"
 hash = "53e09b8fdb648d4186eb7a652d0e2ac470eccd9c4bc0e3a694127574237ce3c2"
 metafile = true
@@ -1330,6 +1325,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "8a4a4e24b30d401e195211153879287b4e2bb1bbb3e56d904ca84bffbecd7f99"
+metafile = true
+
+[[files]]
+file = "mods/william-wythers-overhauled-overworld.pw.toml"
+hash = "0af59fbe4fe56bd71f3fe134cac065aa91720f9d8fd412e134ba2b3b70625081"
 metafile = true
 
 [[files]]
