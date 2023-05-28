@@ -1,0 +1,13 @@
+name = "Beneath The Snow"
+filename = "beneath-the-snow-0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VovvdYLt/versions/mQ3cKPuE/beneath-the-snow-0.3.jar"
+hash-format = "sha1"
+hash = "6c67b4cd7f008900b10975b1ee86ef5767d89932"
+
+[update]
+[update.modrinth]
+mod-id = "VovvdYLt"
+version = "mQ3cKPuE"
