@@ -27,6 +27,7 @@ hash-format = "sha256"
 <<<<<<< master
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 hash = "c3c2e1d29f744bf35d22738e4c8fc5c1e7b2b71546a6c0177b2de552ef79578f"
 =======
 hash = "80f44b2bf39a5267b22eec02218977013a0a2e7da99541a50430f66e098569d2"
@@ -91,6 +92,9 @@ hash = "d17c34db999c96a55dedf0882370a498be913306d0408ee636667bef5d79a777"
 =======
 hash = "a9ed355dd19af0e8f6f09e1ca936e9f163dbba321acaa4e992e5a82aa49b2f97"
 >>>>>>> Better combat
+=======
+hash = "ff470f07c8b723ce7f6dc8072bb14dee3ca797a3d158524bfa791b714c0202a0"
+>>>>>>> Pray this helps with compatibility
 
 [versions]
 minecraft = "1.19.2"
