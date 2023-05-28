@@ -340,6 +340,11 @@ hash = "3ce78caf9a509e6fe950a78d466bb8e0729ced84aba6aabb298f3438dd9388ed"
 metafile = true
 
 [[files]]
+file = "mods/beneath-the-snow.pw.toml"
+hash = "e9f5b62ee83bd174a04b20363bd2bc38bb3bffa165d957009e9f59f96bb4814d"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
 metafile = true
@@ -382,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "8033492c1f515164c70ed9ddfe5680ee3e40a1b49030adc5da5b86f462967d04"
+metafile = true
+
+[[files]]
+file = "mods/better-underwater-ruins.pw.toml"
+hash = "f12595dcd11943630ca85f6b09548d57e7f2df05e298b5d165136323926b5842"
 metafile = true
 
 [[files]]
@@ -907,6 +917,11 @@ metafile = true
 [[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "f59e2a13023c3f393efd4378332aac48b14a511ff35d2cd81e66c73db62fc237"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-ruined-portals.pw.toml"
+hash = "49ccdd8c4f00e76e6ab418bd8e982ac89410138f44dfcd7489072f283fa41da5"
 metafile = true
 
 [[files]]
