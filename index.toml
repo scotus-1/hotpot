@@ -873,6 +873,7 @@ metafile = true
 
 [[files]]
 <<<<<<< master
+<<<<<<< master
 >>>>>>> Add audioplayer, svc, rei, pyrotastic, fwaystones
 =======
 file = "mods/geophilic.pw.toml"
@@ -881,6 +882,8 @@ metafile = true
 
 [[files]]
 >>>>>>> Add smaller structure mods, geophilic and chefsdelight
+=======
+>>>>>>> Replace geophilic with WWOO
 file = "mods/gliders.pw.toml"
 hash = "53e09b8fdb648d4186eb7a652d0e2ac470eccd9c4bc0e3a694127574237ce3c2"
 metafile = true
@@ -1560,6 +1563,7 @@ hash = "8a4a4e24b30d401e195211153879287b4e2bb1bbb3e56d904ca84bffbecd7f99"
 metafile = true
 
 [[files]]
+<<<<<<< master
 file = "mods/way2wayfabric.pw.toml"
 hash = "099641cf99fc6c5a46820fe4b856368c6c47c297f99679bafe6c0760425bd9d9"
 metafile = true
@@ -1567,6 +1571,10 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "7a0617ab787d563878cb887499cadaa905f1ea8e577a16740f9a632a0f2e77c0"
+=======
+file = "mods/william-wythers-overhauled-overworld.pw.toml"
+hash = "0af59fbe4fe56bd71f3fe134cac065aa91720f9d8fd412e134ba2b3b70625081"
+>>>>>>> Replace geophilic with WWOO
 metafile = true
 
 [[files]]
