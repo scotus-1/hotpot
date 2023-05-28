@@ -1221,6 +1221,11 @@ hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "80e6f15ebc852ba4e4b6d14dbc2a9d2b3514aac104840f5c279bd4cb726977aa"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
 metafile = true
