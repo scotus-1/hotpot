@@ -385,6 +385,11 @@ hash = "8033492c1f515164c70ed9ddfe5680ee3e40a1b49030adc5da5b86f462967d04"
 metafile = true
 
 [[files]]
+file = "mods/better-village-fabric.pw.toml"
+hash = "eafa70ecaf39299e384e39010a2e30f08856a092377ff95be1010b1f4afe1400"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
@@ -1113,6 +1118,11 @@ hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
+metafile = true
+
+[[files]]
 file = "mods/minihud.pw.toml"
 hash = "ec2e01258ac91cd8a753b776bfe1e01ad7dacfedbbff19fb4eec779bb10cf4aa"
 metafile = true
@@ -1120,6 +1130,11 @@ metafile = true
 [[files]]
 file = "mods/mixin-conflict-helper.pw.toml"
 hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
+metafile = true
+
+[[files]]
+file = "mods/mo-structures.pw.toml"
+hash = "083e1237dbbc9ff8bd1ea9d4674043d964da40e0e0414830bd9a91a997a0bd28"
 metafile = true
 
 [[files]]
@@ -1226,6 +1241,11 @@ hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "bb3eade7942567c36fc88230bfcf24132e8b7be8d975f26a4cd9aa502d5b86db"
+metafile = true
+
+[[files]]
 file = "mods/physicsmod.pw.toml"
 hash = "0ddd30666fead119ad453aacf1c4c30e37b45f92d4af8f5ab836b965e0d630bb"
 metafile = true
@@ -1321,6 +1341,11 @@ hash = "f37d98015547fa4c5c392eec612376bebf6af9ed83cde466938bebf60c7ab68d"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "b5bb732948dcabfbb3727d124aa0f2b846bc0b883d98476c96d4badb757a048d"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
@@ -1353,6 +1378,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "8f341ba9a4d44e5ceb348b9dc8dc9e9d7506a1a3f1898354df72a3a5f0bb2215"
+metafile = true
+
+[[files]]
+file = "mods/sky-villages.pw.toml"
+hash = "472e85c66624b2a93f2d1a25c4f01dcf534525e271e6e525c610411fa2d1fb9f"
 metafile = true
 
 [[files]]

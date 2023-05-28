@@ -1,0 +1,13 @@
+name = "Sky Villages"
+filename = "SkyVillages-1.0.2.1-1.19.x-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mb68eIfx/versions/4pWaGbf7/SkyVillages-1.0.2.1-1.19.x-fabric.jar"
+hash-format = "sha1"
+hash = "01c529aae45bdaeb25c2616dfa9515ebc292d1e8"
+
+[update]
+[update.modrinth]
+mod-id = "mb68eIfx"
+version = "4pWaGbf7"
