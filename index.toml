@@ -5,6 +5,50 @@ file = "TODO.md"
 hash = "ec185cbf5c8f77b1b8374d31af850f526c948e24e79ff285376b26c2012de343"
 
 [[files]]
+file = "config/paxi/resourcepacks/EclecticTrove-noconfig-1.19-1.2.0.zip"
+hash = "ebbbb5006ec55769913c20d5600afbd67aaf7a893a8923453d3b4a2c1b441693"
+
+[[files]]
+file = "config/paxi/resourcepacks/EmbellishedStone-1.19-1.0.0.zip"
+hash = "e92c683bc486c8397426c5120e12302812c532f0b9a4243ad3fc3965718dab45"
+
+[[files]]
+file = "config/paxi/resourcepacks/FA+Details-v1.0.zip"
+hash = "3b1127d896654eab35b08fa1be84a9e778193ed1b13fd26e7c79a1f00e7ddec2"
+
+[[files]]
+file = "config/paxi/resourcepacks/FA+Emissive-v1.0.zip"
+hash = "111b3ee4b43a193e95f7e074121d6b22167917b86f566658f0b342dd863c0caa"
+
+[[files]]
+file = "config/paxi/resourcepacks/FA+Quivers-v1.0.zip"
+hash = "2cf517b2c27a4a3f216a096969eb7746e59c6ce9f57aecb7942778a69cdb63d1"
+
+[[files]]
+file = "config/paxi/resourcepacks/FreshAnimations_v1.8.1.zip"
+hash = "b97991ba6cf33317b5e7ef092e66d2522b6848ec52bb89548bede0765d3ac8cb"
+
+[[files]]
+file = "config/paxi/resourcepacks/Icons+Menu.zip"
+hash = "b92a3e5ae3ae3183e247a9912d80119ef5f129d584417346f6cd75cde0def184"
+
+[[files]]
+file = "config/paxi/resourcepacks/Icons+V.1.7.1.zip"
+hash = "28a0eda2bf7b5238054a03bb1da813995080254586d4150aaa8d0793150b4fe8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Recreated containers free version.zip"
+hash = "2a55f59cbd2774bbd3e880732ad717295d486564fb60030ce8c5f4bb40c1eb78"
+
+[[files]]
+file = "config/paxi/resourcepacks/[1.2]+Enhanced+Boss+Bars.zip"
+hash = "3e6d193154244adf3321fe897e9348608968583267283e9764d8d40765c641b1"
+
+[[files]]
+file = "config/paxi/resourcepacks/loremlpsum-s-boats-v02.zip"
+hash = "d462c304296810fcf8ae490c4ca3a033e46a214b987f09f23ba1d9eecea5d07c"
+
+[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "0d456fc942c5c5cac422b51d4efffadc2d263b8b7d9e2b2d80950e7a1203500b"
 
