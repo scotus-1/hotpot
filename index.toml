@@ -598,6 +598,11 @@ hash = "cdc6994dedc82cf7807f6afbdde9000cf11841c174008b2aad20f62d9b0b08c7"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "9596dd55a4d88a1178ec46382d1642fbb442743217c66fdc8874be4232d17e2a"
+metafile = true
+
+[[files]]
 file = "mods/keybinds.pw.toml"
 hash = "729cbe277aa34adaa8404fed9c4edc10a300a850e2197468dcfc818e6d98010f"
 metafile = true
@@ -945,11 +950,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "8a4a4e24b30d401e195211153879287b4e2bb1bbb3e56d904ca84bffbecd7f99"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "4fc04c033645b48c12b44ad8fed2aeaa0d839ea9b1bb1846f4918d262da347d9"
 metafile = true
 
 [[files]]
