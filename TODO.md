@@ -1,1 +1,14 @@
 - customize vanilla refresh options
+- tweak structure generation
+- tweak biome generation
+- configure certain hud elements
+- disable certain structures to reduce redundancy
+- configure certain messages to not show
+- server config/performance mods
+- COMPATIBILITY DATAPACKS + resource packs + modded compat mods (stay true)
+- configure paxi and replace currently existing resourcepack order
+- Update resoucepacks and shaderpacks
+- configure shaderpacks
+- compare journey map with xaero's
+
+- MERGE WITH MASTER BRANCH 
