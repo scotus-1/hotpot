@@ -5,6 +5,34 @@ file = "TODO.md"
 hash = "f3c1ab57953b33a35dc35585b3e30ba6ed6d2bd2bbaed07714c4b799fa33ffbd"
 
 [[files]]
+file = "config/paxi/datapacks/New-Shipwrecks-Data-Pack-1.19.1.zip"
+hash = "1e28f150a949a6cc0e310332103de7be0fcb93d147bb592927f7f557118e7fdc"
+
+[[files]]
+file = "config/paxi/datapacks/Structory_1.19.3_v1.3.1a.zip"
+hash = "2565edc89f0659f7a78dd303d32614257f1331dc22cd673f16245c0742c2fe22"
+
+[[files]]
+file = "config/paxi/datapacks/Structory_Towers_1.19.3_v1.0.2.zip"
+hash = "f6fa52547b0e91ee3c3036bb64eaec586c84e2eb69a374ffc1e41c6afc118131"
+
+[[files]]
+file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.0.2_Fabric_Waystones.zip"
+hash = "ea056a272ca794ba9cdb86fa3a6dad302b2e2d6cd8dcaeb0324590b2e4753e18"
+
+[[files]]
+file = "config/paxi/datapacks/banner-flags-v1-4.zip"
+hash = "1bd2dc87cbb1f160b2661eac1f7823d94f415333e42d938b4c62453f5bc181a5"
+
+[[files]]
+file = "config/paxi/datapacks/ichphilipp-s-endcity-vanilla-v1-1-1-19.zip"
+hash = "528140805275f820c098f6c74cd3015d52333a64efce9aa63549a5d5c622b3ee"
+
+[[files]]
+file = "config/paxi/resourcepacks/Stardust Labs Omni-Biome Name Fix v1.5-1.19.zip"
+hash = "f49ae8dd36e520ce3b4557dfe049a1cc905222aa3ba0c6d7384eed50c8e9ebc5"
+
+[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "0d456fc942c5c5cac422b51d4efffadc2d263b8b7d9e2b2d80950e7a1203500b"
 
