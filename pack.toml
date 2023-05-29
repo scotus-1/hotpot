@@ -35,6 +35,7 @@ hash-format = "sha256"
 <<<<<<< master
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 hash = "c3c2e1d29f744bf35d22738e4c8fc5c1e7b2b71546a6c0177b2de552ef79578f"
 =======
 hash = "80f44b2bf39a5267b22eec02218977013a0a2e7da99541a50430f66e098569d2"
@@ -123,6 +124,9 @@ hash = "4fa1703d2c7d6ef7b3295c2361cc307d560f87d2f7e0e5141457a7bbd2c00e76"
 =======
 hash = "a35ea1e6053a1147762907c8eb646ecc4c50c4033ddcb1dad91aa3a0d9e42ce1"
 >>>>>>> Better igloos, underwater ruins, ruined portals
+=======
+hash = "373a16271a60d1a352d0263ce5f4be3baaf94e6e61349f90e76d50852273d80f"
+>>>>>>> Forgot to run packwiz refresh
 
 [versions]
 minecraft = "1.19.2"
