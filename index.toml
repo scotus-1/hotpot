@@ -98,8 +98,16 @@ file = "config/paxi/datapacks/banner-flags-v1-4.zip"
 hash = "1bd2dc87cbb1f160b2661eac1f7823d94f415333e42d938b4c62453f5bc181a5"
 
 [[files]]
+file = "config/paxi/datapacks/botw-guardians-data-pack.zip"
+hash = "6df88a0d9936fbd47a348d791671e48e0223d381edec1a9c4a0a5624b389d5af"
+
+[[files]]
 file = "config/paxi/datapacks/ichphilipp-s-endcity-vanilla-v1-1-1-19.zip"
 hash = "528140805275f820c098f6c74cd3015d52333a64efce9aa63549a5d5c622b3ee"
+
+[[files]]
+file = "config/paxi/datapacks/terratonic-1-19.zip"
+hash = "d7bd843dd8313a9f9345031a1a93566fa42d1aaac7d0d90a442ecee7bc42b4ae"
 
 [[files]]
 file = "config/paxi/resourcepacks/Stardust Labs Omni-Biome Name Fix v1.5-1.19.zip"

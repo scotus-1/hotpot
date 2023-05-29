@@ -37,6 +37,7 @@ hash-format = "sha256"
 <<<<<<< master
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 hash = "c3c2e1d29f744bf35d22738e4c8fc5c1e7b2b71546a6c0177b2de552ef79578f"
 =======
 hash = "80f44b2bf39a5267b22eec02218977013a0a2e7da99541a50430f66e098569d2"
@@ -131,6 +132,9 @@ hash = "373a16271a60d1a352d0263ce5f4be3baaf94e6e61349f90e76d50852273d80f"
 =======
 hash = "2611ba14f8fe09bc78ce3353b84f1f85256770e533725cafc2b630aa8e72ed0d"
 >>>>>>> Add bits and chisels
+=======
+hash = "389c144a664e9cae4c9b99ae15e867f02c772db659ba72aedca458fe798df72c"
+>>>>>>> Add terratonic and pray, botw-guardians
 
 [versions]
 minecraft = "1.19.2"
