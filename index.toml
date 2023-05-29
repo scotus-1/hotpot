@@ -433,6 +433,11 @@ hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
 metafile = true
