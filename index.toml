@@ -1334,6 +1334,11 @@ hash = "bc1b62598938b58e55c752af626425317ca67210d8b16bc0dd45c9efe8cdf284"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "ad6042e4db365e6be33c7562edf9a7f6a9373d389e408da2a25a35e2d0a8bca2"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scrolling-everywhere-fabric.pw.toml"
 hash = "4b739b90aa5ca2eac2b43a9482a0c0ee80718415352a0644e6770480ff38de32"
 metafile = true
@@ -1396,6 +1401,11 @@ metafile = true
 [[files]]
 file = "mods/stendhal.pw.toml"
 hash = "b4bff2848944097fff7cff99a65c0164e29c616ce83b7fc8261f0aef2db85f08"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "91f19dbba7e10acf290f9fad1277d1813b3a783d6c792674d98059816e422c9f"
 metafile = true
 
 [[files]]
