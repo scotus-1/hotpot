@@ -1132,3 +1132,18 @@ hash = "aa7f493d7d95e3b6785beba19cd2a5d5df579e6f66dbc56e3de7c4cfdc0aea74"
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.6.zip.txt"
 hash = "100af5573194338af3e25833d46a54d2ec0802d111e89b5ed727431aaac43e75"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "6610547224f85161e6ba49aaadfe882e058f2d3851dcef3b77ae9df1314f3dae"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-shaders-v4.pw.toml"
+hash = "d468216fa4b4917769fae3179b7bb47656f8a65474e87352d5b379783384e0af"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "04aca8185d12f687fee56369b4697e7389647bad4a0953ab9d558a04a84d4fab"
+metafile = true
