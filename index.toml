@@ -581,6 +581,11 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "84070bb5bd5ac094b111c08dcafdfa71e885c4cb5187097615e7b5ad2b6ebac8"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "2a978d8c0b447bb64aac579206b9ca85eb721a431d8af736d60633fabee22bb4"
 metafile = true
@@ -603,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "a206bc693d41eb72f431abfc5d4556f9e9bf7f0bb6237224b750df85aeddd434"
+metafile = true
+
+[[files]]
+file = "mods/compostable-rotten-flesh.pw.toml"
+hash = "73a28f82a993c2b18bba8ae656c82ccf346a0a3ce1eaa8aabc4f30b3363ff03f"
 metafile = true
 
 [[files]]
@@ -846,7 +856,15 @@ hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
 metafile = true
 
 [[files]]
+<<<<<<< master
 >>>>>>> World building, ampnether, seasons, farmers-delight, terralith, weathering
+=======
+file = "mods/expanded-trident-enchanting.pw.toml"
+hash = "b04cfa4c3e35e0ce69c87e6827ea861e0c6d4034d4a99675a4417e7babee0ff0"
+metafile = true
+
+[[files]]
+>>>>>>> Server-side tweaks, and performance mods
 file = "mods/extrasounds.pw.toml"
 hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
@@ -904,6 +922,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-respite-fabric.pw.toml"
 hash = "6d1fb32e4ebdb49d136e30df9c825e1bf45786e531435b3e2dda21fbb6de024f"
+metafile = true
+
+[[files]]
+file = "mods/fast-furnace-for-fabric.pw.toml"
+hash = "76ae7b18d65669df2facfd2790e7136f53b35d8b121a7be8ff0f66f774ac4b16"
 metafile = true
 
 [[files]]
@@ -1416,8 +1439,13 @@ hash = "c233c650158104d8e0ce392a11182f51dd2ea2d44bf9fb95df485649cda53f60"
 metafile = true
 
 [[files]]
+<<<<<<< master
 file = "mods/raised.pw.toml"
 hash = "99c8a639eaa387b2b24f1a5b3c1abd7d0573fc3010ea5558149153a0b8587017"
+=======
+file = "mods/recipe-cache.pw.toml"
+hash = "9a3ae5c72bc925fb64391a62bef32f2d585d40a52481dfa132e838e0cffadcd2"
+>>>>>>> Server-side tweaks, and performance mods
 metafile = true
 
 [[files]]
@@ -1453,6 +1481,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "48160b594ad78057a4ca17c07b52061ec1665c79ff30bc81c07d334610c6b21b"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "94d8491cd39504b6faa3fb1c3da6233dfc0dbf5d854798a53079fb3f7c5fdfd0"
 metafile = true
 
 [[files]]

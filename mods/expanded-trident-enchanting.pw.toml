@@ -1,0 +1,13 @@
+name = "Expanded Trident Enchanting"
+filename = "expanded-trident-enchanting-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nHOlhRg9/versions/1.0.4/expanded-trident-enchanting-1.0.4.jar"
+hash-format = "sha1"
+hash = "9aba1a05516a6edfe019958e46e86b60d7940a1a"
+
+[update]
+[update.modrinth]
+mod-id = "nHOlhRg9"
+version = "nq2rX4gZ"
