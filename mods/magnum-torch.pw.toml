@@ -1,0 +1,13 @@
+name = "Magnum Torch"
+filename = "MagnumTorch-v4.2.2-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jorDmSKv/versions/3R2flbZ6/MagnumTorch-v4.2.2-1.19.2-Fabric.jar"
+hash-format = "sha1"
+hash = "1f32fb153e27b3030dd7f39d4e0a5cf605f96c3c"
+
+[update]
+[update.modrinth]
+mod-id = "jorDmSKv"
+version = "3R2flbZ6"
