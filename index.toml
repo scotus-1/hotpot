@@ -996,8 +996,18 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+<<<<<<< master
 file = "mods/inspecio.pw.toml"
 hash = "373a56d7f4fb25661a0585492f7ea490e7613f1191e588fec08782438d52e1fd"
+=======
+file = "mods/inmis.pw.toml"
+hash = "f33cb6b8cbbbe875d2e70d680658dd69b118aa0bed21e9b046e6958c5f4c5477"
+metafile = true
+
+[[files]]
+file = "mods/inmisaddon.pw.toml"
+hash = "5c36215599cb311ed16854a94b30ed55effcfa2001927c1e632b370c7d9dab83"
+>>>>>>> Add backpacks, magnum-torch, natures compass
 metafile = true
 
 [[files]]
@@ -1144,8 +1154,13 @@ hash = "a20f068bdb57b53bde90dccdff3f3122f91563f6276eb56f432813e5a0cc4d19"
 metafile = true
 
 [[files]]
+<<<<<<< master
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "a348cac6a82b65dd907d857f1893fb44d724cd3d912975fb7325253eb7e7503a"
+=======
+file = "mods/magnum-torch.pw.toml"
+hash = "eab5cd13c974d6e3d816e72bea27c29112cb69c66042ba84820fd5ba47b14b21"
+>>>>>>> Add backpacks, magnum-torch, natures compass
 metafile = true
 
 [[files]]
@@ -1244,6 +1259,11 @@ metafile = true
 [[files]]
 file = "mods/music-duration-reducer.pw.toml"
 hash = "ccd193250a69fb505d43d27ba7df1f99f8984060ef0e4ab13b2d3152bcdc5e7e"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "1191c0ed4c2be46db9814885dc1beb33d22a2175758ad0af8a5a53afe851d7c6"
 metafile = true
 
 [[files]]
