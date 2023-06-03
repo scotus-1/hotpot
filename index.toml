@@ -472,6 +472,11 @@ hash = "8d8ba1d500070cac1b9961d78e2fd90d973cee01d373175d64e3250aa1d3b2c7"
 metafile = true
 
 [[files]]
+file = "mods/draggable-resource-packs.pw.toml"
+hash = "6e94a2241d03fff4d1eef01a82f161f741a76bc61d02ead1dcfeda76e84a815b"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "285da02342eee9622e3d2245212165c0563103d1ed54a03d485fa6939cf0b571"
 metafile = true
