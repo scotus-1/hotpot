@@ -1,0 +1,13 @@
+name = "BetterSleeping Revived"
+filename = "bettersleeping-0.6.1+1.19.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/WRzU60Pt/versions/0.6.1%2B1.19/bettersleeping-0.6.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "e68620bf3b999f03395e4be3bdd1ba44a5fb6920"
+
+[update]
+[update.modrinth]
+mod-id = "WRzU60Pt"
+version = "VP62T1za"
