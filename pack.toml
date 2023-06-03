@@ -43,6 +43,7 @@ hash-format = "sha256"
 <<<<<<< master
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 hash = "c3c2e1d29f744bf35d22738e4c8fc5c1e7b2b71546a6c0177b2de552ef79578f"
 =======
 hash = "80f44b2bf39a5267b22eec02218977013a0a2e7da99541a50430f66e098569d2"
@@ -155,6 +156,9 @@ hash = "681945b37112b91ae7249e2731fadf4276c0ac57239c8e63d04f1a3e71563947"
 =======
 hash = "d17837d85333f478b3d27ac8ed9fd3a84192501306fae3c300543ff91bae0a21"
 >>>>>>> ComputerCraftgit status!
+=======
+hash = "81db6e6af6c75dcdd0df4230a613241cc4632c70fd3109d272ccf65d014f5b9d"
+>>>>>>> Update TODO, add perf mods (structures, chunk-save)
 
 [versions]
 minecraft = "1.19.2"

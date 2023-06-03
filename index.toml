@@ -1549,6 +1549,11 @@ hash = "bc1b62598938b58e55c752af626425317ca67210d8b16bc0dd45c9efe8cdf284"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "ad6042e4db365e6be33c7562edf9a7f6a9373d389e408da2a25a35e2d0a8bca2"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scrolling-everywhere-fabric.pw.toml"
 hash = "4b739b90aa5ca2eac2b43a9482a0c0ee80718415352a0644e6770480ff38de32"
 metafile = true
@@ -1619,6 +1624,7 @@ metafile = true
 <<<<<<< master
 <<<<<<< master
 <<<<<<< master
+<<<<<<< master
 file = "mods/stylish-effects.pw.toml"
 hash = "d273fdfc26be30f3eca414d7ea4d4eed6e716a0625de31224eb86c8d00f2ff09"
 =======
@@ -1643,6 +1649,13 @@ metafile = true
 >>>>>>> CT Overhauled villages, readd structory, other structures
 =======
 >>>>>>> Remove c2me, lanters, structory for now, wwoo, update qkl, add dep
+=======
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "91f19dbba7e10acf290f9fad1277d1813b3a783d6c792674d98059816e422c9f"
+metafile = true
+
+[[files]]
+>>>>>>> Update TODO, add perf mods (structures, chunk-save)
 file = "mods/supplementaries.pw.toml"
 hash = "fe03d60134dc47ae7945cf435f52bcb10e3ba244ec80c594c8d5a3708977f49a"
 >>>>>>> Qol and content; bedspreads, vslabs, lanters, mobs, supplementaries, fire

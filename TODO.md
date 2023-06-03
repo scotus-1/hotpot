@@ -1,4 +1,3 @@
-- server config/performance mods
 - COMPATIBILITY DATAPACKS + resource packs + modded compat mods (stay true)
 - tweak structure generation
 - tweak biome generation
