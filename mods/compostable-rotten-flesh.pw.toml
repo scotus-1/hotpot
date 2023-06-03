@@ -1,0 +1,13 @@
+name = "Compostable Rotten Flesh (Fabric)"
+filename = "compostable-rottenflesh-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ebb3e945b8dd6743668930734e3c7dcbc71c1418"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3832229
+project-id = 452832
