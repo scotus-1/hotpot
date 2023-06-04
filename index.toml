@@ -768,11 +768,6 @@ hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
 metafile = true
 
 [[files]]
-file = "mods/multiconnect.pw.toml"
-hash = "fb37c5d83d6827c4b3cf2b5e7dc01b90b86374527ed05f68e8c01f030f265212"
-metafile = true
-
-[[files]]
 file = "mods/music-duration-reducer.pw.toml"
 hash = "ccd193250a69fb505d43d27ba7df1f99f8984060ef0e4ab13b2d3152bcdc5e7e"
 metafile = true
@@ -859,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
+hash = "977fa64f69701ba5617640bf048abc10257ed00ddba615ceca1b52e65e118c2f"
 metafile = true
 
 [[files]]
@@ -1118,19 +1113,7 @@ file = "resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.3.1]§0.zip"
 hash = "5bd8f4b8186dadb568e0f0e54a268857bddd99a379f2e28860c9a81169c7e0b9"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.4.zip"
-hash = "592c12605d03c345e15698d6020a892c865f56b3bcb117bcc9e41358f7df6584"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.4.zip.txt"
-hash = "867b3f491f8be01ba791a1c13067fb5081c8c78bf05a3b2f851913f38314c117"
-
-[[files]]
-file = "shaderpacks/ComplementaryShaders_v4.6.zip"
-hash = "aa7f493d7d95e3b6785beba19cd2a5d5df579e6f66dbc56e3de7c4cfdc0aea74"
-
-[[files]]
-file = "shaderpacks/ComplementaryShaders_v4.6.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.txt"
 hash = "100af5573194338af3e25833d46a54d2ec0802d111e89b5ed727431aaac43e75"
 
 [[files]]
@@ -1145,5 +1128,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "04aca8185d12f687fee56369b4697e7389647bad4a0953ab9d558a04a84d4fab"
+hash = "b7a6c9f0966fb1dacd80893f5041feddfe0206ce952958fc49ea08e7dcc2da69"
 metafile = true
