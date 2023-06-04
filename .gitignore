@@ -1,6 +1,4 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
-
 *.log
-*.py
 .idea
