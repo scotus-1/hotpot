@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
 file = "config/paxi/resourcepacks/EclecticTrove-noconfig-1.19-1.2.0.zip"
 hash = "ebbbb5006ec55769913c20d5600afbd67aaf7a893a8923453d3b4a2c1b441693"
 
@@ -41,8 +45,36 @@ file = "config/paxi/resourcepacks/[1.2]+Enhanced+Boss+Bars.zip"
 hash = "3e6d193154244adf3321fe897e9348608968583267283e9764d8d40765c641b1"
 
 [[files]]
+file = "config/paxi/resourcepacks/chests-to-pouches-e2000.zip"
+hash = "17526f475fc7d0c9e5fc20ee7b89c897fc041a507fee03aeb245a39fa2d06fb1"
+
+[[files]]
+file = "config/paxi/resourcepacks/kubban-s-saplings-e1040.zip"
+hash = "20df4f46d474eeef325978358a88ba345cb6f7859fd3d581e8754677f8ccc8d5"
+
+[[files]]
 file = "config/paxi/resourcepacks/loremlpsum-s-boats-v02.zip"
 hash = "d462c304296810fcf8ae490c4ca3a033e46a214b987f09f23ba1d9eecea5d07c"
+
+[[files]]
+file = "config/paxi/resourcepacks/xali's+Enchanted+Books+v0.12.0.zip"
+hash = "441dff2b6a130c0028daf44972883f08dfbc55935d4b9cf9123db6687969df5f"
+
+[[files]]
+file = "config/paxi/resourcepacks/xali's+Enhanced+Vanilla+v1.11.1.zip"
+hash = "c6b7555458d3e6a206514752cf32823f4da0de8febf58b653f3a4f5fb2988009"
+
+[[files]]
+file = "config/paxi/resourcepacks/xali's+Potions+v1.0.zip"
+hash = "f6d453bd60909dae3218ac4f42bbec8168aee1ded499977837dfe8d4691412ea"
+
+[[files]]
+file = "config/paxi/resourcepacks/§6Cakes+Reimagined§8-[v1].zip"
+hash = "23db68c9ea557ea1ec287a3bf420de502082dac144c317a13edab23fb7f8b140"
+
+[[files]]
+file = "config/paxi/resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.3.1]§0.zip"
+hash = "5bd8f4b8186dadb568e0f0e54a268857bddd99a379f2e28860c9a81169c7e0b9"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
@@ -1069,10 +1101,6 @@ file = "resourcepacks/13.zip"
 hash = "f0444baf45c5e1d76965803368bd06a791c3c7c3bd8cadab895fa07d0d99acea"
 
 [[files]]
-file = "resourcepacks/Enhanced+Boss+Bars+1.1.zip"
-hash = "9efac70604c3523f8f725ebbeb7a6908f83fbed11dd8f1ff01be0037382252af"
-
-[[files]]
 file = "resourcepacks/NoBushyLeaves.zip"
 hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
 
@@ -1081,36 +1109,8 @@ file = "resourcepacks/Stay_True_1.19.zip"
 hash = "3b4b5ceea9de7780e380fbb858bc8d7ec25c503dffb5c886a8db5768369c8ff0"
 
 [[files]]
-file = "resourcepacks/chests-to-pouches-e2000.zip"
-hash = "17526f475fc7d0c9e5fc20ee7b89c897fc041a507fee03aeb245a39fa2d06fb1"
-
-[[files]]
-file = "resourcepacks/kubban-s-saplings-e1040.zip"
-hash = "20df4f46d474eeef325978358a88ba345cb6f7859fd3d581e8754677f8ccc8d5"
-
-[[files]]
 file = "resourcepacks/vanilla-additions-dark-gui-add-on-1-3.zip"
 hash = "0c03c00ad2b64b6c353159679a5ca6434d8aeff837317213fdcd0c23a8526f2a"
-
-[[files]]
-file = "resourcepacks/xali's+Enchanted+Books+v0.12.0.zip"
-hash = "441dff2b6a130c0028daf44972883f08dfbc55935d4b9cf9123db6687969df5f"
-
-[[files]]
-file = "resourcepacks/xali's+Enhanced+Vanilla+v1.11.1.zip"
-hash = "c6b7555458d3e6a206514752cf32823f4da0de8febf58b653f3a4f5fb2988009"
-
-[[files]]
-file = "resourcepacks/xali's+Potions+v1.0.zip"
-hash = "f6d453bd60909dae3218ac4f42bbec8168aee1ded499977837dfe8d4691412ea"
-
-[[files]]
-file = "resourcepacks/§6Cakes+Reimagined§8-[v1].zip"
-hash = "23db68c9ea557ea1ec287a3bf420de502082dac144c317a13edab23fb7f8b140"
-
-[[files]]
-file = "resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.3.1]§0.zip"
-hash = "5bd8f4b8186dadb568e0f0e54a268857bddd99a379f2e28860c9a81169c7e0b9"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.txt"
