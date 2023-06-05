@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "dc7d49f501f8f32cb3cc5a9c09afcae8f7d38e16837013319a16769d2b0d8329"
+hash = "dc18f26ef1c3ca66c47b25cd84e3e466c512ecb99e621ac28582d8fa7f0c1d9c"
 
 [[files]]
 file = "config/paxi/resourcepacks/13.zip"
@@ -42,7 +42,7 @@ hash = "28a0eda2bf7b5238054a03bb1da813995080254586d4150aaa8d0793150b4fe8"
 
 [[files]]
 file = "config/paxi/resourcepacks/Recreated containers free version.zip"
-hash = "2a55f59cbd2774bbd3e880732ad717295d486564fb60030ce8c5f4bb40c1eb78"
+hash = "49b4cee6c4363af18a02424e0b75897ee651813ef4e9c6790cefed4d1fad96bf"
 
 [[files]]
 file = "config/paxi/resourcepacks/[1.2]+Enhanced+Boss+Bars.zip"
@@ -55,10 +55,6 @@ hash = "17526f475fc7d0c9e5fc20ee7b89c897fc041a507fee03aeb245a39fa2d06fb1"
 [[files]]
 file = "config/paxi/resourcepacks/kubban-s-saplings-e1040.zip"
 hash = "20df4f46d474eeef325978358a88ba345cb6f7859fd3d581e8754677f8ccc8d5"
-
-[[files]]
-file = "config/paxi/resourcepacks/loremlpsum-s-boats-v02.zip"
-hash = "d462c304296810fcf8ae490c4ca3a033e46a214b987f09f23ba1d9eecea5d07c"
 
 [[files]]
 file = "config/paxi/resourcepacks/xali's+Enchanted+Books+v0.12.0.zip"
@@ -82,7 +78,7 @@ hash = "0d456fc942c5c5cac422b51d4efffadc2d263b8b7d9e2b2d80950e7a1203500b"
 
 [[files]]
 file = "config/yosbr/config/clienttweaks.toml"
-hash = "ddef033d092be5955ff97fd548e51d4988ee185f23274c8274ee03203412361b"
+hash = "e009bcf712cc2e74e62afd7790a3f296dc6647d8596cde1b2e7c1982c77a8908"
 
 [[files]]
 file = "config/yosbr/config/customsplashscreen.json5"
@@ -1085,10 +1081,6 @@ hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
 
 [[files]]
-file = "outdated_modlist.txt"
-hash = "461fb821d78cd6802414e3811ffbe91375dd6f43e6c28233087a4016367080c8"
-
-[[files]]
 file = "removed_mods.txt"
 hash = "3938110ff42512bbff6a0ecb762b40e895341536d881e7b6fa4eb33d26ed81ea"
 
@@ -1097,16 +1089,16 @@ file = "resourcepacks.txt"
 hash = "e2640f715c069182527fc05abfb0457fb5255980f8bf56cbcfc5f56c7feb5b3d"
 
 [[files]]
+file = "resourcepacks/Default-Dark-Mode-1.19.2-v1.4.0.zip"
+hash = "11122d9dac0d86fac2d32743ac15f87cde82993cccc56bab56151711c2a4ebb5"
+
+[[files]]
 file = "resourcepacks/NoBushyLeaves.zip"
 hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
 
 [[files]]
 file = "resourcepacks/Stay_True_1.19.zip"
 hash = "3b4b5ceea9de7780e380fbb858bc8d7ec25c503dffb5c886a8db5768369c8ff0"
-
-[[files]]
-file = "resourcepacks/vanilla-additions-dark-gui-add-on-1-3.zip"
-hash = "0c03c00ad2b64b6c353159679a5ca6434d8aeff837317213fdcd0c23a8526f2a"
 
 [[files]]
 file = "resourcepacks/xali's+Enhanced+Vanilla+v1.11.1.zip"
