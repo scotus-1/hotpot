@@ -81,10 +81,6 @@ file = "config/yosbr/config/clienttweaks.toml"
 hash = "e009bcf712cc2e74e62afd7790a3f296dc6647d8596cde1b2e7c1982c77a8908"
 
 [[files]]
-file = "config/yosbr/config/customsplashscreen.json5"
-hash = "62efa45f4e418f27a9f9f08416f93464b4163c5c7d32c693b2bb1b10b4dacea3"
-
-[[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "54c73f9f9e41e7759f6ccc6b6005b323a808fcbf7ddde715498143fc474c7b91"
 
