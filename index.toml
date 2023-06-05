@@ -73,20 +73,40 @@ file = "config/paxi/resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.3.1]§0.
 hash = "5bd8f4b8186dadb568e0f0e54a268857bddd99a379f2e28860c9a81169c7e0b9"
 
 [[files]]
+file = "config/yosbr/config/autohud.json5"
+hash = "e016d9a1ce6ae8dc3b9f6fd37b72117a762491c5c63fd1c50ade82c1b38b5460"
+
+[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "0d456fc942c5c5cac422b51d4efffadc2d263b8b7d9e2b2d80950e7a1203500b"
 
 [[files]]
+file = "config/yosbr/config/blur.json"
+hash = "89b143c98330cbfb95bfa70d76a6e62cf27903e246663d709a243f7282d77c3e"
+
+[[files]]
+file = "config/yosbr/config/chunksfadein.properties"
+hash = "70822d770f9a22867cc7580c0e9ee7e36ce2e769e6d5691ebe583e9765867a0a"
+
+[[files]]
 file = "config/yosbr/config/clienttweaks.toml"
-hash = "e009bcf712cc2e74e62afd7790a3f296dc6647d8596cde1b2e7c1982c77a8908"
+hash = "34975366a08e03b89ecc0540563341b4ac525f7a697965b149f3756f893bf291"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "54c73f9f9e41e7759f6ccc6b6005b323a808fcbf7ddde715498143fc474c7b91"
 
 [[files]]
+file = "config/yosbr/config/effective.json"
+hash = "8e6d6cd2b44c52e102e42eca56a218b3dfb6e1111cd668cdb3540095baa7da93"
+
+[[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
 hash = "098adc622f69deb5b065274f50ee8c3d764d362c21cf08a80cc3fc400dd024fe"
+
+[[files]]
+file = "config/yosbr/config/fabrishot.properties"
+hash = "4e534d4980be2767674f2d3c396fcb9409583f9f789ceea1a1a4905072e37b8b"
 
 [[files]]
 file = "config/yosbr/config/fallingleaves.json"
@@ -150,7 +170,7 @@ hash = "c9b843a1d89fbd86aa5e10f015d6ebad265897bfac6f2642f1f46a3c23073e86"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
-hash = "f9b7f08fdd9c3af02879db2ca5f8051bd4eb601ad0d966adb1ab74783dfeb5e9"
+hash = "005d898b2f6a8f328a2954b1244f869192a9b39b840da6b9f55508c5e0a8fa5f"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/cts.groovy"
