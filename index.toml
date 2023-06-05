@@ -1,7 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
-<<<<<<< master
+file = "TODO.md"
+hash = "73e1eb6e85abcaeaea94f6a8003ae164d5f92e77970ab20bead7edbe970aeac4"
+
+[[files]]
+file = "config/paxi/datapacks/New-Shipwrecks-Data-Pack-1.19.1.zip"
+hash = "1e28f150a949a6cc0e310332103de7be0fcb93d147bb592927f7f557118e7fdc"
+
+[[files]]
+file = "config/paxi/datapacks/Structory_1.19.3_v1.3.1a.zip"
+hash = "2565edc89f0659f7a78dd303d32614257f1331dc22cd673f16245c0742c2fe22"
+
+[[files]]
+file = "config/paxi/datapacks/Structory_Towers_1.19.3_v1.0.2.zip"
+hash = "f6fa52547b0e91ee3c3036bb64eaec586c84e2eb69a374ffc1e41c6afc118131"
+
+[[files]]
+file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.0.2_Fabric_Waystones.zip"
+hash = "ea056a272ca794ba9cdb86fa3a6dad302b2e2d6cd8dcaeb0324590b2e4753e18"
+
+[[files]]
+file = "config/paxi/datapacks/banner-flags-v1-4.zip"
+hash = "1bd2dc87cbb1f160b2661eac1f7823d94f415333e42d938b4c62453f5bc181a5"
+
+[[files]]
+file = "config/paxi/datapacks/botw-guardians-data-pack.zip"
+hash = "6df88a0d9936fbd47a348d791671e48e0223d381edec1a9c4a0a5624b389d5af"
+
+[[files]]
+file = "config/paxi/datapacks/ichphilipp-s-endcity-vanilla-v1-1-1-19.zip"
+hash = "528140805275f820c098f6c74cd3015d52333a64efce9aa63549a5d5c622b3ee"
+
+[[files]]
+file = "config/paxi/datapacks/terratonic-1-19.zip"
+hash = "d7bd843dd8313a9f9345031a1a93566fa42d1aaac7d0d90a442ecee7bc42b4ae"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "dc18f26ef1c3ca66c47b25cd84e3e466c512ecb99e621ac28582d8fa7f0c1d9c"
 
@@ -42,6 +77,10 @@ file = "config/paxi/resourcepacks/Icons+V.1.7.1.zip"
 hash = "28a0eda2bf7b5238054a03bb1da813995080254586d4150aaa8d0793150b4fe8"
 
 [[files]]
+file = "config/paxi/resourcepacks/Stardust Labs Omni-Biome Name Fix v1.5-1.19.zip"
+hash = "f49ae8dd36e520ce3b4557dfe049a1cc905222aa3ba0c6d7384eed50c8e9ebc5"
+
+[[files]]
 file = "config/paxi/resourcepacks/[1.2]+Enhanced+Boss+Bars.zip"
 hash = "3e6d193154244adf3321fe897e9348608968583267283e9764d8d40765c641b1"
 
@@ -72,62 +111,42 @@ hash = "23db68c9ea557ea1ec287a3bf420de502082dac144c317a13edab23fb7f8b140"
 [[files]]
 file = "config/paxi/resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.3.1]§0.zip"
 hash = "5bd8f4b8186dadb568e0f0e54a268857bddd99a379f2e28860c9a81169c7e0b9"
-=======
-file = "TODO.md"
-hash = "f3c1ab57953b33a35dc35585b3e30ba6ed6d2bd2bbaed07714c4b799fa33ffbd"
->>>>>>> Remove c3h6n6o6 due to weird bug?
 
 [[files]]
-file = "config/paxi/datapacks/New-Shipwrecks-Data-Pack-1.19.1.zip"
-hash = "1e28f150a949a6cc0e310332103de7be0fcb93d147bb592927f7f557118e7fdc"
-
-[[files]]
-file = "config/paxi/datapacks/Structory_1.19.3_v1.3.1a.zip"
-hash = "2565edc89f0659f7a78dd303d32614257f1331dc22cd673f16245c0742c2fe22"
-
-[[files]]
-file = "config/paxi/datapacks/Structory_Towers_1.19.3_v1.0.2.zip"
-hash = "f6fa52547b0e91ee3c3036bb64eaec586c84e2eb69a374ffc1e41c6afc118131"
-
-[[files]]
-file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.0.2_Fabric_Waystones.zip"
-hash = "ea056a272ca794ba9cdb86fa3a6dad302b2e2d6cd8dcaeb0324590b2e4753e18"
-
-[[files]]
-file = "config/paxi/datapacks/banner-flags-v1-4.zip"
-hash = "1bd2dc87cbb1f160b2661eac1f7823d94f415333e42d938b4c62453f5bc181a5"
-
-[[files]]
-file = "config/paxi/datapacks/botw-guardians-data-pack.zip"
-hash = "6df88a0d9936fbd47a348d791671e48e0223d381edec1a9c4a0a5624b389d5af"
-
-[[files]]
-file = "config/paxi/datapacks/ichphilipp-s-endcity-vanilla-v1-1-1-19.zip"
-hash = "528140805275f820c098f6c74cd3015d52333a64efce9aa63549a5d5c622b3ee"
-
-[[files]]
-file = "config/paxi/datapacks/terratonic-1-19.zip"
-hash = "d7bd843dd8313a9f9345031a1a93566fa42d1aaac7d0d90a442ecee7bc42b4ae"
-
-[[files]]
-file = "config/paxi/resourcepacks/Stardust Labs Omni-Biome Name Fix v1.5-1.19.zip"
-hash = "f49ae8dd36e520ce3b4557dfe049a1cc905222aa3ba0c6d7384eed50c8e9ebc5"
+file = "config/yosbr/config/autohud.json5"
+hash = "e016d9a1ce6ae8dc3b9f6fd37b72117a762491c5c63fd1c50ade82c1b38b5460"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "0d456fc942c5c5cac422b51d4efffadc2d263b8b7d9e2b2d80950e7a1203500b"
 
 [[files]]
+file = "config/yosbr/config/blur.json"
+hash = "89b143c98330cbfb95bfa70d76a6e62cf27903e246663d709a243f7282d77c3e"
+
+[[files]]
+file = "config/yosbr/config/chunksfadein.properties"
+hash = "70822d770f9a22867cc7580c0e9ee7e36ce2e769e6d5691ebe583e9765867a0a"
+
+[[files]]
 file = "config/yosbr/config/clienttweaks.toml"
-hash = "e009bcf712cc2e74e62afd7790a3f296dc6647d8596cde1b2e7c1982c77a8908"
+hash = "34975366a08e03b89ecc0540563341b4ac525f7a697965b149f3756f893bf291"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "54c73f9f9e41e7759f6ccc6b6005b323a808fcbf7ddde715498143fc474c7b91"
 
 [[files]]
+file = "config/yosbr/config/effective.json"
+hash = "8e6d6cd2b44c52e102e42eca56a218b3dfb6e1111cd668cdb3540095baa7da93"
+
+[[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
 hash = "098adc622f69deb5b065274f50ee8c3d764d362c21cf08a80cc3fc400dd024fe"
+
+[[files]]
+file = "config/yosbr/config/fabrishot.properties"
+hash = "4e534d4980be2767674f2d3c396fcb9409583f9f789ceea1a1a4905072e37b8b"
 
 [[files]]
 file = "config/yosbr/config/fallingleaves.json"
@@ -191,7 +210,7 @@ hash = "c9b843a1d89fbd86aa5e10f015d6ebad265897bfac6f2642f1f46a3c23073e86"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
-hash = "f9b7f08fdd9c3af02879db2ca5f8051bd4eb601ad0d966adb1ab74783dfeb5e9"
+hash = "005d898b2f6a8f328a2954b1244f869192a9b39b840da6b9f55508c5e0a8fa5f"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/cts.groovy"
@@ -353,21 +372,18 @@ hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
 
 [[files]]
-<<<<<<< master
-<<<<<<< master
 file = "mods/beautified-chat-client.pw.toml"
 hash = "53263f4c92485d67188073ea13cc35d13fb9edf0d0561ecb08922ac1ca825bfe"
-=======
-=======
+metafile = true
+
+[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "2328456577abf088917a2e855afddd1a72ae752ee2bb8b1a5f64127b36c25141"
 metafile = true
 
 [[files]]
->>>>>>> Furniture mods!
 file = "mods/bedspreads.pw.toml"
 hash = "6eb0b682608efaf6c7e6b7310014a2933f4563422a9e0bbc96a05ad4ed57b900"
->>>>>>> Qol and content; bedspreads, vslabs, lanters, mobs, supplementaries, fire
 metafile = true
 
 [[files]]
@@ -496,18 +512,13 @@ hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
 
 [[files]]
-<<<<<<< master
-file = "mods/cave-dust.pw.toml"
-hash = "4c73f1af05cf34a30401806f28cc9bda4f6cdf64e8f0b76744380c1fb6f9bd41"
+file = "mods/capybara-fabric.pw.toml"
+hash = "66da0fec8e8aef0a2937aed297cf37a7f66d59254064d11984cc60f98a343c39"
 metafile = true
 
 [[files]]
-file = "mods/celestria.pw.toml"
-hash = "b3eda177d099ef511ccdd9d738d902c6c10f4037bd7dd0869ae9a3ff545a5d91"
-=======
-file = "mods/capybara-fabric.pw.toml"
-hash = "66da0fec8e8aef0a2937aed297cf37a7f66d59254064d11984cc60f98a343c39"
->>>>>>> Capybaras, scarecrows, shinyhorses, bookshelves, moved cf2mr for wwoo
+file = "mods/cave-dust.pw.toml"
+hash = "4c73f1af05cf34a30401806f28cc9bda4f6cdf64e8f0b76744380c1fb6f9bd41"
 metafile = true
 
 [[files]]
@@ -518,6 +529,11 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "72a444170f6963bc57c323f98d01d22bdcd400be26a2bfd1d3d02ea34ad096de"
+metafile = true
+
+[[files]]
+file = "mods/celestria.pw.toml"
+hash = "b3eda177d099ef511ccdd9d738d902c6c10f4037bd7dd0869ae9a3ff545a5d91"
 metafile = true
 
 [[files]]
@@ -541,13 +557,13 @@ hash = "9cba2d347b86155259f77c55a5aeff95c1e865ff3e55146541d0f4d6fb27c8f1"
 metafile = true
 
 [[files]]
-<<<<<<< master
-file = "mods/chunks-fade-in.pw.toml"
-hash = "44c83aabe1cb66201f4a2f7e6ccbfea2c226234a4c52103ef8d865526390b736"
-=======
 file = "mods/chimes.pw.toml"
 hash = "909b55ac783674e90b97d08098f3d2ef7d111011b5a607a1eb30821150b60166"
->>>>>>> Added lesser content mods
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "44c83aabe1cb66201f4a2f7e6ccbfea2c226234a4c52103ef8d865526390b736"
 metafile = true
 
 [[files]]
@@ -736,18 +752,16 @@ hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
 
 [[files]]
-<<<<<<< master
-<<<<<<< master
-file = "mods/detail-armor-bar.pw.toml"
-hash = "59c6d5913981335b2a8870c74497807e575ee5d2843391ef708527bdbb1adbc8"
-=======
-=======
 file = "mods/deepslatecutting.pw.toml"
 hash = "0479206225a4fe784aa2866d422a0f9bad857a8c1ade89179d6626f812c4fbb8"
 metafile = true
 
 [[files]]
->>>>>>> Additional tweaks and content, banners, addadd, additionz
+file = "mods/detail-armor-bar.pw.toml"
+hash = "59c6d5913981335b2a8870c74497807e575ee5d2843391ef708527bdbb1adbc8"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "b13f9012e1dff94729790a6500996fd1b6790daa5a1b5e42a3926813f2960452"
 metafile = true
@@ -755,7 +769,6 @@ metafile = true
 [[files]]
 file = "mods/diagonal-panes.pw.toml"
 hash = "435898f472db8bf1d7a295f52528540aa3965cf0f2110912eba8260618512ff4"
->>>>>>> QoL mods, airhop, aqtorches, axes, minecarts, conforts, chains, diagonals
 metafile = true
 
 [[files]]
@@ -859,27 +872,16 @@ hash = "10841bfee1d7ad02433dd48297d4ba5dd4bae64338e4f599bf4bfe510ddc1b29"
 metafile = true
 
 [[files]]
-<<<<<<< master
-=======
-file = "mods/exordium.pw.toml"
-hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
-metafile = true
-
-[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
 metafile = true
 
 [[files]]
-<<<<<<< master
->>>>>>> World building, ampnether, seasons, farmers-delight, terralith, weathering
-=======
 file = "mods/expanded-trident-enchanting.pw.toml"
 hash = "b04cfa4c3e35e0ce69c87e6827ea861e0c6d4034d4a99675a4417e7babee0ff0"
 metafile = true
 
 [[files]]
->>>>>>> Server-side tweaks, and performance mods
 file = "mods/extrasounds.pw.toml"
 hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
@@ -955,13 +957,13 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
-<<<<<<< master
 file = "mods/first-person-model.pw.toml"
 hash = "6cb556d3b5465773706eba1bde31a7e0a3649d3eba27f7a2c8fe637592cdba0d"
-=======
+metafile = true
+
+[[files]]
 file = "mods/fish-on-the-line.pw.toml"
 hash = "4ff91725a853075dd7f65be70261737cd50d359bd3f224429a11f9dc005fd2eb"
->>>>>>> Qol + removing the grind mods
 metafile = true
 
 [[files]]
@@ -970,29 +972,11 @@ hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
 
 [[files]]
-<<<<<<< master
-<<<<<<< master
-file = "mods/horsebuff.pw.toml"
-hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
-=======
-=======
 file = "mods/fwaystones.pw.toml"
 hash = "5ebaa368b8497942a070b4216a182d6850bbd1e6dd19390c34b47b07b5b0887f"
 metafile = true
 
 [[files]]
-<<<<<<< master
-<<<<<<< master
->>>>>>> Add audioplayer, svc, rei, pyrotastic, fwaystones
-=======
-file = "mods/geophilic.pw.toml"
-hash = "5d5e6d15156b2452e86faf869b21643a7cf5e90af7747071044500adba22c305"
-metafile = true
-
-[[files]]
->>>>>>> Add smaller structure mods, geophilic and chefsdelight
-=======
->>>>>>> Replace geophilic with WWOO
 file = "mods/gliders.pw.toml"
 hash = "53e09b8fdb648d4186eb7a652d0e2ac470eccd9c4bc0e3a694127574237ce3c2"
 metafile = true
@@ -1000,12 +984,6 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b92f07d5a77d6dfff1a693dae256925da90483633835a4c307c95d28a12f372c"
-metafile = true
-
-[[files]]
-file = "mods/harvest-with-ease.pw.toml"
-hash = "49431809d2d2402fb157fd87413e28da5484cf5ff3d9aeae00f169500b162134"
->>>>>>> add gliders
 metafile = true
 
 [[files]]
@@ -1021,6 +999,11 @@ metafile = true
 [[files]]
 file = "mods/horse-expert.pw.toml"
 hash = "05bef401a05e8691fd02a7caefe4bff6af929cc01e35f1ba086df2b725cf1b56"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
 metafile = true
 
 [[files]]
@@ -1049,10 +1032,6 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
-<<<<<<< master
-file = "mods/inspecio.pw.toml"
-hash = "373a56d7f4fb25661a0585492f7ea490e7613f1191e588fec08782438d52e1fd"
-=======
 file = "mods/inmis.pw.toml"
 hash = "f33cb6b8cbbbe875d2e70d680658dd69b118aa0bed21e9b046e6958c5f4c5477"
 metafile = true
@@ -1060,7 +1039,11 @@ metafile = true
 [[files]]
 file = "mods/inmisaddon.pw.toml"
 hash = "5c36215599cb311ed16854a94b30ed55effcfa2001927c1e632b370c7d9dab83"
->>>>>>> Add backpacks, magnum-torch, natures compass
+metafile = true
+
+[[files]]
+file = "mods/inspecio.pw.toml"
+hash = "373a56d7f4fb25661a0585492f7ea490e7613f1191e588fec08782438d52e1fd"
 metafile = true
 
 [[files]]
@@ -1104,8 +1087,6 @@ hash = "cdc6994dedc82cf7807f6afbdde9000cf11841c174008b2aad20f62d9b0b08c7"
 metafile = true
 
 [[files]]
-<<<<<<< master
-<<<<<<< master
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "6f6c3d6646f445f0614c57d9b3c4d56d5b5057d6370f18ed8ac255dc8b65dbbd"
 metafile = true
@@ -1113,14 +1094,14 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
-=======
-=======
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "6cb50f4dcb3f6ba70ecbae01c0691b25fb40610a859aa41bf6ce261ad70429d2"
 metafile = true
 
 [[files]]
->>>>>>> QoL, herdspanic, cosmentic-skin, snow, trinkets
 file = "mods/joy-of-painting.pw.toml"
 hash = "3a18abe31426a5abe8a607794c0d22cbb726d9c1696ef9a21edded0ff26f85a1"
 metafile = true
@@ -1128,7 +1109,6 @@ metafile = true
 [[files]]
 file = "mods/jumpy-boats-fabric.pw.toml"
 hash = "ae6ba8751a4bffab1cdb430210a08f498f28fa6c5ab0775aac4a7c242fb9df0b"
->>>>>>> Create fcsp++ branch, paintings, jump boats, snowundertrees
 metafile = true
 
 [[files]]
@@ -1142,13 +1122,13 @@ hash = "729cbe277aa34adaa8404fed9c4edc10a300a850e2197468dcfc818e6d98010f"
 metafile = true
 
 [[files]]
-<<<<<<< master
-file = "mods/krypton.pw.toml"
-hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
-=======
 file = "mods/kiwi.pw.toml"
 hash = "2ce31ab44b467a2d2ca1ef630ff879ae33236149ee02abb9a1527638614bd981"
->>>>>>> QoL, herdspanic, cosmentic-skin, snow, trinkets
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
@@ -1212,13 +1192,13 @@ hash = "a20f068bdb57b53bde90dccdff3f3122f91563f6276eb56f432813e5a0cc4d19"
 metafile = true
 
 [[files]]
-<<<<<<< master
-file = "mods/make_bubbles_pop.pw.toml"
-hash = "a348cac6a82b65dd907d857f1893fb44d724cd3d912975fb7325253eb7e7503a"
-=======
 file = "mods/magnum-torch.pw.toml"
 hash = "eab5cd13c974d6e3d816e72bea27c29112cb69c66042ba84820fd5ba47b14b21"
->>>>>>> Add backpacks, magnum-torch, natures compass
+metafile = true
+
+[[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "a348cac6a82b65dd907d857f1893fb44d724cd3d912975fb7325253eb7e7503a"
 metafile = true
 
 [[files]]
@@ -1272,21 +1252,18 @@ hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
-<<<<<<< master
-<<<<<<< master
 file = "mods/monsters-in-the-closet.pw.toml"
 hash = "63914b645092557cf4824cf3be35e71f5cf8b9345a1c45de27d5da13e97b48f4"
-=======
-=======
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "35a3ab16043b858cf78417311402c4f79c873660aa90b296fc7d079393e1dfb2"
 metafile = true
 
 [[files]]
->>>>>>> Qol and content; bedspreads, vslabs, lanters, mobs, supplementaries, fire
 file = "mods/more-banner-features.pw.toml"
 hash = "d953314b8c2051cacb4e2d5097f8b25245da61f264d83e54d895bb4cef80ec41"
->>>>>>> Additional tweaks and content, banners, addadd, additionz
 metafile = true
 
 [[files]]
@@ -1365,13 +1342,8 @@ hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
-<<<<<<< master
-file = "mods/paxi.pw.toml"
-hash = "bb3eade7942567c36fc88230bfcf24132e8b7be8d975f26a4cd9aa502d5b86db"
-=======
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
->>>>>>> Added lesser content mods
 metafile = true
 
 [[files]]
@@ -1431,11 +1403,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-<<<<<<< master
-hash = "977fa64f69701ba5617640bf048abc10257ed00ddba615ceca1b52e65e118c2f"
-=======
-hash = "24ca6901df336de9e8d866ebbbc93f5563a13d52141ce934dd6293746003ea44"
->>>>>>> Remove c2me, lanters, structory for now, wwoo, update qkl, add dep
+hash = "ea8a3120ee0ffe2d2728a7865fc3b58345d9d2365cf064085da04dbdf65aa3a1"
 metafile = true
 
 [[files]]
@@ -1459,13 +1427,13 @@ hash = "c233c650158104d8e0ce392a11182f51dd2ea2d44bf9fb95df485649cda53f60"
 metafile = true
 
 [[files]]
-<<<<<<< master
 file = "mods/raised.pw.toml"
 hash = "99c8a639eaa387b2b24f1a5b3c1abd7d0573fc3010ea5558149153a0b8587017"
-=======
+metafile = true
+
+[[files]]
 file = "mods/recipe-cache.pw.toml"
 hash = "9a3ae5c72bc925fb64391a62bef32f2d585d40a52481dfa132e838e0cffadcd2"
->>>>>>> Server-side tweaks, and performance mods
 metafile = true
 
 [[files]]
@@ -1474,13 +1442,13 @@ hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
-<<<<<<< master
-file = "mods/replanter.pw.toml"
-hash = "551a7bf8943f394c48856cb19639a77c73920bf79856f8bd2bb0a113f66b3a8a"
-=======
 file = "mods/rei.pw.toml"
 hash = "f37d98015547fa4c5c392eec612376bebf6af9ed83cde466938bebf60c7ab68d"
->>>>>>> Add audioplayer, svc, rei, pyrotastic, fwaystones
+metafile = true
+
+[[files]]
+file = "mods/replanter.pw.toml"
+hash = "551a7bf8943f394c48856cb19639a77c73920bf79856f8bd2bb0a113f66b3a8a"
 metafile = true
 
 [[files]]
@@ -1619,46 +1587,18 @@ hash = "b4bff2848944097fff7cff99a65c0164e29c616ce83b7fc8261f0aef2db85f08"
 metafile = true
 
 [[files]]
-<<<<<<< master
-<<<<<<< master
-<<<<<<< master
-<<<<<<< master
-<<<<<<< master
-<<<<<<< master
-file = "mods/stylish-effects.pw.toml"
-hash = "d273fdfc26be30f3eca414d7ea4d4eed6e716a0625de31224eb86c8d00f2ff09"
-=======
-=======
-=======
->>>>>>> CT Overhauled villages, readd structory, other structures
-file = "mods/structory-towers.pw.toml"
-hash = "b69bb36e39cd8ed8171a373a0cef0a131e05fcd56adac72dd95f40e243160efb"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "1416161702c00780b4253fcc81cf50799a54c2de08b1b3563a1f3d748a543607"
-metafile = true
-
-[[files]]
-<<<<<<< master
->>>>>>> Add smaller structure mods, geophilic and chefsdelight
-=======
->>>>>>> Remove and replace structory later, add create-fabric
-=======
->>>>>>> CT Overhauled villages, readd structory, other structures
-=======
->>>>>>> Remove c2me, lanters, structory for now, wwoo, update qkl, add dep
-=======
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "91f19dbba7e10acf290f9fad1277d1813b3a783d6c792674d98059816e422c9f"
 metafile = true
 
 [[files]]
->>>>>>> Update TODO, add perf mods (structures, chunk-save)
+file = "mods/stylish-effects.pw.toml"
+hash = "d273fdfc26be30f3eca414d7ea4d4eed6e716a0625de31224eb86c8d00f2ff09"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "fe03d60134dc47ae7945cf435f52bcb10e3ba244ec80c594c8d5a3708977f49a"
->>>>>>> Qol and content; bedspreads, vslabs, lanters, mobs, supplementaries, fire
 metafile = true
 
 [[files]]
@@ -1697,18 +1637,13 @@ hash = "3f8cfd0e555ccf0c033dddfda5bb21c80ddfc080b19b0c091e53722e486debc6"
 metafile = true
 
 [[files]]
-<<<<<<< master
 file = "mods/thorium.pw.toml"
 hash = "f76293001a405fa99903869bc8d5f3caa2976f0179513f73f59fc82dfbce9f72"
-=======
-file = "mods/time-wind.pw.toml"
-hash = "9047965bc4ec80b16dee8bf33c23775c49fb5f8692ebfabece0b6533be0006ca"
 metafile = true
 
 [[files]]
-file = "mods/tip-the-gui.pw.toml"
-hash = "066d949825f29932dacbc5f3d01765d2720faa778d8a606c5b331fd9e2e459ff"
->>>>>>> Add sleep-warp, time&wind, vanillarefresh+todo
+file = "mods/time-wind.pw.toml"
+hash = "9047965bc4ec80b16dee8bf33c23775c49fb5f8692ebfabece0b6533be0006ca"
 metafile = true
 
 [[files]]
@@ -1777,13 +1712,13 @@ hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
 metafile = true
 
 [[files]]
-<<<<<<< master
-file = "mods/vtdownloader.pw.toml"
-hash = "b935d2b958f96006d9f39fe585a240cbcc2701fe437c49e6f7c539a1ade0bc90"
-=======
 file = "mods/voidtotem.pw.toml"
 hash = "80b4fd198a83f45b937f10ae1b3fc25281daf9f4a628db2c76f238503d72ad76"
->>>>>>> Qol + removing the grind mods
+metafile = true
+
+[[files]]
+file = "mods/vtdownloader.pw.toml"
+hash = "b935d2b958f96006d9f39fe585a240cbcc2701fe437c49e6f7c539a1ade0bc90"
 metafile = true
 
 [[files]]
@@ -1792,9 +1727,6 @@ hash = "8a4a4e24b30d401e195211153879287b4e2bb1bbb3e56d904ca84bffbecd7f99"
 metafile = true
 
 [[files]]
-<<<<<<< master
-<<<<<<< master
-<<<<<<< master
 file = "mods/way2wayfabric.pw.toml"
 hash = "099641cf99fc6c5a46820fe4b856368c6c47c297f99679bafe6c0760425bd9d9"
 metafile = true
@@ -1802,19 +1734,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "7a0617ab787d563878cb887499cadaa905f1ea8e577a16740f9a632a0f2e77c0"
-=======
-file = "mods/william-wythers-overhauled-overworld.pw.toml"
-hash = "0af59fbe4fe56bd71f3fe134cac065aa91720f9d8fd412e134ba2b3b70625081"
->>>>>>> Replace geophilic with WWOO
-=======
-file = "mods/wwoo.pw.toml"
-hash = "dc31ab32c3bfb20a19432f07f8540dd7c0b5563a0d2ac922551f5ca7b4d019fd"
->>>>>>> Capybaras, scarecrows, shinyhorses, bookshelves, moved cf2mr for wwoo
 metafile = true
 
 [[files]]
-=======
->>>>>>> Remove c2me, lanters, structory for now, wwoo, update qkl, add dep
 file = "mods/xaeros-world-map.pw.toml"
 hash = "92fabf6009485130edf43bd6dbef2b5bb093d6b90c386f8a2fb3cac12b785d38"
 metafile = true
