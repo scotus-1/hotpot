@@ -2,7 +2,7 @@
 2. master - configure shaderpacks
 3. master - configure paxi and resourcepack order
 4. master - clean up config folders
-5. master - (script write) check/configure most mods if needed
+5. master - check/configure most mods if needed
 
 6. fcsp++ - merge/rebase fcsp++ on top of master branch
 
@@ -21,5 +21,4 @@
 - https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks
 
 scripts to write:
-- Go through each mod and open link
 - Generate specific pack.toml based on side (or smth idk)
