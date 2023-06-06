@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/BetterVillages_MoreVillagers_1.19.0-to-1.19.3.zip"
+hash = "1423c8e54252505bf72548f0f83eabc8df17e548c0691745e5f1041da8da7142"
+
+[[files]]
 file = "config/paxi/datapacks/New-Shipwrecks-Data-Pack-1.19.1.zip"
 hash = "1e28f150a949a6cc0e310332103de7be0fcb93d147bb592927f7f557118e7fdc"
 
@@ -1007,6 +1011,11 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "5ebaa368b8497942a070b4216a182d6850bbd1e6dd19390c34b47b07b5b0887f"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "5d5e6d15156b2452e86faf869b21643a7cf5e90af7747071044500adba22c305"
 metafile = true
 
 [[files]]
