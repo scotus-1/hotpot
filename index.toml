@@ -702,21 +702,6 @@ hash = "ed596c4c47ea344f665b52b6fbf18e4fc7a1bae12c92a1fb2a022422abcd7c43"
 metafile = true
 
 [[files]]
-file = "mods/ctov-chefs-delight-add-on.pw.toml"
-hash = "1d1cc6f24654704ad2f1017ff87d03c9bbf88055e0d4a51883624c8bbfe11dbb"
-metafile = true
-
-[[files]]
-file = "mods/ctov-farmers-delight-compat.pw.toml"
-hash = "ca49eb80ed805480d1b4fa4dd81efe4fc83f52428b1d30a4b9f3327b9bc009f7"
-metafile = true
-
-[[files]]
-file = "mods/ctov-more-villagers-compat.pw.toml"
-hash = "a3d6d07082c0de8cc4e6d97b96113a7bd4f622d4656d85ae27ad64a5dbe1dce0"
-metafile = true
-
-[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
