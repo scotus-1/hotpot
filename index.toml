@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "TODO.md"
-hash = "73e1eb6e85abcaeaea94f6a8003ae164d5f92e77970ab20bead7edbe970aeac4"
-
-[[files]]
 file = "config/paxi/datapacks/New-Shipwrecks-Data-Pack-1.19.1.zip"
 hash = "1e28f150a949a6cc0e310332103de7be0fcb93d147bb592927f7f557118e7fdc"
 
@@ -27,6 +23,26 @@ hash = "1bd2dc87cbb1f160b2661eac1f7823d94f415333e42d938b4c62453f5bc181a5"
 [[files]]
 file = "config/paxi/datapacks/botw-guardians-data-pack.zip"
 hash = "6df88a0d9936fbd47a348d791671e48e0223d381edec1a9c4a0a5624b389d5af"
+
+[[files]]
+file = "config/paxi/datapacks/ctov-beautify-add-on-v1-0.zip"
+hash = "0851d3936dc8950d5a2a7a7167642df93a471a0af52213c24a86a324b7d1eebc"
+
+[[files]]
+file = "config/paxi/datapacks/ctov-chefs-delight-add-on-v1-0.zip"
+hash = "68a0d1766310f69b866ede59a9f59cac636dc992940d1b46e58e14f7c2c00814"
+
+[[files]]
+file = "config/paxi/datapacks/ctov-farmers-delight-compat-v1-2.zip"
+hash = "6cb521162f3cc300db7379a3fb5bdbad7474062f00859f70f7fcfdaaf3639dc7"
+
+[[files]]
+file = "config/paxi/datapacks/ctov-mores-villager-compat-v1-1.zip"
+hash = "9aea00c97a1b45b6c7cf474916ee1aa2a76f811f043afe212ae46f22d8e2350b"
+
+[[files]]
+file = "config/paxi/datapacks/ctov-waystone-add-on-v1-0.zip"
+hash = "f9655c6e3862f6ed92da53a94698973a69c53f275eff74ef73f0a5a9c38c4fad"
 
 [[files]]
 file = "config/paxi/datapacks/ichphilipp-s-endcity-vanilla-v1-1-1-19.zip"
@@ -1785,14 +1801,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
-
-[[files]]
-file = "removed_mods.txt"
-hash = "3938110ff42512bbff6a0ecb762b40e895341536d881e7b6fa4eb33d26ed81ea"
-
-[[files]]
-file = "resourcepacks.txt"
-hash = "e2640f715c069182527fc05abfb0457fb5255980f8bf56cbcfc5f56c7feb5b3d"
 
 [[files]]
 file = "resourcepacks/Default-Dark-Mode-1.19.2-v1.4.0.zip"
