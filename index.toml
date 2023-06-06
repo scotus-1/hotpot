@@ -1682,11 +1682,6 @@ hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
 metafile = true
 
 [[files]]
-file = "mods/unstructured.pw.toml"
-hash = "c8f27c8e00c92a516ec8c8ba3d81faf0e279a302313705bc53effaa7caaca868"
-metafile = true
-
-[[files]]
 file = "mods/vanilla-refresh.pw.toml"
 hash = "2a4e26e883f75ecc2451accc5f2f7a5ecd077e78678f24e6266b1ab0c5594353"
 metafile = true
