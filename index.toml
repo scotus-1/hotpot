@@ -133,6 +133,10 @@ file = "config/paxi/resourcepacks/Stardust Labs Omni-Biome Name Fix v1.5-1.19.zi
 hash = "f49ae8dd36e520ce3b4557dfe049a1cc905222aa3ba0c6d7384eed50c8e9ebc5"
 
 [[files]]
+file = "config/paxi/resourcepacks/Visual+Titles.zip"
+hash = "9d6a4220fb47edad0a49f7e1350ffda5deabd5e1d480fa54e7f37ae387da58d3"
+
+[[files]]
 file = "config/paxi/resourcepacks/[1.2]+Enhanced+Boss+Bars.zip"
 hash = "3e6d193154244adf3321fe897e9348608968583267283e9764d8d40765c641b1"
 
@@ -1848,8 +1852,12 @@ file = "resourcepacks/Default-Dark-Mode-1.19.2-v1.4.0.zip"
 hash = "11122d9dac0d86fac2d32743ac15f87cde82993cccc56bab56151711c2a4ebb5"
 
 [[files]]
-file = "resourcepacks/NoBushyLeaves.zip"
-hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
+file = "resourcepacks/Disable+Bushy+Leaves+v7.zip"
+hash = "1969c1a70e1e4f244242ce1a62b221b653c17351dc26c34af5acace7b4ec375d"
+
+[[files]]
+file = "resourcepacks/Stay+True+Compats+v7+[1.19].zip"
+hash = "dcc0a354a0ba9bf029843a58bbd1fd6285832f1c65866dcf6311bd0ea6e8fcc3"
 
 [[files]]
 file = "resourcepacks/Stay_True_1.19.zip"
