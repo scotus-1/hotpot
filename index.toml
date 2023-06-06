@@ -5,6 +5,38 @@ file = "config/paxi/datapacks/New-Shipwrecks-Data-Pack-1.19.1.zip"
 hash = "1e28f150a949a6cc0e310332103de7be0fcb93d147bb592927f7f557118e7fdc"
 
 [[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Better_Desert_Temples_v7.zip"
+hash = "06aad17c3615d77cbf5af227f9e8327e75885df6cb8bd462f4bcc588fabae43d"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Better_Dungeons_v4.zip"
+hash = "f91cbb7eaba6bacaaff5b982348d872887bb5325a78df2b55071781ae9147872"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Better_Monuments_v5.zip"
+hash = "23ce950482b7106ba5e3c39f7945355d172a67d36793b7e89ffb17204dfcae62"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Better_Nether_Fortress_v4.zip"
+hash = "e4d1ed917fdac7434e116b96bc74849018351e6f044f62a045b4a29be33f4cc8"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Better_Strongholds_v4.zip"
+hash = "8cdbff46c57521fa2961866b85f2ae5d286da998180f9e4ea4ddea2c7129c687"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Better_Witch_Huts_v3.zip"
+hash = "7c54637d365d23e2b4a1990e6c97a1351bbc4f9d6c653819cb404a4a6fdadfd5"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Chef's_Delight_v2.zip"
+hash = "6e74e9fc74d998b86bfdb35e89ff9e51fa8cb1ee56c586fb155f6aee7ec3806f"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v5.zip"
+hash = "ca74e19d82104e5ae4a695574e9c0ba83bf757f88d42a83beace19a0a93b62a2"
+
+[[files]]
 file = "config/paxi/datapacks/Structory_1.19.3_v1.3.1a.zip"
 hash = "2565edc89f0659f7a78dd303d32614257f1331dc22cd673f16245c0742c2fe22"
 
