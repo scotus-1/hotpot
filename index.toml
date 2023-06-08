@@ -578,11 +578,6 @@ hash = "c146babc3f83049bc49c190308f9d190b636144c61f3c69a87099692656386fb"
 metafile = true
 
 [[files]]
-file = "mods/campsite-structures.pw.toml"
-hash = "7f46453147b763fe1944afe66c690b2fb60a9e8017131151eb1442d888cb53fc"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
