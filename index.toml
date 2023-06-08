@@ -9,6 +9,10 @@ file = "config/paxi/datapacks/New-Shipwrecks-Data-Pack-1.19.1.zip"
 hash = "1e28f150a949a6cc0e310332103de7be0fcb93d147bb592927f7f557118e7fdc"
 
 [[files]]
+file = "config/paxi/datapacks/Nullscape_1.19.3_v1.2.1.zip"
+hash = "c789152335f5ef003107d1b091da543d8609acb1a46a57f642c23b70e4054bf1"
+
+[[files]]
 file = "config/paxi/datapacks/Repurposed_Structures-Better_Desert_Temples_v7.zip"
 hash = "06aad17c3615d77cbf5af227f9e8327e75885df6cb8bd462f4bcc588fabae43d"
 
@@ -49,12 +53,20 @@ file = "config/paxi/datapacks/Structory_Towers_1.19.3_v1.0.2.zip"
 hash = "f6fa52547b0e91ee3c3036bb64eaec586c84e2eb69a374ffc1e41c6afc118131"
 
 [[files]]
+file = "config/paxi/datapacks/Terralith_1.19.3_v2.3.8.zip"
+hash = "568a04175a71d3247f5412687979a427b810df2d97803eee9b5b7c54ffc23284"
+
+[[files]]
 file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.0.2_Fabric_Waystones.zip"
 hash = "ea056a272ca794ba9cdb86fa3a6dad302b2e2d6cd8dcaeb0324590b2e4753e18"
 
 [[files]]
 file = "config/paxi/datapacks/banner-flags-v1-4.zip"
 hash = "1bd2dc87cbb1f160b2661eac1f7823d94f415333e42d938b4c62453f5bc181a5"
+
+[[files]]
+file = "config/paxi/datapacks/biomesaplings-v1-0-8.zip"
+hash = "e4e11b974e4cb6577eeceb67e53fba227364e735ec6bbf1c116830e0b44622b0"
 
 [[files]]
 file = "config/paxi/datapacks/botw-guardians-data-pack.zip"
@@ -81,12 +93,20 @@ file = "config/paxi/datapacks/ctov-waystone-add-on-v1-0.zip"
 hash = "f9655c6e3862f6ed92da53a94698973a69c53f275eff74ef73f0a5a9c38c4fad"
 
 [[files]]
+file = "config/paxi/datapacks/geophilic‐1.19-2.0.0.zip"
+hash = "f548f8c3bc6149e1f4343f594cc1eaeb9f57360a9fcdd30333a46c4a54e49e3a"
+
+[[files]]
 file = "config/paxi/datapacks/ichphilipp-s-endcity-vanilla-v1-1-1-19.zip"
 hash = "528140805275f820c098f6c74cd3015d52333a64efce9aa63549a5d5c622b3ee"
 
 [[files]]
-file = "config/paxi/datapacks/terratonic-1-19.zip"
-hash = "d7bd843dd8313a9f9345031a1a93566fa42d1aaac7d0d90a442ecee7bc42b4ae"
+file = "config/paxi/datapacks/terratonic-1-19-4.zip"
+hash = "8a7caa20271fdc518d4b1dfc6490c89e013feaed247969a01780c0e9ec7b822e"
+
+[[files]]
+file = "config/paxi/datapacks/towns-and-towers-1-10.zip"
+hash = "6d25565ca4446e545c55f6ec9be5ffd80f8a5461f2497f4eeaa12eddb4db6843"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -1018,11 +1038,6 @@ hash = "5ebaa368b8497942a070b4216a182d6850bbd1e6dd19390c34b47b07b5b0887f"
 metafile = true
 
 [[files]]
-file = "mods/geophilic.pw.toml"
-hash = "5d5e6d15156b2452e86faf869b21643a7cf5e90af7747071044500adba22c305"
-metafile = true
-
-[[files]]
 file = "mods/gliders.pw.toml"
 hash = "53e09b8fdb648d4186eb7a652d0e2ac470eccd9c4bc0e3a694127574237ce3c2"
 metafile = true
@@ -1373,11 +1388,6 @@ hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
-file = "mods/nullscape.pw.toml"
-hash = "80e6f15ebc852ba4e4b6d14dbc2a9d2b3514aac104840f5c279bd4cb726977aa"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
 metafile = true
@@ -1650,11 +1660,6 @@ metafile = true
 [[files]]
 file = "mods/talkbubbles.pw.toml"
 hash = "4833ab71eda9697a3109ef1044db26c75514ac484cfb68d77f938abf67e73530"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "610281b70252ad2359481d23b9774418032aee99b72defae529c8b32c0166e13"
 metafile = true
 
 [[files]]
