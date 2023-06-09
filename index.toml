@@ -105,6 +105,10 @@ file = "config/paxi/datapacks/terratonic-1-19-4.zip"
 hash = "8a7caa20271fdc518d4b1dfc6490c89e013feaed247969a01780c0e9ec7b822e"
 
 [[files]]
+file = "config/paxi/datapacks/terratonic-1-19.zip"
+hash = "d7bd843dd8313a9f9345031a1a93566fa42d1aaac7d0d90a442ecee7bc42b4ae"
+
+[[files]]
 file = "config/paxi/datapacks/towns-and-towers-1-10.zip"
 hash = "6d25565ca4446e545c55f6ec9be5ffd80f8a5461f2497f4eeaa12eddb4db6843"
 
