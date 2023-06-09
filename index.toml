@@ -1309,11 +1309,6 @@ hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
 metafile = true
 
 [[files]]
-file = "mods/mo-structures.pw.toml"
-hash = "083e1237dbbc9ff8bd1ea9d4674043d964da40e0e0414830bd9a91a997a0bd28"
-metafile = true
-
-[[files]]
 file = "mods/mob-scarecrows.pw.toml"
 hash = "633990f96e15b07dab59b895b36b9b8250b0c6d28791ba3f087152331841a91c"
 metafile = true
