@@ -146,7 +146,7 @@ hash = "b92a3e5ae3ae3183e247a9912d80119ef5f129d584417346f6cd75cde0def184"
 
 [[files]]
 file = "config/paxi/resourcepacks/Icons+V.1.7.1.zip"
-hash = "28a0eda2bf7b5238054a03bb1da813995080254586d4150aaa8d0793150b4fe8"
+hash = "b7b1ae708fcbf6d2b7eebb9dd79c22b85803f5bc3f997dfbbf01f67ca7c6096a"
 
 [[files]]
 file = "config/paxi/resourcepacks/Stardust Labs Omni-Biome Name Fix v1.5-1.19.zip"
@@ -170,7 +170,7 @@ hash = "20df4f46d474eeef325978358a88ba345cb6f7859fd3d581e8754677f8ccc8d5"
 
 [[files]]
 file = "config/paxi/resourcepacks/recreated-containers.zip"
-hash = "49b4cee6c4363af18a02424e0b75897ee651813ef4e9c6790cefed4d1fad96bf"
+hash = "9d19a9ae7fd4af2fa7dc8070fba018149631e0fbbe4497ddf7fbee1c8999567f"
 
 [[files]]
 file = "config/paxi/resourcepacks/xali's+Enchanted+Books+v0.12.0.zip"
@@ -278,7 +278,11 @@ hash = "a2f236fd3503b4c4ec47e90800acf14786eafd6a254241d87d62c8549e45ee50"
 
 [[files]]
 file = "config/yosbr/config/physicsmod/physics_client_config.json"
-hash = "5a633b82cbd4310e160d948b1925426cbc561e239958a2044e9e0021138f82fe"
+hash = "8b46147350156edd48e127f87746ad9da28ebbc10ab8a3e1b7b4c30cf474f0be"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_cloth_config.json"
+hash = "91955763ff613b21fcb25717e47c7c8f217da1c7dd7a04e57af57633c8da2e0a"
 
 [[files]]
 file = "config/yosbr/config/physicsmod/physics_mobs_client_config.json"
@@ -319,6 +323,10 @@ hash = "f5368efab0b7efef12966245411ec85cea38097db941864864eeeb43eba7c83b"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "9c587743ac0285af17ab4839031817622424d53cf88fbc43fbaf2d8aae7116f3"
+
+[[files]]
+file = "config/yosbr/config/travelerstitles-fabric-1_19.toml"
+hash = "e585fae6fe2b6e342f872986921291a0ae9e628b7c3f978ed728466911f52e09"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
