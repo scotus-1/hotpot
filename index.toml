@@ -38,7 +38,11 @@ hash = "b92a3e5ae3ae3183e247a9912d80119ef5f129d584417346f6cd75cde0def184"
 
 [[files]]
 file = "config/paxi/resourcepacks/Icons+V.1.7.1.zip"
-hash = "e6c9893fe9e87d5ae54f737d8460948d50f869906f116e6e5c1af2051814a8ad"
+hash = "b7b1ae708fcbf6d2b7eebb9dd79c22b85803f5bc3f997dfbbf01f67ca7c6096a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Visual+Titles.zip"
+hash = "9d6a4220fb47edad0a49f7e1350ffda5deabd5e1d480fa54e7f37ae387da58d3"
 
 [[files]]
 file = "config/paxi/resourcepacks/[1.2]+Enhanced+Boss+Bars.zip"
