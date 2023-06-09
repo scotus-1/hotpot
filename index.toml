@@ -105,10 +105,6 @@ file = "config/paxi/datapacks/terratonic-1-19-4.zip"
 hash = "8a7caa20271fdc518d4b1dfc6490c89e013feaed247969a01780c0e9ec7b822e"
 
 [[files]]
-file = "config/paxi/datapacks/terratonic-1-19.zip"
-hash = "d7bd843dd8313a9f9345031a1a93566fa42d1aaac7d0d90a442ecee7bc42b4ae"
-
-[[files]]
 file = "config/paxi/datapacks/towns-and-towers-1-10.zip"
 hash = "6d25565ca4446e545c55f6ec9be5ffd80f8a5461f2497f4eeaa12eddb4db6843"
 
@@ -193,6 +189,14 @@ file = "config/paxi/resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.3.1]§0.
 hash = "5bd8f4b8186dadb568e0f0e54a268857bddd99a379f2e28860c9a81169c7e0b9"
 
 [[files]]
+file = "config/yosbr/config/additional-additions-config.json"
+hash = "f6ecd066c657efd4171935d0f8c9d08c12090b98da4ff579de157784931668f0"
+
+[[files]]
+file = "config/yosbr/config/additionz.json5"
+hash = "dda2e153ca9a81b916f4b715937a97a8b10bb1a296eda0313af79bf410caa955"
+
+[[files]]
 file = "config/yosbr/config/autohud.json5"
 hash = "e016d9a1ce6ae8dc3b9f6fd37b72117a762491c5c63fd1c50ade82c1b38b5460"
 
@@ -203,6 +207,10 @@ hash = "0d456fc942c5c5cac422b51d4efffadc2d263b8b7d9e2b2d80950e7a1203500b"
 [[files]]
 file = "config/yosbr/config/blur.json"
 hash = "89b143c98330cbfb95bfa70d76a6e62cf27903e246663d709a243f7282d77c3e"
+
+[[files]]
+file = "config/yosbr/config/celestria.json"
+hash = "b90be729e4dce06ad7b374becfc7bdc611c84b32731294b6a7f50acea6ead713"
 
 [[files]]
 file = "config/yosbr/config/chunksfadein.properties"
@@ -231,6 +239,10 @@ hash = "4e534d4980be2767674f2d3c396fcb9409583f9f789ceea1a1a4905072e37b8b"
 [[files]]
 file = "config/yosbr/config/fallingleaves.json"
 hash = "a02ff1bc68710517449639d8e16138378e477fa76622a8afec53ba4d56e444d2"
+
+[[files]]
+file = "config/yosbr/config/farmersdelight.json"
+hash = "3d0ef57f5bdeca340aadcb166f5ed8fa3dfa4f60642cf9d1eb6e59945af25eca"
 
 [[files]]
 file = "config/yosbr/config/illuminations.properties"
@@ -1724,11 +1736,6 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
-metafile = true
-
-[[files]]
-file = "mods/vanilla-refresh.pw.toml"
-hash = "2a4e26e883f75ecc2451accc5f2f7a5ecd077e78678f24e6266b1ab0c5594353"
 metafile = true
 
 [[files]]
