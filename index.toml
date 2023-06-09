@@ -193,6 +193,10 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "9c587743ac0285af17ab4839031817622424d53cf88fbc43fbaf2d8aae7116f3"
 
 [[files]]
+file = "config/yosbr/config/travelerstitles-fabric-1_19.toml"
+hash = "e585fae6fe2b6e342f872986921291a0ae9e628b7c3f978ed728466911f52e09"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "191c58e922c2b4f52f96d616cb138ece9050b494a1f7a6ed8fb5ed6ca4f21a3d"
 
