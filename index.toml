@@ -109,6 +109,10 @@ file = "config/paxi/resourcepacks/13.zip"
 hash = "f0444baf45c5e1d76965803368bd06a791c3c7c3bd8cadab895fa07d0d99acea"
 
 [[files]]
+file = "config/paxi/resourcepacks/Cakes+Reimagined-[v1].zip"
+hash = "23db68c9ea557ea1ec287a3bf420de502082dac144c317a13edab23fb7f8b140"
+
+[[files]]
 file = "config/paxi/resourcepacks/EclecticTrove-noconfig-1.19-1.2.0.zip"
 hash = "ebbbb5006ec55769913c20d5600afbd67aaf7a893a8923453d3b4a2c1b441693"
 
@@ -145,6 +149,10 @@ file = "config/paxi/resourcepacks/Stardust Labs Omni-Biome Name Fix v1.5-1.19.zi
 hash = "f49ae8dd36e520ce3b4557dfe049a1cc905222aa3ba0c6d7384eed50c8e9ebc5"
 
 [[files]]
+file = "config/paxi/resourcepacks/Torches-Reimagined[v1.3.1].zip"
+hash = "5bd8f4b8186dadb568e0f0e54a268857bddd99a379f2e28860c9a81169c7e0b9"
+
+[[files]]
 file = "config/paxi/resourcepacks/Visual+Titles.zip"
 hash = "9d6a4220fb47edad0a49f7e1350ffda5deabd5e1d480fa54e7f37ae387da58d3"
 
@@ -171,14 +179,6 @@ hash = "441dff2b6a130c0028daf44972883f08dfbc55935d4b9cf9123db6687969df5f"
 [[files]]
 file = "config/paxi/resourcepacks/xali's+Potions+v1.0.zip"
 hash = "f6d453bd60909dae3218ac4f42bbec8168aee1ded499977837dfe8d4691412ea"
-
-[[files]]
-file = "config/paxi/resourcepacks/§6Cakes+Reimagined§8-[v1].zip"
-hash = "23db68c9ea557ea1ec287a3bf420de502082dac144c317a13edab23fb7f8b140"
-
-[[files]]
-file = "config/paxi/resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.3.1]§0.zip"
-hash = "5bd8f4b8186dadb568e0f0e54a268857bddd99a379f2e28860c9a81169c7e0b9"
 
 [[files]]
 file = "config/yosbr/config/additional-additions-config.json"
