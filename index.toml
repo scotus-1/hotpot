@@ -53,10 +53,6 @@ file = "config/paxi/datapacks/Structory_Towers_1.19.3_v1.0.2.zip"
 hash = "f6fa52547b0e91ee3c3036bb64eaec586c84e2eb69a374ffc1e41c6afc118131"
 
 [[files]]
-file = "config/paxi/datapacks/Terralith_1.19.3_v2.3.8.zip"
-hash = "568a04175a71d3247f5412687979a427b810df2d97803eee9b5b7c54ffc23284"
-
-[[files]]
 file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.0.2_Fabric_Waystones.zip"
 hash = "ea056a272ca794ba9cdb86fa3a6dad302b2e2d6cd8dcaeb0324590b2e4753e18"
 
@@ -99,10 +95,6 @@ hash = "f548f8c3bc6149e1f4343f594cc1eaeb9f57360a9fcdd30333a46c4a54e49e3a"
 [[files]]
 file = "config/paxi/datapacks/ichphilipp-s-endcity-vanilla-v1-1-1-19.zip"
 hash = "528140805275f820c098f6c74cd3015d52333a64efce9aa63549a5d5c622b3ee"
-
-[[files]]
-file = "config/paxi/datapacks/terratonic-1-19-4.zip"
-hash = "8a7caa20271fdc518d4b1dfc6490c89e013feaed247969a01780c0e9ec7b822e"
 
 [[files]]
 file = "config/paxi/datapacks/towns-and-towers-1-10.zip"
@@ -1674,6 +1666,11 @@ metafile = true
 [[files]]
 file = "mods/talkbubbles.pw.toml"
 hash = "4833ab71eda9697a3109ef1044db26c75514ac484cfb68d77f938abf67e73530"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "610281b70252ad2359481d23b9774418032aee99b72defae529c8b32c0166e13"
 metafile = true
 
 [[files]]
