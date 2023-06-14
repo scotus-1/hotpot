@@ -793,6 +793,11 @@ hash = "2bbb1ff7bbecbdb7b484df35b823dae2abc4798a5c203a651d2ae0b0a707d119"
 metafile = true
 
 [[files]]
+file = "mods/cyanide-fabric.pw.toml"
+hash = "582ee59a86f248742caae399e5bae6395ccf764934f9a692fddd4a946f3e59b9"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
 metafile = true
