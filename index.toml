@@ -6,7 +6,7 @@ hash = "1423c8e54252505bf72548f0f83eabc8df17e548c0691745e5f1041da8da7142"
 
 [[files]]
 file = "config/paxi/datapacks/New-Shipwrecks-Data-Pack-1.19.1.zip"
-hash = "1e28f150a949a6cc0e310332103de7be0fcb93d147bb592927f7f557118e7fdc"
+hash = "26ba5dd593baf7bcf5536939176fe3836178834605511a2dcf23fc5314e224de"
 
 [[files]]
 file = "config/paxi/datapacks/Nullscape_1.19.3_v1.2.1.zip"
@@ -805,11 +805,6 @@ metafile = true
 [[files]]
 file = "mods/dcch.pw.toml"
 hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
-metafile = true
-
-[[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "5cd65c6064712f1381421fd0fe1c8dd3bc765ecf54d0ab4525af7e600dfaa59e"
 metafile = true
 
 [[files]]
