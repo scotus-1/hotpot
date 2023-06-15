@@ -1,0 +1,21 @@
+version: "3"
+
+services:
+  mc:
+    image: tnguyen/minecraft-server:java17-graalvm-ee
+    ports:
+      - 25565:25565
+    environment:
+      DEBUG: "true"
+      VERSION: "1.19.2"
+      MEMORY: "12G"
+      EULA: "TRUE"
+      TYPE: "QUILT"
+      OPS: "scotus1"
+      PACKWIZ_URL: "https://raw.githubusercontent.com/scotus-1/fcsp/fcsp%2B%2B/pack.toml"
+      JVM_OPTS: "-XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseNUMA -XX:AllocatePrefetchStyle=3 -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:+EagerJVMCI -XX:+UseG1GC -XX:MaxGCPauseMillis=130 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=28 -XX:G1HeapRegionSize=16M -XX:G1ReservePercent=20 -XX:G1MixedGCCountTarget=3 -XX:InitiatingHeapOccupancyPercent=10 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=0 -XX:SurvivorRatio=32 -XX:MaxTenuringThreshold=1 -XX:G1SATBBufferEnqueueingThresholdPercent=30 -XX:G1ConcMarkStepDurationMillis=5 -XX:G1ConcRSHotCardLimit=16 -XX:G1ConcRefinementServiceIntervalMillis=150 -Dgraal.TuneInlinerExploration=1 -Dgraal.CompilerConfiguration=enterprise"
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    volumes:
+      - ./server:/data
