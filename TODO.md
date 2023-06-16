@@ -24,6 +24,7 @@ BOTH-SIDES:
 - Create modlists
 - Update all mods before release
 - Update .zip distribution files
+- Versioned Releases for stability
 
 SERVER:
 - Find good seed
