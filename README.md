@@ -27,7 +27,7 @@ pip install docker-compose
 - docker login container-registry.oracle.com
 - docker buildx build --build-arg BASE_IMAGE=container-registry.oracle.com/graalvm/jdk-ee:ol8-java17-22.3.2-b1 --tag tnguyen/minecraft-server:java17-graalvm-ee --load .
 
-- download the docker-compose.yml
+- download the docker-compose.yml and EDIT IT
 
 - set up sftp
 sudoedit /etc/ssh/sshd_config
