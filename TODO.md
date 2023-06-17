@@ -31,6 +31,7 @@ SERVER:
 - Set up Proximity Voice Chat
 - Set up Create Track Map
 - Set up Dynmap
+- Set up docker based backups
 - Set up Discord Integration
 - Readd CC to test if working
 
