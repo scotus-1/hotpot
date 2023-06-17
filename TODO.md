@@ -40,6 +40,8 @@ PORTS TO OPEN:
 - 24454 udp (SVC)
 - 8123 tcp (Dynmap)
 
+FOR DYNMAP:
+-Dloader.workaround.jar_copied_mods=dynmap
 
 Repurposed Structures: Failed to create valid structure with all required pieces starting from this pool file: repurposed_structures:villages/mountains/town_centers. Required pieces failed to generate the required amount are: [fwaystones:stone_brick_village_waystone=1]
   This can happen if a structure has a required piece but the structure size is set too low.
