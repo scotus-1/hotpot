@@ -12,6 +12,7 @@ CLIENT-SIDE:
 - Reduce blocklight flicker
 - Mark e4mc as client-only
 - Update Complementary
+- Remove Better FPS - Render Distance
 
 
 SERVER-SIDE:
@@ -19,6 +20,8 @@ SERVER-SIDE:
 - Sleepwarp incompat with time and wind
 - readd EBE?
 - Floating shipwreck structure?
+- Change capybara spawn rate
+
 
 BOTH-SIDES:
 - Create modlists
@@ -30,19 +33,21 @@ SERVER:
 - Find good seed
 - Set up Proximity Voice Chat
 - Set up Create Track Map
-- Set up Dynmap
-- Set up docker based backups
 - Set up Discord Integration
+- Set up Pterodactyl
 - Readd CC to test if working
+- Disable textile backups
+- Change world border
 
 PORTS TO OPEN:
 - 25565 tcp/udp
 - 3876 tcp (CTM)
 - 24454 udp (SVC)
-- 8123 tcp (Dynmap)
 
-FOR DYNMAP:
--Dloader.workaround.jar_copied_mods=dynmap
+Add to FAQ:
+- Autoswitch keybind
+- Disable First Person models
+- Turn off camera overhaul
 
 Repurposed Structures: Failed to create valid structure with all required pieces starting from this pool file: repurposed_structures:villages/mountains/town_centers. Required pieces failed to generate the required amount are: [fwaystones:stone_brick_village_waystone=1]
   This can happen if a structure has a required piece but the structure size is set too low.

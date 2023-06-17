@@ -18,3 +18,4 @@ immersive portals - not compatible with current version of iris
 computer-craft - weird crash presumably?
 tectonic - crying rn, just biome distribution
 discordintegration- crash that I don't want to fix rn
+dashloader - due to weird crash thats patched in later 1.20 versions of it in 5.0.0

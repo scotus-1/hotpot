@@ -794,11 +794,6 @@ hash = "582ee59a86f248742caae399e5bae6395ccf764934f9a692fddd4a946f3e59b9"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
-metafile = true
-
-[[files]]
 file = "mods/dcch.pw.toml"
 hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
 metafile = true
@@ -1296,6 +1291,11 @@ metafile = true
 [[files]]
 file = "mods/mixin-conflict-helper.pw.toml"
 hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
