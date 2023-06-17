@@ -1,0 +1,13 @@
+name = "Dynmap®"
+filename = "Dynmap-3.5-fabric-1.19.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRQREgAc/versions/anURObBG/Dynmap-3.5-fabric-1.19.1.jar"
+hash-format = "sha1"
+hash = "fbb3fbd13b820790ddc39574f7037155d1e35cd0"
+
+[update]
+[update.modrinth]
+mod-id = "fRQREgAc"
+version = "anURObBG"

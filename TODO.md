@@ -1,4 +1,4 @@
-(pre-generate large world and view with map viewer or /structure-list or smth)
+ (pre-generate large world and view with map viewer or /structure-list or smth)
 11. fcsp++ -  tweak structure generation and disable some
 12. fcsp++ - tweak biome generation
 
@@ -15,9 +15,9 @@ CLIENT-SIDE:
 
 
 SERVER-SIDE:
-- Handcrafted block entity models not rendering
-- Sleepwarp incompat with time
-- Remove BetterBeds, readd EBE?
+- Handcrafted block entity models not rendering (remove better beds)
+- Sleepwarp incompat with time and wind
+- readd EBE?
 - Floating shipwreck structure?
 
 BOTH-SIDES:
@@ -32,6 +32,17 @@ SERVER:
 - Set up Create Track Map
 - Set up Dynmap
 - Set up Discord Integration
+- Readd CC to test if working
 
-scripts to write:
-- Generate specific pack.toml based on side (or smth idk)
+PORTS TO OPEN:
+- 25565 tcp/udp
+- 3876 tcp (CTM)
+- 24454 udp (SVC)
+- 8123 tcp (Dynmap)
+
+
+Repurposed Structures: Failed to create valid structure with all required pieces starting from this pool file: repurposed_structures:villages/mountains/town_centers. Required pieces failed to generate the required amount are: [fwaystones:stone_brick_village_waystone=1]
+  This can happen if a structure has a required piece but the structure size is set too low.
+  However, this is most likely caused by a structure unable to spawn properly due to hitting the world's min y or max y build thresholds or a broken RS datapack.
+  Try teleporting to: class_2338{x=9861, y=92, z=-6344} and see if the structure generated fine with the required structure piece or if it is indeed missing it.
+  Please report the issue to Repurposed Structures's dev with latest.log file if the structure is not cut off by world min/max y build thresholds.
