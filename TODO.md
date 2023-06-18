@@ -7,9 +7,7 @@ CLIENT-SIDE:
 
 
 SERVER-SIDE:
-- Sleepwarp incompat with time and wind
 - Change capybara spawn rate
-- Remove textile-backup
 
 BOTH-SIDES:
 - Create modlists
@@ -22,15 +20,8 @@ SERVER:
 - Set up Proximity Voice Chat
 - Set up Create Track Map
 - Set up Discord Integration
-
 - Readd CC to test if working
-- Disable textile backups
 - Change world border
-
-PORTS TO OPEN:
-- 25565 tcp/udp
-- 3876 tcp (CTM)
-- 24454 udp (SVC)
 
 Add to FAQ:
 - Autoswitch keybind

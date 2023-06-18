@@ -1681,11 +1681,6 @@ hash = "f76293001a405fa99903869bc8d5f3caa2976f0179513f73f59fc82dfbce9f72"
 metafile = true
 
 [[files]]
-file = "mods/time-wind.pw.toml"
-hash = "9047965bc4ec80b16dee8bf33c23775c49fb5f8692ebfabece0b6533be0006ca"
-metafile = true
-
-[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
