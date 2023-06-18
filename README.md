@@ -2,6 +2,7 @@
 
 #### Set up the server yk
 - allow tcp/udp 25565 port on website
+- allow 3876 tcp and 24454 udp
 - sudo apt update && apt upgrade
 - sudo apt install nano, htop, iputils-ping
 

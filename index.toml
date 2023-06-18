@@ -481,11 +481,6 @@ hash = "e9f5b62ee83bd174a04b20363bd2bc38bb3bffa165d957009e9f59f96bb4814d"
 metafile = true
 
 [[files]]
-file = "mods/better-beds.pw.toml"
-hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
-metafile = true
-
-[[files]]
 file = "mods/better-biome-blend.pw.toml"
 hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
 metafile = true
@@ -1663,11 +1658,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "610281b70252ad2359481d23b9774418032aee99b72defae529c8b32c0166e13"
-metafile = true
-
-[[files]]
-file = "mods/textile_backup.pw.toml"
-hash = "d74ff589913b6fdccfa1cc28b33e442dc2dd9a55ec5731602b691450d220f62f"
 metafile = true
 
 [[files]]
