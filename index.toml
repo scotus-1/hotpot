@@ -309,11 +309,6 @@ hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
 metafile = true
 
 [[files]]
-file = "mods/better-fps-render-distance-fabric.pw.toml"
-hash = "980f303c37a66e4eaa0cb748d540c99fd27004ba71757abec9ec92217607ccfe"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "fa7eed08ecb81a2cc3ec4f9cc5387874936f2496a5739ec71d263a6f26a45c34"
 metafile = true
