@@ -1,7 +1,3 @@
- (pre-generate large world and view with map viewer or /structure-list or smth)
-11. fcsp++ -  tweak structure generation and disable some
-12. fcsp++ - tweak biome generation
-
 13. server setup!
 - https://blogs.oracle.com/developers/post/how-to-set-up-and-run-a-really-powerful-free-minecraft-server-in-the-cloud
 - https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server
@@ -13,6 +9,7 @@ CLIENT-SIDE:
 - Mark e4mc as client-only
 - Update Complementary
 - Remove Better FPS - Render Distance
+- Remove crafting table texture
 
 
 SERVER-SIDE:

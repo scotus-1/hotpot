@@ -98,7 +98,7 @@ hash = "6d25565ca4446e545c55f6ec9be5ffd80f8a5461f2497f4eeaa12eddb4db6843"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "dc18f26ef1c3ca66c47b25cd84e3e466c512ecb99e621ac28582d8fa7f0c1d9c"
+hash = "f1c33f6eacdd65dcd5bd88341c47e39e95adff60eac1f5c20a6097e3504d2301"
 
 [[files]]
 file = "config/paxi/resourcepacks/13.zip"
@@ -131,14 +131,6 @@ hash = "2cf517b2c27a4a3f216a096969eb7746e59c6ce9f57aecb7942778a69cdb63d1"
 [[files]]
 file = "config/paxi/resourcepacks/FreshAnimations_v1.8.1.zip"
 hash = "b97991ba6cf33317b5e7ef092e66d2522b6848ec52bb89548bede0765d3ac8cb"
-
-[[files]]
-file = "config/paxi/resourcepacks/Icons+Menu.zip"
-hash = "b92a3e5ae3ae3183e247a9912d80119ef5f129d584417346f6cd75cde0def184"
-
-[[files]]
-file = "config/paxi/resourcepacks/Icons+V.1.7.1.zip"
-hash = "b7b1ae708fcbf6d2b7eebb9dd79c22b85803f5bc3f997dfbbf01f67ca7c6096a"
 
 [[files]]
 file = "config/paxi/resourcepacks/Stardust Labs Omni-Biome Name Fix v1.5-1.19.zip"
@@ -791,6 +783,11 @@ metafile = true
 [[files]]
 file = "mods/cyanide-fabric.pw.toml"
 hash = "582ee59a86f248742caae399e5bae6395ccf764934f9a692fddd4a946f3e59b9"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
 metafile = true
 
 [[files]]
