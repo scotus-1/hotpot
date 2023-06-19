@@ -158,7 +158,7 @@ hash = "20df4f46d474eeef325978358a88ba345cb6f7859fd3d581e8754677f8ccc8d5"
 
 [[files]]
 file = "config/paxi/resourcepacks/recreated-containers.zip"
-hash = "9d19a9ae7fd4af2fa7dc8070fba018149631e0fbbe4497ddf7fbee1c8999567f"
+hash = "e70e7c0fb2823d6fb54098bffc2b1eb0b562d32953916df488d498044c20215d"
 
 [[files]]
 file = "config/paxi/resourcepacks/xali's+Enchanted+Books+v0.12.0.zip"
@@ -318,7 +318,7 @@ hash = "191c58e922c2b4f52f96d616cb138ece9050b494a1f7a6ed8fb5ed6ca4f21a3d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1306d08438b5c7d721ed7f9fd42a29ae0a6d438d985e132351cc528de5bbfea1"
+hash = "995386c2ccf00fd1aa2059f8aeacfa6b772bb4a7f9bdbb9e907f12b8c8fe6028"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -488,11 +488,6 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "80084941067856fd4758c91fa05aad359f5d1b18991dc58cbf501c8ad921c2b7"
-metafile = true
-
-[[files]]
-file = "mods/better-fps-render-distance-fabric.pw.toml"
-hash = "980f303c37a66e4eaa0cb748d540c99fd27004ba71757abec9ec92217607ccfe"
 metafile = true
 
 [[files]]
@@ -852,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "97a3facf4a7a210480038f11399f29808b3a8237668ac03fc90eb8e6dba6bda2"
+hash = "ecd17c341445db7c4d93083d4aff1b2327742a5ce4bfd52ad4c60de63f696ee6"
 metafile = true
 
 [[files]]
@@ -1851,8 +1846,8 @@ file = "resourcepacks/xali's+Enhanced+Vanilla+v1.11.1.zip"
 hash = "c6b7555458d3e6a206514752cf32823f4da0de8febf58b653f3a4f5fb2988009"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.txt"
-hash = "100af5573194338af3e25833d46a54d2ec0802d111e89b5ed727431aaac43e75"
+file = "shaderpacks/ComplementaryShaders_v4-config.txt"
+hash = "7acef0af73cfbf251dfab636ac0786da33383a9e607b50efe7c09ef57924b871"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
