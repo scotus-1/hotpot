@@ -1,11 +1,3 @@
-CLIENT-SIDE:
-- Reduce blocklight flicker and glowing ores
-- Mark e4mc as client-only
-- Remove Better FPS - Render Distance
-- Remove crafting table texture
-- Add ebe config
-
-
 SERVER-SIDE:
 - Change capybara spawn rate
 
@@ -27,3 +19,5 @@ Add to FAQ:
 - Autoswitch keybind
 - Disable First Person models
 - Turn off camera overhaul
+
+- Update install instructions (mac x64 for m1) and client only zipfile

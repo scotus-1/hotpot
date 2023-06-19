@@ -189,6 +189,10 @@ file = "config/yosbr/config/blur.json"
 hash = "89b143c98330cbfb95bfa70d76a6e62cf27903e246663d709a243f7282d77c3e"
 
 [[files]]
+file = "config/yosbr/config/capybara.json"
+hash = "6697f8efae8b3f7afad92214584a579edb43c6e2d27aa0fdb6aa878700e8260c"
+
+[[files]]
 file = "config/yosbr/config/celestria.json"
 hash = "b90be729e4dce06ad7b374becfc7bdc611c84b32731294b6a7f50acea6ead713"
 
