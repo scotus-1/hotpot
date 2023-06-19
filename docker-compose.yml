@@ -4,10 +4,9 @@ services:
   mc:
     image: tnguyen/minecraft-server:java17-graalvm-ee
     ports:
-      - 25565:25565
-      - 3876:3876
-      - 24454:24454
-      - 8123:8123
+      - "25565:25565"
+      - "3876:3876"
+      - "24454:24454/udp"
     environment:
       DEBUG: "true"
       VERSION: "1.19.2"

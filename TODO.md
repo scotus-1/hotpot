@@ -1,6 +1,3 @@
-SERVER-SIDE:
-- Change capybara spawn rate
-
 BOTH-SIDES:
 - Create modlists
 - Update all mods before release
@@ -9,7 +6,6 @@ BOTH-SIDES:
 
 SERVER:
 - Find good seed
-- Set up Proximity Voice Chat
 - Set up Create Track Map
 - Set up Discord Integration
 - Readd CC to test if working

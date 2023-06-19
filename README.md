@@ -42,3 +42,5 @@ AllowTcpForwarding no
 
 sudo addgroup sftp
 sudo usermod -aG sftp ubuntu
+
+go to simplevoicechat config and set bind-address to *
