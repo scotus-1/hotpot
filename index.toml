@@ -58,7 +58,7 @@ hash = "20df4f46d474eeef325978358a88ba345cb6f7859fd3d581e8754677f8ccc8d5"
 
 [[files]]
 file = "config/paxi/resourcepacks/recreated-containers.zip"
-hash = "9d19a9ae7fd4af2fa7dc8070fba018149631e0fbbe4497ddf7fbee1c8999567f"
+hash = "e70e7c0fb2823d6fb54098bffc2b1eb0b562d32953916df488d498044c20215d"
 
 [[files]]
 file = "config/paxi/resourcepacks/xali's+Enchanted+Books+v0.12.0.zip"
@@ -206,7 +206,7 @@ hash = "191c58e922c2b4f52f96d616cb138ece9050b494a1f7a6ed8fb5ed6ca4f21a3d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1306d08438b5c7d721ed7f9fd42a29ae0a6d438d985e132351cc528de5bbfea1"
+hash = "3ecccb3309b5e43c4c7e61f50884066b2999b6fc1ddf377bb3a5fd233c2e7a59"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
