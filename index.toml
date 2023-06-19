@@ -1128,8 +1128,8 @@ file = "resourcepacks/xali's+Enhanced+Vanilla+v1.11.1.zip"
 hash = "c6b7555458d3e6a206514752cf32823f4da0de8febf58b653f3a4f5fb2988009"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.txt"
-hash = "100af5573194338af3e25833d46a54d2ec0802d111e89b5ed727431aaac43e75"
+file = "shaderpacks/ComplementaryShaders_v4-config.txt"
+hash = "7acef0af73cfbf251dfab636ac0786da33383a9e607b50efe7c09ef57924b871"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
