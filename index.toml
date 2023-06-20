@@ -800,6 +800,11 @@ hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "416a132f194efbd5559776c251c9371f667c170b72ae12b71ed275f77f91c0dd"
+metafile = true
+
+[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "be160873f910e05a59aab41a59e682a41f9c413642e24727383505c013e5e3fc"
 metafile = true
