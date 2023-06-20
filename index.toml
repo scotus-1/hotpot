@@ -604,11 +604,6 @@ hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
-file = "mods/cccbridge.pw.toml"
-hash = "72a444170f6963bc57c323f98d01d22bdcd400be26a2bfd1d3d02ea34ad096de"
-metafile = true
-
-[[files]]
 file = "mods/celestria.pw.toml"
 hash = "b3eda177d099ef511ccdd9d738d902c6c10f4037bd7dd0869ae9a3ff545a5d91"
 metafile = true
@@ -754,11 +749,6 @@ hash = "bb22f23d2b6e9fb3a9d1a79f3e3599398a163241bc0ece5cf5023ba48308ba8b"
 metafile = true
 
 [[files]]
-file = "mods/create-crystal-clear-fabric.pw.toml"
-hash = "790d09e1bee44adf6f4867d2c63a4626c96c5b8eec0b9f8ea2a14f8465434f02"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
 metafile = true
@@ -766,11 +756,6 @@ metafile = true
 [[files]]
 file = "mods/create-track-map.pw.toml"
 hash = "4b74d44c2456358257d7f5728a012bd3dbc1a761350c1fd169fc5e401c80cbb7"
-metafile = true
-
-[[files]]
-file = "mods/createaddition.pw.toml"
-hash = "d6d671af2e1ece15222a1e91a51b9b4d4c4b74f6092c7ed21d5b6eb3f6afc540"
 metafile = true
 
 [[files]]
@@ -1151,11 +1136,6 @@ metafile = true
 [[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "cdc6994dedc82cf7807f6afbdde9000cf11841c174008b2aad20f62d9b0b08c7"
-metafile = true
-
-[[files]]
-file = "mods/jade-addons-fabric.pw.toml"
-hash = "3f5a3d78357557c87f45ee3698f0178b17c85b7d5d8753013fec4b946b318926"
 metafile = true
 
 [[files]]
@@ -1571,11 +1551,6 @@ metafile = true
 [[files]]
 file = "mods/sleep-warp.pw.toml"
 hash = "5273b2fca55634de17f94eeb0eeb085017edf8a610dd256a83dbd75cf1830ecf"
-metafile = true
-
-[[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "51de27d220eda6aa82123303065af7bfef65c8bdd90f2191ebf697a9a7e99592"
 metafile = true
 
 [[files]]
