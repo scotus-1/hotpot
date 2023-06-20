@@ -265,12 +265,12 @@ metafile = true
 
 [[files]]
 file = "mods/autohud.pw.toml"
-hash = "3ce3ce6faae0a944e53ff91b8ce75c84ee7dffe23e28204bcfc2369ed7cc230e"
+hash = "0da7c2fb692783acea95a2cd25d01cddf4a8fb05587670ceeaef03647caf7057"
 metafile = true
 
 [[files]]
 file = "mods/autoswitch.pw.toml"
-hash = "62e022bec51910486f8af152e77cd7ba1afec7e51e3c2a29db40216c2f4650a0"
+hash = "94256401948a388c0f72c011bb54a969c4bf5f3035fac70ec74b2b0826eba0d9"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
-hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
+hash = "933cfa7fd5643b6c2a94ea6c9a538b939ef3c018c723f039be4e35a62d02255a"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "8d8ba1d500070cac1b9961d78e2fd90d973cee01d373175d64e3250aa1d3b2c7"
+hash = "f3176626be60899a5dbe2c5d93681df7fa010e06ac5352576ce8451f6a456405"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "2e220c477c5c43610cab18a66e53f9dbadb95feb78d8a387e0d755dc350e7abe"
+hash = "f00a472190b28b3b66538ef0754f918ce7bf82c3046d8a7367003510d91ebe8f"
 metafile = true
 
 [[files]]
@@ -865,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "0ddd30666fead119ad453aacf1c4c30e37b45f92d4af8f5ab836b965e0d630bb"
+hash = "91fa1fea4944044167fb459680c0bd413a649ff69521846b79d667a4def18469"
 metafile = true
 
 [[files]]

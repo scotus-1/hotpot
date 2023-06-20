@@ -11,3 +11,8 @@ hash = "b0f23511f26def47fe38a99b84df3977c0add60e"
 [update.modrinth]
 mod-id = "Xy8aRQKS"
 version = "ed938IhZ"
+
+[option]
+optional = true
+default = true
+description = "Only disable this mod if you can't start the game or it runs weird"

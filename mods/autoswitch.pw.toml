@@ -11,3 +11,8 @@ hash = "8ff14f0973d4d8e3cae273cbd1c47c2a69f5873d"
 [update.modrinth]
 mod-id = "uSdcnlts"
 version = "WwtTMaXZ"
+
+[option]
+optional = true
+default = true
+description = "Auto switches tools based on what your doing, can be disabled in-game via pressing R"

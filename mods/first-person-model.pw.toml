@@ -11,3 +11,8 @@ hash = "bc331fea05b9e4ab5d2cd12d452e262874390d36"
 [update.modrinth]
 mod-id = "H5XMjpHi"
 version = "INcc4wk6"
+
+[option]
+optional = true
+default = true
+description = "Allows you to see your player model in first person"
