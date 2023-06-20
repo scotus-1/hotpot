@@ -1,13 +1,13 @@
 name = "Create Crafts & Additions"
-filename = "createaddition-fabric+1.19.2-20230211a.jar"
+filename = "createaddition-fabric+1.19.2-20230508b.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kU1G12Nn/versions/wvzuaLOF/createaddition-fabric%2B1.19.2-20230211a.jar"
+url = "https://cdn.modrinth.com/data/kU1G12Nn/versions/j9xZFkpI/createaddition-fabric%2B1.19.2-20230508b.jar"
 hash-format = "sha1"
-hash = "34da3cead36324eb61ce6c759323bf75a2d4b3cf"
+hash = "2b1325650cfc6752bc55888be6ce1d6b67e41edd"
 
 [update]
 [update.modrinth]
 mod-id = "kU1G12Nn"
-version = "wvzuaLOF"
+version = "j9xZFkpI"
