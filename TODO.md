@@ -6,10 +6,6 @@ BOTH-SIDES:
 
 SERVER:
 - Find good seed
-- Set up Create Track Map
-- Set up Discord Integration
-- Readd CC to test if working
-- Change world border
 
 Add to FAQ:
 - Autoswitch keybind

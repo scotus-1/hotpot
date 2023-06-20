@@ -169,6 +169,10 @@ file = "config/paxi/resourcepacks/xali's+Potions+v1.0.zip"
 hash = "f6d453bd60909dae3218ac4f42bbec8168aee1ded499977837dfe8d4691412ea"
 
 [[files]]
+file = "config/yosbr/config/Discord-Integration.toml"
+hash = "985aa6649c4f70af4b7730054eb6138f3fbaf02b56648cfabcc322ec9d5b3055"
+
+[[files]]
 file = "config/yosbr/config/additional-additions-config.json"
 hash = "f6ecd066c657efd4171935d0f8c9d08c12090b98da4ff579de157784931668f0"
 
