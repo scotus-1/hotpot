@@ -1,13 +1,13 @@
 name = "More Axolotl Variants Mod"
-filename = "mavm-1.2.0-mc1.19.2.jar"
+filename = "mavm-1.2.4-mc1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zitu8weW/versions/zercmUE6/mavm-1.2.0-mc1.19.2.jar"
+url = "https://cdn.modrinth.com/data/zitu8weW/versions/a6uPZBX8/mavm-1.2.4-mc1.19.2.jar"
 hash-format = "sha1"
-hash = "60c6c1522915306ae2959bb244f25faf4bba4caf"
+hash = "81b10d44d7631e84b25f6dd317424bc6aea8b8b1"
 
 [update]
 [update.modrinth]
 mod-id = "zitu8weW"
-version = "zercmUE6"
+version = "a6uPZBX8"

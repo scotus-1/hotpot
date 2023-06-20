@@ -11,3 +11,8 @@ hash = "67f6d25c75f94a929bfb8b1aaf724e87f8c275d7"
 [update.modrinth]
 mod-id = "temczoTQ"
 version = "TyP9drU7"
+
+[option]
+optional = true
+default = true
+description = "Automatically hides your toolbar based on specific conditions"
