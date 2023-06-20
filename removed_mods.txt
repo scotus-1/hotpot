@@ -23,3 +23,4 @@ create-crystal-clear-fabric
 createaddition
 jade-addons-fabric
 slice-and-dice
+create-track-map
