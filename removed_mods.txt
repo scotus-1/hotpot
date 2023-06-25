@@ -21,6 +21,4 @@ all create addons due to 0.5.1 update
 cccbridge
 create-crystal-clear-fabric
 createaddition
-jade-addons-fabric
 slice-and-dice
-create-track-map
