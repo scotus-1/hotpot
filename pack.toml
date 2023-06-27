@@ -1,6 +1,6 @@
 name = "fcsp++"
 author = "scotus*"
-version = "v0.1.0b-beta"
+version = "v0.2.0b-beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
