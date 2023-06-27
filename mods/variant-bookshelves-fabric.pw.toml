@@ -1,0 +1,13 @@
+name = "Variant Bookshelves [Fabric/Quilt]"
+filename = "variant_bookshelves-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7972cd5c0f11213c0e208f8fc48ffaae84ef0e8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4524784
+project-id = 653372

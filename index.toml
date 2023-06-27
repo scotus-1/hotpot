@@ -289,6 +289,10 @@ file = "config/yosbr/config/quilt-loading-screen.json"
 hash = "c9b843a1d89fbd86aa5e10f015d6ebad265897bfac6f2642f1f46a3c23073e86"
 
 [[files]]
+file = "config/yosbr/config/sleepwarp-server.json"
+hash = "577436fe1de7912fc4063254d853764674b3c3d8adfe296aaface9e2899d847a"
+
+[[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
 hash = "005d898b2f6a8f328a2954b1244f869192a9b39b840da6b9f55508c5e0a8fa5f"
 
