@@ -241,6 +241,11 @@ hash = "13acba8fa8b2c03e01fd88dafe9118122160d6df13b2f0ba6fb210762652e16d"
 metafile = true
 
 [[files]]
+file = "mods/auditory.pw.toml"
+hash = "a086399e727b882a3ee432a3154a6b6b8b81d780e89ae860b040365507af56e7"
+metafile = true
+
+[[files]]
 file = "mods/autotag.pw.toml"
 hash = "c330193b5ee6cecd7190dc9c6929e0d965876ae62108d9f12f6530665c87791d"
 metafile = true
@@ -566,11 +571,6 @@ hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "3853b370c0f12e4c99b15470e11c83119f96cde01d0ae26d19d93d2caf130065"
-metafile = true
-
-[[files]]
 file = "mods/enchanted-vertical-slabs.pw.toml"
 hash = "57ab68c18c4be0d0473c579ffed2e16af9bef9701a6a1ed56ddcdc441ea236ba"
 metafile = true
@@ -728,11 +728,6 @@ metafile = true
 [[files]]
 file = "mods/inspecio.pw.toml"
 hash = "373a56d7f4fb25661a0585492f7ea490e7613f1191e588fec08782438d52e1fd"
-metafile = true
-
-[[files]]
-file = "mods/inventory-tabs-updated.pw.toml"
-hash = "a8ec5fd59ff7ddab287b339ca91c49af53ecea28105d764a1b560c4fbdfaf7d6"
 metafile = true
 
 [[files]]
@@ -1106,6 +1101,11 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
+file = "mods/soul-fire-d.pw.toml"
+hash = "660a2679135d5f19a8e8d5fd6ab7adefbd044d52a763b4e91c3cd165db8222d9"
+metafile = true
+
+[[files]]
 file = "mods/statssearch.pw.toml"
 hash = "51a908ec400b5707d7bf6107512a87a41deaec0d0fb500b0b801aa667bd7d8e9"
 metafile = true
@@ -1181,6 +1181,11 @@ hash = "e07450f78974ba068de931778d49c0937b24d133ce023d87b09d00754e5a045a"
 metafile = true
 
 [[files]]
+file = "mods/visuality.pw.toml"
+hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
+metafile = true
+
+[[files]]
 file = "mods/voidtotem.pw.toml"
 hash = "80b4fd198a83f45b937f10ae1b3fc25281daf9f4a628db2c76f238503d72ad76"
 metafile = true
@@ -1191,6 +1196,21 @@ hash = "b935d2b958f96006d9f39fe585a240cbcc2701fe437c49e6f7c539a1ade0bc90"
 metafile = true
 
 [[files]]
+file = "mods/way2wayfabric.pw.toml"
+hash = "099641cf99fc6c5a46820fe4b856368c6c47c297f99679bafe6c0760425bd9d9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "511fb7b3ea24222e7bd34e07cc7696cc206b96ffb32a484a6bdb5ac87c97c4ff"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "35334111a08c82e909d4cee54a974040b3fb526d30021a33fe2c70d1b5239025"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
@@ -1198,6 +1218,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "e8036308d5fdaf3e155684892dffa19122c31745c40fbe55027a1677179263d7"
 metafile = true
 
 [[files]]
