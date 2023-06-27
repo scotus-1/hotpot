@@ -1709,8 +1709,8 @@ hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
 metafile = true
 
 [[files]]
-file = "mods/variant-bookshelves.pw.toml"
-hash = "6d24b6e146806eafaea364083ce88244e22e7f01a95b005dfff5b67cdf8209e9"
+file = "mods/variant-bookshelves-fabric.pw.toml"
+hash = "a6899e44db3d96f46e6d8ff3709eec92f7fa6debb21e865b6b199c81ef0b34a7"
 metafile = true
 
 [[files]]
