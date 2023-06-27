@@ -1,0 +1,13 @@
+name = "Keybinds Galore"
+filename = "KeybindsGalore-1.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EhvsbLrN/versions/1.0%2B1.19/KeybindsGalore-1.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "808f6bd204ac2b2295ba16e5383998526d66fe5e"
+
+[update]
+[update.modrinth]
+mod-id = "EhvsbLrN"
+version = "4cmfVxs0"

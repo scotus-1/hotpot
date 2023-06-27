@@ -1,0 +1,13 @@
+name = "Enchanting Table Descriptions"
+filename = "enchanting_table_descriptions-0.1.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/a8jxvM0T/versions/gVs8ollH/enchanting_table_descriptions-0.1.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "e5a91e06be43919cc77eadb58700b52fb06000e1"
+
+[update]
+[update.modrinth]
+mod-id = "a8jxvM0T"
+version = "gVs8ollH"

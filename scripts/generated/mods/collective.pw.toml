@@ -1,0 +1,13 @@
+name = "Collective"
+filename = "collective-1.19.2-6.61.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/GiHLPR1f/collective-1.19.2-6.61.jar"
+hash-format = "sha1"
+hash = "3b3f9df268a902cdf4b5e30dfd35bc2b93da18da"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "GiHLPR1f"

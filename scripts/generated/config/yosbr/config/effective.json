@@ -1,0 +1,21 @@
+{
+  "enableSplashes": true,
+  "splashRimAlpha": 0.7,
+  "enableCascades": true,
+  "cascadeSoundsVolumeMultiplier": 100,
+  "cascadeSoundDistanceBlocks": 150,
+  "shouldFlowingWaterSpawnParticlesOnFirstTick": true,
+  "lapisBlockUpdateParticleChance": 10,
+  "flowingWaterSplashingDensity": 50,
+  "rainRippleDensity": 1,
+  "enableGlowingPlankton": true,
+  "glowsquidHypnotize": false,
+  "glowsquidHypnotizeAttractCursor": false,
+  "enableAllayTrails": true,
+  "allayTwinkleDensity": 5,
+  "goldenAllays": true,
+  "wardenScreenShake": true,
+  "sonicBoomScreenShake": true,
+  "ravagerScreenShake": true,
+  "dragonScreenShake": true
+}
