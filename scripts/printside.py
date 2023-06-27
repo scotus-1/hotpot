@@ -10,6 +10,8 @@ for filepath in mods:
     filename = basename(filepath).split(".")[0]
 
     if toml_file['side'] == "both":
-        print("This is a both-sided mod: " + toml_file['name'])
+        print(f"This is a both-sided mod: {toml_file['name']} | {filename} ")
     elif toml_file['side'] == "server":
-        print("This is a server-sided mod: " + toml_file['name'])
+        print(f"This is a server-sided mod: {toml_file['name']} | {filename} ")
+    elif toml_file['side'] == "client":
+        print(f"This is a client-sided mod: {toml_file['name']} | {filename}")
