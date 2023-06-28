@@ -359,12 +359,12 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "d3a87d340439309a208ec67f0d9c8004458b315f39add685ee298909988f0d9b"
+hash = "0dab01471af606f39a1a447537a0df53505b9ee020cef4a488de6b62ac911bd2"
 metafile = true
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
-hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
+hash = "ca02943dbfccdd222f4334cfd03f176b593abcda4a47ab888cdbf216575d2b49"
 metafile = true
 
 [[files]]
