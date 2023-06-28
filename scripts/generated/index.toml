@@ -33,6 +33,10 @@ file = "config/yosbr/config/betterf3.json"
 hash = "0d456fc942c5c5cac422b51d4efffadc2d263b8b7d9e2b2d80950e7a1203500b"
 
 [[files]]
+file = "config/yosbr/config/bettersleeping.toml"
+hash = "d5e430fb2604142c6341d0ff8865c286159d93e1b837637b4df55ae1874e6e4e"
+
+[[files]]
 file = "config/yosbr/config/blur.json"
 hash = "89b143c98330cbfb95bfa70d76a6e62cf27903e246663d709a243f7282d77c3e"
 
@@ -106,7 +110,7 @@ hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
 [[files]]
 file = "config/yosbr/config/physicsmod/physics_blocks_client_config.json"
-hash = "a2f236fd3503b4c4ec47e90800acf14786eafd6a254241d87d62c8549e45ee50"
+hash = "cc405d0a6d62516235f5ab29447257a1d407eb105810fedf859f2d59fbea572b"
 
 [[files]]
 file = "config/yosbr/config/physicsmod/physics_client_config.json"
@@ -478,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "f149d011c5cd4f30da32a4c06f4e24a7b2f532f6cbae5f11a77609032c7174ec"
 metafile = true
 
 [[files]]
@@ -1001,6 +1010,11 @@ hash = "dfc73c6ed21d8be632f3d253bd23a921b1e690107a0cd70c63c55a5568278bfd"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "a441c287441f57daa6336ad4606c6530320dd0881deb60efa2447a517fb95cd3"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "8134c08af1ac4d5c8aef4b134d205fb12b202c2a6ad323cc93b7bb8ada19de21"
 metafile = true
@@ -1103,6 +1117,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "10696b23b4f65ef1532b6bd26c87c510a6cefc8f2d1c81f4ac5e06f7e3b71492"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "259978a649fd148585a70951213dd6f2dd17a325ce371311ba9243a20e032896"
 metafile = true
 
 [[files]]
