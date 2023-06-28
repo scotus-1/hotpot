@@ -753,6 +753,11 @@ hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "f149d011c5cd4f30da32a4c06f4e24a7b2f532f6cbae5f11a77609032c7174ec"
+metafile = true
+
+[[files]]
 file = "mods/create-track-map.pw.toml"
 hash = "11dcef38596a6c3594f8c07ad8fb1b4dfe4d3b48ff34c4394811b7ebb366f640"
 metafile = true
@@ -1560,6 +1565,11 @@ metafile = true
 [[files]]
 file = "mods/sleep-warp.pw.toml"
 hash = "5273b2fca55634de17f94eeb0eeb085017edf8a610dd256a83dbd75cf1830ecf"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "259978a649fd148585a70951213dd6f2dd17a325ce371311ba9243a20e032896"
 metafile = true
 
 [[files]]
