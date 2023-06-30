@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/Amplified_Nether_1.19.3_v1.2.1.zip"
+hash = "110aca4269de0e5227c972c3e9c7038aa82a7880772c8d0f76be50b631ba08f7"
+
+[[files]]
 file = "config/paxi/datapacks/BetterVillages_MoreVillagers_1.19.0-to-1.19.3.zip"
 hash = "1423c8e54252505bf72548f0f83eabc8df17e548c0691745e5f1041da8da7142"
 
@@ -379,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "ade1f5c8ad4503fd433410aca0ccdff26f8d38930b9c77805276f26d4b83ef62"
-metafile = true
-
-[[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "72206cfb912e4920f993c1e390725cdfcda1db14eb8c5378e1cf9d74e8976015"
 metafile = true
 
 [[files]]
