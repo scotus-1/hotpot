@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/datapacks/Amplified_Nether_v1.19.3_v1.2.1-nether384.zip"
-hash = "f97623a833e33891cb71934775d575013836175452f8566e21c76b39f94c4fc2"
+hash = "514f71852aba6869ab0e3948d2e63fd2fb3a35946e95abcf6ff081e0e3687c8a"
 
 [[files]]
 file = "config/paxi/datapacks/BetterVillages_MoreVillagers_1.19.0-to-1.19.3.zip"
