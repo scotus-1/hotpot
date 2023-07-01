@@ -57,6 +57,10 @@ file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.0.2_Fabric_Waystone
 hash = "ea056a272ca794ba9cdb86fa3a6dad302b2e2d6cd8dcaeb0324590b2e4753e18"
 
 [[files]]
+file = "config/paxi/datapacks/VanillaTweaks_c520517_MC1.19.x.zip"
+hash = "5b004ab313bdf5e5908dc5e25c9035f1c1e2871c1ad5554878eeb61c884f1b60"
+
+[[files]]
 file = "config/paxi/datapacks/banner-flags-v1-4.zip"
 hash = "1bd2dc87cbb1f160b2661eac1f7823d94f415333e42d938b4c62453f5bc181a5"
 
