@@ -925,6 +925,11 @@ hash = "3853b370c0f12e4c99b15470e11c83119f96cde01d0ae26d19d93d2caf130065"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "0692059aa9d74400804eaa6030158a251296b280b91a82eb55757c2f2ccf8972"
+metafile = true
+
+[[files]]
 file = "mods/enchanted-vertical-slabs.pw.toml"
 hash = "57ab68c18c4be0d0473c579ffed2e16af9bef9701a6a1ed56ddcdc441ea236ba"
 metafile = true
@@ -1460,6 +1465,11 @@ hash = "dfc73c6ed21d8be632f3d253bd23a921b1e690107a0cd70c63c55a5568278bfd"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "590e350a65f0c6aba510dbcfaf1eab4a0dc1740b19b2e07a5ffef446e89cf1b7"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "a441c287441f57daa6336ad4606c6530320dd0881deb60efa2447a517fb95cd3"
 metafile = true
@@ -1537,11 +1547,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "21ae5782c5657fbdc90aa42f3d1cfe76168fe107d66f207ec210dc505c096f7b"
 metafile = true
 
 [[files]]
