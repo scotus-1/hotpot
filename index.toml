@@ -595,6 +595,11 @@ hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
 metafile = true
 
 [[files]]
+file = "mods/bushier-flowers.pw.toml"
+hash = "25784745306f13480d5072d167e672c0bae9bf9985b7497a58b887251e7dd447"
+metafile = true
+
+[[files]]
 file = "mods/cake-chomps.pw.toml"
 hash = "a6dd7c4d9101f127c0a0b5ce1154dcf8d28cc6822d35b62c0be3c052852b8e92"
 metafile = true
