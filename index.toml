@@ -1460,6 +1460,11 @@ hash = "a441c287441f57daa6336ad4606c6530320dd0881deb60efa2447a517fb95cd3"
 metafile = true
 
 [[files]]
+file = "mods/portals-gui.pw.toml"
+hash = "e40e36356e129d6c02b10a0970bbfac7f9b37f634275e426828ed693bdd43ef9"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
 metafile = true
