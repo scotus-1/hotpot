@@ -1,13 +1,13 @@
-name = "Effective 💦"
-filename = "effective-1.6+1.19.2.jar"
+name = "Effective"
+filename = "effective-2.1.1+1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b84e05a57c10d26edb1d1c20d253511ee9f34621"
+hash = "b77ddea5164fd55398c22f6065220c1fedf0dfa4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4092345
+file-id = 4620103
 project-id = 556381

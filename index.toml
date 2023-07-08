@@ -781,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
+hash = "1458e4909039fdd41aeb1d7cc7c82fa6def77a48b29ab45f99a9248e05f1e8e1"
 metafile = true
 
 [[files]]
@@ -881,7 +881,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "f7661fdd55181a2cbac8c8514b03ebed6a60bae165c1cb50bc3ae57ec0c8e00d"
+hash = "b422ec1b7719d71b63a149cb9caa83deb5ddeceaa3810cce0c23b6fd8f52f654"
 metafile = true
 
 [[files]]
@@ -921,7 +921,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "3853b370c0f12e4c99b15470e11c83119f96cde01d0ae26d19d93d2caf130065"
+hash = "2d556e473cd69d4fa6b45b7c820d8a27bd4652918e5ae72686550c3bf9d98d27"
 metafile = true
 
 [[files]]
@@ -1905,7 +1905,7 @@ hash = "7acef0af73cfbf251dfab636ac0786da33383a9e607b50efe7c09ef57924b871"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "8445f71e1d1a5d5574204382fba1c75b5506ccf07b8a7605f0d810574c113d70"
+hash = "ce18d14782c7d414c416de2b2613369c23d39a85c252f81ed1073816d5587b44"
 metafile = true
 
 [[files]]
