@@ -930,8 +930,23 @@ hash = "2d556e473cd69d4fa6b45b7c820d8a27bd4652918e5ae72686550c3bf9d98d27"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "648e40ae6800f9d52f0904a0e26f4528aece26856fd7f6dd9f2ccdfdc2d1e2e3"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "0095de6d3525f5d5685df3c5476b09cf2a0fab26c755dac2692e79ee49e2ecaa"
+metafile = true
+
+[[files]]
+file = "mods/emicompat.pw.toml"
+hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
 
 [[files]]
