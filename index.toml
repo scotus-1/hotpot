@@ -625,6 +625,11 @@ hash = "66da0fec8e8aef0a2937aed297cf37a7f66d59254064d11984cc60f98a343c39"
 metafile = true
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "701e4d124c9bf41aa3d3e799d946d3c9a34489ffad95c4a6e54d69c2ba5e2442"
+metafile = true
+
+[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "4c73f1af05cf34a30401806f28cc9bda4f6cdf64e8f0b76744380c1fb6f9bd41"
 metafile = true
@@ -1071,7 +1076,7 @@ metafile = true
 
 [[files]]
 file = "mods/gliders.pw.toml"
-hash = "53e09b8fdb648d4186eb7a652d0e2ac470eccd9c4bc0e3a694127574237ce3c2"
+hash = "d50a7d50865cdd2641bf39f1edbbcbd05076991a608a4632e997c44dd5d0a61f"
 metafile = true
 
 [[files]]
