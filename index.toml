@@ -885,11 +885,6 @@ hash = "b422ec1b7719d71b63a149cb9caa83deb5ddeceaa3810cce0c23b6fd8f52f654"
 metafile = true
 
 [[files]]
-file = "mods/dynamiccrosshaircompat.pw.toml"
-hash = "4808becb244f30886c078a49a7cf1c5adeec6884d82fea283bf8834a3763edd7"
-metafile = true
-
-[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "62637529311965e494748924f953c5c41c5f829dc221f5b5fe20120b8994e807"
 metafile = true
