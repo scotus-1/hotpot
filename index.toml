@@ -926,7 +926,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "2d556e473cd69d4fa6b45b7c820d8a27bd4652918e5ae72686550c3bf9d98d27"
+hash = "66497ca5371a083fab4e4d04d4118d0e91bfc2dd533fe350a534442fb61b43f5"
 metafile = true
 
 [[files]]
@@ -1122,11 +1122,6 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
-metafile = true
-
-[[files]]
-file = "mods/illuminations.pw.toml"
-hash = "80c61628b169079d182f28a3413cc87fef94a392add7afed89547844b546ba9e"
 metafile = true
 
 [[files]]
