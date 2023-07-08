@@ -369,6 +369,11 @@ hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "701e4d124c9bf41aa3d3e799d946d3c9a34489ffad95c4a6e54d69c2ba5e2442"
+metafile = true
+
+[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "4c73f1af05cf34a30401806f28cc9bda4f6cdf64e8f0b76744380c1fb6f9bd41"
 metafile = true
@@ -555,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "3853b370c0f12e4c99b15470e11c83119f96cde01d0ae26d19d93d2caf130065"
+hash = "2d556e473cd69d4fa6b45b7c820d8a27bd4652918e5ae72686550c3bf9d98d27"
 metafile = true
 
 [[files]]
