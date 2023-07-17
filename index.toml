@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "4f64efbeb252e3b600aaf5d58e4a7db02790dd9d3609595f7ede779b988862ab"
+hash = "7dd670d3392e6778df8d6abab16d048d0cde4736409e434d37faf142d32f7ba2"
 metafile = true
 
 [[files]]
@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/autohud.pw.toml"
-hash = "0da7c2fb692783acea95a2cd25d01cddf4a8fb05587670ceeaef03647caf7057"
+hash = "4fe72ef0124d40c9fdf3571a0f99d0941c41a95c59008ae7ea849450f79fdc50"
 metafile = true
 
 [[files]]
@@ -986,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "290d36293a86ebdf7aec0ea84aa975eaccd7d7878b32d06fe1e0a0376d5441a5"
+hash = "b530adad65cbbef684e41627b20e1bda58b9a80999742015a043e8d1e01965ca"
 metafile = true
 
 [[files]]
@@ -1061,7 +1061,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
-hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
+hash = "ee9ec8acfb96b060f3caae3172651436f8388c39db630ba9a7112b8d0f290746"
 metafile = true
 
 [[files]]
@@ -1111,7 +1111,7 @@ metafile = true
 
 [[files]]
 file = "mods/gliders.pw.toml"
-hash = "d50a7d50865cdd2641bf39f1edbbcbd05076991a608a4632e997c44dd5d0a61f"
+hash = "5f0e2ce4368ef14102028c70ee165aaac28c147c062ea61ca99b84e3e8d24836"
 metafile = true
 
 [[files]]

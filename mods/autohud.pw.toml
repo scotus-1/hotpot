@@ -1,18 +1,18 @@
 name = "Auto HUD"
-filename = "autohud-3.2+1.19.1.jar"
+filename = "autohud-4.3+1.19.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/temczoTQ/versions/TyP9drU7/autohud-3.2%2B1.19.1.jar"
+url = "https://cdn.modrinth.com/data/temczoTQ/versions/dnvF9to0/autohud-4.3%2B1.19.2-fabric.jar"
 hash-format = "sha1"
-hash = "67f6d25c75f94a929bfb8b1aaf724e87f8c275d7"
+hash = "aa3ec84459e274a7b3098fe7bf3838b0955af8df"
 
 [update]
 [update.modrinth]
 mod-id = "temczoTQ"
-version = "TyP9drU7"
+version = "dnvF9to0"
 
 [option]
 optional = true
-default = true
 description = "Automatically hides your toolbar based on specific conditions"
+default = true
