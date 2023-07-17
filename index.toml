@@ -880,6 +880,11 @@ hash = "f3176626be60899a5dbe2c5d93681df7fa010e06ac5352576ce8451f6a456405"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "423bb897ea956eb46108cd2d366036c75c1c93760b832b79731e0d3dca7b8306"
+metafile = true
+
+[[files]]
 file = "mods/draggable-resource-packs.pw.toml"
 hash = "6e94a2241d03fff4d1eef01a82f161f741a76bc61d02ead1dcfeda76e84a815b"
 metafile = true
@@ -1287,6 +1292,21 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "e4958dc5dc67d3595710ee4b644edd1bed50eecf2fd990949487d47999e40729"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery.pw.toml"
+hash = "5c6c4757f1400555f69b77179fbbfa49d9fa55fbebb821306f83e9f112bb10c1"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight.pw.toml"
+hash = "f0308f3693947f786e78e2dbd4d5836d96806d661022245e35257ff8204df4fc"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-wine.pw.toml"
+hash = "0b65ffa2472dbcdd20685a0311b2f068afe3187be63b6865d3db6b1108dda211"
 metafile = true
 
 [[files]]
