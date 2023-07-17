@@ -800,6 +800,11 @@ hash = "1d6fbeb879266addecf34c5c2a732467a46d37938216ddb649d79fe891492d1d"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "76391fb9aa0bf082681ff2590aa953fd3be171d24a1d8f5ad3585a0ef3cd09dc"
+metafile = true
+
+[[files]]
 file = "mods/create-track-map.pw.toml"
 hash = "11dcef38596a6c3594f8c07ad8fb1b4dfe4d3b48ff34c4394811b7ebb366f640"
 metafile = true
