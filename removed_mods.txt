@@ -18,7 +18,6 @@ immersive portals - not compatible with current version of iris
 tectonic - crying rn, just biome distribution
 
 all create addons due to 0.5.1 update
-cccbridge
 create-crystal-clear-fabric
 createaddition
 
