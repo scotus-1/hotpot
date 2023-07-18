@@ -345,6 +345,11 @@ hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
 metafile = true
 
 [[files]]
+file = "mods/bushier-flowers.pw.toml"
+hash = "25784745306f13480d5072d167e672c0bae9bf9985b7497a58b887251e7dd447"
+metafile = true
+
+[[files]]
 file = "mods/cake-chomps.pw.toml"
 hash = "a6dd7c4d9101f127c0a0b5ce1154dcf8d28cc6822d35b62c0be3c052852b8e92"
 metafile = true
@@ -360,8 +365,18 @@ hash = "66da0fec8e8aef0a2937aed297cf37a7f66d59254064d11984cc60f98a343c39"
 metafile = true
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "701e4d124c9bf41aa3d3e799d946d3c9a34489ffad95c4a6e54d69c2ba5e2442"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "4dcf5c66d30f78d3d84d2596149b457f7ab2021591e98f9d34b3636e8c961d60"
 metafile = true
 
 [[files]]
@@ -481,7 +496,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
+hash = "1458e4909039fdd41aeb1d7cc7c82fa6def77a48b29ab45f99a9248e05f1e8e1"
+metafile = true
+
+[[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "1d6fbeb879266addecf34c5c2a732467a46d37938216ddb649d79fe891492d1d"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "76391fb9aa0bf082681ff2590aa953fd3be171d24a1d8f5ad3585a0ef3cd09dc"
 metafile = true
 
 [[files]]
@@ -550,6 +575,11 @@ hash = "f3176626be60899a5dbe2c5d93681df7fa010e06ac5352576ce8451f6a456405"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "423bb897ea956eb46108cd2d366036c75c1c93760b832b79731e0d3dca7b8306"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
@@ -580,8 +610,23 @@ hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "3853b370c0f12e4c99b15470e11c83119f96cde01d0ae26d19d93d2caf130065"
+file = "mods/emi-loot.pw.toml"
+hash = "648e40ae6800f9d52f0904a0e26f4528aece26856fd7f6dd9f2ccdfdc2d1e2e3"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "b729de321e1dc2ab73a71d06c01d68f15b9aa41e20b9ec051dcbce5ce2399477"
+metafile = true
+
+[[files]]
+file = "mods/emicompat.pw.toml"
+hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
 
 [[files]]
@@ -686,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/gliders.pw.toml"
-hash = "53e09b8fdb648d4186eb7a652d0e2ac470eccd9c4bc0e3a694127574237ce3c2"
+hash = "5f0e2ce4368ef14102028c70ee165aaac28c147c062ea61ca99b84e3e8d24836"
 metafile = true
 
 [[files]]
@@ -712,11 +757,6 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
-metafile = true
-
-[[files]]
-file = "mods/illuminations.pw.toml"
-hash = "80c61628b169079d182f28a3413cc87fef94a392add7afed89547844b546ba9e"
 metafile = true
 
 [[files]]
@@ -832,6 +872,21 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "408bba556516e21cfa25674fabca2e1da87f7db700a7b88c2cdf1025414b39a1"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery.pw.toml"
+hash = "5c6c4757f1400555f69b77179fbbfa49d9fa55fbebb821306f83e9f112bb10c1"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight.pw.toml"
+hash = "f0308f3693947f786e78e2dbd4d5836d96806d661022245e35257ff8204df4fc"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-wine.pw.toml"
+hash = "0b65ffa2472dbcdd20685a0311b2f068afe3187be63b6865d3db6b1108dda211"
 metafile = true
 
 [[files]]
@@ -1005,8 +1060,18 @@ hash = "dfc73c6ed21d8be632f3d253bd23a921b1e690107a0cd70c63c55a5568278bfd"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "590e350a65f0c6aba510dbcfaf1eab4a0dc1740b19b2e07a5ffef446e89cf1b7"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "a441c287441f57daa6336ad4606c6530320dd0881deb60efa2447a517fb95cd3"
+metafile = true
+
+[[files]]
+file = "mods/portals-gui.pw.toml"
+hash = "e40e36356e129d6c02b10a0970bbfac7f9b37f634275e426828ed693bdd43ef9"
 metafile = true
 
 [[files]]
@@ -1067,11 +1132,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "21ae5782c5657fbdc90aa42f3d1cfe76168fe107d66f207ec210dc505c096f7b"
 metafile = true
 
 [[files]]

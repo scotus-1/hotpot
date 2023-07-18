@@ -1,13 +1,13 @@
 name = "Gliders"
-filename = "vc_gliders-1.0.2-fabric.jar"
+filename = "vc_gliders-fabric-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XiC6HzoU/versions/ZpxnuiTS/vc_gliders-1.0.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/XiC6HzoU/versions/tlHT9WKt/vc_gliders-fabric-1.1.2.jar"
 hash-format = "sha1"
-hash = "0e2ea3d329f3b468e3352dd9278c18205e07b406"
+hash = "c76a1c5bb4fe7fb8dba047c3e3d57bab1d484142"
 
 [update]
 [update.modrinth]
 mod-id = "XiC6HzoU"
-version = "ZpxnuiTS"
+version = "tlHT9WKt"
