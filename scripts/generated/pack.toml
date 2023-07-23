@@ -1,12 +1,12 @@
 name = "fcsp+-"
 author = "scotus-1"
-version = "v0.4.0b"
+version = "v0.4.1b-beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b13ff23d3be3c05f4207732ed678e5938e0f70d9b7152c71ddc13425063aab72"
+hash = "3e8d8ab5a8a87cbf75498c326b53ff3e5161cdeac9d3fc61ab4571d953b0f330"
 
 [versions]
 minecraft = "1.19.2"

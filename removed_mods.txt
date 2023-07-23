@@ -15,8 +15,8 @@ extrasounds - version 1.19.2
 
 NOTES FOR 1.19.2:
 immersive portals - not compatible with current version of iris
-tectonic - crying rn, just biome distribution
-
+tectonic (readd when terratonic v2 updated to 1.19.2)  - crying rn, just biome distribution
+visual-overhaul due to crashes
 all create addons due to 0.5.1 update
 create-crystal-clear-fabric
 createaddition
