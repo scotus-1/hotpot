@@ -1,18 +1,18 @@
 name = "First-person Model"
-filename = "firstperson-fabric-2.2.3-mc1.19.2.jar"
+filename = "firstperson-fabric-2.2.3-mc1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/INcc4wk6/firstperson-fabric-2.2.3-mc1.19.2.jar"
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/evkvoubL/firstperson-fabric-2.2.3-mc1.20.jar"
 hash-format = "sha1"
-hash = "bc331fea05b9e4ab5d2cd12d452e262874390d36"
+hash = "333276a00863816ed29e418de3e275a9e8fc736d"
 
 [update]
 [update.modrinth]
 mod-id = "H5XMjpHi"
-version = "INcc4wk6"
+version = "evkvoubL"
 
 [option]
 optional = true
-default = true
 description = "Allows you to see your player model in first person"
+default = true

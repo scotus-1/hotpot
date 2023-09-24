@@ -1,13 +1,13 @@
 name = "Enhanced Searchability"
-filename = "enhanced-searchability-mc1.19-3.0.1+build.9.jar"
+filename = "enhanced_searchability-mc1.20-1.0.0-build.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Scg0CNUt/versions/3.0.1/enhanced-searchability-mc1.19-3.0.1%2Bbuild.9.jar"
+url = "https://cdn.modrinth.com/data/Scg0CNUt/versions/In3doVKu/enhanced_searchability-mc1.20-1.0.0-build.3.jar"
 hash-format = "sha1"
-hash = "06d33fc59b1f7e53f9e699f8917e1b74ff3086a8"
+hash = "d971268662514b3e0e40b31ef92cf3260411d0f9"
 
 [update]
 [update.modrinth]
 mod-id = "Scg0CNUt"
-version = "wJuDKYok"
+version = "In3doVKu"

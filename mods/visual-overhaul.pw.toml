@@ -1,13 +1,13 @@
 name = "Visual Overhaul"
-filename = "visualoverhaul-4.1.1.jar"
+filename = "visualoverhaul-quilt-5.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YQnwl5Vv/versions/4.1.1/visualoverhaul-4.1.1.jar"
+url = "https://cdn.modrinth.com/data/YQnwl5Vv/versions/lqH98CUx/visualoverhaul-quilt-5.0.1.jar"
 hash-format = "sha1"
-hash = "6f95f03b2bcab7848a7f26ba8cb793e50938344f"
+hash = "d04217121608d660ef5a743371fbf81dbf79ea69"
 
 [update]
 [update.modrinth]
 mod-id = "YQnwl5Vv"
-version = "OXBkbR1M"
+version = "lqH98CUx"
