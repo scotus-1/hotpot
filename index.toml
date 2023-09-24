@@ -102,7 +102,11 @@ hash = "54c73f9f9e41e7759f6ccc6b6005b323a808fcbf7ddde715498143fc474c7b91"
 
 [[files]]
 file = "config/yosbr/config/effective.json"
-hash = "8e6d6cd2b44c52e102e42eca56a218b3dfb6e1111cd668cdb3540095baa7da93"
+hash = "060d0b46597fbc883293fefc9b9b0a7e9944001956eb7cba97900fd1d60769a1"
+
+[[files]]
+file = "config/yosbr/config/emi.css"
+hash = "521cd31175e6365733dcf043f03db3cd499fa5e5cf917931f783f9924df66c28"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
@@ -560,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "2d556e473cd69d4fa6b45b7c820d8a27bd4652918e5ae72686550c3bf9d98d27"
+hash = "66497ca5371a083fab4e4d04d4118d0e91bfc2dd533fe350a534442fb61b43f5"
 metafile = true
 
 [[files]]
