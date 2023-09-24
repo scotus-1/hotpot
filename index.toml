@@ -242,7 +242,11 @@ hash = "54c73f9f9e41e7759f6ccc6b6005b323a808fcbf7ddde715498143fc474c7b91"
 
 [[files]]
 file = "config/yosbr/config/effective.json"
-hash = "8e6d6cd2b44c52e102e42eca56a218b3dfb6e1111cd668cdb3540095baa7da93"
+hash = "060d0b46597fbc883293fefc9b9b0a7e9944001956eb7cba97900fd1d60769a1"
+
+[[files]]
+file = "config/yosbr/config/emi.css"
+hash = "521cd31175e6365733dcf043f03db3cd499fa5e5cf917931f783f9924df66c28"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
