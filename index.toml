@@ -57,10 +57,6 @@ file = "config/paxi/resourcepacks/kubban-s-saplings-e1040.zip"
 hash = "20df4f46d474eeef325978358a88ba345cb6f7859fd3d581e8754677f8ccc8d5"
 
 [[files]]
-file = "config/paxi/resourcepacks/recreated-containers.zip"
-hash = "e8f3b2d9621cc99f94327049c80fdc1ae671bbeba3307dc498d9a1806287bc71"
-
-[[files]]
 file = "config/paxi/resourcepacks/xali's+Enchanted+Books+v0.12.0.zip"
 hash = "441dff2b6a130c0028daf44972883f08dfbc55935d4b9cf9123db6687969df5f"
 
