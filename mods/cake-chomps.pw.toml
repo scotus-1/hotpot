@@ -1,13 +1,13 @@
 name = "Cake Chomps"
-filename = "cakechomps-fabric-6.0.0+1.19.2.jar"
+filename = "cakechomps-quilt-6.1.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/g646EoqQ/versions/alGS0Kqw/cakechomps-fabric-6.0.0%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/g646EoqQ/versions/Re0JYf63/cakechomps-quilt-6.1.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "db7567c68ea3d5fc50116b87f3e96ede9de8cb0d"
+hash = "02f6b3c0b27f64dd394dc318a0d7c05b34a98cb3"
 
 [update]
 [update.modrinth]
 mod-id = "g646EoqQ"
-version = "alGS0Kqw"
+version = "Re0JYf63"

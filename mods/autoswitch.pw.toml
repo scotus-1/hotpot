@@ -1,18 +1,18 @@
 name = "AutoSwitch"
-filename = "autoswitch-5.4.8-alpha.1.jar"
+filename = "autoswitch-7.0.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uSdcnlts/versions/WwtTMaXZ/autoswitch-5.4.8-alpha.1.jar"
+url = "https://cdn.modrinth.com/data/uSdcnlts/versions/J4tWnLnz/autoswitch-7.0.2.jar"
 hash-format = "sha1"
-hash = "8ff14f0973d4d8e3cae273cbd1c47c2a69f5873d"
+hash = "6468ffe85c2bef9e72046ea83cbe18f33d724634"
 
 [update]
 [update.modrinth]
 mod-id = "uSdcnlts"
-version = "WwtTMaXZ"
+version = "J4tWnLnz"
 
 [option]
 optional = true
-default = true
 description = "Auto switches tools based on what your doing, can be disabled in-game via pressing R"
+default = true

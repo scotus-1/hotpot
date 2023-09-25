@@ -1,13 +1,13 @@
 name = "TalkBubbles"
-filename = "talkbubbles-1.0.2.jar"
+filename = "talkbubbles-1.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BUpChT1v/versions/1.0.2/talkbubbles-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/BUpChT1v/versions/AW6w70UA/talkbubbles-1.0.7.jar"
 hash-format = "sha1"
-hash = "04ce6e7bc2d025dc9f8b7722c732d8baece0d29e"
+hash = "35adeb313f6dfce9eafb0daa8c1357862b46ba2c"
 
 [update]
 [update.modrinth]
 mod-id = "BUpChT1v"
-version = "N5rg1YeQ"
+version = "AW6w70UA"

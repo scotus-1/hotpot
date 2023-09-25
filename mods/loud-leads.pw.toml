@@ -1,13 +1,13 @@
 name = "Loud Leads [Fabric]"
-filename = "LoudLeads-1.0.1+mc1.19.jar"
+filename = "LoudLeads-1.0.1+mc1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "31a68814b10dd96f0879eab629a54738f5b0e3b0"
+hash = "bbe1840a299b7faa73265435977bd9e40856558d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3821016
+file-id = 4572251
 project-id = 422343

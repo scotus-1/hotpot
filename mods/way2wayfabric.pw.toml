@@ -1,13 +1,13 @@
 name = "way2wayfabric"
-filename = "way2wayfabric-0.0.4.jar"
+filename = "way2wayfabric-0.0.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lO0vzQUy/versions/Ov9hKbmx/way2wayfabric-0.0.4.jar"
+url = "https://cdn.modrinth.com/data/lO0vzQUy/versions/bgsdOTdR/way2wayfabric-0.0.5.jar"
 hash-format = "sha1"
-hash = "cb8913613c0896dea501f2e9285d6092c1d04f1b"
+hash = "27d32c8eae5d763856f44221d236b8c205addb7e"
 
 [update]
 [update.modrinth]
 mod-id = "lO0vzQUy"
-version = "Ov9hKbmx"
+version = "bgsdOTdR"

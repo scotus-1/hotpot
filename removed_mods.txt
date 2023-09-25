@@ -21,3 +21,27 @@ all create addons due to 0.5.1 update
 create-crystal-clear-fabric
 createaddition
 
+
+
+notes for 1.20.1:
+- smoothboot-fabric - no longer needed!
+
+- keybindsgalore (keybinds) - not updated
+- inventory-tabs-updated - not updated
+- better-biome-blend - not updated
+- thorium - not updated
+- portals-gui - not updated
+- colormatic - not updated
+- slight-gui-modifications - not updated
+- extrasounds - not updated
+- charmonium - not updated
+- item-model-fix - not updated
+- quickconnectbutotn - not updated
+- enhanced-searchbility - crashes
+
+- auditory - https://github.com/Sydokiddo/auditory/pull/52
+- effective - https://github.com/Ladysnake/Effective/pull/216
+- pling - https://github.com/haykam821/Pling/pull/11
+
+pinned:
+- iris + sodium + indium
