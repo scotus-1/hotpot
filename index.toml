@@ -539,11 +539,6 @@ hash = "b804f5d209015090619cba5be684777fa737be5fb14454c3450b7689a0769096"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-searchability.pw.toml"
-hash = "6c933ae5db12006b2535b52e7ee7110df5cfaa56db0c37f0867dbd22c5f68377"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "ceabdf57ccfdf9aefc04e6f3bc10e06d6a3320037a0ff60f5990501c9a5d6302"
 metafile = true
@@ -1030,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "removed_mods.txt"
-hash = "5243189911914b9729d35b245f567ed4c2bfbbe7e91e4c33e34da9bf6a761084"
+hash = "27be0f834f2131078ddda2f8b56994e024c310261668f441cae098e5540eff9f"
 
 [[files]]
 file = "resourcepacks.txt"
