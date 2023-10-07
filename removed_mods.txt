@@ -45,3 +45,24 @@ notes for 1.20.1:
 
 pinned:
 - iris + sodium + indium
+
+notes for 1.20.1b:
+- emicompat - no longer needed!
+- sky-villages - culled
+- towers-of-the-wild-additions - culled
+- cullclouds - no longer needed!
+- pyrotastic - culled
+- editsign - no longer needed!
+
+- projectsavethepets - not updated
+- diagonal-panes - not updated
+
+- create-track-map - https://github.com/jenchanws/create-track-map/pull/46
+- aquatic-torches - https://github.com/realmayus/aquatictorches/commits/1.20
+- beneath-the-snow - https://modrinth.com/datapack/beneath-the-snow/version/0.3
+- immersive-weathering - https://github.com/AstralOrdana/Immersive-Weathering/tree/1.20.0-multiloader
+- cammies-minecart-tweaks - https://github.com/CammiePone/Cammies-Minecart-Tweaks/pull/47
+- gliders - https://github.com/VentureCraftMods/MC-Gliders/tree/mc/1.20
+- another-furniture - https://github.com/starfish-studios/AnotherFurniture/commits/1.20.1
+- create-goggles - https://github.com/Robocraft999/CreateGoggles/commits/1.20.1
+- bettersleeping-revived - https://github.com/ReviversMC/bettersleeping/issues/26

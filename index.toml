@@ -430,11 +430,6 @@ hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
-file = "mods/aquatic-torches.pw.toml"
-hash = "d107a40fce2e3239ce4d8f612bab62ec36f52e818a9abcd2c940c8aa4b4e75a8"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
@@ -510,11 +505,6 @@ hash = "36573ec78f4faa00770337200cddb801e61217392513913d15a36da0ed95edab"
 metafile = true
 
 [[files]]
-file = "mods/beneath-the-snow.pw.toml"
-hash = "e9f5b62ee83bd174a04b20363bd2bc38bb3bffa165d957009e9f59f96bb4814d"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -552,11 +542,6 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
-metafile = true
-
-[[files]]
-file = "mods/bettersleeping-revived.pw.toml"
-hash = "873aa44575c42ede9fae64070fcaab233ccca24c3cdc3501476d8d0070e9fff5"
 metafile = true
 
 [[files]]
@@ -630,8 +615,8 @@ hash = "31274861cb2f560e5f4a7bb3c1d51b727d885686ce6cc03cca4c861fdc48caf8"
 metafile = true
 
 [[files]]
-file = "mods/cc-restitched.pw.toml"
-hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+file = "mods/cc-tweaked.pw.toml"
+hash = "c5273660430701af5eb1cb8cc298db8266756bb8bb5c87a6031ce96b33cd8ffc"
 metafile = true
 
 [[files]]
@@ -780,11 +765,6 @@ hash = "61ad112f947709507c21d9755cbde300bea4fab210f4d54e37085ce6ae6a7231"
 metafile = true
 
 [[files]]
-file = "mods/create-track-map.pw.toml"
-hash = "11dcef38596a6c3594f8c07ad8fb1b4dfe4d3b48ff34c4394811b7ebb366f640"
-metafile = true
-
-[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "2723d5e467bc32a7a9d48c9dfcb725f38c7f618e07cfea71f1d91d2847999d82"
 metafile = true
@@ -792,11 +772,6 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
-metafile = true
-
-[[files]]
-file = "mods/cullclouds.pw.toml"
-hash = "2bbb1ff7bbecbdb7b484df35b823dae2abc4798a5c203a651d2ae0b0a707d119"
 metafile = true
 
 [[files]]
@@ -842,11 +817,6 @@ metafile = true
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "9be216fe8f8f086415d946964a4648941738da7838b2844398d31326f7dedb89"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-panes.pw.toml"
-hash = "435898f472db8bf1d7a295f52528540aa3965cf0f2110912eba8260618512ff4"
 metafile = true
 
 [[files]]
@@ -915,11 +885,6 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/editsign.pw.toml"
-hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
 metafile = true
@@ -927,11 +892,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "e1281e7858663cb1ef53f91e56005ea165f7d95473e12891db40f3266cf755e1"
-metafile = true
-
-[[files]]
-file = "mods/emicompat.pw.toml"
-hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
 metafile = true
 
 [[files]]
@@ -1107,11 +1067,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "b6916248d145c8041923e79e805ce265381ecf9a293c64a630911074dc67e90f"
-metafile = true
-
-[[files]]
-file = "mods/immersive-weathering.pw.toml"
-hash = "caececdea119fdfeb079b1e6fb3d470cf9be0a2917bb87882548ae3d3876151c"
 metafile = true
 
 [[files]]
@@ -1480,11 +1435,6 @@ hash = "e51bce9d59f8db31f2730a742b84917a3729388f2fc44e0aa51fa39f9dfb43d5"
 metafile = true
 
 [[files]]
-file = "mods/projectsavethepets.pw.toml"
-hash = "b4431b2a14519455d564ec3105a7a603a88f4820a12c92ab48081474a20936e6"
-metafile = true
-
-[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
 metafile = true
@@ -1582,11 +1532,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "35db6a82738d4c9aa018954164186e6cda92ef9c4739a0412478cf71927d220b"
-metafile = true
-
-[[files]]
-file = "mods/sky-villages.pw.toml"
-hash = "472e85c66624b2a93f2d1a25c4f01dcf534525e271e6e525c610411fa2d1fb9f"
 metafile = true
 
 [[files]]
@@ -1707,11 +1652,6 @@ metafile = true
 [[files]]
 file = "mods/torch-hit.pw.toml"
 hash = "bcf0bb4c2fc6d86f6b1e6d6795bab40170c61c68f21bb1693044ec809be018e4"
-metafile = true
-
-[[files]]
-file = "mods/towers-of-the-wild-additions.pw.toml"
-hash = "916a6b442bad08a86df1069d941000da110b5b24e64fa75ad45c961590cfd7b9"
 metafile = true
 
 [[files]]
