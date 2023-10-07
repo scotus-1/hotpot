@@ -775,6 +775,11 @@ hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "adee56de36b08b1c6209ee506707dea3bebf06a74b057b7ea2a27be8d9a0f164"
+metafile = true
+
+[[files]]
 file = "mods/cyanide-fabric.pw.toml"
 hash = "77ab07441534fa68673a526ffefae2c929514cef5fcfe2f5c7f1aa2bdea90af0"
 metafile = true
@@ -1101,7 +1106,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
+hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
 metafile = true
 
 [[files]]
