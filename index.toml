@@ -590,11 +590,6 @@ hash = "933cfa7fd5643b6c2a94ea6c9a538b939ef3c018c723f039be4e35a62d02255a"
 metafile = true
 
 [[files]]
-file = "mods/cammies-minecart-tweaks.pw.toml"
-hash = "c146babc3f83049bc49c190308f9d190b636144c61f3c69a87099692656386fb"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
@@ -1106,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
+hash = "1c8d8f7da7529c0d2fb3be6f3b898efd874690f1f5d435361ec91206f3dd3c16"
 metafile = true
 
 [[files]]
@@ -1447,11 +1442,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "8cd8f7a7a486065f4fafb0f841bc231b2542e13fe0795c8cb3af1735a83da013"
-metafile = true
-
-[[files]]
-file = "mods/pyrotastic.pw.toml"
-hash = "c610a27b61223084372002af3d2178e58650d678cde7e0f673a9b9b730db7da6"
 metafile = true
 
 [[files]]
