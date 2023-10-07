@@ -1,13 +1,13 @@
 name = "Things"
-filename = "things-0.3.0+1.19.jar"
+filename = "things-0.3.1+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VzAGdu9D/versions/K59hNxSI/things-0.3.0%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/VzAGdu9D/versions/4osKFK3P/things-0.3.1%2B1.20.jar"
 hash-format = "sha1"
-hash = "1e9bae74f51dfcd96ab28c7a4969af1533d70e76"
+hash = "c7c46a155d799ba72c824fec0fddb85f8f61465b"
 
 [update]
 [update.modrinth]
 mod-id = "VzAGdu9D"
-version = "K59hNxSI"
+version = "4osKFK3P"

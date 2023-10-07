@@ -1,13 +1,13 @@
 name = "Colorful Anvils"
-filename = "colorfulanvils-1.1.1+1.19.x.jar"
+filename = "colorfulanvils-1.2.0+1.20.x.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Di6KteGa/versions/v5dbug2x/colorfulanvils-1.1.1%2B1.19.x.jar"
+url = "https://cdn.modrinth.com/data/Di6KteGa/versions/2RmWRyLP/colorfulanvils-1.2.0%2B1.20.x.jar"
 hash-format = "sha1"
-hash = "8c704f689beaf2ba82be2755f497bd7b773f5776"
+hash = "46d716fe4ad285b5a30854ef04cfad4ee0fbb555"
 
 [update]
 [update.modrinth]
 mod-id = "Di6KteGa"
-version = "v5dbug2x"
+version = "2RmWRyLP"

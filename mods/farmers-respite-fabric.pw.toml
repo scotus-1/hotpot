@@ -1,13 +1,13 @@
 name = "Farmer's Respite (Fabric)"
-filename = "Farmersrespite-Fabric-2.2.4.jar"
+filename = "Farmersrespite-Fabric-2.3.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ff628d8fd322b08f901639375faed831d40b12f3"
+hash = "9cb398eb12d2c53232452428b7ae5e89f4f4b8d8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4361926
+file-id = 4754429
 project-id = 811003

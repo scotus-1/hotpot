@@ -1,13 +1,13 @@
 name = "Soul Fire'd"
-filename = "soulfired-1.19.2-3.1.0.0-final-fabric.jar"
+filename = "soulfired-1.20.1-3.2.0.1-final-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/d6MhxwRo/versions/8dzO7PaC/soulfired-1.19.2-3.1.0.0-final-fabric.jar"
+url = "https://cdn.modrinth.com/data/d6MhxwRo/versions/Cl3O6rvB/soulfired-1.20.1-3.2.0.1-final-fabric.jar"
 hash-format = "sha1"
-hash = "f85b0e281bd9053e91a786fd73145eb7a40c60f2"
+hash = "fb0ba975e888061c0912f464a250a5ad96109401"
 
 [update]
 [update.modrinth]
 mod-id = "d6MhxwRo"
-version = "8dzO7PaC"
+version = "Cl3O6rvB"

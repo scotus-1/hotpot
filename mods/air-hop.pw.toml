@@ -1,13 +1,13 @@
 name = "Air Hop"
-filename = "AirHop-v4.2.1-1.19.2-Fabric.jar"
+filename = "AirHop-v8.0.0-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/g1eaCZgs/versions/Qtj0eqdC/AirHop-v4.2.1-1.19.2-Fabric.jar"
+url = "https://cdn.modrinth.com/data/g1eaCZgs/versions/Yf6Mw7GF/AirHop-v8.0.0-1.20.1-Fabric.jar"
 hash-format = "sha1"
-hash = "f0df6323ef7c29eb224146c096f2d93602e490af"
+hash = "8a536092c69cd8db867cd5cb30b2fd3b8443a5af"
 
 [update]
 [update.modrinth]
 mod-id = "g1eaCZgs"
-version = "Qtj0eqdC"
+version = "Yf6Mw7GF"

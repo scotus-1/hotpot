@@ -1,13 +1,13 @@
 name = "Cyanide (Fabric)"
-filename = "cyanide-fabric-1.19.2-3.0.1.jar"
+filename = "cyanide-fabric-1.20-4.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "36d8c71961ced330851b21948f953c43cea2614c"
+hash = "fb5a7ce355df41bada68e7f2e7969bba3488663c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4126945
+file-id = 4584673
 project-id = 543444
