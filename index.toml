@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "fd61b0c5a0321519c9801c425f2461e3c5f7e9fb93b2c9dd0228fb9f61f62f78"
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
+hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
 metafile = true
 
 [[files]]
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7d29724ac05ef8982475b92f0e77adf4a4830c249f0e8c1515a19777fbf05f09"
+hash = "a41dbddd6d8d0500fe2dfaa5115ea56393ce8556372da24633ef681273f4dc3c"
 metafile = true
 
 [[files]]
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "290bec4fc6c4cf687263e20396a42aed8fd0eb0a1948d03dfa639ed885f96844"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
@@ -1025,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "removed_mods.txt"
-hash = "27be0f834f2131078ddda2f8b56994e024c310261668f441cae098e5540eff9f"
+hash = "fb1fa3e0496879547b9d9e96b3d73cd4fe01792e02aa8aef0a6b3cca5f2aa78d"
 
 [[files]]
 file = "resourcepacks.txt"
