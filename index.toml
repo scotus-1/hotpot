@@ -590,11 +590,6 @@ hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
 
 [[files]]
-file = "mods/capybara-fabric.pw.toml"
-hash = "66da0fec8e8aef0a2937aed297cf37a7f66d59254064d11984cc60f98a343c39"
-metafile = true
-
-[[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "ea754cf20adb758fd52e23a53d6ada63a0f54351e8794f61ea935856982eccb9"
 metafile = true
@@ -697,11 +692,6 @@ metafile = true
 [[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "2b880a4be1a624e956fafaea89834828c58b0c512e611e6746c3fb8d9e93b260"
-metafile = true
-
-[[files]]
-file = "mods/compostable-rotten-flesh.pw.toml"
-hash = "73a28f82a993c2b18bba8ae656c82ccf346a0a3ce1eaa8aabc4f30b3363ff03f"
 metafile = true
 
 [[files]]
@@ -1122,11 +1112,6 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "1d8b10baa654959dbe4c1ca48e673c2eb7a78c849f372dbfe71bcffb006a5d7e"
-metafile = true
-
-[[files]]
-file = "mods/jumpy-boats-fabric.pw.toml"
-hash = "ae6ba8751a4bffab1cdb430210a08f498f28fa6c5ab0775aac4a7c242fb9df0b"
 metafile = true
 
 [[files]]
