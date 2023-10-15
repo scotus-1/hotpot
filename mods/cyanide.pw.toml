@@ -1,0 +1,13 @@
+name = "Cyanide"
+filename = "cyanide-fabric-1.20-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fXbvd6mf/versions/N7zxc149/cyanide-fabric-1.20-4.0.0.jar"
+hash-format = "sha1"
+hash = "fb5a7ce355df41bada68e7f2e7969bba3488663c"
+
+[update]
+[update.modrinth]
+mod-id = "fXbvd6mf"
+version = "N7zxc149"

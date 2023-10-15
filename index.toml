@@ -755,8 +755,8 @@ hash = "ca9a0b70fb11328d6868ab909d4d92ec1160e530f19a31387f26e0abec42f5af"
 metafile = true
 
 [[files]]
-file = "mods/cyanide-fabric.pw.toml"
-hash = "77ab07441534fa68673a526ffefae2c929514cef5fcfe2f5c7f1aa2bdea90af0"
+file = "mods/cyanide.pw.toml"
+hash = "f45d7cd223f352cc6c05c5ad8ae5b9f90c9cbfbc5ba401eb55faf29d1d87e662"
 metafile = true
 
 [[files]]
@@ -1041,7 +1041,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "fd61b0c5a0321519c9801c425f2461e3c5f7e9fb93b2c9dd0228fb9f61f62f78"
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
@@ -1071,7 +1071,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "1c8d8f7da7529c0d2fb3be6f3b898efd874690f1f5d435361ec91206f3dd3c16"
+hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
 metafile = true
 
 [[files]]
@@ -1350,11 +1350,6 @@ hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
 metafile = true
 
 [[files]]
-file = "mods/paxi.pw.toml"
-hash = "e1434c282fc8d1d6d681838689200f09ffb94a7d3db112de72050597cbd70210"
-metafile = true
-
-[[files]]
 file = "mods/physicsmod.pw.toml"
 hash = "683e4dbaf7687fa4a06f06d7e7573af00ef4224b2d5644c901aa4f31c7fde15b"
 metafile = true
@@ -1516,7 +1511,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "290bec4fc6c4cf687263e20396a42aed8fd0eb0a1948d03dfa639ed885f96844"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
