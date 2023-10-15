@@ -1290,11 +1290,6 @@ hash = "8f878789230d8c194102e1b720feb2762dc1a192e9ee04590a6785c657f7f70e"
 metafile = true
 
 [[files]]
-file = "mods/more-villagers-fabric.pw.toml"
-hash = "ff6a43dcc382e17d47694ada1e704b7023d33a96aac2c78f6651109a332e56b5"
-metafile = true
-
-[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
