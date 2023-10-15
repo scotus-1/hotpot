@@ -53,7 +53,9 @@ notes for 1.20.1b:
 - cullclouds - no longer needed!
 - pyrotastic - culled
 - editsign - no longer needed!
+- recipe-cache - culled
 
+- mob-scarecrows - not updated
 - projectsavethepets - not updated
 - diagonal-panes - not updated
 - jumpy-boats-fabric - not updated

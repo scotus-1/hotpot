@@ -1260,11 +1260,6 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
-file = "mods/mob-scarecrows.pw.toml"
-hash = "633990f96e15b07dab59b895b36b9b8250b0c6d28791ba3f087152331841a91c"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
@@ -1432,11 +1427,6 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "d8927be5076d9167c8e0eddf0a449516b1921c10315ac1640e37fe7465095606"
-metafile = true
-
-[[files]]
-file = "mods/recipe-cache.pw.toml"
-hash = "9a3ae5c72bc925fb64391a62bef32f2d585d40a52481dfa132e838e0cffadcd2"
 metafile = true
 
 [[files]]
