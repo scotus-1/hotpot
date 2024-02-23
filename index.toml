@@ -645,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9890ca38aa1fc088ff61a8bfe0f86e38f43f3bd8a44d6616331e70d8920b910a"
+hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
 metafile = true
 
 [[files]]
@@ -1075,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "removed_mods.txt"
-hash = "fb1fa3e0496879547b9d9e96b3d73cd4fe01792e02aa8aef0a6b3cca5f2aa78d"
+hash = "0f3aaae87c9aaa98e8065efa67b0176fef48a198da8038de25b348da669fb107"
 
 [[files]]
 file = "resourcepacks.txt"
