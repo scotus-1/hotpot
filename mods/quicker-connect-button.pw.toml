@@ -1,0 +1,13 @@
+name = "Quicker Connect Button"
+filename = "Quicker Connect Button-fabric-1.20.1-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1SruaFxM/versions/KDftqfgI/Quicker%20Connect%20Button-fabric-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "cb12830cc8ff431bc17dccf97833712bc58cd79e"
+
+[update]
+[update.modrinth]
+mod-id = "1SruaFxM"
+version = "KDftqfgI"

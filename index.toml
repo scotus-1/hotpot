@@ -374,6 +374,11 @@ hash = "31274861cb2f560e5f4a7bb3c1d51b727d885686ce6cc03cca4c861fdc48caf8"
 metafile = true
 
 [[files]]
+file = "mods/charmonium.pw.toml"
+hash = "f2e1d6a93b68fbec1adbbb8fa107682a7fced5115b02a33f1e7eb70c50018c84"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "56a4d9f9b47a65b3508192e519163ff73c712354d3ff907938f2593d18ea166e"
 metafile = true
@@ -534,6 +539,11 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/effective.pw.toml"
+hash = "0defe5f1c4912392940ed43a0acbd7a8df22442768dc8eec63c0790d85d22529"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "0e8a5f0c1e5d306dcdb4819c799a388eca32429169a3cf0a2bee07124c547639"
 metafile = true
@@ -619,6 +629,11 @@ hash = "280af6886fbdec37ccfab4d8a7cbd2d3777a198a5fa0d2ec15dc9b9c8b0eff67"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tabs.pw.toml"
+hash = "46e66342d144d7fd461494a4e530af96baf94a9ec44823318045002da7896d49"
+metafile = true
+
+[[files]]
 file = "mods/inventory-totem.pw.toml"
 hash = "2b429fbd79029a9de408b7e375172ace3d54586da28b50f5a460fc0eaa04d379"
 metafile = true
@@ -630,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+hash = "9890ca38aa1fc088ff61a8bfe0f86e38f43f3bd8a44d6616331e70d8920b910a"
 metafile = true
 
 [[files]]
@@ -656,6 +671,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
+metafile = true
+
+[[files]]
+file = "mods/keybind-fix.pw.toml"
+hash = "48777d535f2dbe76ec2adb6a001ab4442e40e0e403570eb5dc9a49e6957e40a1"
 metafile = true
 
 [[files]]
@@ -749,6 +769,11 @@ hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6ff047f3b0e73e22bf5ad0d6751f82cd6f6a4e164a911a37839eba667fa85502"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
@@ -766,6 +791,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "051b1bee4a7fd8f2a55753fe95eda061e0f2a724c5b8ad38d2ca3619c88f2fae"
 metafile = true
 
 [[files]]
@@ -824,6 +854,16 @@ hash = "bcf7b1f7226b3db7c78ba826464d17b71ed2e051898fd582b270e02cd8737320"
 metafile = true
 
 [[files]]
+file = "mods/pling.pw.toml"
+hash = "e8d07ed25aa50a2146f1b81daaf1f91204a8f2c0cad603d67344ed1d3ece0b00"
+metafile = true
+
+[[files]]
+file = "mods/portalgui.pw.toml"
+hash = "e033c5d366af9c59fabb1d60753ea2e4ddda90e3df028fe3ff5847105f30ae1a"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
 metafile = true
@@ -856,6 +896,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
+metafile = true
+
+[[files]]
+file = "mods/quicker-connect-button.pw.toml"
+hash = "3535f82493a836ccf02351c4ee40febca792d6f724416d1f23c5af981882efa1"
 metafile = true
 
 [[files]]
@@ -926,6 +971,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "ccf55ba362726080854360dc1a19323576b5da9e71dab5ea055490003b4f037d"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "fa60988547547bb38e0e0dd3f36ebcdaf608715fd1ddbaef0dea9882d4e50314"
 metafile = true
 
 [[files]]
