@@ -1,13 +1,13 @@
 name = "[Let's Do] Vinery"
-filename = "letsdo-vinery-fabric-1.4.8.jar"
+filename = "letsdo-vinery-fabric-1.4.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6a16f7103442df496737dacb8fb6645c622a7e12"
+hash = "90b414364b34ca27e6ffcdbeb9912de7292adb74"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5092324
+file-id = 5160854
 project-id = 704465
