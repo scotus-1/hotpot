@@ -1,13 +1,12 @@
-name = "fcsp++"
+name = "hotpot"
 author = "scotus*"
-version = "v0.4.1b-beta"
+version = "v1.0.0-beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "58456db89ba86ca05751eeb8178e1871c222ec5bdcae9da160764339749cee58"
-
+hash = "305435943ec151f7993fbb79e3c3b127babe4bb93952086444725d50367c9d69"
 
 [versions]
 minecraft = "1.20.1"
