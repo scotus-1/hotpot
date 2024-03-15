@@ -610,6 +610,11 @@ hash = "d94da74c5f4dce9b7b6586f04b3bfe99ff2b2b5298258b8ab9b111c1c126bb67"
 metafile = true
 
 [[files]]
+file = "mods/charmonium.pw.toml"
+hash = "f2e1d6a93b68fbec1adbbb8fa107682a7fced5115b02a33f1e7eb70c50018c84"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "56a4d9f9b47a65b3508192e519163ff73c712354d3ff907938f2593d18ea166e"
 metafile = true
@@ -860,6 +865,11 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/effective.pw.toml"
+hash = "0defe5f1c4912392940ed43a0acbd7a8df22442768dc8eec63c0790d85d22529"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
 metafile = true
@@ -1060,6 +1070,11 @@ hash = "280af6886fbdec37ccfab4d8a7cbd2d3777a198a5fa0d2ec15dc9b9c8b0eff67"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tabs.pw.toml"
+hash = "46e66342d144d7fd461494a4e530af96baf94a9ec44823318045002da7896d49"
+metafile = true
+
+[[files]]
 file = "mods/inventory-totem.pw.toml"
 hash = "2b429fbd79029a9de408b7e375172ace3d54586da28b50f5a460fc0eaa04d379"
 metafile = true
@@ -1112,6 +1127,11 @@ metafile = true
 [[files]]
 file = "mods/keepheadnames.pw.toml"
 hash = "c80ed9ec25793ad290a98d74ce07c8678242fd4ffa33a8ff8dd465b8bd9d1193"
+metafile = true
+
+[[files]]
+file = "mods/keybind-fix.pw.toml"
+hash = "48777d535f2dbe76ec2adb6a001ab4442e40e0e403570eb5dc9a49e6957e40a1"
 metafile = true
 
 [[files]]
@@ -1255,6 +1275,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6ff047f3b0e73e22bf5ad0d6751f82cd6f6a4e164a911a37839eba667fa85502"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
@@ -1365,6 +1390,11 @@ hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
+file = "mods/pling.pw.toml"
+hash = "e8d07ed25aa50a2146f1b81daaf1f91204a8f2c0cad603d67344ed1d3ece0b00"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "50a484d5e0b69d91c50a6e71e973879f58b209c0a47a20588b736b8712f68201"
 metafile = true
@@ -1372,6 +1402,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "6b92597fc1f29ad24ffcdf0f80113d255b4d999bc095fbb215dcabf1c562bd15"
+metafile = true
+
+[[files]]
+file = "mods/portalgui.pw.toml"
+hash = "e033c5d366af9c59fabb1d60753ea2e4ddda90e3df028fe3ff5847105f30ae1a"
 metafile = true
 
 [[files]]
@@ -1402,6 +1437,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
+metafile = true
+
+[[files]]
+file = "mods/quicker-connect-button.pw.toml"
+hash = "3535f82493a836ccf02351c4ee40febca792d6f724416d1f23c5af981882efa1"
 metafile = true
 
 [[files]]
@@ -1522,6 +1562,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "ccf55ba362726080854360dc1a19323576b5da9e71dab5ea055490003b4f037d"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "fa60988547547bb38e0e0dd3f36ebcdaf608715fd1ddbaef0dea9882d4e50314"
 metafile = true
 
 [[files]]
