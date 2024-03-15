@@ -1,13 +1,13 @@
 name = "Display Case"
-filename = "Display Case-quilt-1.19-1.0.3.jar"
+filename = "Display Case-quilt-1.20-1.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cSIsh4gX/versions/IDNLzYVh/Display%20Case-quilt-1.19-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/cSIsh4gX/versions/TLATQHdE/Display%20Case-quilt-1.20-1.0.8.jar"
 hash-format = "sha1"
-hash = "db2e1320a409a5ce9aca5df8689a621cb642a7e6"
+hash = "541c3f0781ba69c2654297d4d0b4f43bcf2907d6"
 
 [update]
 [update.modrinth]
 mod-id = "cSIsh4gX"
-version = "IDNLzYVh"
+version = "TLATQHdE"

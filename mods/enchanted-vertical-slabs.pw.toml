@@ -1,13 +1,13 @@
 name = "Enchanted Vertical Slabs"
-filename = "mc1.19-enchanted-vertical-slabs-1.8.jar"
+filename = "enchanted-vertical-slabs-1.9.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TG1cHkRf/versions/PUgytpqh/mc1.19-enchanted-vertical-slabs-1.8.jar"
+url = "https://cdn.modrinth.com/data/TG1cHkRf/versions/Uz2qBghF/enchanted-vertical-slabs-1.9.1.jar"
 hash-format = "sha1"
-hash = "114102698797259dd994d60e1d384f55df23c3ec"
+hash = "d62590f0286f19c77675ae3c1c508dd069fcd7e4"
 
 [update]
 [update.modrinth]
 mod-id = "TG1cHkRf"
-version = "PUgytpqh"
+version = "Uz2qBghF"

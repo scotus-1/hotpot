@@ -1,13 +1,13 @@
 name = "Third Person Maps"
-filename = "third-person-maps-1.4.0+1.19.jar"
+filename = "third-person-maps-1.5.1+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/H0x6CMOI/versions/1.4.0%2B1.19/third-person-maps-1.4.0%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/H0x6CMOI/versions/cqgOyDfs/third-person-maps-1.5.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "a9b05689d3102548cde663f44b312fa73a2a585c"
+hash = "0351be3767062e0aaa20d0d1fb009e2bfe0853ae"
 
 [update]
 [update.modrinth]
 mod-id = "H0x6CMOI"
-version = "lFwTXvSz"
+version = "cqgOyDfs"

@@ -1,13 +1,13 @@
 name = "Show Me What You Got"
-filename = "ShowMeWhatYouGot-1.19.2-1.0.3.jar"
+filename = "ShowMeWhatYouGot-1.20-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jTUiUpsh/versions/vZb6ySZg/ShowMeWhatYouGot-1.19.2-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/jTUiUpsh/versions/fQQ8wvKT/ShowMeWhatYouGot-1.20-1.1.1.jar"
 hash-format = "sha1"
-hash = "7b487094dfa4d5740bdd33b5a5abd4cf0692b2ee"
+hash = "ffbce7e75dbede02dd9f86fc8fb543598d1c336d"
 
 [update]
 [update.modrinth]
 mod-id = "jTUiUpsh"
-version = "vZb6ySZg"
+version = "fQQ8wvKT"

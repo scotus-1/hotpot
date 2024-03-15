@@ -1,13 +1,13 @@
 name = "Bedspreads"
-filename = "bedspreads-fabric-6.0.0+1.19.2.jar"
+filename = "bedspreads-quilt-6.2.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vNNL5mc7/versions/5X7yabn5/bedspreads-fabric-6.0.0%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/vNNL5mc7/versions/i9nYMUAq/bedspreads-quilt-6.2.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "ba9bb3cd1adeee8731b00855915389440e88213e"
+hash = "5a8957b40083b6fff01516db62fadf994b9b9a4c"
 
 [update]
 [update.modrinth]
 mod-id = "vNNL5mc7"
-version = "5X7yabn5"
+version = "i9nYMUAq"

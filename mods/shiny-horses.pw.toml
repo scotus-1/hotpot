@@ -3,11 +3,11 @@ filename = "shinyhorses-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/s6LHnDpR/versions/1.19.x/shinyhorses-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/s6LHnDpR/versions/8lpiSNlo/shinyhorses-1.0.0.jar"
 hash-format = "sha1"
-hash = "e4fd84bf28c928b9df4c59c452483ffb50af9e15"
+hash = "913c0398d713c1ca88cfbf582d10ca2e4ade779b"
 
 [update]
 [update.modrinth]
 mod-id = "s6LHnDpR"
-version = "wkBEvJFg"
+version = "8lpiSNlo"

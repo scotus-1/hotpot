@@ -1,13 +1,13 @@
 name = "Pling"
-filename = "pling-1.5.0.jar"
-side = "both"
+filename = "pling-1.8.0.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/4bqq2uqn/versions/5Gytol11/pling-1.8.0.jar"
 hash-format = "sha1"
-hash = "352ad6d9b5f579c4f0f9c0bee0342cda7c941aff"
-mode = "metadata:curseforge"
+hash = "2d2bb4daa065d6111df93aa2e0c49e3d1f20d05d"
 
 [update]
-[update.curseforge]
-file-id = 3550632
-project-id = 365521
+[update.modrinth]
+mod-id = "4bqq2uqn"
+version = "5Gytol11"
