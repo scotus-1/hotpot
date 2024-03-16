@@ -1,0 +1,13 @@
+name = "Variant Bookshelves"
+filename = "variantbookshelves-2.3.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2B65v74X/versions/kPFJglRe/variantbookshelves-2.3.8.jar"
+hash-format = "sha1"
+hash = "e6739d80284e87b0d1e9da3a6ba2b9f2147cc34b"
+
+[update]
+[update.modrinth]
+mod-id = "2B65v74X"
+version = "kPFJglRe"

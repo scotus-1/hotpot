@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "9cefb6bce20863fb1803a19a8bb15e949298a8b552f1ff0d8d235786d501e222"
+hash = "9c44cf229440021ac7c42cd265fcec944fb002e2264c61688dfc21546bdaed5d"
 metafile = true
 
 [[files]]
@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleancut.pw.toml"
-hash = "eb7f6a50483c6f0dcd286578573f3a0264dd70d9b548f2059dd264f50c1569fd"
+hash = "94384a5665b900d965b0f16a73aeba6007728be1b4f42b15bfe451931cc61535"
 metafile = true
 
 [[files]]
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "1b222f2d73036e0d08be25c3c8c5a77a8454b1f399467ff212d09e936426734e"
+hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
 metafile = true
 
 [[files]]
@@ -711,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "e7513fdc9b93652c928a5af59e9dc6a5b21dfe5200fe78883a6fa56d3cdefa1f"
+hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
@@ -772,6 +772,11 @@ metafile = true
 [[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "b3ce101677c5f2bdcac46f54def60033f3a2e0403394a19ba414d8e301093455"
+metafile = true
+
+[[files]]
+file = "mods/dcwa.pw.toml"
+hash = "e96c71e46932e7060f04e19145977c2ca71686f373273a8fae78f933a37b1b75"
 metafile = true
 
 [[files]]
@@ -920,11 +925,6 @@ hash = "f46c815ae863424e20dccc269bbddd0b23793ded28b57ed84eee6deb6f0a3886"
 metafile = true
 
 [[files]]
-file = "mods/fabric-disable-custom-worlds-advice.pw.toml"
-hash = "ecc7283fd4dfc24ba53f79675491c9feef6864d67c7792e6a3b5008348f9c04c"
-metafile = true
-
-[[files]]
 file = "mods/fabric-seasons-delight-compat.pw.toml"
 hash = "9a787be39525c0ad8bfc755162990e22f802c94acb9cd4f968cb119f43b6d447"
 metafile = true
@@ -1061,12 +1061,12 @@ metafile = true
 
 [[files]]
 file = "mods/inmis.pw.toml"
-hash = "3b5d812cb326288def7f87a06dddbc4ba987cea771d1708a3680f8201865c0be"
+hash = "feefe07278b869d769f1f679c89f9e37056558802cf16d0f96f79759ac372ba8"
 metafile = true
 
 [[files]]
 file = "mods/inmisaddon.pw.toml"
-hash = "16e7fe544a266d9f2ff4a8ae05f1b6c9db183145d429df578bc330c7dee973d3"
+hash = "e5f96d898695220e79fc43f2142969a91d793d50385149f3c5578a8439b60443"
 metafile = true
 
 [[files]]
@@ -1196,17 +1196,17 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "b95225b87a0c245ad686ef5ca196224025cff7f3112e681247442a8873c283d1"
+hash = "6360b0dfa763a74157269a781e029c7186d058ee2fedca29fb4403c7fed5419d"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-candlelight.pw.toml"
-hash = "54c73f056423304d4456752865441df3daf090213a60ff493dd7bb785a14dcb8"
+hash = "3f432ae9ab7ea59778f6f04e85c4197d347a16ab89e5c6dd6b13603a31882f1f"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-wine.pw.toml"
-hash = "5d0bcf0d5c45265fdb352bfbefd34138b1c96463d51c5f5637a58ce893ba748d"
+file = "mods/lets-do-vinery.pw.toml"
+hash = "61a526ba987ddeb56c45d02d3cb86be23ec9e386eb900f2833939a8d1a2acb6c"
 metafile = true
 
 [[files]]
@@ -1301,7 +1301,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-banner-features.pw.toml"
-hash = "14c11abd1edb03f1bb11e28a84816a2edd9ce235cb6bc3c46cc4e6a3b5669f93"
+hash = "c2e7c271a462b708f4427ee5f8d679413e2b4481a7af651b647b0678e64e3652"
 metafile = true
 
 [[files]]
@@ -1331,7 +1331,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
+hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
 
 [[files]]
@@ -1456,7 +1456,7 @@ metafile = true
 
 [[files]]
 file = "mods/quit.pw.toml"
-hash = "fe211639347ee106af5e3589cd3fd328cbaabde7e96b1b9a2a98956d9753dd81"
+hash = "7b9d8e31005486370dbdc3736c1dafe50391aaf89e8164f5663792a39afe2708"
 metafile = true
 
 [[files]]
@@ -1471,7 +1471,7 @@ metafile = true
 
 [[files]]
 file = "mods/replanter.pw.toml"
-hash = "3f40334ed8078559406d5faaa755fbd686e31d4e43bf6c43594377c815ed1c0a"
+hash = "dcc6a9918bba09c4d75d0c87883c7bde009fd553bea0d7009048b715ed01b1be"
 metafile = true
 
 [[files]]
@@ -1491,7 +1491,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "7907d6767fc871c8949c4ee64407796b6c9512207a0a06aa8f874357ec81f2f2"
+hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true
 
 [[files]]
@@ -1665,8 +1665,8 @@ hash = "4371feacbfd7b741fdd3616f8cd7845e8cb2a0773ec96ac20cc7a5b2f688000f"
 metafile = true
 
 [[files]]
-file = "mods/variant-bookshelves-fabric.pw.toml"
-hash = "e88bbd31f46389b7a2aeb46fd67bc5302d256751fd10093e701215fdd2a2c74c"
+file = "mods/variant-bookshelves.pw.toml"
+hash = "cf7256f1c3d2255545691b45ac2ce6eeaae1fbf8be2741b9848783a047c9ca40"
 metafile = true
 
 [[files]]

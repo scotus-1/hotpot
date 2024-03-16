@@ -3,11 +3,11 @@ filename = "inmis-2.7.2-1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/I0UYcPa0/versions/ed738xvb/inmis-2.7.2-1.20.1.jar"
 hash-format = "sha1"
 hash = "e04612567833f1b5fecc28a2963297316d835179"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4754360
-project-id = 369254
+[update.modrinth]
+mod-id = "I0UYcPa0"
+version = "ed738xvb"

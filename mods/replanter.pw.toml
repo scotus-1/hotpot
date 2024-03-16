@@ -1,13 +1,13 @@
 name = "Replanter"
 filename = "replanter-fabric-1.20.1-1.3.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/Jqwaxp9f/versions/OECZmwRF/replanter-fabric-1.20.1-1.3.jar"
 hash-format = "sha1"
 hash = "5a7b28d0bdd4fa7a530a57d6ad56f85f4fb57063"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4672950
-project-id = 480657
+[update.modrinth]
+mod-id = "Jqwaxp9f"
+version = "OECZmwRF"

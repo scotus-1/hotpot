@@ -3,11 +3,11 @@ filename = "letsdo-candlelight-fabric-1.2.8.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/mPND0Adp/versions/lqgbJHgU/letsdo-candlelight-fabric-1.2.8.jar"
 hash-format = "sha1"
 hash = "ead2ca998a8ffc2d47c7900c1bcf05df641264c6"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4994989
-project-id = 846962
+[update.modrinth]
+mod-id = "mPND0Adp"
+version = "lqgbJHgU"

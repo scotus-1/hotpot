@@ -1,6 +1,6 @@
 name = "InmisAddon"
 filename = "inmisaddon-1.0.4.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/c4aa1Mqq/versions/e74mtqLw/inmisaddon-1.0.4.jar"
