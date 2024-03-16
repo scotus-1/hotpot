@@ -625,6 +625,11 @@ hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
+metafile = true
+
+[[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "ea754cf20adb758fd52e23a53d6ada63a0f54351e8794f61ea935856982eccb9"
 metafile = true
@@ -895,6 +900,11 @@ hash = "d543ff3e5a5620ccf586716b6ea41d6ddb2b088bfae71c2c3f832d7ac17d0f7c"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshaircompat.pw.toml"
+hash = "77d166c33b6a4287d933235ddccb8dae0ecc6ccf162473c18a902a1a6cc6f8f0"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "7685618d499e7cf9e0296dab7b06dd8520019c1d3c147ffab5d3da9ea7791549"
 metafile = true
@@ -992,6 +1002,11 @@ metafile = true
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "93d99545b282f59cbd40e6b33c2df7599e9a1dfd8ad2ec765a1274ecde33ff38"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "3f8e8ac176ba49b38534ebebdbf062b8731b7399f7284eea48a56c286f0dc271"
 metafile = true
 
 [[files]]
@@ -1732,6 +1747,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/stack-to-nearby-chests.pw.toml"
+hash = "a5a35409e4f34f4ef6fbec6cb7749bdcf4406e9c571ef62beef18e4118510a9e"
 metafile = true
 
 [[files]]
