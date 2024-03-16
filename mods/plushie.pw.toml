@@ -1,0 +1,13 @@
+name = "Plushie Mod"
+filename = "plushies-1.4.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hsOK0gUP/versions/i5skoC6m/plushies-1.4.0-fabric.jar"
+hash-format = "sha1"
+hash = "5320de3a6d6b88c88c31eb2de8fea4fd461ad879"
+
+[update]
+[update.modrinth]
+mod-id = "hsOK0gUP"
+version = "i5skoC6m"
