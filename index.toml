@@ -785,6 +785,11 @@ hash = "4893b7135cf35e30c88d7017797b6566a500b930ac001cdce42143dacd2b1414"
 metafile = true
 
 [[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "0826b708fa53ef9855c4bced7af5894aeb7e08cab2cf82d68f3d8833d9169e7a"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "cc457369350325e226471c9b070f7ef3e47b6ea8126e8c7c28622b2960ea3f2b"
 metafile = true
@@ -852,6 +857,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
+metafile = true
+
+[[files]]
+file = "mods/delightful-creators-fabric.pw.toml"
+hash = "2669ee304ddaa3bc3879c25147b12fa382b6baa1cc75153639d33d8f954b9f83"
 metafile = true
 
 [[files]]
@@ -1485,6 +1495,11 @@ hash = "1f265c12c3649ab889b96bf8a3f5263521e5afc82c66e094983bfd003b3200a2"
 metafile = true
 
 [[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "c7cbbd95efa451ceaa3973018cb17ea3ad67fe2ca63c480c9c2403c903ae4491"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
@@ -1847,6 +1862,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/ubes-delight.pw.toml"
+hash = "dbd264fbbc7d192be197aa465bdf33f27950a113fe09da1b4a58c226a0ed5c66"
 metafile = true
 
 [[files]]
