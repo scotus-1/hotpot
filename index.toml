@@ -760,6 +760,11 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "2ce30db7df879d90994260483d4d1294a9a574f92507b0383325ecbda5bcf05d"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
 metafile = true
@@ -790,6 +795,21 @@ hash = "0826b708fa53ef9855c4bced7af5894aeb7e08cab2cf82d68f3d8833d9169e7a"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "4b92a102327ab34e35f9cf7b680309b049a820f0739616b84c8b943fa9763246"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators-fabric.pw.toml"
+hash = "d2218b74d104cfd239c2bc6e1a3adb92142f3437f40d2053d9adb95bb5b7fd86"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "cc457369350325e226471c9b070f7ef3e47b6ea8126e8c7c28622b2960ea3f2b"
 metafile = true
@@ -797,6 +817,26 @@ metafile = true
 [[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "cb7e5deafb2733a625029bb557b9ae6a270ccf0ec3301125ead2afc537765561"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "2250d424633babae3b3f240382111fe0588e30031421fb7d6ac4f3e9d27be18c"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
+metafile = true
+
+[[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "93adce5ea0a86dc042dfac4ae7f2f7068e159b57426cd4de2c7db35615f74e28"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]
@@ -1192,6 +1232,11 @@ metafile = true
 [[files]]
 file = "mods/inspecio.pw.toml"
 hash = "280af6886fbdec37ccfab4d8a7cbd2d3777a198a5fa0d2ec15dc9b9c8b0eff67"
+metafile = true
+
+[[files]]
+file = "mods/interactive.pw.toml"
+hash = "a20cf291c44f7142838c921e303becd92c208adfb46386dbc96006ccd8d1b74d"
 metafile = true
 
 [[files]]
@@ -1701,7 +1746,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
+hash = "8bc19b2297c704b501c34367b2c0f73adef7781d9099bd61becd62df5caea303"
 metafile = true
 
 [[files]]
