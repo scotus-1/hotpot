@@ -420,6 +420,11 @@ hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "88b4be67ec85e614f238b45246da8065ff7f87e7a3f7a6dfd699c6a21f3729e2"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "eb626a46ca1fab4ee0747a46ef2e0947b5759aa41171aa172041dd1bfb99236e"
 metafile = true
@@ -445,6 +450,11 @@ hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
+file = "mods/aquatic-torches.pw.toml"
+hash = "42a4e241cc904cd572e6b1e85d425f9d843d4de11f50c861ad39b7bac7079c5d"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -457,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "aa491ffa2873917c7a503e8959097fed92d04d8c36489f31bc6e46542cbf6fea"
+metafile = true
+
+[[files]]
+file = "mods/auditory-continued.pw.toml"
+hash = "45de2a871d5d91e30424619586cd9c91ca02fe873b9c24572e1547056b4e3729"
 metafile = true
 
 [[files]]
@@ -791,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/couplings.pw.toml"
-hash = "47e796fa0168407d6bf12e3aac6cf29881960df43ed21f844ab34ac891ee0730"
+hash = "5fc93b617e87a64c0d687b12cccef78366566d84e2012a4dd6a94340d60bdd7f"
 metafile = true
 
 [[files]]
@@ -932,6 +947,11 @@ metafile = true
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "8459210809b612d602dc744a09e04a4bc772c112f85336185425a65425a0a43a"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "3485add337ce6744b5c0b2901cb159c9304af159c4635f9a945f262ee738f28a"
 metafile = true
 
 [[files]]
@@ -1500,8 +1520,18 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/mob-scarecrows.pw.toml"
+hash = "aaf5c825cdb25cce84cd245e8e57859fd45bc2e5a897c2a24b473b3837528f6a"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6ff047f3b0e73e22bf5ad0d6751f82cd6f6a4e164a911a37839eba667fa85502"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "961a62a68dcb0da829ecc14d0cdb6040388ac05ddd1a29df0a4c9c3c9b96b0a7"
 metafile = true
 
 [[files]]
@@ -1662,6 +1692,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "6b92597fc1f29ad24ffcdf0f80113d255b4d999bc095fbb215dcabf1c562bd15"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "e217c2fdfd825e9833f68c6cc803e8076b34049d37163fd88dd386f6b215387e"
 metafile = true
 
 [[files]]

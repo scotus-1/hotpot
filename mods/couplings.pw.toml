@@ -1,6 +1,6 @@
 name = "Couplings"
 filename = "Couplings-1.9.4+1.20.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/80ulerjA/versions/1S2TEbqR/Couplings-1.9.4%2B1.20.jar"

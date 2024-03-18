@@ -1,0 +1,13 @@
+name = "Auditory Continued"
+filename = "auditory-0.0.6-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UafsfA4K/versions/BdKxBtb6/auditory-0.0.6-1.20.1.jar"
+hash-format = "sha1"
+hash = "0acd14a33e0b3548387b7c06a84adf9518c92142"
+
+[update]
+[update.modrinth]
+mod-id = "UafsfA4K"
+version = "BdKxBtb6"

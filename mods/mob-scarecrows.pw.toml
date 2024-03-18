@@ -1,0 +1,13 @@
+name = "Mob Scarecrows"
+filename = "mobscarecrow-2.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e721e7e1308e03630ffef5e2dfcd6ac2cd82e1e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4810026
+project-id = 560657
