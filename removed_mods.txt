@@ -33,8 +33,6 @@ notes for 1.20.1:
 - auditory - https://github.com/Sydokiddo/auditory/pull/52
 - better-biome-blend - https://github.com/FionaTheMortal/better-biome-blend/issues/74
 
-pinned:
-- iris + sodium + indium
 
 notes for 1.20.1b:
 - sky-villages - culled
@@ -57,8 +55,8 @@ notes for 1.20.1b:
 - beneath-the-snow - https://modrinth.com/datapack/beneath-the-snow/version/0.3
 - immersive-weathering - https://github.com/AstralOrdana/Immersive-Weathering/tree/1.20.0-multiloader
 - cammies-minecart-tweaks - https://github.com/CammiePone/Cammies-Minecart-Tweaks/pull/47
-- gliders - https://github.com/VentureCraftMods/MC-Gliders/tree/mc/1.20
-- another-furniture - https://github.com/starfish-studios/AnotherFurniture/commits/1.20.1
+
+
 
 - bettersleeping-revived - https://github.com/ReviversMC/bettersleeping/issues/26
 - more-villagers-fabric - https://github.com/samedifferent/morevillagers/commits/1.20-crossplatform 

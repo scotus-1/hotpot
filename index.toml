@@ -375,6 +375,11 @@ hash = "29857ebb80e0c8a7cb570ac609b49e7ac3f3262b6dcce93614dd23cda51e7c1d"
 metafile = true
 
 [[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+hash = "32d8577e634fc4084a8e3bcd1171ed1921580a020efeea2f52fe8b4a8580cade"
+metafile = true
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "f91632afb139beb9fea6e73400242a24aaeb21cd65c66fe6b25337a10df285dc"
 metafile = true
@@ -1190,6 +1195,11 @@ hash = "46b44b530e3a305d207833ae7ba36808f09d77ffef22835076a69ed112e5784f"
 metafile = true
 
 [[files]]
+file = "mods/highlight.pw.toml"
+hash = "17e0130bc29e14dd26019d0f0ccef1fab6f8dc7ab2a5ea60a6c734cae127d741"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
 hash = "eb82ce8edafc56ce63c1f91b51903c7d86927135c0ca8d64eedac1f9aba37820"
 metafile = true
@@ -1655,6 +1665,11 @@ hash = "e51bce9d59f8db31f2730a742b84917a3729388f2fc44e0aa51fa39f9dfb43d5"
 metafile = true
 
 [[files]]
+file = "mods/projectsavethepets.pw.toml"
+hash = "b5e409cdc2335214907e1649a6a5fface19ac0350ec94811073126fb82d5ea0a"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
 metafile = true
@@ -1910,11 +1925,6 @@ hash = "01138a074a1097d6177d5d2d09cb9e26f2b46c3bf178e17f8b76971409886dd4"
 metafile = true
 
 [[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
-metafile = true
-
-[[files]]
 file = "mods/torch-hit.pw.toml"
 hash = "3171010a793b77ed4cf129f115f6ee1d393ee541bc3261af61d5adcbd35e4b9a"
 metafile = true
@@ -1952,6 +1962,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "4371feacbfd7b741fdd3616f8cd7845e8cb2a0773ec96ac20cc7a5b2f688000f"
+metafile = true
+
+[[files]]
+file = "mods/unloaded-activity.pw.toml"
+hash = "d7d0855a260bdad210b3ec58246ff5686ba4e12d03c441dd67653bea4c2e309b"
 metafile = true
 
 [[files]]
