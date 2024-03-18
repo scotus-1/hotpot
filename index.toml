@@ -400,11 +400,6 @@ hash = "c66a380640b2ad680cacf3d3df33ec9e009a2f5c7e7e6bacabff408d9e18d454"
 metafile = true
 
 [[files]]
-file = "mods/advancementinfo.pw.toml"
-hash = "f5f0378003463aeeb0beb17ee284b484c14a5d643c11d6edf359aa2823d310e4"
-metafile = true
-
-[[files]]
 file = "mods/air-hop.pw.toml"
 hash = "b337d8099a255008e7a9fc52eb057f8b7ceeabd5142037821e7ba2aad149a94a"
 metafile = true
@@ -466,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "aa491ffa2873917c7a503e8959097fed92d04d8c36489f31bc6e46542cbf6fea"
+hash = "406b69cab229ed114817d4fccbf172a95b62f882a86e1077930dbbf6a03c94a6"
 metafile = true
 
 [[files]]
@@ -561,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "e421ca1dc0c41aa80ac3b47f9d1acfc50e7bf1c96df99c99da6319f17abc055b"
+hash = "804d1c679bcbfacadc2e0fbdb749a09dd508318fb0717eb4e7e2dc3c604e2f39"
 metafile = true
 
 [[files]]
@@ -691,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "56a4d9f9b47a65b3508192e519163ff73c712354d3ff907938f2593d18ea166e"
+hash = "8a069d8b237eb6807fb27f7b19867055293190f25b03e83dad183dfcdad9efd7"
 metafile = true
 
 [[files]]
@@ -851,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "cb7e5deafb2733a625029bb557b9ae6a270ccf0ec3301125ead2afc537765561"
+hash = "93f8459ef551d239aba91b04529a2fa9bc8fe3630000e1478928e7900b4ae22c"
 metafile = true
 
 [[files]]
@@ -966,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "30fb7e07f424a4a159219da3a77841f335357651a081033f5ddcd880814928a2"
+hash = "544d0384645210960346ca6e586f31555b0f7c8ade44689f0b2425883ed5dcaf"
 metafile = true
 
 [[files]]
@@ -1287,11 +1282,6 @@ metafile = true
 [[files]]
 file = "mods/inspecio.pw.toml"
 hash = "280af6886fbdec37ccfab4d8a7cbd2d3777a198a5fa0d2ec15dc9b9c8b0eff67"
-metafile = true
-
-[[files]]
-file = "mods/interactive.pw.toml"
-hash = "a20cf291c44f7142838c921e303becd92c208adfb46386dbc96006ccd8d1b74d"
 metafile = true
 
 [[files]]
@@ -1656,7 +1646,7 @@ metafile = true
 
 [[files]]
 file = "mods/philips-ruins.pw.toml"
-hash = "43e4d745027d0d525125a3653c9910668f930376d0078cd6edd7926634f9b863"
+hash = "d8279ae4c756b0d48b3a0942947f2f7e11265f6bf79bac6087913968ec06e978"
 metafile = true
 
 [[files]]
@@ -1826,7 +1816,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "89f27853d1e9a2b03383633c7b6b440913c6ea94e8e7724d79fa22fee3d6a8f2"
+hash = "98cac903f66076448a4e9ac0f131634d3a9699f255b8414774db397155293abf"
 metafile = true
 
 [[files]]
@@ -1886,7 +1876,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "cfeac7b1e393b702a18e76e887a4857b021b2fa56a62261513b715d2c8e35833"
+hash = "ccf55ba362726080854360dc1a19323576b5da9e71dab5ea055490003b4f037d"
 metafile = true
 
 [[files]]
@@ -2071,12 +2061,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "5e0a45bf42bc911f15e06431df58dcfaeb21bbf07bd33d6800d39141c2bd71bb"
+hash = "48cf73caa7488380ff1435bd6953883e9da7d3f25a00819ade22543f9407b0fe"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "528685d69966f72bfc2eab53caf66f4fa95cdd7dd8f33445a3867af73824f705"
+hash = "7ea3c2a391ac210d51b66be41938be4a02ee2481c9f1e19d27a4c1212cf912b3"
 metafile = true
 
 [[files]]
