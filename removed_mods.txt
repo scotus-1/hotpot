@@ -1,35 +1,20 @@
-
-NOTES FOR 1.19.4:
+NOTES FOR 1.19.4 (slowly removing):
 
 nimble - version 1.19.3
 talkbubbles - QFAPI not updated to 0.80 yet
-letsleepingdogslie - version 1.19.3 + clothconfig2 not updated
-colormatic - crash
-slightguimodifications - crash
-couplings - version 1.19.3 # check pr request
-
 pickup-notifier - version 1.19.3
-extrasounds - version 1.19.2
 
 
 NOTES FOR 1.19.2:
 immersive portals - not compatible with current version of iris
 tectonic (readd when terratonic v2 updated to 1.19.2)  - crying rn, just biome distribution
-visual-overhaul due to crashes
-create-crystal-clear-fabric
-
-
-
 
 notes for 1.20.1:
+- jumpy-boats-fabric - not updated
+- capybara-fabric - not updated
+
 - smoothboot-fabric - no longer needed!
-
-- thorium - not updated
-- colormatic - not updated
-- slight-gui-modifications - not updated
-- enhanced-searchbility - crashes
-- better-biome-blend - https://github.com/FionaTheMortal/better-biome-blend/issues/74
-
+- better-biome-blend - culled
 - sky-villages - culled
 - towers-of-the-wild-additions - culled
 - cullclouds - no longer needed!
@@ -38,22 +23,15 @@ notes for 1.20.1:
 - recipe-cache - culled
 - beneath-the-snow - culled
 - immersive-weathering - culled
-
-
-- mob-scarecrows - not updated
-- jumpy-boats-fabric - not updated
-- compostable-rotten-flesh - not updated
-- capybara-fabric - not updated
-
- 
-
-
-
-- cammies-minecart-tweaks - https://github.com/CammiePone/Cammies-Minecart-Tweaks/pull/47
-
-
+- compostable-rotten-flesh - culled
+- cammies-minecart-tweaks - culled
+- enhanced-searchbility - culled
+- more-villagers-fabric - culled
+- create-crystal-clear-fabric - culled
+- extrasounds - culled
+- slightguimodifications - culled
+- thorium - culled
+- colormatic - culled
 
 - bettersleeping-revived - https://github.com/ReviversMC/bettersleeping/issues/26
-- more-villagers-fabric - https://github.com/samedifferent/morevillagers/commits/1.20-crossplatform 
-    or https://github.com/samedifferent/morevillagers/pull/91
 
