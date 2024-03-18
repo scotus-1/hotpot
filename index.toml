@@ -505,6 +505,11 @@ hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
+metafile = true
+
+[[files]]
 file = "mods/beautified-chat-client.pw.toml"
 hash = "1ead97fa295156e23762b8e753e1ff41d60cf73f804f697e32d88aa84ca9afa8"
 metafile = true
@@ -562,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/better-village-fabric.pw.toml"
 hash = "ff24fe8c70db5a26464f64d50098cc4b4924796da829c875a8ad5dd7ffd5526e"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
 metafile = true
 
 [[files]]
@@ -1407,6 +1417,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-candlelight.pw.toml"
 hash = "3f432ae9ab7ea59778f6f04e85c4197d347a16ab89e5c6dd6b13603a31882f1f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "f88fe76fdaa9e19f0cd83b376d116791207cf0f92d1bcada4555acbc490e9895"
 metafile = true
 
 [[files]]
