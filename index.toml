@@ -385,11 +385,6 @@ hash = "f91632afb139beb9fea6e73400242a24aaeb21cd65c66fe6b25337a10df285dc"
 metafile = true
 
 [[files]]
-file = "mods/additionz.pw.toml"
-hash = "c5d6a873dcb3de17b01e7c5ec862f076b63de0cd8e435abbd0cf5f1c79fdd087"
-metafile = true
-
-[[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "e3332ccf2f3e668edb67334dc81bcec3ca1911e99230700b2e735c83000dc00f"
 metafile = true
@@ -825,16 +820,6 @@ hash = "0826b708fa53ef9855c4bced7af5894aeb7e08cab2cf82d68f3d8833d9169e7a"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "4b92a102327ab34e35f9cf7b680309b049a820f0739616b84c8b943fa9763246"
-metafile = true
-
-[[files]]
-file = "mods/create-diesel-generators-fabric.pw.toml"
-hash = "d2218b74d104cfd239c2bc6e1a3adb92142f3437f40d2053d9adb95bb5b7fd86"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
 metafile = true
@@ -1142,11 +1127,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
-metafile = true
-
-[[files]]
-file = "mods/farmers-knives.pw.toml"
-hash = "1bbd05edd15f3c382e4e011859abc936262ddf807cae9d8698df8debd64db5ba"
 metafile = true
 
 [[files]]
@@ -1590,11 +1570,6 @@ hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
 metafile = true
 
 [[files]]
-file = "mods/no-strip.pw.toml"
-hash = "c0148caa83e281ceea5cfb25c87b98c2ebfd89bd74c842573fd257c07f174da2"
-metafile = true
-
-[[files]]
 file = "mods/noisium.pw.toml"
 hash = "a2a38850af0076bcfb2c34327f59626d73a87876d03c4039092babfc673428c6"
 metafile = true
@@ -1651,7 +1626,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "eba7b277080bc20f5c81c5c1fb0b5c8178aea7417e855358fa9a5dc47b59af96"
+hash = "064454db226e1b03e85dbf6339c4ffb39feab698da2024205b794260430b5710"
 metafile = true
 
 [[files]]
