@@ -505,11 +505,6 @@ hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
-metafile = true
-
-[[files]]
 file = "mods/beautified-chat-client.pw.toml"
 hash = "1ead97fa295156e23762b8e753e1ff41d60cf73f804f697e32d88aa84ca9afa8"
 metafile = true
