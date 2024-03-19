@@ -410,11 +410,6 @@ hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "88b4be67ec85e614f238b45246da8065ff7f87e7a3f7a6dfd699c6a21f3729e2"
-metafile = true
-
-[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "eb626a46ca1fab4ee0747a46ef2e0947b5759aa41171aa172041dd1bfb99236e"
 metafile = true
@@ -525,11 +520,6 @@ hash = "49323e1540fe35dd58946d577dfa9163df4b037eb6231916b1dd86c8204a7e84"
 metafile = true
 
 [[files]]
-file = "mods/bedrockwaters.pw.toml"
-hash = "c43d57a46fe645d051ddc72bd6aa941bcfb953bc2f342dc8d870fe66e2f00152"
-metafile = true
-
-[[files]]
 file = "mods/bedspreads.pw.toml"
 hash = "f04afb24089cbef0b19b3abebfa248ae3241d821955c793fdb7c465b862134f7"
 metafile = true
@@ -542,11 +532,6 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
-metafile = true
-
-[[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
-hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
 metafile = true
 
 [[files]]
@@ -617,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/bounced.pw.toml"
+hash = "06fbb3bad511e9c763595965c53ab377b39e9d8acf2f54f85ac5b68bb9fe8eae"
 metafile = true
 
 [[files]]
@@ -702,11 +692,6 @@ metafile = true
 [[files]]
 file = "mods/chimes.pw.toml"
 hash = "83eeb853e25dbc170868cb1c4d7893512f4e755eec073c77dde260963a8ed7cd"
-metafile = true
-
-[[files]]
-file = "mods/chunks-fade-in.pw.toml"
-hash = "f8f8cea05fc3ed93239749877488e696bd67b4a42054f11dba752c9afc106393"
 metafile = true
 
 [[files]]
@@ -797,11 +782,6 @@ metafile = true
 [[files]]
 file = "mods/couplings.pw.toml"
 hash = "5fc93b617e87a64c0d687b12cccef78366566d84e2012a4dd6a94340d60bdd7f"
-metafile = true
-
-[[files]]
-file = "mods/craftify.pw.toml"
-hash = "be975d28fd0a113fad9a7f1556e6c7a09923a421211c455fe8c8794b9550f78b"
 metafile = true
 
 [[files]]
@@ -1710,11 +1690,6 @@ hash = "3535f82493a836ccf02351c4ee40febca792d6f724416d1f23c5af981882efa1"
 metafile = true
 
 [[files]]
-file = "mods/quilt-loading-screen.pw.toml"
-hash = "0431d2fbc92b56108c48fc955caafbefcafeb69bc9773c5413daa89af5d87966"
-metafile = true
-
-[[files]]
 file = "mods/quit.pw.toml"
 hash = "7b9d8e31005486370dbdc3736c1dafe50391aaf89e8164f5663792a39afe2708"
 metafile = true
@@ -1872,11 +1847,6 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "c190e3b4f36f65c9c6ce72beb5f9760fa9c3793be2fa956e09d99fbbaeef6aaa"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
@@ -2076,7 +2046,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "bf6e15464cc97754591cb7265ac9402085813c06917f76d99cd79abc61ae5181"
+hash = "13daa687a4ba568dc869e6275969995380016fb08a968673e2a94b33383fa5a7"
 metafile = true
 
 [[files]]
