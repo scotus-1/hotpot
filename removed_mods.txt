@@ -34,7 +34,8 @@ notes for 1.20.1:
 - colormatic - culled
 - no-strip - culled
 - additionz - culled
-
+- starlight - no longer needed!
+- quilt-loading-screen - culled
 - bettersleeping-revived - https://github.com/ReviversMC/bettersleeping/issues/26
 
 pinned:
@@ -46,5 +47,8 @@ temp removed:
 - create-big-cannons (0.5.1f)
 - farmersknives (????)
 - create-diesal-generators-fabric 
-
+- bedrockwaters (sodium error)
+- chunks-fade-in (sodium error)
+- craftify (crash)
+- amendments (crash)
 
