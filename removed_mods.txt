@@ -42,8 +42,7 @@ pinned:
 - easy-shulker-boxes (qsl version)
 
 temp removed:
-- interactive (sodium incompat)
-- valkyrien-skies (sodium incompat)
+- let-sleeping-dogs-lie (weird crash)
 - create-big-cannons (0.5.1f)
 - farmersknives (????)
 - create-diesal-generators-fabric 
