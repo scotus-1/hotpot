@@ -410,6 +410,11 @@ hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "fd0b983347938ccecb95ce80691b76d7016531e02c59733f1c47466821030189"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "eb626a46ca1fab4ee0747a46ef2e0947b5759aa41171aa172041dd1bfb99236e"
 metafile = true
@@ -1235,6 +1240,11 @@ hash = "280af6886fbdec37ccfab4d8a7cbd2d3777a198a5fa0d2ec15dc9b9c8b0eff67"
 metafile = true
 
 [[files]]
+file = "mods/interactive.pw.toml"
+hash = "a20cf291c44f7142838c921e303becd92c208adfb46386dbc96006ccd8d1b74d"
+metafile = true
+
+[[files]]
 file = "mods/inventory-tabs.pw.toml"
 hash = "46e66342d144d7fd461494a4e530af96baf94a9ec44823318045002da7896d49"
 metafile = true
@@ -1365,11 +1375,6 @@ hash = "4c418d76137ed1a34686a7f667348c97b5f457b28ae1469152aa35f44c4e9a1f"
 metafile = true
 
 [[files]]
-file = "mods/let-sleeping-dogs-lie.pw.toml"
-hash = "56735004eac1c99294bdf50519040deb071a8b50d4a898a433678bfa4eee8e1a"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-bakery.pw.toml"
 hash = "6360b0dfa763a74157269a781e029c7186d058ee2fedca29fb4403c7fed5419d"
 metafile = true
@@ -1486,7 +1491,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2d4cae884155dbfb86ddb88f5b59e232c0b31a87acbe4b20f9cdeb0c75c361f7"
+hash = "b91afc0cc0069f645835be6bf7a9da309e61f9bc207e486fe8cb5af7012632d9"
 metafile = true
 
 [[files]]
@@ -1942,6 +1947,11 @@ metafile = true
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
 hash = "d7d0855a260bdad210b3ec58246ff5686ba4e12d03c441dd67653bea4c2e309b"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
 
 [[files]]
