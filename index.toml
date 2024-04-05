@@ -750,6 +750,11 @@ hash = "2b880a4be1a624e956fafaea89834828c58b0c512e611e6746c3fb8d9e93b260"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "e1b96a7b1d81aa26642379484ff427392dcc11e01d8d780d302f6db0f6af97d7"
+metafile = true
+
+[[files]]
 file = "mods/connectible_chains.pw.toml"
 hash = "24ceeef91ed4244c63cf0dd4d34fea6b64f13de330ab86ca4929808ee4d2c01f"
 metafile = true
@@ -1125,8 +1130,18 @@ hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
 
 [[files]]
+file = "mods/fbp-renewed.pw.toml"
+hash = "b1316e8095be7f3bd42f32064a4f902b6ce008a228b692a9d75d11a8cb71ed68"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/feytweaks.pw.toml"
+hash = "234b120426975554aa7f9e49788c7a3ddb0d32e538f4ca102791549dec23c42b"
 metafile = true
 
 [[files]]
@@ -1237,6 +1252,11 @@ metafile = true
 [[files]]
 file = "mods/inspecio.pw.toml"
 hash = "280af6886fbdec37ccfab4d8a7cbd2d3777a198a5fa0d2ec15dc9b9c8b0eff67"
+metafile = true
+
+[[files]]
+file = "mods/interactic.pw.toml"
+hash = "65365b605f52731fab6e0452ce91e46eafd4475cfeef5a4dd152e6aa3fa423f0"
 metafile = true
 
 [[files]]
@@ -1407,6 +1427,11 @@ metafile = true
 [[files]]
 file = "mods/loud-leads.pw.toml"
 hash = "45316fb9c3c7a6aabe4405c75c04bd213198770c0f0b8fa662ec1387c0ae2847"
+metafile = true
+
+[[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "6f608fc4e861f6156368b2a3b706645755030bf6a04dc1f59166c8b22cba872c"
 metafile = true
 
 [[files]]
@@ -1592,11 +1617,6 @@ metafile = true
 [[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "85df23fd9e55e725c902b4cac5a32e35c0f15c7add7b5e4a3a440d1233e6226d"
-metafile = true
-
-[[files]]
-file = "mods/physicsmod.pw.toml"
-hash = "064454db226e1b03e85dbf6339c4ffb39feab698da2024205b794260430b5710"
 metafile = true
 
 [[files]]
@@ -1827,6 +1847,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-astronomy.pw.toml"
+hash = "acc06bba2ad82711abe724c5b7b6f13796cfbb4cd0cd6d8b4d62e598c3e5ef5b"
 metafile = true
 
 [[files]]
