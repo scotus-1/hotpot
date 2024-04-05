@@ -380,11 +380,6 @@ hash = "32d8577e634fc4084a8e3bcd1171ed1921580a020efeea2f52fe8b4a8580cade"
 metafile = true
 
 [[files]]
-file = "mods/addadd.pw.toml"
-hash = "f91632afb139beb9fea6e73400242a24aaeb21cd65c66fe6b25337a10df285dc"
-metafile = true
-
-[[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "9d744fcd410ddac86c75267924392b357f3cd4297695860af7a2ec24932135ac"
 metafile = true
@@ -475,11 +470,6 @@ hash = "df8dce84d53bcf51f281230ca04c3b2e92454005a8e0e734695e4488e19266b9"
 metafile = true
 
 [[files]]
-file = "mods/autoswitch.pw.toml"
-hash = "ba303fc84a32621c1d2f4c864445d2e9d7669f52bd121a36fe3f729e9900fc78"
-metafile = true
-
-[[files]]
 file = "mods/autotag.pw.toml"
 hash = "ea6fc6fba3ad1e9868e7807b17c04ebbad43a073b9be6d9374290b94eaa82e79"
 metafile = true
@@ -507,11 +497,6 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
-metafile = true
-
-[[files]]
-file = "mods/beautified-chat-client.pw.toml"
-hash = "1ead97fa295156e23762b8e753e1ff41d60cf73f804f697e32d88aa84ca9afa8"
 metafile = true
 
 [[files]]
@@ -552,11 +537,6 @@ metafile = true
 [[files]]
 file = "mods/better-underwater-ruins.pw.toml"
 hash = "d29a7b417432dd8ea0e0c1535ca6ec26e75cad58eec96c80037dbf24ed1634c1"
-metafile = true
-
-[[files]]
-file = "mods/better-village-fabric.pw.toml"
-hash = "ff24fe8c70db5a26464f64d50098cc4b4924796da829c875a8ad5dd7ffd5526e"
 metafile = true
 
 [[files]]
@@ -1045,11 +1025,6 @@ hash = "1f2376a043c6e75c831c65e1143c4306a0f4936eeec1eabe2dd3068919bf6470"
 metafile = true
 
 [[files]]
-file = "mods/expanded-trident-enchanting.pw.toml"
-hash = "f46c815ae863424e20dccc269bbddd0b23793ded28b57ed84eee6deb6f0a3886"
-metafile = true
-
-[[files]]
 file = "mods/explorify.pw.toml"
 hash = "9ec8d9ecfedbd3cc30dc19b91f37a540ff9340debf035cbb81a7103f65e086f1"
 metafile = true
@@ -1070,18 +1045,8 @@ hash = "9a787be39525c0ad8bfc755162990e22f802c94acb9cd4f968cb119f43b6d447"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons-extras.pw.toml"
-hash = "5c5889f3686e3ff35ab215dc7f9f3e5e7585a0d24befe5989e0bdca47a04dac5"
-metafile = true
-
-[[files]]
 file = "mods/fabric-seasons-terralith-compat.pw.toml"
 hash = "7c8572547d6e71b653018c3350daec54010442cba9f9517a4252bf3b8d3ecd3d"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons.pw.toml"
-hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
 metafile = true
 
 [[files]]
@@ -1432,11 +1397,6 @@ metafile = true
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
 hash = "6f608fc4e861f6156368b2a3b706645755030bf6a04dc1f59166c8b22cba872c"
-metafile = true
-
-[[files]]
-file = "mods/magnum-torch.pw.toml"
-hash = "f55d3feb4d1609d5567258dba90fbb583e6ee827aa32aa1cd2b9281dd1a0b614"
 metafile = true
 
 [[files]]
@@ -1920,11 +1880,6 @@ hash = "b47c07f5182af99016791a7008a241cd19442cb9e993cd56f5f90961a5f1375f"
 metafile = true
 
 [[files]]
-file = "mods/tool-stats.pw.toml"
-hash = "01138a074a1097d6177d5d2d09cb9e26f2b46c3bf178e17f8b76971409886dd4"
-metafile = true
-
-[[files]]
 file = "mods/torch-hit.pw.toml"
 hash = "3171010a793b77ed4cf129f115f6ee1d393ee541bc3261af61d5adcbd35e4b9a"
 metafile = true
@@ -2002,11 +1957,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "7aa7d8d50839eabb773fc90390690373995beaf3a4c7b5c911399fb2995ce1e7"
-metafile = true
-
-[[files]]
-file = "mods/way2wayfabric.pw.toml"
-hash = "22c02c241c720ef0e1ce59efb559a82ae47a5451409dda20bdf5f1e9c8dd0597"
 metafile = true
 
 [[files]]

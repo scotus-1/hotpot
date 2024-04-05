@@ -57,4 +57,17 @@ the culling:
 - physics mod
 - xaeros minimap and world map
 - variant bookshelves
+- addadd
+- autoswitch
+- beautified-chat-client
+- better-village
+- expanded-trident-enchanting
+- fabric-seasons + extras
+- magnum-torch
+- tool stats
+- way 2 way
 
+
+investigate: 
+- explorify structures
+-repurposed structures
