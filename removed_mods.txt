@@ -57,7 +57,7 @@ the culling:
 - physics mod
 - xaeros minimap and world map
 - variant bookshelves
-- addadd
+- addadds
 - autoswitch
 - beautified-chat-client
 - better-village
@@ -66,7 +66,7 @@ the culling:
 - magnum-torch
 - tool stats
 - way 2 way
-
+- first person models
 
 investigate: 
 - explorify structures
