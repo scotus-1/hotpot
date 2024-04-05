@@ -1975,11 +1975,6 @@ hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
 
 [[files]]
-file = "mods/variant-bookshelves.pw.toml"
-hash = "cf7256f1c3d2255545691b45ac2ce6eeaae1fbf8be2741b9848783a047c9ca40"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "a7f4c9db27e6d88dff443299ba7b04418f17a60316678b14719c767194b43ff3"
 metafile = true
@@ -2022,16 +2017,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "4be62e4d02fb985089569220d8a4e87fe2bf2822f10edcd292d033781e561e26"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "e60b866379fdfec0c9b6eed19159fe591e5276127e45b0b3d2e555197cecd3f5"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "7ea3c2a391ac210d51b66be41938be4a02ee2481c9f1e19d27a4c1212cf912b3"
 metafile = true
 
 [[files]]
