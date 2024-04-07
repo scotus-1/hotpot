@@ -1670,11 +1670,6 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
-file = "mods/replanter.pw.toml"
-hash = "dcc6a9918bba09c4d75d0c87883c7bde009fd553bea0d7009048b715ed01b1be"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "91f667412b617ba6e416ce5f7a3cb9d1805f9091e3de8998419ed81f158fc9f2"
 metafile = true
@@ -1682,6 +1677,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "45a0be935bcca91138996460610bd84312729d6ae00648fbb7ea332bd23bb437"
 metafile = true
 
 [[files]]
