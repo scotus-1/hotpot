@@ -50,8 +50,7 @@ temp removed:
 - chunks-fade-in (sodium error)
 - craftify (crash)
 - amendments (crash)
-
-
+- structory
 
 the culling:
 - physics mod
@@ -70,4 +69,4 @@ the culling:
 
 investigate: 
 - explorify structures
--repurposed structures
+- repurposed structures
