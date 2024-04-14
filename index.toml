@@ -193,14 +193,6 @@ file = "config/paxi/resourcepacks/xali's+Potions+v1.0.zip"
 hash = "f6d453bd60909dae3218ac4f42bbec8168aee1ded499977837dfe8d4691412ea"
 
 [[files]]
-file = "config/yosbr/config/additional-additions-config.json"
-hash = "f6ecd066c657efd4171935d0f8c9d08c12090b98da4ff579de157784931668f0"
-
-[[files]]
-file = "config/yosbr/config/additionz.json5"
-hash = "dda2e153ca9a81b916f4b715937a97a8b10bb1a296eda0313af79bf410caa955"
-
-[[files]]
 file = "config/yosbr/config/autohud.json5"
 hash = "e016d9a1ce6ae8dc3b9f6fd37b72117a762491c5c63fd1c50ade82c1b38b5460"
 
@@ -283,34 +275,6 @@ hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
 [[files]]
 file = "config/yosbr/config/minihud/new_world_dim_minecraft_overworld.json"
 hash = "fd4d11683a9555590412b91595da6b9e8c7ec80f18e05548bb7d6aae1d16ac44"
-
-[[files]]
-file = "config/yosbr/config/physicsmod/physics_animations_client_config.json"
-hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
-
-[[files]]
-file = "config/yosbr/config/physicsmod/physics_blocks_client_config.json"
-hash = "cc405d0a6d62516235f5ab29447257a1d407eb105810fedf859f2d59fbea572b"
-
-[[files]]
-file = "config/yosbr/config/physicsmod/physics_client_config.json"
-hash = "8b46147350156edd48e127f87746ad9da28ebbc10ab8a3e1b7b4c30cf474f0be"
-
-[[files]]
-file = "config/yosbr/config/physicsmod/physics_cloth_config.json"
-hash = "91955763ff613b21fcb25717e47c7c8f217da1c7dd7a04e57af57633c8da2e0a"
-
-[[files]]
-file = "config/yosbr/config/physicsmod/physics_mobs_client_config.json"
-hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
-
-[[files]]
-file = "config/yosbr/config/physicsmod/physics_server_config.json"
-hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
-
-[[files]]
-file = "config/yosbr/config/physicsmod/physics_vines_client_config.json"
-hash = "506c8c17fe0bb3ca2f72f084ab432fc7bd867a1dfec32f47a31ace5d5c3b87fd"
 
 [[files]]
 file = "config/yosbr/config/pling.json"
@@ -2025,10 +1989,6 @@ hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Default-Dark-Mode-1.19.2-v1.4.0.zip"
-hash = "11122d9dac0d86fac2d32743ac15f87cde82993cccc56bab56151711c2a4ebb5"
-
-[[files]]
 file = "resourcepacks/Disable+Bushy+Leaves+v7.zip"
 hash = "1969c1a70e1e4f244242ce1a62b221b653c17351dc26c34af5acace7b4ec375d"
 
@@ -2037,8 +1997,19 @@ file = "resourcepacks/Stay+True+Compats+v7+[1.19].zip"
 hash = "dcc0a354a0ba9bf029843a58bbd1fd6285832f1c65866dcf6311bd0ea6e8fcc3"
 
 [[files]]
-file = "resourcepacks/Stay_True_1.19.zip"
-hash = "3b4b5ceea9de7780e380fbb858bc8d7ec25c503dffb5c886a8db5768369c8ff0"
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
+metafile = true
 
 [[files]]
 file = "resourcepacks/xali's+Enhanced+Vanilla+v1.11.1.zip"
