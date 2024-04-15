@@ -1989,14 +1989,6 @@ hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Disable+Bushy+Leaves+v7.zip"
-hash = "1969c1a70e1e4f244242ce1a62b221b653c17351dc26c34af5acace7b4ec375d"
-
-[[files]]
-file = "resourcepacks/Stay+True+Compats+v7+[1.19].zip"
-hash = "dcc0a354a0ba9bf029843a58bbd1fd6285832f1c65866dcf6311bd0ea6e8fcc3"
-
-[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
 metafile = true
@@ -2004,11 +1996,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/stay-true.pw.toml"
-hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
 metafile = true
 
 [[files]]
