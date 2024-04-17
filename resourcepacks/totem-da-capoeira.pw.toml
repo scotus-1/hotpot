@@ -1,0 +1,13 @@
+name = "Totem Da Capoeira"
+filename = "Totem Da Capoeira v1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pgnuvQ2p/versions/d2oS334z/Totem%20Da%20Capoeira%20v1.2.zip"
+hash-format = "sha1"
+hash = "b15efc8216c33aa824d0bb6f2dd6444c1e2eabea"
+
+[update]
+[update.modrinth]
+mod-id = "pgnuvQ2p"
+version = "d2oS334z"

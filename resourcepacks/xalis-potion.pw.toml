@@ -1,0 +1,13 @@
+name = "xali's Potion"
+filename = "xali's Potions v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yFn9hTiq/versions/cCOinnlk/xali%27s%20Potions%20v1.0.0.zip"
+hash-format = "sha1"
+hash = "e2438460c935e8c9bbebed78586f49c74d100169"
+
+[update]
+[update.modrinth]
+mod-id = "yFn9hTiq"
+version = "cCOinnlk"

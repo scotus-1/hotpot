@@ -13,38 +13,6 @@ file = "config/paxi/datapacks/New-Shipwrecks-Data-Pack-1.19.1.zip"
 hash = "26ba5dd593baf7bcf5536939176fe3836178834605511a2dcf23fc5314e224de"
 
 [[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Better_Desert_Temples_v7.zip"
-hash = "06aad17c3615d77cbf5af227f9e8327e75885df6cb8bd462f4bcc588fabae43d"
-
-[[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Better_Dungeons_v4.zip"
-hash = "f91cbb7eaba6bacaaff5b982348d872887bb5325a78df2b55071781ae9147872"
-
-[[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Better_Monuments_v5.zip"
-hash = "23ce950482b7106ba5e3c39f7945355d172a67d36793b7e89ffb17204dfcae62"
-
-[[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Better_Nether_Fortress_v4.zip"
-hash = "e4d1ed917fdac7434e116b96bc74849018351e6f044f62a045b4a29be33f4cc8"
-
-[[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Better_Strongholds_v4.zip"
-hash = "8cdbff46c57521fa2961866b85f2ae5d286da998180f9e4ea4ddea2c7129c687"
-
-[[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Better_Witch_Huts_v3.zip"
-hash = "7c54637d365d23e2b4a1990e6c97a1351bbc4f9d6c653819cb404a4a6fdadfd5"
-
-[[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Chef's_Delight_v2.zip"
-hash = "6e74e9fc74d998b86bfdb35e89ff9e51fa8cb1ee56c586fb155f6aee7ec3806f"
-
-[[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v5.zip"
-hash = "ca74e19d82104e5ae4a695574e9c0ba83bf757f88d42a83beace19a0a93b62a2"
-
-[[files]]
 file = "config/paxi/datapacks/Structory_1.19.3_v1.3.1a.zip"
 hash = "2565edc89f0659f7a78dd303d32614257f1331dc22cd673f16245c0742c2fe22"
 
@@ -1984,8 +1952,43 @@ hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
+file = "resourcepacks/alternative-rain-sounds.pw.toml"
+hash = "1be700ebc0cb7467e2413601fa71cd26a5ecc06c5b183a7f729e3d12c6aeb3f0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-lanterns.pw.toml"
+hash = "67f80b6355c31f44524a590de7da1a6c5f7bb5e8cc6b84f222d0aaad056ce7e0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-computercraft.pw.toml"
+hash = "ac9f825de7d1bb162e83d303622df192b97a2d76363608784acfa1fe68ac4288"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
+hash = "f88e09f4ad5f541b2dcec7326a67769286caa4e2b339cf388f151111656d6f74"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "e9e57742366174ee106acf48dbcbb2b03860b931600c8fbe1208961ca2661937"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "ea9aa90fde2059d507c459c4c9900954ad9f30f631dae12707fce6249396f3db"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancyfast-bushy-leaves.pw.toml"
+hash = "4d1cac859f88ae286bb8339e198c97e32ac55c11eaed61e29518cdf2cdad1948"
 metafile = true
 
 [[files]]
@@ -1994,8 +1997,44 @@ hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/xali's+Enhanced+Vanilla+v1.11.1.zip"
-hash = "c6b7555458d3e6a206514752cf32823f4da0de8febf58b653f3a4f5fb2988009"
+file = "resourcepacks/rethoughted-trident.pw.toml"
+hash = "7825a91776fe90e6de868e7862b1f9c60b90e0d0b40e8d4071c01db558c95c01"
+metafile = true
+
+[[files]]
+file = "resourcepacks/totem-da-capoeira.pw.toml"
+hash = "29d0b03cbe64915f4accb3faa6cb59706960a8b956b231ff7cf21e3a2998134c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enchanted-books-addon.pw.toml"
+hash = "5c00199df5da4a794e6f04502dae95b9532fc4409f623ad70b4cdf140e461840"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enchanted-books.pw.toml"
+hash = "af2cc0a35ba65e54a83ca7b340fe5be559145fbd9ce6ad711075862659ca292c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-biome-river-pond.pw.toml"
+hash = "3624a31c0bc007a7752914f16a5defe0fa5da3c0db63c59db6bb21db768c19a8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-jungle-wood.pw.toml"
+hash = "60d3d7bfda1200d93ffc8cef6a16ef21c224537c946b5ca25d7a94ae77d416ca"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
+hash = "480d97d7b81fb3070b644bb30ff7231a3dc1875e234c8b69f19d742439e4525c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-potion.pw.toml"
+hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
+metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4-config.txt"

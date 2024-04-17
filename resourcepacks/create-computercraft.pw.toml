@@ -1,0 +1,13 @@
+name = "Create: ComputerCraft"
+filename = "Create Computers 1.2.1 - 1.20.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mh9nQqo4/versions/WWoDAEI5/Create%20Computers%201.2.1%20-%201.20.1.zip"
+hash-format = "sha1"
+hash = "9c17b7deb5d49a20a3ac89ecdd33b79a35ba6e50"
+
+[update]
+[update.modrinth]
+mod-id = "mh9nQqo4"
+version = "WWoDAEI5"

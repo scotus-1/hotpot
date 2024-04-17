@@ -1,0 +1,13 @@
+name = "Alternative Rain Sounds"
+filename = "Alternative Rain Sounds 1.20-1.20.X.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IjeNkkG5/versions/VyElEmEL/Alternative%20Rain%20Sounds%201.20-1.20.X.zip"
+hash-format = "sha1"
+hash = "8f5a3c87f19d525226141cb92656b54b0c189a74"
+
+[update]
+[update.modrinth]
+mod-id = "IjeNkkG5"
+version = "VyElEmEL"
