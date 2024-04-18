@@ -77,8 +77,48 @@ file = "config/paxi/resourcepacks/FA+Quivers-v1.1.zip"
 hash = "a7469f905f61105feb3d4a441a7b1b7d9025181c5b1f2d168cd8a19b9a0a3b12"
 
 [[files]]
+file = "config/paxi/resourcepacks/alternative-rain-sounds.pw.toml"
+hash = "1be700ebc0cb7467e2413601fa71cd26a5ecc06c5b183a7f729e3d12c6aeb3f0"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/better-cauldrons.zip"
 hash = "8e03cd8d5fb5b98d2e1afc6712f8a0bbaf2760f7b45c398ab917de87bcc92ca7"
+
+[[files]]
+file = "config/paxi/resourcepacks/better-lanterns.pw.toml"
+hash = "67f80b6355c31f44524a590de7da1a6c5f7bb5e8cc6b84f222d0aaad056ce7e0"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/create-computercraft.pw.toml"
+hash = "ac9f825de7d1bb162e83d303622df192b97a2d76363608784acfa1fe68ac4288"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/dark-embellished-stone.pw.toml"
+hash = "e948591bd9ab7f9a2c35f41cea12351e03686a3f0534024d87e73fb54d2f9d74"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
+hash = "f88e09f4ad5f541b2dcec7326a67769286caa4e2b339cf388f151111656d6f74"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "e9e57742366174ee106acf48dbcbb2b03860b931600c8fbe1208961ca2661937"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "591bda29ea000a2ab9003782f1aa395773e5b8f292d1b7b4c5db4888b1d7de74"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations.pw.toml"
+hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
+metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/kubban-s-saplings-e2951.zip"
@@ -87,6 +127,41 @@ hash = "c47336a7385492fafd39313d16e3a3da7f016fe78e75db864063a265cc4d79c0"
 [[files]]
 file = "config/paxi/resourcepacks/log-hanging-signs-2-0.zip"
 hash = "4e62104fec3565ba84367afea3948bba76ce45f1538b5e83333a4b7ddffe551e"
+
+[[files]]
+file = "config/paxi/resourcepacks/rethoughted-trident.pw.toml"
+hash = "7825a91776fe90e6de868e7862b1f9c60b90e0d0b40e8d4071c01db558c95c01"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/sparkles.pw.toml"
+hash = "9fb46a8dd6c7300b9918d3936eeb7c395d3e6f1ebcef844cd00584f02f5a5300"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/totem-da-capoeira.pw.toml"
+hash = "29d0b03cbe64915f4accb3faa6cb59706960a8b956b231ff7cf21e3a2998134c"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/xalis-enchanted-books-addon.pw.toml"
+hash = "5c00199df5da4a794e6f04502dae95b9532fc4409f623ad70b4cdf140e461840"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/xalis-enchanted-books.pw.toml"
+hash = "af2cc0a35ba65e54a83ca7b340fe5be559145fbd9ce6ad711075862659ca292c"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/xalis-enhanced-biome-river-pond.pw.toml"
+hash = "3624a31c0bc007a7752914f16a5defe0fa5da3c0db63c59db6bb21db768c19a8"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/xalis-potion.pw.toml"
+hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
+metafile = true
 
 [[files]]
 file = "config/yosbr/config/autohud.json5"
@@ -1895,28 +1970,8 @@ hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
-file = "resourcepacks/alternative-rain-sounds.pw.toml"
-hash = "1be700ebc0cb7467e2413601fa71cd26a5ecc06c5b183a7f729e3d12c6aeb3f0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-lanterns.pw.toml"
-hash = "67f80b6355c31f44524a590de7da1a6c5f7bb5e8cc6b84f222d0aaad056ce7e0"
-metafile = true
-
-[[files]]
 file = "resourcepacks/chests-reimagined.pw.toml"
 hash = "eae1f37068968c237b5bc2498605225f199c6ee42667fe57d165cf5d70164672"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-computercraft.pw.toml"
-hash = "ac9f825de7d1bb162e83d303622df192b97a2d76363608784acfa1fe68ac4288"
-metafile = true
-
-[[files]]
-file = "resourcepacks/dark-embellished-stone.pw.toml"
-hash = "e948591bd9ab7f9a2c35f41cea12351e03686a3f0534024d87e73fb54d2f9d74"
 metafile = true
 
 [[files]]
@@ -1925,23 +1980,8 @@ hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
 metafile = true
 
 [[files]]
-file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
-hash = "f88e09f4ad5f541b2dcec7326a67769286caa4e2b339cf388f151111656d6f74"
-metafile = true
-
-[[files]]
-file = "resourcepacks/enchant-icons-countxd.pw.toml"
-hash = "e9e57742366174ee106acf48dbcbb2b03860b931600c8fbe1208961ca2661937"
-metafile = true
-
-[[files]]
 file = "resourcepacks/enchanting-reimagined.pw.toml"
 hash = "0be5424df97f3bf2147e30936db1ad07f99b634cd3a379f1aa04926f293fa6ca"
-metafile = true
-
-[[files]]
-file = "resourcepacks/enhanced-boss-bars.pw.toml"
-hash = "591bda29ea000a2ab9003782f1aa395773e5b8f292d1b7b4c5db4888b1d7de74"
 metafile = true
 
 [[files]]
@@ -1955,43 +1995,8 @@ hash = "4d1cac859f88ae286bb8339e198c97e32ac55c11eaed61e29518cdf2cdad1948"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
-metafile = true
-
-[[files]]
 file = "resourcepacks/rails-reimagined.pw.toml"
 hash = "2364f5b8cf89cd31099f8377ff787d813fbd11d58793c2e9027f5eb2172fc0ac"
-metafile = true
-
-[[files]]
-file = "resourcepacks/rethoughted-trident.pw.toml"
-hash = "7825a91776fe90e6de868e7862b1f9c60b90e0d0b40e8d4071c01db558c95c01"
-metafile = true
-
-[[files]]
-file = "resourcepacks/sparkles.pw.toml"
-hash = "9fb46a8dd6c7300b9918d3936eeb7c395d3e6f1ebcef844cd00584f02f5a5300"
-metafile = true
-
-[[files]]
-file = "resourcepacks/totem-da-capoeira.pw.toml"
-hash = "29d0b03cbe64915f4accb3faa6cb59706960a8b956b231ff7cf21e3a2998134c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-enchanted-books-addon.pw.toml"
-hash = "5c00199df5da4a794e6f04502dae95b9532fc4409f623ad70b4cdf140e461840"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-enchanted-books.pw.toml"
-hash = "af2cc0a35ba65e54a83ca7b340fe5be559145fbd9ce6ad711075862659ca292c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-enhanced-biome-river-pond.pw.toml"
-hash = "3624a31c0bc007a7752914f16a5defe0fa5da3c0db63c59db6bb21db768c19a8"
 metafile = true
 
 [[files]]
@@ -2002,11 +2007,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
 hash = "480d97d7b81fb3070b644bb30ff7231a3dc1875e234c8b69f19d742439e4525c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-potion.pw.toml"
-hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
 metafile = true
 
 [[files]]
