@@ -9,30 +9,6 @@ file = "config/paxi/datapacks/BetterVillages_MoreVillagers_1.19.0-to-1.19.3.zip"
 hash = "1423c8e54252505bf72548f0f83eabc8df17e548c0691745e5f1041da8da7142"
 
 [[files]]
-file = "config/paxi/datapacks/New-Shipwrecks-Data-Pack-1.19.1.zip"
-hash = "26ba5dd593baf7bcf5536939176fe3836178834605511a2dcf23fc5314e224de"
-
-[[files]]
-file = "config/paxi/datapacks/Structory_1.19.3_v1.3.1a.zip"
-hash = "2565edc89f0659f7a78dd303d32614257f1331dc22cd673f16245c0742c2fe22"
-
-[[files]]
-file = "config/paxi/datapacks/Structory_Towers_1.19.3_v1.0.2.zip"
-hash = "f6fa52547b0e91ee3c3036bb64eaec586c84e2eb69a374ffc1e41c6afc118131"
-
-[[files]]
-file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.0.2_Fabric_Waystones.zip"
-hash = "ea056a272ca794ba9cdb86fa3a6dad302b2e2d6cd8dcaeb0324590b2e4753e18"
-
-[[files]]
-file = "config/paxi/datapacks/VanillaTweaks_c520517_MC1.19.x.zip"
-hash = "5b004ab313bdf5e5908dc5e25c9035f1c1e2871c1ad5554878eeb61c884f1b60"
-
-[[files]]
-file = "config/paxi/datapacks/afk display v1.1.3 (MC 1.19.x).zip"
-hash = "fb8778ea88e0a910831cdbff02f16b41cddd65385754156a37c453092b31efb3"
-
-[[files]]
 file = "config/paxi/datapacks/banner-flags-v1-4.zip"
 hash = "1bd2dc87cbb1f160b2661eac1f7823d94f415333e42d938b4c62453f5bc181a5"
 
@@ -73,24 +49,8 @@ file = "config/paxi/datapacks/ichphilipp-s-endcity-vanilla-v1-1-1-19.zip"
 hash = "528140805275f820c098f6c74cd3015d52333a64efce9aa63549a5d5c622b3ee"
 
 [[files]]
-file = "config/paxi/datapacks/more mob heads v2.11.1 (MC 1.19.x).zip"
-hash = "795417ac6d40ad4c5079258a5e07fee04638282fb6d246ad8c4bad59659857d5"
-
-[[files]]
-file = "config/paxi/datapacks/player head drops v1.1.3 (MC 1.19.x).zip"
-hash = "7f3bee579d32f141c0a4f42fdc6ef7758dbdf214ee97b2ad5f36bf3754679efb"
-
-[[files]]
 file = "config/paxi/datapacks/towns-and-towers-1-10.zip"
 hash = "6d25565ca4446e545c55f6ec9be5ffd80f8a5461f2497f4eeaa12eddb4db6843"
-
-[[files]]
-file = "config/paxi/datapacks/track raw statistics v1.5.3 (MC 1.19.x).zip"
-hash = "2d3b791b222911645758ce5f482f62e1a7696d232622d7e013ca44c2daa4024d"
-
-[[files]]
-file = "config/paxi/datapacks/track statistics v1.1.4 (MC 1.19.x).zip"
-hash = "975e59ae06f7fdb87ebc9034dae1fc7677ba0615ede1c9b6461e8764453bc39b"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
