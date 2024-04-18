@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "fd0b983347938ccecb95ce80691b76d7016531e02c59733f1c47466821030189"
+hash = "16b71c79c26493d6aef70d89cb173baa342fd50e74ff4be31f6af52767e20695"
 metafile = true
 
 [[files]]
