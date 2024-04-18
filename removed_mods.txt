@@ -50,7 +50,8 @@ temp removed:
 - chunks-fade-in (sodium error)
 - craftify (crash)
 - amendments (crash)
-- structory
+- structory (cf api)
+- some rp: cakes-reimagined doors-reimagined visual-travelers-titles
 
 the culling:
 - physics mod
