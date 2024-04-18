@@ -101,6 +101,10 @@ file = "config/paxi/resourcepacks/13.zip"
 hash = "f0444baf45c5e1d76965803368bd06a791c3c7c3bd8cadab895fa07d0d99acea"
 
 [[files]]
+file = "config/paxi/resourcepacks/Better Framed Tools v2.zip"
+hash = "c4646413170614cc6a740e22e9972467df841dffff9603e26eca38d842a2943b"
+
+[[files]]
 file = "config/paxi/resourcepacks/FA+Details-v1.0.zip"
 hash = "3b1127d896654eab35b08fa1be84a9e778193ed1b13fd26e7c79a1f00e7ddec2"
 
@@ -113,8 +117,16 @@ file = "config/paxi/resourcepacks/FA+Quivers-v1.1.zip"
 hash = "a7469f905f61105feb3d4a441a7b1b7d9025181c5b1f2d168cd8a19b9a0a3b12"
 
 [[files]]
+file = "config/paxi/resourcepacks/better-cauldrons.zip"
+hash = "8e03cd8d5fb5b98d2e1afc6712f8a0bbaf2760f7b45c398ab917de87bcc92ca7"
+
+[[files]]
 file = "config/paxi/resourcepacks/kubban-s-saplings-e2951.zip"
 hash = "c47336a7385492fafd39313d16e3a3da7f016fe78e75db864063a265cc4d79c0"
+
+[[files]]
+file = "config/paxi/resourcepacks/log-hanging-signs-2-0.zip"
+hash = "4e62104fec3565ba84367afea3948bba76ce45f1538b5e83333a4b7ddffe551e"
 
 [[files]]
 file = "config/yosbr/config/autohud.json5"
