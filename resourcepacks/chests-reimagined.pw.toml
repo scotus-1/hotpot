@@ -1,0 +1,13 @@
+name = "Chests Reimagined"
+filename = "§aChests§8-§aReimagined§0_§8[v1.5]§0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d91e370c27f4fe4a782d13594964e44370cf9895"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4529432
+project-id = 497571

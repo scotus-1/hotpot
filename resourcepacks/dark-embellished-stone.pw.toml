@@ -1,0 +1,13 @@
+name = "Dark Embellished Stone (Advancement Plaques)"
+filename = "DarkEmbellishedStone-1.20.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/c8iWbDVP/versions/HtwUvPvH/DarkEmbellishedStone-1.20.1.zip"
+hash-format = "sha1"
+hash = "918d394910459d7d57198de4579dbe1a219678a9"
+
+[update]
+[update.modrinth]
+mod-id = "c8iWbDVP"
+version = "HtwUvPvH"

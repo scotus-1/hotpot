@@ -1950,13 +1950,33 @@ hash = "67f80b6355c31f44524a590de7da1a6c5f7bb5e8cc6b84f222d0aaad056ce7e0"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cakes-reimagined.pw.toml"
+hash = "083f1e9217323952338e9a36b03f861ba08ee0da88f4f232938e0ab601e5414c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chests-reimagined.pw.toml"
+hash = "eae1f37068968c237b5bc2498605225f199c6ee42667fe57d165cf5d70164672"
+metafile = true
+
+[[files]]
 file = "resourcepacks/create-computercraft.pw.toml"
 hash = "ac9f825de7d1bb162e83d303622df192b97a2d76363608784acfa1fe68ac4288"
 metafile = true
 
 [[files]]
+file = "resourcepacks/dark-embellished-stone.pw.toml"
+hash = "e948591bd9ab7f9a2c35f41cea12351e03686a3f0534024d87e73fb54d2f9d74"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/doors-reimagined.pw.toml"
+hash = "1393bb5e16ce09d9cd00247f99d3ffa4c4c65be507a2d8496b0ebb9fd411d286"
 metafile = true
 
 [[files]]
@@ -1967,6 +1987,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/enchant-icons-countxd.pw.toml"
 hash = "e9e57742366174ee106acf48dbcbb2b03860b931600c8fbe1208961ca2661937"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchanting-reimagined.pw.toml"
+hash = "0be5424df97f3bf2147e30936db1ad07f99b634cd3a379f1aa04926f293fa6ca"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "591bda29ea000a2ab9003782f1aa395773e5b8f292d1b7b4c5db4888b1d7de74"
 metafile = true
 
 [[files]]
@@ -1982,6 +2012,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rails-reimagined.pw.toml"
+hash = "2364f5b8cf89cd31099f8377ff787d813fbd11d58793c2e9027f5eb2172fc0ac"
 metafile = true
 
 [[files]]
