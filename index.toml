@@ -393,6 +393,11 @@ hash = "49323e1540fe35dd58946d577dfa9163df4b037eb6231916b1dd86c8204a7e84"
 metafile = true
 
 [[files]]
+file = "mods/bed-benefits.pw.toml"
+hash = "d51c568f86401ca1c89240459c05b6ab502471c53552e786dc2d3b55abdda396"
+metafile = true
+
+[[files]]
 file = "mods/bedspreads.pw.toml"
 hash = "f04afb24089cbef0b19b3abebfa248ae3241d821955c793fdb7c465b862134f7"
 metafile = true
@@ -915,6 +920,11 @@ metafile = true
 [[files]]
 file = "mods/explorify.pw.toml"
 hash = "9ec8d9ecfedbd3cc30dc19b91f37a540ff9340debf035cbb81a7103f65e086f1"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
 
 [[files]]
