@@ -101,52 +101,20 @@ file = "config/paxi/resourcepacks/13.zip"
 hash = "f0444baf45c5e1d76965803368bd06a791c3c7c3bd8cadab895fa07d0d99acea"
 
 [[files]]
-file = "config/paxi/resourcepacks/Cakes+Reimagined-[v1].zip"
-hash = "23db68c9ea557ea1ec287a3bf420de502082dac144c317a13edab23fb7f8b140"
-
-[[files]]
-file = "config/paxi/resourcepacks/EclecticTrove-noconfig-1.19-1.2.0.zip"
-hash = "ebbbb5006ec55769913c20d5600afbd67aaf7a893a8923453d3b4a2c1b441693"
-
-[[files]]
-file = "config/paxi/resourcepacks/EmbellishedStone-1.19-1.0.0.zip"
-hash = "e92c683bc486c8397426c5120e12302812c532f0b9a4243ad3fc3965718dab45"
-
-[[files]]
 file = "config/paxi/resourcepacks/FA+Details-v1.0.zip"
 hash = "3b1127d896654eab35b08fa1be84a9e778193ed1b13fd26e7c79a1f00e7ddec2"
 
 [[files]]
-file = "config/paxi/resourcepacks/FA+Emissive-v1.0.zip"
-hash = "111b3ee4b43a193e95f7e074121d6b22167917b86f566658f0b342dd863c0caa"
+file = "config/paxi/resourcepacks/FA+Emissive-v1.1.zip"
+hash = "2bb70003b65aebaaa07d5959f7b6a549edfddd575ce9b877bc086075fe1dd7fc"
 
 [[files]]
-file = "config/paxi/resourcepacks/FA+Quivers-v1.0.zip"
-hash = "2cf517b2c27a4a3f216a096969eb7746e59c6ce9f57aecb7942778a69cdb63d1"
+file = "config/paxi/resourcepacks/FA+Quivers-v1.1.zip"
+hash = "a7469f905f61105feb3d4a441a7b1b7d9025181c5b1f2d168cd8a19b9a0a3b12"
 
 [[files]]
-file = "config/paxi/resourcepacks/Stardust Labs Omni-Biome Name Fix v1.5-1.19.zip"
-hash = "f49ae8dd36e520ce3b4557dfe049a1cc905222aa3ba0c6d7384eed50c8e9ebc5"
-
-[[files]]
-file = "config/paxi/resourcepacks/Torches-Reimagined[v1.3.1].zip"
-hash = "5bd8f4b8186dadb568e0f0e54a268857bddd99a379f2e28860c9a81169c7e0b9"
-
-[[files]]
-file = "config/paxi/resourcepacks/Visual+Titles.zip"
-hash = "9d6a4220fb47edad0a49f7e1350ffda5deabd5e1d480fa54e7f37ae387da58d3"
-
-[[files]]
-file = "config/paxi/resourcepacks/[1.2]+Enhanced+Boss+Bars.zip"
-hash = "3e6d193154244adf3321fe897e9348608968583267283e9764d8d40765c641b1"
-
-[[files]]
-file = "config/paxi/resourcepacks/chests-to-pouches-e2000.zip"
-hash = "17526f475fc7d0c9e5fc20ee7b89c897fc041a507fee03aeb245a39fa2d06fb1"
-
-[[files]]
-file = "config/paxi/resourcepacks/kubban-s-saplings-e1040.zip"
-hash = "20df4f46d474eeef325978358a88ba345cb6f7859fd3d581e8754677f8ccc8d5"
+file = "config/paxi/resourcepacks/kubban-s-saplings-e2951.zip"
+hash = "c47336a7385492fafd39313d16e3a3da7f016fe78e75db864063a265cc4d79c0"
 
 [[files]]
 file = "config/yosbr/config/autohud.json5"
@@ -2025,8 +1993,18 @@ hash = "7825a91776fe90e6de868e7862b1f9c60b90e0d0b40e8d4071c01db558c95c01"
 metafile = true
 
 [[files]]
+file = "resourcepacks/sparkles.pw.toml"
+hash = "9fb46a8dd6c7300b9918d3936eeb7c395d3e6f1ebcef844cd00584f02f5a5300"
+metafile = true
+
+[[files]]
 file = "resourcepacks/totem-da-capoeira.pw.toml"
 hash = "29d0b03cbe64915f4accb3faa6cb59706960a8b956b231ff7cf21e3a2998134c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-travelers-titles.pw.toml"
+hash = "50816d5f290f715fd365b073db5948853f95bf149cad9ab9da9a67a3398ab390"
 metafile = true
 
 [[files]]
