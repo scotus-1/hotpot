@@ -125,10 +125,6 @@ file = "config/paxi/resourcepacks/FA+Quivers-v1.0.zip"
 hash = "2cf517b2c27a4a3f216a096969eb7746e59c6ce9f57aecb7942778a69cdb63d1"
 
 [[files]]
-file = "config/paxi/resourcepacks/FreshAnimations_v1.8.1.zip"
-hash = "b97991ba6cf33317b5e7ef092e66d2522b6848ec52bb89548bede0765d3ac8cb"
-
-[[files]]
 file = "config/paxi/resourcepacks/Stardust Labs Omni-Biome Name Fix v1.5-1.19.zip"
 hash = "f49ae8dd36e520ce3b4557dfe049a1cc905222aa3ba0c6d7384eed50c8e9ebc5"
 
@@ -151,14 +147,6 @@ hash = "17526f475fc7d0c9e5fc20ee7b89c897fc041a507fee03aeb245a39fa2d06fb1"
 [[files]]
 file = "config/paxi/resourcepacks/kubban-s-saplings-e1040.zip"
 hash = "20df4f46d474eeef325978358a88ba345cb6f7859fd3d581e8754677f8ccc8d5"
-
-[[files]]
-file = "config/paxi/resourcepacks/xali's+Enchanted+Books+v0.12.0.zip"
-hash = "441dff2b6a130c0028daf44972883f08dfbc55935d4b9cf9123db6687969df5f"
-
-[[files]]
-file = "config/paxi/resourcepacks/xali's+Potions+v1.0.zip"
-hash = "f6d453bd60909dae3218ac4f42bbec8168aee1ded499977837dfe8d4691412ea"
 
 [[files]]
 file = "config/yosbr/config/autohud.json5"
@@ -507,11 +495,6 @@ hash = "2f6093d5d0bca4253ca66a4f4909bac6fa36e2e6a9c0a54fb5c56d7707b6283f"
 metafile = true
 
 [[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
-metafile = true
-
-[[files]]
 file = "mods/bounced.pw.toml"
 hash = "06fbb3bad511e9c763595965c53ab377b39e9d8acf2f54f85ac5b68bb9fe8eae"
 metafile = true
@@ -754,6 +737,11 @@ metafile = true
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "ffbc244ff8dc311ffb6f0c83ff86edceb814ebead8fce9e32e4b061db38af14b"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
 metafile = true
 
 [[files]]
