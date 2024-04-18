@@ -49,7 +49,6 @@ temp removed:
 - bedrockwaters (sodium error)
 - chunks-fade-in (sodium error)
 - craftify (crash)
-- amendments (crash)
 - structory (cf api)
 - some rp: cakes-reimagined doors-reimagined visual-travelers-titles
 
