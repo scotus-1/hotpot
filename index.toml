@@ -1340,7 +1340,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-atlases.pw.toml"
-hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
+hash = "9d98fa7d9d97129294e8858da41675ebb8131025c3de209e46725ed719903b07"
 metafile = true
 
 [[files]]
