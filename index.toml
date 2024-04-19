@@ -554,6 +554,11 @@ hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
 metafile = true
@@ -1336,6 +1341,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "1acd996072e196d8bf814766bcbd074c726d8ed95d0be773ce2ce04ca2d60e95"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "9d98fa7d9d97129294e8858da41675ebb8131025c3de209e46725ed719903b07"
 metafile = true
 
 [[files]]
