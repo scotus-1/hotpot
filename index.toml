@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/itemborders-common.toml"
+hash = "b890e8e8e30f0b20cd5b47b6e772007fab38b9bca65db27f12429345e21101d3"
+
+[[files]]
 file = "config/paxi/datapacks/Amplified_Nether_v1.19.3_v1.2.1-nether384.zip"
 hash = "514f71852aba6869ab0e3948d2e63fd2fb3a35946e95abcf6ff081e0e3687c8a"
 
