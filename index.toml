@@ -714,11 +714,6 @@ hash = "cf9852c1ccb3281ea336dfff5cfcce3e3df5b051f6ae0eba975bdd19cf25b667"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "add2c2d1e4f9c8b9346a27ce8cc52258804dcbd0d72411f959735b7db11dae4f"
-metafile = true
-
-[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "11ba292cb594404e86bc163ac9eae01030cc6fc94f9bc17704980cb3fb259b70"
 metafile = true
