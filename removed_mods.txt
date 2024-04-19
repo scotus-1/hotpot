@@ -51,6 +51,7 @@ temp removed:
 - craftify (crash)
 - structory (cf api)
 - some rp: cakes-reimagined doors-reimagined visual-travelers-titles
+- sound-physics-remastered
 
 the culling:
 - physics mod
