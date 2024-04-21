@@ -714,6 +714,11 @@ hash = "cf9852c1ccb3281ea336dfff5cfcce3e3df5b051f6ae0eba975bdd19cf25b667"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "add2c2d1e4f9c8b9346a27ce8cc52258804dcbd0d72411f959735b7db11dae4f"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "11ba292cb594404e86bc163ac9eae01030cc6fc94f9bc17704980cb3fb259b70"
 metafile = true
@@ -1496,6 +1501,11 @@ metafile = true
 [[files]]
 file = "mods/panorama-screens.pw.toml"
 hash = "292f24e508a7f38609d20117e18f27508dbd1311b98fd3bf7b590c239ba59e33"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "a14a9d2c780c25e86d23a923504c8a1d6265fc31b949053dfa8f0c2dc4c5acbe"
 metafile = true
 
 [[files]]
