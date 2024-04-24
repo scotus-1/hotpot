@@ -779,6 +779,11 @@ hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
 metafile = true
 
 [[files]]
+file = "mods/cultural-delights-fabric.pw.toml"
+hash = "1d73e4df353f4849c43990a82dfb25280d4f18b705df415aa661c56adacaaedc"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
 metafile = true
