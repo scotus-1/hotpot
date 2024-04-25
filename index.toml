@@ -5,10 +5,6 @@ file = "config/itemborders-common.toml"
 hash = "b890e8e8e30f0b20cd5b47b6e772007fab38b9bca65db27f12429345e21101d3"
 
 [[files]]
-file = "config/paxi/datapacks/BetterVillages_MoreVillagers_1.19.0-to-1.19.3.zip"
-hash = "1423c8e54252505bf72548f0f83eabc8df17e548c0691745e5f1041da8da7142"
-
-[[files]]
 file = "config/paxi/datapacks/banner-flags-v1-4.zip"
 hash = "1bd2dc87cbb1f160b2661eac1f7823d94f415333e42d938b4c62453f5bc181a5"
 
@@ -47,10 +43,6 @@ hash = "f9655c6e3862f6ed92da53a94698973a69c53f275eff74ef73f0a5a9c38c4fad"
 [[files]]
 file = "config/paxi/datapacks/geophilic-v2.2.0-1.20-1.20.2.zip"
 hash = "901435db7b20dabb4d8d6c868867b7cafd940c4f493aeedcb9dc20992b48a0aa"
-
-[[files]]
-file = "config/paxi/datapacks/towns-and-towers-1-10.zip"
-hash = "6d25565ca4446e545c55f6ec9be5ffd80f8a5461f2497f4eeaa12eddb4db6843"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -352,11 +344,6 @@ metafile = true
 [[files]]
 file = "mods/amecs.pw.toml"
 hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
-metafile = true
-
-[[files]]
-file = "mods/amendments.pw.toml"
-hash = "16b71c79c26493d6aef70d89cb173baa342fd50e74ff4be31f6af52767e20695"
 metafile = true
 
 [[files]]
