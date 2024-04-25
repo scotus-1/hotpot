@@ -52,6 +52,7 @@ temp removed:
 - structory (cf api)
 - some rp: cakes-reimagined doors-reimagined visual-travelers-titles
 - sound-physics-remastered
+- amplified nether
 
 the culling:
 - physics mod

@@ -5,16 +5,16 @@ file = "config/itemborders-common.toml"
 hash = "b890e8e8e30f0b20cd5b47b6e772007fab38b9bca65db27f12429345e21101d3"
 
 [[files]]
-file = "config/paxi/datapacks/Amplified_Nether_v1.19.3_v1.2.1-nether384.zip"
-hash = "514f71852aba6869ab0e3948d2e63fd2fb3a35946e95abcf6ff081e0e3687c8a"
-
-[[files]]
 file = "config/paxi/datapacks/BetterVillages_MoreVillagers_1.19.0-to-1.19.3.zip"
 hash = "1423c8e54252505bf72548f0f83eabc8df17e548c0691745e5f1041da8da7142"
 
 [[files]]
 file = "config/paxi/datapacks/banner-flags-v1-4.zip"
 hash = "1bd2dc87cbb1f160b2661eac1f7823d94f415333e42d938b4c62453f5bc181a5"
+
+[[files]]
+file = "config/paxi/datapacks/better-end-city-vanilla.zip"
+hash = "e8842082a1ef6190060702d9a59622d9be4c06c1ba0356cf6a8589a5956e8800"
 
 [[files]]
 file = "config/paxi/datapacks/biomesaplings-v1-0-8.zip"
@@ -45,12 +45,8 @@ file = "config/paxi/datapacks/ctov-waystone-add-on-v1-0.zip"
 hash = "f9655c6e3862f6ed92da53a94698973a69c53f275eff74ef73f0a5a9c38c4fad"
 
 [[files]]
-file = "config/paxi/datapacks/geophilic1.19-2.0.0.zip"
-hash = "f548f8c3bc6149e1f4343f594cc1eaeb9f57360a9fcdd30333a46c4a54e49e3a"
-
-[[files]]
-file = "config/paxi/datapacks/ichphilipp-s-endcity-vanilla-v1-1-1-19.zip"
-hash = "528140805275f820c098f6c74cd3015d52333a64efce9aa63549a5d5c622b3ee"
+file = "config/paxi/datapacks/geophilic-v2.2.0-1.20-1.20.2.zip"
+hash = "901435db7b20dabb4d8d6c868867b7cafd940c4f493aeedcb9dc20992b48a0aa"
 
 [[files]]
 file = "config/paxi/datapacks/towns-and-towers-1-10.zip"
@@ -95,6 +91,11 @@ hash = "67f80b6355c31f44524a590de7da1a6c5f7bb5e8cc6b84f222d0aaad056ce7e0"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/chests-reimagined.pw.toml"
+hash = "eae1f37068968c237b5bc2498605225f199c6ee42667fe57d165cf5d70164672"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/create-computercraft.pw.toml"
 hash = "ac9f825de7d1bb162e83d303622df192b97a2d76363608784acfa1fe68ac4288"
 metafile = true
@@ -115,8 +116,18 @@ hash = "e9e57742366174ee106acf48dbcbb2b03860b931600c8fbe1208961ca2661937"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/enchanting-reimagined.pw.toml"
+hash = "0be5424df97f3bf2147e30936db1ad07f99b634cd3a379f1aa04926f293fa6ca"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "591bda29ea000a2ab9003782f1aa395773e5b8f292d1b7b4c5db4888b1d7de74"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fancy-crops.pw.toml"
+hash = "ea9aa90fde2059d507c459c4c9900954ad9f30f631dae12707fce6249396f3db"
 metafile = true
 
 [[files]]
@@ -780,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "mods/cultural-delights-fabric.pw.toml"
-hash = "1d73e4df353f4849c43990a82dfb25280d4f18b705df415aa661c56adacaaedc"
+hash = "61979caf9b19fc36867aa35c6d87751e25eaee84ac387f00bfd107dab3d61d12"
 metafile = true
 
 [[files]]
@@ -1524,6 +1535,11 @@ hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "e1434c282fc8d1d6d681838689200f09ffb94a7d3db112de72050597cbd70210"
+metafile = true
+
+[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "402a0cd21b841d08d7479d1654b4e5a7ffab258009256144f94e9f5b31fea5ce"
 metafile = true
@@ -1979,28 +1995,8 @@ hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
-file = "resourcepacks/chests-reimagined.pw.toml"
-hash = "eae1f37068968c237b5bc2498605225f199c6ee42667fe57d165cf5d70164672"
-metafile = true
-
-[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/enchanting-reimagined.pw.toml"
-hash = "0be5424df97f3bf2147e30936db1ad07f99b634cd3a379f1aa04926f293fa6ca"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fancy-crops.pw.toml"
-hash = "ea9aa90fde2059d507c459c4c9900954ad9f30f631dae12707fce6249396f3db"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fancyfast-bushy-leaves.pw.toml"
-hash = "4d1cac859f88ae286bb8339e198c97e32ac55c11eaed61e29518cdf2cdad1948"
 metafile = true
 
 [[files]]
