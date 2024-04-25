@@ -1183,7 +1183,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
 
 [[files]]
@@ -2002,17 +2002,12 @@ hash = "480d97d7b81fb3070b644bb30ff7231a3dc1875e234c8b69f19d742439e4525c"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4-config.txt"
+file = "shaderpacks/ComplementaryReimagined_r5.1.1-config.txt"
 hash = "7acef0af73cfbf251dfab636ac0786da33383a9e607b50efe7c09ef57924b871"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "93cc3c55259d0adef692cb4dda0ec348dab9f99b66b39e67f365ab5a1f070da2"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-shaders-v4.pw.toml"
-hash = "c3b7d6c27249a7727712d1a884e40e3837d692de32d357d747fcabdded23d649"
 metafile = true
 
 [[files]]
