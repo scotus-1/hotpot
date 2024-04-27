@@ -83,18 +83,8 @@ hash = "67f80b6355c31f44524a590de7da1a6c5f7bb5e8cc6b84f222d0aaad056ce7e0"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/chests-reimagined.pw.toml"
-hash = "eae1f37068968c237b5bc2498605225f199c6ee42667fe57d165cf5d70164672"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/create-computercraft.pw.toml"
 hash = "ac9f825de7d1bb162e83d303622df192b97a2d76363608784acfa1fe68ac4288"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/dark-embellished-stone.pw.toml"
-hash = "e948591bd9ab7f9a2c35f41cea12351e03686a3f0534024d87e73fb54d2f9d74"
 metafile = true
 
 [[files]]
@@ -105,11 +95,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/enchant-icons-countxd.pw.toml"
 hash = "e9e57742366174ee106acf48dbcbb2b03860b931600c8fbe1208961ca2661937"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/enchanting-reimagined.pw.toml"
-hash = "0be5424df97f3bf2147e30936db1ad07f99b634cd3a379f1aa04926f293fa6ca"
 metafile = true
 
 [[files]]
@@ -134,6 +119,11 @@ hash = "c47336a7385492fafd39313d16e3a3da7f016fe78e75db864063a265cc4d79c0"
 [[files]]
 file = "config/paxi/resourcepacks/log-hanging-signs-2-0.zip"
 hash = "4e62104fec3565ba84367afea3948bba76ce45f1538b5e83333a4b7ddffe551e"
+
+[[files]]
+file = "config/paxi/resourcepacks/rails-reimagined.pw.toml"
+hash = "2364f5b8cf89cd31099f8377ff787d813fbd11d58793c2e9027f5eb2172fc0ac"
+metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/rethoughted-trident.pw.toml"
@@ -1984,16 +1974,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/rails-reimagined.pw.toml"
-hash = "2364f5b8cf89cd31099f8377ff787d813fbd11d58793c2e9027f5eb2172fc0ac"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-enhanced-jungle-wood.pw.toml"
-hash = "60d3d7bfda1200d93ffc8cef6a16ef21c224537c946b5ca25d7a94ae77d416ca"
 metafile = true
 
 [[files]]
