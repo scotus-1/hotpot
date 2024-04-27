@@ -757,6 +757,26 @@ hash = "8eda14f9c18b7886871baf01634f2c8d3225e2c909a41da07437e2018f186784"
 metafile = true
 
 [[files]]
+file = "mods/ctov-beautify-compat.pw.toml"
+hash = "a1c94db18b2c206b3573e5614109ce23409ce2e667d6671dcaf82bef54124eed"
+metafile = true
+
+[[files]]
+file = "mods/ctov-chefs-delight-compat.pw.toml"
+hash = "82b3bb88bd350fe7537af8dd3900f37d41301d640dc2e6860dd6d36cf86dcd9b"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "c163559322c64b37c02074f0774da6de8a5a2c6dd6f5cd7b51775596769268e1"
+metafile = true
+
+[[files]]
+file = "mods/ctov-villagers-plus-compat.pw.toml"
+hash = "5b1b64ddd9e3a41c72bd1db07ab69cdaa058d210a13218cc97b2d7c8b5ed1af6"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
 metafile = true
@@ -1792,6 +1812,11 @@ hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
 metafile = true
 
 [[files]]
+file = "mods/terralith-biome-saplings.pw.toml"
+hash = "333a66150c6cf05561dc2e0ead25cff392d1b0b791bb87497285bf67b94795f3"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "eede133dd250889ed521ba31ace80af20f71d47585a28de1184fe29fde83dad0"
 metafile = true
@@ -1864,6 +1889,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
+metafile = true
+
+[[files]]
+file = "mods/villagersplus.pw.toml"
+hash = "58aa6f9e8041a3e6c5a5ee79e4fbd42185de5e32434172c3465da394a5eb7b19"
 metafile = true
 
 [[files]]
