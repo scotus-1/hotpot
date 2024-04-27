@@ -5,36 +5,16 @@ file = "config/itemborders-common.toml"
 hash = "b890e8e8e30f0b20cd5b47b6e772007fab38b9bca65db27f12429345e21101d3"
 
 [[files]]
-file = "config/paxi/datapacks/banner-flags-v1-4.zip"
-hash = "1bd2dc87cbb1f160b2661eac1f7823d94f415333e42d938b4c62453f5bc181a5"
+file = "config/paxi/datapacks/banner-flags-v2-3.zip"
+hash = "e6dd7ca5cb8e2d1db40dd27f27b667d1c40d50b4b76c9b5d42963fde97f42f05"
 
 [[files]]
 file = "config/paxi/datapacks/better-end-city-vanilla.zip"
 hash = "e8842082a1ef6190060702d9a59622d9be4c06c1ba0356cf6a8589a5956e8800"
 
 [[files]]
-file = "config/paxi/datapacks/biomesaplings-v1-0-8.zip"
-hash = "e4e11b974e4cb6577eeceb67e53fba227364e735ec6bbf1c116830e0b44622b0"
-
-[[files]]
 file = "config/paxi/datapacks/botw-guardians-data-pack.zip"
 hash = "6df88a0d9936fbd47a348d791671e48e0223d381edec1a9c4a0a5624b389d5af"
-
-[[files]]
-file = "config/paxi/datapacks/ctov-beautify-add-on-v1-0.zip"
-hash = "0851d3936dc8950d5a2a7a7167642df93a471a0af52213c24a86a324b7d1eebc"
-
-[[files]]
-file = "config/paxi/datapacks/ctov-chefs-delight-add-on-v1-0.zip"
-hash = "68a0d1766310f69b866ede59a9f59cac636dc992940d1b46e58e14f7c2c00814"
-
-[[files]]
-file = "config/paxi/datapacks/ctov-farmers-delight-compat-v1-2.zip"
-hash = "6cb521162f3cc300db7379a3fb5bdbad7474062f00859f70f7fcfdaaf3639dc7"
-
-[[files]]
-file = "config/paxi/datapacks/ctov-mores-villager-compat-v1-1.zip"
-hash = "9aea00c97a1b45b6c7cf474916ee1aa2a76f811f043afe212ae46f22d8e2350b"
 
 [[files]]
 file = "config/paxi/datapacks/ctov-waystone-add-on-v1-0.zip"
@@ -43,10 +23,6 @@ hash = "f9655c6e3862f6ed92da53a94698973a69c53f275eff74ef73f0a5a9c38c4fad"
 [[files]]
 file = "config/paxi/datapacks/geophilic-v2.2.0-1.20-1.20.2.zip"
 hash = "901435db7b20dabb4d8d6c868867b7cafd940c4f493aeedcb9dc20992b48a0aa"
-
-[[files]]
-file = "config/paxi/resourcepack_load_order.json"
-hash = "f1c33f6eacdd65dcd5bd88341c47e39e95adff60eac1f5c20a6097e3504d2301"
 
 [[files]]
 file = "config/paxi/resourcepacks/13.zip"
@@ -1847,6 +1823,11 @@ hash = "3171010a793b77ed4cf129f115f6ee1d393ee541bc3261af61d5adcbd35e4b9a"
 metafile = true
 
 [[files]]
+file = "mods/totw-modded.pw.toml"
+hash = "d9cb22297a6a0c136d018781d9eabc772045c90e3718803cddb7922e344fd4d6"
+metafile = true
+
+[[files]]
 file = "mods/towers-of-the-wild-modded.pw.toml"
 hash = "d9cb22297a6a0c136d018781d9eabc772045c90e3718803cddb7922e344fd4d6"
 metafile = true
@@ -2028,9 +2009,4 @@ metafile = true
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"
 hash = "a2469bd8aa76676f6d186935dbffd7bdc8a56212fa47ab628ea7def6eb330ea8"
-metafile = true
-
-[[files]]
-file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "d1591fa168a7e075122ab354fe31000866ec7bbc55991d267674445cd1c4e237"
 metafile = true
