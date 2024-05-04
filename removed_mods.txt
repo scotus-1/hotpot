@@ -39,7 +39,7 @@ temp removed:
 - chunks-fade-in (sodium error)
 - craftify (crash)
 - structory (cf api)
-- some rp: cakes-reimagined doors-reimagined visual-travelers-titles
+- some rp: cakes-reimagined doors-reimagined visual-travelers-titles splendous-sniffers
 - sound-physics-remastered
 - amplified nether
 - amendments
