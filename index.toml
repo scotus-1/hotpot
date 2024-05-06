@@ -894,7 +894,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
-hash = "dd842cfb92e656902865d72d4ea29778c3edb870fea36a85f84bd0a16196a485"
+hash = "24d0280548982225903b9ff97b97924f535db1e6a4e76947b9da70618926d857"
 metafile = true
 
 [[files]]
@@ -1488,6 +1488,11 @@ hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
 
 [[files]]
+file = "mods/options-profiles.pw.toml"
+hash = "c06f45365c11bd0e6f6c45100053804020f5ba1c6a02c755861ab43c699eafc0"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
@@ -1630,6 +1635,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
+metafile = true
+
+[[files]]
+file = "mods/respite-creators-fabric.pw.toml"
+hash = "bf0954317bd6cb4067803b2324ec4669713e5c87ea0b778163574a8cf190fa0a"
 metafile = true
 
 [[files]]
