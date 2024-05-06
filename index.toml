@@ -778,11 +778,6 @@ hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
 metafile = true
 
 [[files]]
-file = "mods/cyanide.pw.toml"
-hash = "761857a2d019df774d3682e11ac89a1653fb1ae1a2b4592c6793cd1246279d55"
-metafile = true
-
-[[files]]
 file = "mods/dcch.pw.toml"
 hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
 metafile = true
@@ -1404,7 +1399,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "cb2cb6c5a89af4b588343028ad03044fcd3aa7ba39b3b29c99372346387b7fd0"
+hash = "9d49f2eec8470438c0a6ed686586b530ba7cf661d31bd2dda233c8f8c334f7f5"
 metafile = true
 
 [[files]]
