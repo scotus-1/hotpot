@@ -829,12 +829,12 @@ metafile = true
 
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
-hash = "31a57e97467b2b34997b9594c692c73a414f9587801f3b92b6bef996377bf844"
+hash = "8459210809b612d602dc744a09e04a4bc772c112f85336185425a65425a0a43a"
 metafile = true
 
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
-hash = "9fc01e3d81eb0855ac7c5df62355458b4420b6c8161172d702f26489ba8b3ed6"
+hash = "3485add337ce6744b5c0b2901cb159c9304af159c4635f9a945f262ee738f28a"
 metafile = true
 
 [[files]]
@@ -849,7 +849,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "38160b9806972c270b46ee01d408ef5501a1009adbbe30d6fb00debafbd6fe15"
+hash = "59f568baad73a87e26a3eac172e72b531be55c00dad55de51dd7ddb27cd49a16"
 metafile = true
 
 [[files]]
@@ -1070,6 +1070,11 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "8afe478f0e3b3d0609ea7efac63d9312302ab8261fffc964b9ad5d7b3d9eafc6"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "af0a1c16ea26417e97cfecbc48e10fc2cef8649c70d2a7f1adf425a94b482300"
 metafile = true
 
 [[files]]
@@ -1344,7 +1349,7 @@ metafile = true
 
 [[files]]
 file = "mods/mavapi.pw.toml"
-hash = "5efaadd09ae2a5e545ae61e8f542df9ac1a60aa263d547518c9426cd8d70d212"
+hash = "5e928243850d6243c5649cff06156cdb5428d064faec0233a195c0944e05d288"
 metafile = true
 
 [[files]]
@@ -1589,7 +1594,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
+hash = "50f413eb229b578c7dbb5d8665a8ad29e0221a4e16acbe62cb9f52e2bedaa732"
 metafile = true
 
 [[files]]
