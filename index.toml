@@ -303,6 +303,11 @@ hash = "b337d8099a255008e7a9fc52eb057f8b7ceeabd5142037821e7ba2aad149a94a"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "6c483e8e94d759e8ba17d339f19b36d745ca6396418c7d96619fa951491ab5f1"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
 metafile = true
@@ -1268,6 +1273,11 @@ hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
 metafile = true
 
 [[files]]
+file = "mods/lazy-language-loader.pw.toml"
+hash = "cf8744a2896e9d00e777500b89da0f221e405e68df0fde5f95fce4f81ebd8175"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
@@ -1363,6 +1373,11 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "4328ca91b7661092d85beba0ecb45170ec6c1329520325757884f864160bbe67"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
 metafile = true
@@ -1380,6 +1395,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "1e7a58f130da5101a68d77789d3afc8c366b382dc29c1fa366e09ec570920e98"
 metafile = true
 
 [[files]]
@@ -1638,6 +1658,11 @@ hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "87f02ba7f8194999c141d6d994c3b2f4e40f90fb347e017d0070964582b3e102"
+metafile = true
+
+[[files]]
 file = "mods/respite-creators-fabric.pw.toml"
 hash = "bf0954317bd6cb4067803b2324ec4669713e5c87ea0b778163574a8cf190fa0a"
 metafile = true
@@ -1814,7 +1839,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "eede133dd250889ed521ba31ace80af20f71d47585a28de1184fe29fde83dad0"
+hash = "b45bb1b45770f316912f14698b74db9927cb24d7bcb3776c453937ab332b2061"
 metafile = true
 
 [[files]]
@@ -1830,6 +1855,11 @@ metafile = true
 [[files]]
 file = "mods/third-person-maps.pw.toml"
 hash = "6a600226a351cd47bcaaf1b5efd342b1926d2eae3bb62b4990e49e554d52dfd9"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
@@ -1940,6 +1970,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "fb317684448237e6abc00d035d2054d57ab00a85303056391bf721e15b2298e0"
+metafile = true
+
+[[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "df07a6439b57af5af4e0397061bb994f9b7f369043bc8ea900586df6db7a1ca4"
 metafile = true
 
 [[files]]
