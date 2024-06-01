@@ -1,0 +1,19 @@
+{  
+  "$schema": "https://github.com/SettingDust/ModSets/raw/main/rules.schema.json",  
+  "text": {  
+    "text": "My first rule set",  
+    "bold": true,  
+    "color": "green"  
+  },  
+  "description": "Awwww",  
+  "rules": [  
+    {  
+      "text": "My First Mod Set",  
+      "description": "Disable them!",  
+      "controller": {  
+        "type": "boolean",  
+        "mod": "my_first_mod_set"  
+      }  
+    }
+  ]  
+}

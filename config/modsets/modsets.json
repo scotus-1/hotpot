@@ -1,0 +1,11 @@
+{  
+  "my_first_mod_set": {  
+    "text": "My First Mod Set",  
+    "description": "How about it?",  
+    "mods": [  
+      "sodium",  
+      "lithium",  
+      "iris"  
+    ]  
+  }  
+}
