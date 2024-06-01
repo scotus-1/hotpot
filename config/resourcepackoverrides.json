@@ -1,0 +1,73 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+     "vanilla",
+     "continuity/default",
+     "continuity/glass_pane_culling_fix",
+     "file/Fancy Crops v1.0 pf5-22.zip",
+     "file/Default-Dark-Mode-1.20-2023.7.0.zip",
+     "file/FreshAnimations_v1.9.zip",
+     "file/FA+Details-v1.0.zip",
+     "file/FA+Quivers-v1.1.zip",
+     "file/FA+Emissive-v1.1.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "ingame": [
+      "minecraft/udsupporteatinganimation",
+      "presencefootsteps/default_sound_pack",
+      "lambdabettergrass/default",
+      "minecraft/supporteatinganimation",
+      "itemswapper/default",
+      "itemswapper/experimental_addon"
+    ],
+    "$$ingame": {
+      "hidden": true,
+      "required": true 
+    },
+    "qol": [
+      "file/Sparkles_1.20.4_v1.0.5.zip",
+      "file/Totem Da Capoeira v1.2.zip",
+      "file/xali's Enchanted Books v0.12.0.zip",
+      "file/xali's Enchanted Books Addon v2.zip",
+      "file/xali's Enchanced Biome River & Pond v1.2.2.zip",
+      "file/xali's Potions v1.0.0.zip",
+      "file/Better+Lanterns+v1.2(mc-1.20.1).zip",
+      "file/Better Framed Tools v2.zip",
+      "file/better-cauldrons.zip",
+      "file/Create Computers 1.2.1 - 1.20.1.zip",
+      "file/enchant icons 1.20 v1.3.zip",
+      "file/[1.4] Enhanced Boss Bars.zip",
+      "file/kubban-s-saplings-e2951.zip",
+      "file/Alternative Rain Sounds 1.20-1.20.X.zip",
+      "file/EclecticTrove-noconfig-1.20.1-1.2.0.zip",
+     "file/\u00A79Rails-Reimagined\u00A78-[v1.1].zip",
+     "file/Rethoughted Trident.zip",
+     "file/log-hanging-signs-2-0.zip"
+    ],
+    "$$qol": {
+      "hidden": true,
+      "required": true 
+    },
+   "bases": [
+      "file/xali's Enhanced Vanilla v1.11.1.zip",
+      "file/FreshAnimations_v1.9.zip",
+      "continuity/default"
+   ],
+   "$$bases": {
+       "default_position": "BOTTOM"
+   },
+   "file/13.zip": {
+      "hidden": true,
+      "required": true,
+      "default_position": "TOP"
+   },
+  "vanilla": { 
+      "required": true,
+      "default_position": "BOTTOM"
+  }
+}
+}
