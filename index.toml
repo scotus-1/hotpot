@@ -1304,7 +1304,7 @@ metafile = true
 
 [[files]]
 file = "mods/mod-sets.pw.toml"
-hash = "b21d870c7940a5f03502260fc329c241771d0d3342644bffa979c5f5e4c916e5"
+hash = "e9203062321ca674d6ba5538ca30f216f88d20960df45cd2ba4caff8b2359b6c"
 metafile = true
 
 [[files]]
@@ -1694,7 +1694,7 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "c190e3b4f36f65c9c6ce72beb5f9760fa9c3793be2fa956e09d99fbbaeef6aaa"
+hash = "32dbca66d4844d79dcbc818d6c79487982e854ea83303c2cb54a93e027f172fe"
 metafile = true
 
 [[files]]
@@ -1719,7 +1719,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "29810615e8704ebfa3f0fc632247b1dcf255fe3227d4224e05d84b4076169509"
+hash = "d8829c303534943fec12d10d51496e6ae5a810a24e0b5378246987083d809fa0"
 metafile = true
 
 [[files]]
@@ -1780,11 +1780,6 @@ metafile = true
 [[files]]
 file = "mods/towers-of-the-wild-modded.pw.toml"
 hash = "d9cb22297a6a0c136d018781d9eabc772045c90e3718803cddb7922e344fd4d6"
-metafile = true
-
-[[files]]
-file = "mods/towns-and-towers.pw.toml"
-hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
 metafile = true
 
 [[files]]
