@@ -40,7 +40,8 @@ temp removed:
 - some rp: cakes-reimagined doors-reimagined visual-travelers-titles splendous-sniffers
 - sound-physics-remastered
 - amplified nether
-
+- paxi (crash)
+- cristellib (crash)
 - custom-totem-particles
 
 the culling:

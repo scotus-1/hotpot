@@ -642,11 +642,6 @@ hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]
-file = "mods/cristel-lib.pw.toml"
-hash = "4548d136288d54fe93c2b688e7d45b108e49767b864d6fca29fafc62bde09078"
-metafile = true
-
-[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "8eda14f9c18b7886871baf01634f2c8d3225e2c909a41da07437e2018f186784"
 metafile = true
