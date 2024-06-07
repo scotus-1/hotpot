@@ -8,3 +8,4 @@ removed_mods.txt
 resourcepacks.txt
 README.md
 docker-compose.yml
+fileserver.py

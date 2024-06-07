@@ -173,10 +173,6 @@ file = "config/yosbr/options.txt"
 hash = "995386c2ccf00fd1aa2059f8aeacfa6b772bb4a7f9bdbb9e907f12b8c8fe6028"
 
 [[files]]
-file = "fileserver.py"
-hash = "17ea55a94fdb6ac46865f0604978ac42c6e8b137f7bc5d6dd86ea5b0e61cdaa6"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "bc4677b5d9ff2bca2d8e031faf781a10bc578b95cdb709527b8eb85d79e4daae"
 metafile = true
