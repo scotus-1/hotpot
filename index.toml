@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "5333619ce0f7e191d409fac6cd1c5981b15fd9baee160114e4a5010d9b44761d"
+hash = "a704bc3997d75ffc2cac8311ef97f6336fcae75f6c82242d8a36fc15a2641c56"
 metafile = true
 
 [[files]]
@@ -679,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "add2c2d1e4f9c8b9346a27ce8cc52258804dcbd0d72411f959735b7db11dae4f"
+hash = "2f7b4303cff064f30e17cfce29235ac4231bcab38d11627c73e59fbde663c6e1"
 metafile = true
 
 [[files]]
@@ -839,7 +839,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "efd54c9eb5967eb3ddf6f4eac9868d09a0ef4ae33aea6e7dd02db2cf426c3e6f"
+hash = "4f091ee3d7b1f061298f2bfd4be31691fa7507d8cbbc61a3e2f3c6a5332d7084"
 metafile = true
 
 [[files]]
@@ -859,7 +859,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "5d08ee5a9dad38ed87772d437d7e1779fecc0baa4a0e6d33b324bce9908c60ea"
+hash = "b7a7971c44fd891674222a48df8999e379b8658d96ab9b3cf55c17c0b00bd1ce"
 metafile = true
 
 [[files]]
@@ -914,7 +914,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "94a2d8a60407b11276b5abbed5d2602b440960dcd8c2289203928d97d27c5036"
+hash = "eaecaf4b8100083ac8939667c70b47f50856ec0e7a78ddfc4f4e200586330a5f"
 metafile = true
 
 [[files]]
