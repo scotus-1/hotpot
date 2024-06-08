@@ -1649,7 +1649,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
+hash = "10ae5f6f2b540523ed0c62eef7a06a332050a16735ccdd2e7f5b8488ade11559"
 metafile = true
 
 [[files]]
@@ -1744,7 +1744,7 @@ metafile = true
 
 [[files]]
 file = "mods/stack-to-nearby-chests.pw.toml"
-hash = "ea8553f7079fe1be00653fdc7cdad4f3081c2134afd64d4e6fb183a6ddcb945b"
+hash = "a5a35409e4f34f4ef6fbec6cb7749bdcf4406e9c571ef62beef18e4118510a9e"
 metafile = true
 
 [[files]]
@@ -1909,7 +1909,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "eac8d9e0eacb296e7b648d3f1c3fc648e6d2c938d2b98c195b804c62183c6c26"
+hash = "7aa7d8d50839eabb773fc90390690373995beaf3a4c7b5c911399fb2995ce1e7"
 metafile = true
 
 [[files]]
@@ -1924,7 +1924,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "e5182e08336de4bff4901b4dd34b4e1a044f0e7a5e709b90b0fd80bfe9df7a41"
+hash = "10eead85b57a4646c27aceed0597cca489cd4ae5e4436bb69f9b1b428325ef89"
 metafile = true
 
 [[files]]
