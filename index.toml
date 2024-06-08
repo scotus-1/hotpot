@@ -274,7 +274,7 @@ hash = "995386c2ccf00fd1aa2059f8aeacfa6b772bb4a7f9bdbb9e907f12b8c8fe6028"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
+hash = "aa9713b04a9a616f81f739cafd3b665e3fb835cc281c4478e92b0a8ba8e34c20"
 metafile = true
 
 [[files]]
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/animal_feeding_trough.pw.toml"
-hash = "eb626a46ca1fab4ee0747a46ef2e0947b5759aa41171aa172041dd1bfb99236e"
+hash = "16171a0ce86e7905748e7ed4c19bd3c03fab00a9a932213d9b5cd6e1850cd0c0"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "d7998c447fbd736895a1774e194b17c4e926ff54f28fc7567d12ba3f478c8e5d"
+hash = "8c3d2ab031956ebc554135689326aca1dc41bc3ae5e700b5a7e316a20c2e8f21"
 metafile = true
 
 [[files]]
@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "d349418229113f3ee294443bfca547e5b252da3849f7bcbfa10ab5177bdf4dde"
+hash = "55c3c0b90712f84b1936ef69bbc1937bedd2e499b65003e0f22f00ad744a885b"
 metafile = true
 
 [[files]]
@@ -539,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "aa6fdb0075cadc58767cd4c173f7d275cc52859609c2f4832afe0463bfd94c12"
+hash = "b79cc58d8f59edf82a64eac716b84f11911b2bc63c40529575dbaf67f4896efb"
 metafile = true
 
 [[files]]
