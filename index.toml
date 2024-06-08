@@ -688,11 +688,6 @@ hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "1af769bd9f498ed9eeb3ca10a6895bf1eaff8799c37f2b57bb58e5aa413c8666"
-metafile = true
-
-[[files]]
 file = "mods/dcwa.pw.toml"
 hash = "e96c71e46932e7060f04e19145977c2ca71686f373273a8fae78f933a37b1b75"
 metafile = true
@@ -1218,11 +1213,6 @@ hash = "492487b37012b88c37d3c4a8d5c09b9935720d03956d0da5b62053c848ee737a"
 metafile = true
 
 [[files]]
-file = "mods/lilac.pw.toml"
-hash = "baca3b76ab9bf92fe2335a39285822ba68e47650eeb3ae145a6fea0061c6c9e9"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -1694,7 +1684,7 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "32dbca66d4844d79dcbc818d6c79487982e854ea83303c2cb54a93e027f172fe"
+hash = "c190e3b4f36f65c9c6ce72beb5f9760fa9c3793be2fa956e09d99fbbaeef6aaa"
 metafile = true
 
 [[files]]
