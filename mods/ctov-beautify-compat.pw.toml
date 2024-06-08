@@ -1,6 +1,6 @@
 name = "CTOV - Beautify Compat"
 filename = "ctov-beautify-compat-2.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/iunZDj0l/versions/elBmQR7P/ctov-beautify-compat-2.0.jar"

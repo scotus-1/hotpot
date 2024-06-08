@@ -1,6 +1,6 @@
 name = "Custom Biome Saplings"
 filename = "terralith-biome-saplings-1.1.0c.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/CYGkXnUb/versions/nb8lLMAv/terralith-biome-saplings-1.1.0c.jar"

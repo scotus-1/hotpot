@@ -1,6 +1,6 @@
 name = "CTOV - Villagers Plus Compat"
 filename = "ctov-villagers-plus-compat-2.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/UiaFErsS/versions/JsH6Gt4b/ctov-villagers-plus-compat-2.0.jar"

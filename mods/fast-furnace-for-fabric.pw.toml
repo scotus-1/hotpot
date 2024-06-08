@@ -1,6 +1,6 @@
 name = "Fast Furnace for Fabric"
 filename = "fastfurnace-1.19.2-5.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

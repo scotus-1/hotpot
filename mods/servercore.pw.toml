@@ -1,6 +1,6 @@
 name = "ServerCore"
 filename = "servercore-fabric-1.5.1+1.20.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/2SHzyIvs/servercore-fabric-1.5.1%2B1.20.1.jar"

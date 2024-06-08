@@ -1,6 +1,6 @@
 name = "CTOV - Chef's delight Compat"
 filename = "ctov-chefs-delight-compat-2.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/6PJbKvJH/versions/MVTYiQSv/ctov-chefs-delight-compat-2.0.jar"
