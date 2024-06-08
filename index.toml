@@ -1649,7 +1649,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "10ae5f6f2b540523ed0c62eef7a06a332050a16735ccdd2e7f5b8488ade11559"
+hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
@@ -1744,7 +1744,7 @@ metafile = true
 
 [[files]]
 file = "mods/stack-to-nearby-chests.pw.toml"
-hash = "a5a35409e4f34f4ef6fbec6cb7749bdcf4406e9c571ef62beef18e4118510a9e"
+hash = "ea8553f7079fe1be00653fdc7cdad4f3081c2134afd64d4e6fb183a6ddcb945b"
 metafile = true
 
 [[files]]
