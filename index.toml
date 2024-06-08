@@ -1068,6 +1068,11 @@ hash = "8afe478f0e3b3d0609ea7efac63d9312302ab8261fffc964b9ad5d7b3d9eafc6"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "e19a9d34d9f79e489aef99649b6dbd79399e149cdf93b6abd4647d0e9437da51"
+metafile = true
+
+[[files]]
 file = "mods/gliders.pw.toml"
 hash = "4c4ecbb592afa14eb622655aa29b3064152ea458fd941fb7c9004bd10863f0dc"
 metafile = true
@@ -1584,7 +1589,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
+hash = "50f413eb229b578c7dbb5d8665a8ad29e0221a4e16acbe62cb9f52e2bedaa732"
 metafile = true
 
 [[files]]
