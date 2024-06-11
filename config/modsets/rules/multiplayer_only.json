@@ -11,7 +11,8 @@
       "text": "My First Mod Set",  
       "description": "Disable them!",  
       "controller": {  
-        "type": "boolean",  
+        "type": "mods_group",
+        "collapsed": false,
         "mod": "my_first_mod_set"  
       }  
     }

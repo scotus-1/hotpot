@@ -6,11 +6,11 @@ hash = "11bb8167bddc4295d45abcd3a9b9887e0b730946a764f4f029494b9358d463da"
 
 [[files]]
 file = "config/modsets/modsets.json"
-hash = "144ba77101d671a7e4cdb0c2df498e83e82373a30a3c6a5a31aad5ca22dff3a6"
+hash = "07cec4faaf506eb5efdb3ec35cacd20187195e11fd82f377b519031a4d02381c"
 
 [[files]]
-file = "config/modsets/rules/example_rule.json"
-hash = "5cbc1376f2bdf880911b6a9ea35523e45d0972948789c1720b75d0e73e9731d3"
+file = "config/modsets/rules/multiplayer_only.json"
+hash = "5c3c32cf763b67bd0186ff05b3e66031ca27902edfc4bf289dcad4fc4bfdf0e4"
 
 [[files]]
 file = "config/paxi/datapacks/banner-flags-v2-3.zip"
@@ -398,11 +398,6 @@ hash = "5f3a9bccd6ca727d4fcd8105320e636429c7f3c642c3a3e7689b0df25d52ff65"
 metafile = true
 
 [[files]]
-file = "mods/builtin-servers.pw.toml"
-hash = "a58721796367f9247ad863b063d67638a6824dd0a342da690a0c1a0418e367e8"
-metafile = true
-
-[[files]]
 file = "mods/bushier-flowers.pw.toml"
 hash = "28fb59dd8303b624eae37b491010478ee8f850edc3116111ebf715a3a3673e3b"
 metafile = true
@@ -680,11 +675,6 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
-metafile = true
-
-[[files]]
-file = "mods/dcch.pw.toml"
-hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
 metafile = true
 
 [[files]]
@@ -1053,11 +1043,6 @@ hash = "280af6886fbdec37ccfab4d8a7cbd2d3777a198a5fa0d2ec15dc9b9c8b0eff67"
 metafile = true
 
 [[files]]
-file = "mods/interactic.pw.toml"
-hash = "65365b605f52731fab6e0452ce91e46eafd4475cfeef5a4dd152e6aa3fa423f0"
-metafile = true
-
-[[files]]
 file = "mods/inventory-tabs.pw.toml"
 hash = "888c65b3df100f58d5b13426abedcc49e1a66438e73df2704fdc6a03e1127048"
 metafile = true
@@ -1170,11 +1155,6 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
-metafile = true
-
-[[files]]
-file = "mods/leave-my-bars-alone.pw.toml"
-hash = "c7e8c7d30f80fab35c6f1aee8cf66f7ebd3923fa43b4a52a1f9ae4b6fc34df3d"
 metafile = true
 
 [[files]]
@@ -1365,11 +1345,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
-metafile = true
-
-[[files]]
-file = "mods/no-resource-pack-warnings.pw.toml"
-hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
 metafile = true
 
 [[files]]
@@ -1688,11 +1663,6 @@ hash = "c190e3b4f36f65c9c6ce72beb5f9760fa9c3793be2fa956e09d99fbbaeef6aaa"
 metafile = true
 
 [[files]]
-file = "mods/statssearch.pw.toml"
-hash = "91ac7fe75f49044e65215dc17ccd6fbb8fe751fc8f699c5917439e4fc1c73d8c"
-metafile = true
-
-[[files]]
 file = "mods/stendhal.pw.toml"
 hash = "f891cc32728a13dec5d8763f86b926498eb745b3bd80676120292bacd03e51ab"
 metafile = true
@@ -1700,11 +1670,6 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "2c2620f78d4d928683faa5e9569cf4873a767f542f7e53555c019168428da7da"
-metafile = true
-
-[[files]]
-file = "mods/stylish-effects.pw.toml"
-hash = "263bf7a6be51bb4154f866d3ec0e57bb52d4109c9f0d0e0c81d31d55ceb08c61"
 metafile = true
 
 [[files]]

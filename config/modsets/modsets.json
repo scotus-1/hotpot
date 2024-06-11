@@ -1,11 +1,169 @@
-{  
-  "my_first_mod_set": {  
-    "text": "My First Mod Set",  
-    "description": "How about it?",  
-    "mods": [  
-      "sodium",  
-      "lithium",  
-      "iris"  
-    ]  
-  }  
+{
+  "libraries": {
+    "text": "Libraries",
+    "description": "Library mods",
+    "mods": [
+      "satin",
+      "searchables",
+      "yet_another_config_lib_v3"
+    ]
+  },
+  "performance": {
+    "text": "Performance/Necessary Mods",
+    "description": "These are free frames and free time + modpack required",
+    "mods": [
+      "badoptimizations",
+      "cat_jam",
+      "controlling",
+      "cull-less-leaves",
+      "defaultoptions",
+      "dynamic_fps",
+      "enhancedblockentities",
+      "entityculling",
+      "feytweaks",
+      "immediatelyfast",
+      "indium",
+      "iris",
+      "languagereload",
+      "lazy-language-loader",
+      "moreculling",
+      "reeses-sodium-options",
+      "sodium",
+      "sodium-extra"
+    ]
+  },
+  "fixes": {
+    "text": "Fix Mods",
+    "description": "Bugfixes + technical ",
+    "mods": [
+      "keybind_fix",
+      "portalgui",
+      "modelfix"
+    ]
+  },
+  "optifine": {
+    "text": "Optifine Parity Mods",
+    "description": "Allows for resourcepacks, performance, and graphics features",
+    "mods": [
+      "animatica",
+      "capes",
+      "citresewn",
+      "continuity",
+      "entity_model_features",
+      "entity_texture_features",
+      "fsb-interop",
+      "fabricskyboxes",
+      "fabrishot",
+      "lambdabettergrass",
+      "lambdynlights",
+      "optigui",
+      "polytone",
+      "puzzles",
+      "zoomify"
+    ]
+  },
+  "qol": {
+    "text": "Quality of Life Mods",
+    "description": "General Recommended Improvements to the game",
+    "mods": [
+      "accurateblockplacement",
+      "adaptive-tooltips",
+      "amecs",
+      "bettermounthud",
+      "betterthirdperson",
+      "bobby",
+      "cleancut",
+      "extra-mod-integrations",
+      "fastquit",
+      "pling"
+    ]
+  },
+  "recommended": {
+    "text": "Nice to Have Mods",
+    "description": "More Quality of Life Mods that aren't as needed",
+    "mods": [
+      "advancementplaques",
+      "auto_third_person",
+      "autohud",
+      "axolotlbuckets",
+      "betterf3",
+      "boatiview",
+      "chat_heads",
+      "cherishedworlds",
+      "cleardespawn",
+      "clienttweaks",
+      "disable_custom_worlds_advice",
+      "detailab",
+      "draggable_lists",
+      "dynamiccrosshair",
+      "dynamiccrosshaircompat",
+      "eatinganimationid",
+      "enchdesc",
+      "highlight",
+      "inventory-tabs",
+      "invmove",
+      "highlighter",
+      "morechathistory",
+      "notenoughanimations",
+      "paginatedadvancements",
+      "quickerconnectbutton",
+      "quit",
+      "raised",
+      "reacharound",
+      "stack-to-nearby-chests",
+      "steadhal",
+      "third-person-maps"
+    ]
+  },
+  "aesthetic": {
+    "text": "Aesthetic Mods",
+    "description": "Mods purely for aesthetic purposes",
+    "mods": [
+      "auditory",
+      "skinlayers3d",
+      "blur",
+      "bounced",
+      "cameraoverhaul",
+      "cavedust",
+      "charmonium",
+      "chatanimation",
+      "waterdripsound",
+      "effective",
+      "explosiveenhancement",
+      "fallingleaves",
+      "fbp",
+      "footprintparticle",
+      "leahs-immersive-thunder",
+      "inmisaddon",
+      "legendarytooltips",
+      "make_bubbles_pop",
+      "panorama_screens",
+      "particle_core",
+      "particlerain",
+      "presencefootsteps",
+      "seamless_loading_screen",
+      "smoothscrollingrefurbished",
+      "smoothswapping",
+      "sounds",
+      "spyglass_astronomy",
+      "travelerstitles",
+      "visuality",
+      "wakes",
+      "waveycapes",
+      "weaponmaster"
+    ]
+  },
+  "optional": {
+    "text": "Optional",
+    "description": "Mods unrelated to gameplay or opionated additions",
+    "mods": [
+      "craftpresence",
+      "e4mc_minecraft",
+      "cubes-without-borders",
+      "freecam",
+      "macos_input",
+      "resourceify",
+      "vt_downloader"
+    ]
+  }
 }
