@@ -6,15 +6,15 @@ hash = "11bb8167bddc4295d45abcd3a9b9887e0b730946a764f4f029494b9358d463da"
 
 [[files]]
 file = "config/modsets/modsets.json"
-hash = "07cec4faaf506eb5efdb3ec35cacd20187195e11fd82f377b519031a4d02381c"
+hash = "502aff91588a2869aa9af2d0aa39c46e993396f4845d81c38d16569c15866825"
+
+[[files]]
+file = "config/modsets/rules/!multiplayer_only.json"
+hash = "bb984c03c042953357864da84d4d751edd70a5cde8e06f3bbffcd8d803f32041"
 
 [[files]]
 file = "config/modsets/rules/developer.json"
-hash = "3c6facfc3c09950ccd998a1bdc125c6a643e24cf0a8370e92c5c2f6f9a54a5e6"
-
-[[files]]
-file = "config/modsets/rules/multiplayer_only.json"
-hash = "5c3c32cf763b67bd0186ff05b3e66031ca27902edfc4bf289dcad4fc4bfdf0e4"
+hash = "3f1c835d033715e7dad227c5ec9549421b5827a1d439d10ed4a9d15abaea4a68"
 
 [[files]]
 file = "config/paxi/datapacks/banner-flags-v2-3.zip"
