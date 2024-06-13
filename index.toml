@@ -6,7 +6,7 @@ hash = "11bb8167bddc4295d45abcd3a9b9887e0b730946a764f4f029494b9358d463da"
 
 [[files]]
 file = "config/modsets/modsets.json"
-hash = "502aff91588a2869aa9af2d0aa39c46e993396f4845d81c38d16569c15866825"
+hash = "d7b8e0dd5d1fe5378022868c11e9bcbb6815640dffc60734be06ca9652f09ab1"
 
 [[files]]
 file = "config/modsets/rules/!multiplayer_only.json"
@@ -719,6 +719,11 @@ metafile = true
 [[files]]
 file = "mods/displaycase.pw.toml"
 hash = "d2d87aabfb933288e45e4f3e8f30cccf712fb59dc9426d22bf3ccb1335e413cd"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "19fa105045a5a918e7ab4bc74ab58b6056f764856dd6f46ce95006e16cb41fd4"
 metafile = true
 
 [[files]]
@@ -2009,7 +2014,7 @@ hash = "7acef0af73cfbf251dfab636ac0786da33383a9e607b50efe7c09ef57924b871"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "93cc3c55259d0adef692cb4dda0ec348dab9f99b66b39e67f365ab5a1f070da2"
+hash = "5f60337276d6cc70902b57d12bda7b6638888ea9f9e9561d91a1179b78487dba"
 metafile = true
 
 [[files]]

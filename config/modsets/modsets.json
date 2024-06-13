@@ -195,7 +195,8 @@
             "freecam",
             "macos_input",
             "resourceify",
-            "vt_downloader"
+            "vt_downloader",
+            "distanthorizons"
         ]
     },
     "testing": {
