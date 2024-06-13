@@ -717,16 +717,6 @@ hash = "89d22d515a1b5b1349b21eaa191a00bf529acca7673ba6af27dfda0380abea2b"
 metafile = true
 
 [[files]]
-file = "mods/diagonal-fences.pw.toml"
-hash = "8459210809b612d602dc744a09e04a4bc772c112f85336185425a65425a0a43a"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-windows.pw.toml"
-hash = "3485add337ce6744b5c0b2901cb159c9304af159c4635f9a945f262ee738f28a"
-metafile = true
-
-[[files]]
 file = "mods/displaycase.pw.toml"
 hash = "d2d87aabfb933288e45e4f3e8f30cccf712fb59dc9426d22bf3ccb1335e413cd"
 metafile = true

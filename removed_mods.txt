@@ -53,6 +53,8 @@ temp removed:
 - cristellib (crash)
 - towns-and-towers (cristellib)
 - custom-totem-particles
+- diagonal-fences (server mismatch)
+- diagonal-windows (server mismatch)
 
 the culling:
 - physics mod
