@@ -1,169 +1,225 @@
 {
-  "libraries": {
-    "text": "Libraries",
-    "description": "Library mods",
-    "mods": [
-      "satin",
-      "searchables",
-      "yet_another_config_lib_v3"
-    ]
-  },
-  "performance": {
-    "text": "Performance/Necessary Mods",
-    "description": "These are free frames and free time + modpack required",
-    "mods": [
-      "badoptimizations",
-      "cat_jam",
-      "controlling",
-      "cull-less-leaves",
-      "defaultoptions",
-      "dynamic_fps",
-      "enhancedblockentities",
-      "entityculling",
-      "feytweaks",
-      "immediatelyfast",
-      "indium",
-      "iris",
-      "languagereload",
-      "lazy-language-loader",
-      "moreculling",
-      "reeses-sodium-options",
-      "sodium",
-      "sodium-extra"
-    ]
-  },
-  "fixes": {
-    "text": "Fix Mods",
-    "description": "Bugfixes + technical ",
-    "mods": [
-      "keybind_fix",
-      "portalgui",
-      "modelfix"
-    ]
-  },
-  "optifine": {
-    "text": "Optifine Parity Mods",
-    "description": "Allows for resourcepacks, performance, and graphics features",
-    "mods": [
-      "animatica",
-      "capes",
-      "citresewn",
-      "continuity",
-      "entity_model_features",
-      "entity_texture_features",
-      "fsb-interop",
-      "fabricskyboxes",
-      "fabrishot",
-      "lambdabettergrass",
-      "lambdynlights",
-      "optigui",
-      "polytone",
-      "puzzles",
-      "zoomify"
-    ]
-  },
-  "qol": {
-    "text": "Quality of Life Mods",
-    "description": "General Recommended Improvements to the game",
-    "mods": [
-      "accurateblockplacement",
-      "adaptive-tooltips",
-      "amecs",
-      "bettermounthud",
-      "betterthirdperson",
-      "bobby",
-      "cleancut",
-      "extra-mod-integrations",
-      "fastquit",
-      "pling"
-    ]
-  },
-  "recommended": {
-    "text": "Nice to Have Mods",
-    "description": "More Quality of Life Mods that aren't as needed",
-    "mods": [
-      "advancementplaques",
-      "auto_third_person",
-      "autohud",
-      "axolotlbuckets",
-      "betterf3",
-      "boatiview",
-      "chat_heads",
-      "cherishedworlds",
-      "cleardespawn",
-      "clienttweaks",
-      "disable_custom_worlds_advice",
-      "detailab",
-      "draggable_lists",
-      "dynamiccrosshair",
-      "dynamiccrosshaircompat",
-      "eatinganimationid",
-      "enchdesc",
-      "highlight",
-      "inventory-tabs",
-      "invmove",
-      "highlighter",
-      "morechathistory",
-      "notenoughanimations",
-      "paginatedadvancements",
-      "quickerconnectbutton",
-      "quit",
-      "raised",
-      "reacharound",
-      "stack-to-nearby-chests",
-      "steadhal",
-      "third-person-maps"
-    ]
-  },
-  "aesthetic": {
-    "text": "Aesthetic Mods",
-    "description": "Mods purely for aesthetic purposes",
-    "mods": [
-      "auditory",
-      "skinlayers3d",
-      "blur",
-      "bounced",
-      "cameraoverhaul",
-      "cavedust",
-      "charmonium",
-      "chatanimation",
-      "waterdripsound",
-      "effective",
-      "explosiveenhancement",
-      "fallingleaves",
-      "fbp",
-      "footprintparticle",
-      "leahs-immersive-thunder",
-      "inmisaddon",
-      "legendarytooltips",
-      "make_bubbles_pop",
-      "panorama_screens",
-      "particle_core",
-      "particlerain",
-      "presencefootsteps",
-      "seamless_loading_screen",
-      "smoothscrollingrefurbished",
-      "smoothswapping",
-      "sounds",
-      "spyglass_astronomy",
-      "travelerstitles",
-      "visuality",
-      "wakes",
-      "waveycapes",
-      "weaponmaster"
-    ]
-  },
-  "optional": {
-    "text": "Optional",
-    "description": "Mods unrelated to gameplay or opionated additions",
-    "mods": [
-      "craftpresence",
-      "e4mc_minecraft",
-      "cubes-without-borders",
-      "freecam",
-      "macos_input",
-      "resourceify",
-      "vt_downloader"
-    ]
-  }
+    "libraries": {
+        "text": {
+            "text": "Libraries"
+        },
+        "description": {
+            "text": "Library mods"
+        },
+        "mods": [
+            "satin",
+            "searchables",
+            "yet_another_config_lib_v3"
+        ]
+    },
+    "performance": {
+        "text": {
+            "text": "Toggle All"
+        },
+        "description": {
+            "text": "These are free frames and free time + modpack required"
+        },
+        "mods": [
+            "badoptimizations",
+            "cat_jam",
+            "controlling",
+            "cull-less-leaves",
+            "defaultoptions",
+            "dynamic_fps",
+            "enhancedblockentities",
+            "entityculling",
+            "feytweaks",
+            "immediatelyfast",
+            "indium",
+            "iris",
+            "languagereload",
+            "lazy-language-loader",
+            "moreculling",
+            "reeses-sodium-options",
+            "sodium",
+            "sodium-extra"
+        ]
+    },
+    "fixes": {
+        "text": {
+            "text": "Fix Mods"
+        },
+        "description": {
+            "text": "Bugfixes + technical "
+        },
+        "mods": [
+            "keybind_fix",
+            "portalgui",
+            "modelfix"
+        ]
+    },
+    "optifine": {
+        "text": {
+            "text": "Optifine Parity Mods"
+        },
+        "description": {
+            "text": "Allows for resourcepacks, performance, and graphics features"
+        },
+        "mods": [
+            "animatica",
+            "capes",
+            "citresewn",
+            "continuity",
+            "entity_model_features",
+            "entity_texture_features",
+            "fsb-interop",
+            "fabricskyboxes",
+            "fabrishot",
+            "lambdabettergrass",
+            "lambdynlights",
+            "optigui",
+            "polytone",
+            "puzzles",
+            "zoomify"
+        ]
+    },
+    "qol": {
+        "text": {
+            "text": "Quality of Life Mods"
+        },
+        "description": {
+            "text": "General Recommended Improvements to the game"
+        },
+        "mods": [
+            "accurateblockplacement",
+            "adaptive-tooltips",
+            "amecs",
+            "bettermounthud",
+            "betterthirdperson",
+            "bobby",
+            "cleancut",
+            "extra-mod-integrations",
+            "fastquit",
+            "pling"
+        ]
+    },
+    "recommended": {
+        "text": {
+            "text": "Nice to Have Mods"
+        },
+        "description": {
+            "text": "More Quality of Life Mods that aren't as needed"
+        },
+        "mods": [
+            "advancementplaques",
+            "auto_third_person",
+            "autohud",
+            "axolotlbuckets",
+            "betterf3",
+            "boatiview",
+            "chat_heads",
+            "cherishedworlds",
+            "cleardespawn",
+            "clienttweaks",
+            "disable_custom_worlds_advice",
+            "detailab",
+            "draggable_lists",
+            "dynamiccrosshair",
+            "dynamiccrosshaircompat",
+            "eatinganimationid",
+            "enchdesc",
+            "highlight",
+            "inventory-tabs",
+            "invmove",
+            "highlighter",
+            "morechathistory",
+            "notenoughanimations",
+            "paginatedadvancements",
+            "quickerconnectbutton",
+            "quit",
+            "raised",
+            "reacharound",
+            "stack-to-nearby-chests",
+            "steadhal",
+            "third-person-maps"
+        ]
+    },
+    "aesthetic": {
+        "text": {
+            "text": "Aesthetic Mods"
+        },
+        "description": {
+            "text": "Mods purely for aesthetic purposes"
+        },
+        "mods": [
+            "auditory",
+            "skinlayers3d",
+            "blur",
+            "bounced",
+            "cameraoverhaul",
+            "cavedust",
+            "charmonium",
+            "chatanimation",
+            "waterdripsound",
+            "effective",
+            "explosiveenhancement",
+            "fallingleaves",
+            "fbp",
+            "footprintparticle",
+            "leahs-immersive-thunder",
+            "inmisaddon",
+            "legendarytooltips",
+            "make_bubbles_pop",
+            "panorama_screens",
+            "particle_core",
+            "particlerain",
+            "presencefootsteps",
+            "seamless_loading_screen",
+            "smoothscrollingrefurbished",
+            "smoothswapping",
+            "sounds",
+            "spyglass_astronomy",
+            "travelerstitles",
+            "visuality",
+            "wakes",
+            "waveycapes",
+            "weaponmaster"
+        ]
+    },
+    "optional": {
+        "text": {
+            "text": "Optional"
+        },
+        "description": {
+            "text": "Mods unrelated to gameplay or opionated additions"
+        },
+        "mods": [
+            "craftpresence",
+            "e4mc_minecraft",
+            "cubes-without-borders",
+            "freecam",
+            "macos_input",
+            "resourceify",
+            "vt_downloader"
+        ]
+    },
+    "testing": {
+        "text": {
+            "text": "mods marked for testing"
+        },
+        "description": {
+            "text": "Mods unrelated to gameplay or opionated additions"
+        },
+        "mods": [
+             "appleskin"
+        ]
+    },
+    "modpack": {
+        "text": {
+            "text": "pack stuff"
+        },
+        "description": {
+            "text": "pack stuff (really do not touch these unless you know what you are doing)"
+        },
+        "mods": [
+            "modmenu",
+            "resourcepackoverrides",
+            "mod_sets"
+        ]
+    }
 }

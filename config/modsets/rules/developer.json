@@ -1,0 +1,47 @@
+{  
+  "$schema": "https://github.com/SettingDust/ModSets/raw/main/rules.schema.json",  
+  "text": {  
+    "text": "dev",  
+    "bold": false,  
+    "color": "white"  
+  },  
+  "description": "you shouldn't really touch these unless you know what you are doing",  
+  "rules": [  
+    {  
+      "text": "performance/core",  
+      "description": "stuff",  
+      "controller": {  
+        "type": "mods_group",
+        "collapsed": true,
+        "mods": ["performance"]
+      }
+    },
+    {  
+      "text": "testing",  
+      "description": "testing",  
+      "controller": {  
+        "type": "mods_group",
+        "collapsed": false,
+        "mods": ["testing"]
+      }  
+    },
+    {  
+      "text": "libraries",  
+      "description": "neccassary libraries",  
+      "controller": {  
+        "type": "mods_group",
+        "collapsed": true,
+        "mods": ["libraries"]
+      }  
+    },
+    {  
+      "text": "fixes",  
+      "description": "bugfixes and stuff",  
+      "controller": {  
+        "type": "mods_group",
+        "collapsed": true,
+        "mods": ["fixes"]
+      }  
+    }
+  ]  
+}

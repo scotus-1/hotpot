@@ -9,6 +9,10 @@ file = "config/modsets/modsets.json"
 hash = "07cec4faaf506eb5efdb3ec35cacd20187195e11fd82f377b519031a4d02381c"
 
 [[files]]
+file = "config/modsets/rules/developer.json"
+hash = "3c6facfc3c09950ccd998a1bdc125c6a643e24cf0a8370e92c5c2f6f9a54a5e6"
+
+[[files]]
 file = "config/modsets/rules/multiplayer_only.json"
 hash = "5c3c32cf763b67bd0186ff05b3e66031ca27902edfc4bf289dcad4fc4bfdf0e4"
 
@@ -1490,11 +1494,6 @@ metafile = true
 [[files]]
 file = "mods/quicker-connect-button.pw.toml"
 hash = "3535f82493a836ccf02351c4ee40febca792d6f724416d1f23c5af981882efa1"
-metafile = true
-
-[[files]]
-file = "mods/quit.pw.toml"
-hash = "7b9d8e31005486370dbdc3736c1dafe50391aaf89e8164f5663792a39afe2708"
 metafile = true
 
 [[files]]

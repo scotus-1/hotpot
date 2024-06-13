@@ -1,0 +1,56 @@
+{
+  "$schema": "https://github.com/SettingDust/ModSets/raw/main/rules.schema.json",
+  "text": {
+    "text": "Multiplayer (client)",
+    "bold": true,
+    "color": "green"
+  },
+  "description": "Client-side customizations",
+  "rules": [
+    {
+      "text": "Optifine Parity",
+      "description": "For compatibility reasons, it is recommended to leave most of these enabled. If you want to squeeze as much performance please be careful as in-built resourcepacks may not work",
+      "controller": {
+        "type": "mods_group",
+        "collapsed": true,
+        "mods": ["optifine"]
+      }
+    },
+    {
+      "text": "Quality of Life Mods",
+      "description": "Highly recommended (this is of opinion) mods that tweak user experience",
+      "controller": {
+        "type": "mods_group",
+        "collapsed": false,
+        "mods": ["qol"]
+      }
+    },
+    {
+      "text": "Extra Features",
+      "description": "Other recommended mods similar to QoL, but not as important",
+      "controller": {
+        "type": "mods_group",
+        "collapsed": false,
+        "mods": ["recommended"]
+      }
+    },
+    {
+      "text": "Aesthetic Features",
+      "description": "Mods that add visual eyecandy and/or enhance immersion (usually more performance intensive)",
+      "controller": {
+        "type": "mods_group",
+        "collapsed": false,
+        "mods": ["aesthetic"]
+      }
+    },
+    {
+      "text": "Optionals",
+      "description": "Mods that are usually not needed at all, are very nice to have, and sometimes specific",
+      "controller": {
+        "type": "mods_group",
+        "collapsed": false,
+        "mods": ["optional"]
+      }
+    }
+  ]
+}
