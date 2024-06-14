@@ -17,26 +17,6 @@ file = "config/modsets/rules/developer.json"
 hash = "3f1c835d033715e7dad227c5ec9549421b5827a1d439d10ed4a9d15abaea4a68"
 
 [[files]]
-file = "config/paxi/datapacks/banner-flags-v2-3.zip"
-hash = "e6dd7ca5cb8e2d1db40dd27f27b667d1c40d50b4b76c9b5d42963fde97f42f05"
-
-[[files]]
-file = "config/paxi/datapacks/better-end-city-vanilla.zip"
-hash = "e8842082a1ef6190060702d9a59622d9be4c06c1ba0356cf6a8589a5956e8800"
-
-[[files]]
-file = "config/paxi/datapacks/botw-guardians-data-pack.zip"
-hash = "6df88a0d9936fbd47a348d791671e48e0223d381edec1a9c4a0a5624b389d5af"
-
-[[files]]
-file = "config/paxi/datapacks/ctov-waystone-add-on-v1-0.zip"
-hash = "f9655c6e3862f6ed92da53a94698973a69c53f275eff74ef73f0a5a9c38c4fad"
-
-[[files]]
-file = "config/paxi/datapacks/geophilic-v2.2.0-1.20-1.20.2.zip"
-hash = "901435db7b20dabb4d8d6c868867b7cafd940c4f493aeedcb9dc20992b48a0aa"
-
-[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "837385832380e58657f0adf6f57eecbce9c183c784a0652b804894eba7323dd2"
 
@@ -175,6 +155,18 @@ hash = "191c58e922c2b4f52f96d616cb138ece9050b494a1f7a6ed8fb5ed6ca4f21a3d"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "995386c2ccf00fd1aa2059f8aeacfa6b772bb4a7f9bdbb9e907f12b8c8fe6028"
+
+[[files]]
+file = "global_packs/required_data/TOTW-Modded-FWaystones-Compat-1.0.1.zip"
+hash = "15095fc13e49b24437e5f3024f43aae5d5af6e45a17072c944aabaf70d969a59"
+
+[[files]]
+file = "global_packs/required_data/botw-guardians-data-pack.zip"
+hash = "6df88a0d9936fbd47a348d791671e48e0223d381edec1a9c4a0a5624b389d5af"
+
+[[files]]
+file = "global_packs/required_data/geophilic-v2.2.0-1.20-1.20.2.zip"
+hash = "901435db7b20dabb4d8d6c868867b7cafd940c4f493aeedcb9dc20992b48a0aa"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
