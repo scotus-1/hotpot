@@ -1,6 +1,6 @@
 name = "Bed Benefits"
 filename = "BedBenefits-Fabric-1.20.1-13.0.3.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Wl8l4Sim/versions/QTNCoxZY/BedBenefits-Fabric-1.20.1-13.0.3.jar"

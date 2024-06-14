@@ -1,6 +1,6 @@
 name = "TalkBubbles"
 filename = "talkbubbles-1.0.8.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/BUpChT1v/versions/BvZZmYcB/talkbubbles-1.0.8.jar"

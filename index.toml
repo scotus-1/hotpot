@@ -6,7 +6,7 @@ hash = "11bb8167bddc4295d45abcd3a9b9887e0b730946a764f4f029494b9358d463da"
 
 [[files]]
 file = "config/modsets/modsets.json"
-hash = "d7b8e0dd5d1fe5378022868c11e9bcbb6815640dffc60734be06ca9652f09ab1"
+hash = "0b127574be2e726d17fabb15c79403d18af726861115b6b00a27de059d3af185"
 
 [[files]]
 file = "config/modsets/rules/!multiplayer_only.json"
@@ -297,11 +297,6 @@ hash = "9672d7081cb8bfaae7c640c2b93b12ee05de9e907b73d21954a5be6a655fd806"
 metafile = true
 
 [[files]]
-file = "mods/axolotl-bucket-fix.pw.toml"
-hash = "da70e08f6ed19b62b544bbf09b64968c161151b149f4f1231073ad2f29697471"
-metafile = true
-
-[[files]]
 file = "mods/axolotl-buckets.pw.toml"
 hash = "f0d905f176d47c63139e372c9adc0e7538c60f8b4b2d4d359860eb0921b809a6"
 metafile = true
@@ -323,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/bed-benefits.pw.toml"
-hash = "d51c568f86401ca1c89240459c05b6ab502471c53552e786dc2d3b55abdda396"
+hash = "d92589386935109999bdde9a10caae60519fa44b44d655ef7b48d7c0c6e75398"
 metafile = true
 
 [[files]]
@@ -408,12 +403,12 @@ metafile = true
 
 [[files]]
 file = "mods/cake-chomps.pw.toml"
-hash = "0de600284263d6c2cb7baf2ffa0cb218f34474c48b0a1bb918635141be557e42"
+hash = "24b8240b55fe39e5f05177387a6b3909c956c83d625c0a25fd27767f2b423c47"
 metafile = true
 
 [[files]]
 file = "mods/calcmod.pw.toml"
-hash = "635275e7ff042568ac2279602371e0da61eae9b07d7486b5b357f5f43d83caa9"
+hash = "57e13a6b0b5fb726d390cdf15df562a339d9e9c92752dd4672255182075b0bc6"
 metafile = true
 
 [[files]]
@@ -513,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough.pw.toml"
-hash = "7703705832bac583d57f9c7c4abf04a669273f3bbf047fb8b333b52e9f5bb3ed"
+hash = "e6d3f593517ccc7331cb2f581deaa092094bef8fc501284eacd7379a33bee212"
 metafile = true
 
 [[files]]
@@ -649,6 +644,11 @@ metafile = true
 [[files]]
 file = "mods/ctov-chefs-delight-compat.pw.toml"
 hash = "5d9aa718a31a45b76b6a8f58e5279da9558d72f80e27a1e21c289823b38153f6"
+metafile = true
+
+[[files]]
+file = "mods/ctov-create-structures.pw.toml"
+hash = "ced88c2b170469d097b3fad5204b5fe29445f99d639d91afbd07f1d0e424b424"
 metafile = true
 
 [[files]]
@@ -1158,7 +1158,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "d7c03a9a61a81693732b6ae275f63ee63aa97def2e511be48b740e03c4f34a17"
+hash = "a6454ef50734986eb1f1540b1ec56a910a8f728532769b65665f7c11af420b29"
 metafile = true
 
 [[files]]
@@ -1198,7 +1198,7 @@ metafile = true
 
 [[files]]
 file = "mods/loud-leads.pw.toml"
-hash = "45316fb9c3c7a6aabe4405c75c04bd213198770c0f0b8fa662ec1387c0ae2847"
+hash = "c4fda7d860a80444c3b44e95b27c14a2708751ebe86585b2aff45143eda51ead"
 metafile = true
 
 [[files]]
@@ -1413,7 +1413,7 @@ metafile = true
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
-hash = "bcf7b1f7226b3db7c78ba826464d17b71ed2e051898fd582b270e02cd8737320"
+hash = "2285c2cad4d33c4001b265d2517cd89b3fa97cd0a193ca1612c7b1235b8180f5"
 metafile = true
 
 [[files]]
@@ -1578,7 +1578,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleep-warp.pw.toml"
-hash = "25c6c26c56658a11b6cdd930ba2403817c52718824033077615890a1d00ece32"
+hash = "624b26b1f2def748fab13e6b56f8ea8bab8cbe25c4a01f237437e6da4fe4ed88"
 metafile = true
 
 [[files]]
@@ -1678,12 +1678,12 @@ metafile = true
 
 [[files]]
 file = "mods/talkbubbles.pw.toml"
-hash = "f17025bbc0d13d141d2b4fd0814a241dfbc4944f86b40d409c56dcb9c0ecf609"
+hash = "5956607e8d1d115911e16b8f074b85340f974779c72a10b348a7211ba94d8fa9"
 metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
+hash = "d8e207fe3343dc88e2a1773fa109c99249a78b6134d98eeb0cbc58a5d0c072cc"
 metafile = true
 
 [[files]]
@@ -1754,11 +1754,6 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "e00cd603e92b6fe4721c930d5de2a7fb018b192033738767d828c91f08b43638"
-metafile = true
-
-[[files]]
-file = "mods/universal-graves.pw.toml"
-hash = "4371feacbfd7b741fdd3616f8cd7845e8cb2a0773ec96ac20cc7a5b2f688000f"
 metafile = true
 
 [[files]]

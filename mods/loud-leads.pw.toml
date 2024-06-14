@@ -1,6 +1,6 @@
 name = "Loud Leads [Fabric]"
 filename = "LoudLeads-1.0.1+mc1.20.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

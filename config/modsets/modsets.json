@@ -9,7 +9,32 @@
         "mods": [
             "satin",
             "searchables",
-            "yet_another_config_lib_v3"
+            "yet_another_config_lib_v3",
+            "architectury",
+            "balm-fabric",
+            "bookshelf",
+            "cicada",
+            "cloth-config",
+            "collective",
+            "completeconfig",
+            "doapi",
+            "forgeconfigapiport",
+            "fzzy_config",
+            "iceberg",
+            "jamlib",
+            "kiwi",
+            "libraryferret",
+            "malilib",
+            "mavapi",
+            "midnightlib",
+            "mru",
+            "prism",
+            "puzzleslib",
+            "qkl",
+            "quilted_fabric_api",
+            "resourcefullib",
+            "yungsapi",
+            "valkyrienskies"
         ]
     },
     "performance": {
@@ -37,7 +62,14 @@
             "moreculling",
             "reeses-sodium-options",
             "sodium",
-            "sodium-extra"
+            "sodium-extra",
+            "krypton",
+            "lazydfu",
+            "memoryleakfix",
+            "lithium",
+            "modernfix",
+            "threadtweak",
+            "spark"
         ]
     },
     "fixes": {
@@ -45,12 +77,16 @@
             "text": "Fix Mods"
         },
         "description": {
-            "text": "Bugfixes + technical "
+            "text": "Bugfixes + technical"
         },
         "mods": [
             "keybind_fix",
             "portalgui",
-            "modelfix"
+            "modelfix",
+            "debugify",
+            "mixin-conflict-helper",
+            "mixintrace",
+            "stackdeobfuscator"
         ]
     },
     "optifine": {
@@ -95,7 +131,13 @@
             "cleancut",
             "extra-mod-integrations",
             "fastquit",
-            "pling"
+            "pling",
+            "emi",
+            "emi_loot",
+            "jade",
+            "jadeaddons",
+            "deathlog",
+            "projectsavethepets"
         ]
     },
     "recommended": {
@@ -136,7 +178,17 @@
             "reacharound",
             "stack-to-nearby-chests",
             "steadhal",
-            "third-person-maps"
+            "third-person-maps",
+            "appleskin",
+            "beenfo",
+            "betterstats",
+            "crafting-tweaks",
+            "monsters_in_the_closet",
+            "clickthrough",
+            "loud-leads",
+            "pick-up-notifier",
+            "rightclickharvest",
+            "smwyg"
         ]
     },
     "aesthetic": {
@@ -178,7 +230,11 @@
             "visuality",
             "wakes",
             "waveycapes",
-            "weaponmaster"
+            "weaponmaster",
+            "do-a-barrel-roll",
+            "moremobvariants",
+            "cake-chomps",
+            "talkbubbles"
         ]
     },
     "optional": {
@@ -196,7 +252,8 @@
             "macos_input",
             "resourceify",
             "vt_downloader",
-            "distanthorizons"
+            "distanthorizons",
+            "minihud"
         ]
     },
     "testing": {
@@ -207,12 +264,12 @@
             "text": "Mods unrelated to gameplay or opionated additions"
         },
         "mods": [
-             "appleskin"
+          "capybara"
         ]
     },
     "modpack": {
         "text": {
-            "text": "pack stuff"
+            "text": "pack stuff & multiplayer essentials"
         },
         "description": {
             "text": "pack stuff (really do not touch these unless you know what you are doing)"
@@ -220,7 +277,9 @@
         "mods": [
             "modmenu",
             "resourcepackoverrides",
-            "mod_sets"
+            "mod_sets",
+            "nochatreports",
+            "voicechat"
         ]
     }
 }

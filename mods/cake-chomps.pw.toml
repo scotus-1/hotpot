@@ -1,6 +1,6 @@
 name = "Cake Chomps"
 filename = "cakechomps-quilt-6.2.0+1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/g646EoqQ/versions/CMxECgzC/cakechomps-quilt-6.2.0%2B1.20.1.jar"
