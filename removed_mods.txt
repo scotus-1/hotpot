@@ -35,9 +35,26 @@ notes for 1.20.1:
 - stylish-effects - culled
 - universal-graves - culled
 - axolotl-bucket-fix - no longer needed!
-
-- bettersleeping-revived - https://github.com/ReviversMC/bettersleeping/issues/26
-
+- paxi - no longer needed!
+- cristellib - culled
+- bettersleeping-revived - culled
+- towns-and-towers - culled
+- physics mod - culled
+- xaeros minimap and world map - culled
+- variant bookshelves - culled
+- addadds - culled
+- autoswitch - culled
+- beautified-chat-client - culled
+- better-village - culled
+- expanded-trident-enchanting - culled
+- fabric-seasons + extras - culled
+- magnum-torch - culled
+- tool stats - culled
+- way 2 way - culled
+- first person models - culled
+- repurposed structures - culled
+- explorify structures  - culled
+- structory - culled
 
 temp removed:
 - let-sleeping-dogs-lie (weird crash)
@@ -47,34 +64,14 @@ temp removed:
 - bedrockwaters (sodium error)
 - chunks-fade-in (sodium error)
 - craftify (crash)
-- structory (cf api)
+
 - some rp: cakes-reimagined doors-reimagined visual-travelers-titles splendous-sniffers
 - sound-physics-remastered
 - amplified nether
-- paxi (crash)
-- cristellib (crash)
-- towns-and-towers (cristellib)
+
 - custom-totem-particles
 - diagonal-fences (server mismatch)
 - diagonal-windows (server mismatch)
 
-the culling:
-- physics mod
-- xaeros minimap and world map
-- variant bookshelves
-- addadds
-- autoswitch
-- beautified-chat-client
-- better-village
-- expanded-trident-enchanting
-- fabric-seasons + extras
-- magnum-torch
-- tool stats
-- way 2 way
-- first person models
-- repurposed structures
 
-
-investigate: 
-- explorify structures
 
