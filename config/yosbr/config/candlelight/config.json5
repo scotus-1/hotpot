@@ -1,0 +1,17 @@
+/*
+Candlelight Config
+
+===========
+Discord: https://discord.gg/Vqu6wYZwdZ
+Modrinth: https://modrinth.com/mod/lets-do-candlelight
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/lets-do-candlelight
+
+*/
+{
+	// Whether the chef armor should give a set bonus
+	"enable_chef_armor_set_bonus": true,
+	// Whether candlelight tomatoes should be enabled
+	"enable_candlelight_tomatoes": false,
+	// Whether candlelight tomatoes should be enabled
+	"enable_candlelight_lettuce": false
+}

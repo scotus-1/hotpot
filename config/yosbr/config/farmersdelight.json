@@ -41,7 +41,7 @@
   "generateWildTomatoes": true,
   "chanceWildTomatoes": 100,
   "generateWildRice": true,
-  "chanceWildRice": 15,
+  "chanceWildRice": 30,
   "nourishedHungerOverlay": true,
   "comfortHealthOverlay": true,
   "foodEffectTooltip": true

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fwaystones/config.json5"
+hash = "6f2ae9bdeab5b9a24f25a6a735f2bf88726d60307a954f00a1123fe5e59d578c"
+
+[[files]]
 file = "config/modsets/common.json"
 hash = "11bb8167bddc4295d45abcd3a9b9887e0b730946a764f4f029494b9358d463da"
 
@@ -21,6 +25,10 @@ file = "config/resourcepackoverrides.json"
 hash = "837385832380e58657f0adf6f57eecbce9c183c784a0652b804894eba7323dd2"
 
 [[files]]
+file = "config/yosbr/config/adaptive-tooltips.json"
+hash = "c961be8e83cf9359ec50dc0f61a89e9c1c6fb33f976efd10fff3eb6127ac7dd0"
+
+[[files]]
 file = "config/yosbr/config/autohud.json5"
 hash = "e016d9a1ce6ae8dc3b9f6fd37b72117a762491c5c63fd1c50ade82c1b38b5460"
 
@@ -35,6 +43,10 @@ hash = "d5e430fb2604142c6341d0ff8865c286159d93e1b837637b4df55ae1874e6e4e"
 [[files]]
 file = "config/yosbr/config/blur.json"
 hash = "89b143c98330cbfb95bfa70d76a6e62cf27903e246663d709a243f7282d77c3e"
+
+[[files]]
+file = "config/yosbr/config/candlelight/config.json5"
+hash = "f66023b8bf33f24e5818a576f87b2b0b30582cca897942148af3bf6c0bb1c97a"
 
 [[files]]
 file = "config/yosbr/config/capybara.json"
@@ -62,11 +74,11 @@ hash = "060d0b46597fbc883293fefc9b9b0a7e9944001956eb7cba97900fd1d60769a1"
 
 [[files]]
 file = "config/yosbr/config/emi.css"
-hash = "521cd31175e6365733dcf043f03db3cd499fa5e5cf917931f783f9924df66c28"
+hash = "c13d0c401db63a19a79fd8af20ddc98d501781168b5df7672809ea334b217ef0"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
-hash = "098adc622f69deb5b065274f50ee8c3d764d362c21cf08a80cc3fc400dd024fe"
+hash = "eb9edaa2e5b8aa1f80cd862408a27a45de9da0198118682e306f18190dd7e4bf"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -78,7 +90,15 @@ hash = "a02ff1bc68710517449639d8e16138378e477fa76622a8afec53ba4d56e444d2"
 
 [[files]]
 file = "config/yosbr/config/farmersdelight.json"
-hash = "3d0ef57f5bdeca340aadcb166f5ed8fa3dfa4f60642cf9d1eb6e59945af25eca"
+hash = "36a838b2c0b631bab994852b2769846e70893ec2076a1e2176780e826eb16700"
+
+[[files]]
+file = "config/yosbr/config/fbp/config.json"
+hash = "d6db7ddf14f46c21fc5641b718c570099e34e7b9617037d969b682c62f5c0d9e"
+
+[[files]]
+file = "config/yosbr/config/fwaystones/config.json5"
+hash = "6f2ae9bdeab5b9a24f25a6a735f2bf88726d60307a954f00a1123fe5e59d578c"
 
 [[files]]
 file = "config/yosbr/config/illuminations.properties"
@@ -93,16 +113,28 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "9d7313b248a8ad75c7522bffb028bc74ea040db51c04d3e8fb60a7c96b35ac33"
 
 [[files]]
+file = "config/yosbr/config/map_atlases-client.json"
+hash = "d16c23cc2c353e5fced7eb82cfece39f642832c24155eb43d3ff8a42c1014c36"
+
+[[files]]
+file = "config/yosbr/config/map_atlases-common.json"
+hash = "b60a3eec748420788516aa36b569bd800feaf143614321b2309db59f6fdce223"
+
+[[files]]
 file = "config/yosbr/config/minihud.json"
 hash = "294a52faa16fdfd063fec6c60eb91932b508b24b399974cb996c71459eee6664"
 
 [[files]]
-file = "config/yosbr/config/minihud/new_world.json"
-hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+file = "config/yosbr/config/modmenu.json"
+hash = "a87569e3d1770f89698db54e7ede66ec57d2e99753d9bb85922a73bf0a22bd41"
 
 [[files]]
-file = "config/yosbr/config/minihud/new_world_dim_minecraft_overworld.json"
-hash = "fd4d11683a9555590412b91595da6b9e8c7ec80f18e05548bb7d6aae1d16ac44"
+file = "config/yosbr/config/modsets/disabled_mods.json"
+hash = "58235218e48489a5d60fe61ab456bc6f9f4030083bc67a1977c4c7cc5d90f7bc"
+
+[[files]]
+file = "config/yosbr/config/particlerain.json5"
+hash = "f95cd7ae91530eb8f4721c1d620de8fb416bf4805317af9825c63df124a27f43"
 
 [[files]]
 file = "config/yosbr/config/pling.json"
@@ -145,8 +177,12 @@ file = "config/yosbr/config/torchhit-common.toml"
 hash = "a531c286e8a2a9c6d0a636b0e9f3a83389d5827a05b328d6449cf546626f29ac"
 
 [[files]]
-file = "config/yosbr/config/travelerstitles-fabric-1_19.toml"
-hash = "e585fae6fe2b6e342f872986921291a0ae9e628b7c3f978ed728466911f52e09"
+file = "config/yosbr/config/voicechat/translations.properties"
+hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-server.properties"
+hash = "5def0afa768bbd03279cdb5904fc032cad5f21f6efbb7a761041b19881a38243"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
