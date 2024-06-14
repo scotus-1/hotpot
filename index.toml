@@ -25,6 +25,10 @@ file = "config/resourcepackoverrides.json"
 hash = "837385832380e58657f0adf6f57eecbce9c183c784a0652b804894eba7323dd2"
 
 [[files]]
+file = "config/sparsestructures.json5"
+hash = "324f1200ee33099708cc9c64847704f5bfdcb69e03b8e613da8f8a21a80bc3d8"
+
+[[files]]
 file = "config/yosbr/config/adaptive-tooltips.json"
 hash = "c961be8e83cf9359ec50dc0f61a89e9c1c6fb33f976efd10fff3eb6127ac7dd0"
 
@@ -97,16 +101,8 @@ file = "config/yosbr/config/fbp/config.json"
 hash = "d6db7ddf14f46c21fc5641b718c570099e34e7b9617037d969b682c62f5c0d9e"
 
 [[files]]
-file = "config/yosbr/config/fwaystones/config.json5"
-hash = "6f2ae9bdeab5b9a24f25a6a735f2bf88726d60307a954f00a1123fe5e59d578c"
-
-[[files]]
 file = "config/yosbr/config/illuminations.properties"
 hash = "389e3651fa86ed19adc6769a8cb453d870accc1160d86e7efa38a18a8dfbe5ba"
-
-[[files]]
-file = "config/yosbr/config/immersive_portals_fabric.json"
-hash = "65522d19087db539b5f547818a9363922a51436fbada59a4368d706b3a04a27a"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
