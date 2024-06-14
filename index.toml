@@ -648,12 +648,17 @@ metafile = true
 
 [[files]]
 file = "mods/ctov-create-structures.pw.toml"
-hash = "ced88c2b170469d097b3fad5204b5fe29445f99d639d91afbd07f1d0e424b424"
+hash = "39cbc318b7933996392d97f665bdc053927dbc9df209770110be3bac846fd05a"
 metafile = true
 
 [[files]]
 file = "mods/ctov-farmers-delight-compat.pw.toml"
 hash = "1fdf6f9fbf03cb616d84c2f1c9671d1ffa3fd0ea4348e00898589938e57e76a1"
+metafile = true
+
+[[files]]
+file = "mods/ctov-friends-and-foes-compat.pw.toml"
+hash = "d32052d1510b96b5138e158f01bd5e6fcecd42ebce1af34b11aa211965800f98"
 metafile = true
 
 [[files]]
@@ -744,6 +749,11 @@ metafile = true
 [[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "c88adcba8816cdd1aba47a9ffdbef8a042dded3ec1b88c3f646252dd21468adf"
 metafile = true
 
 [[files]]
@@ -937,6 +947,11 @@ hash = "6152c548949fbe0d56ecbcd6f28f70cecf92dc1075d5a1fc05aac87dd70fc0c3"
 metafile = true
 
 [[files]]
+file = "mods/fishing-real.pw.toml"
+hash = "a68cac271d61863d8cc9c2e21dc25d22344d60f6ae07fc964590ec4445ea4334"
+metafile = true
+
+[[files]]
 file = "mods/footprintparticle.pw.toml"
 hash = "833c4c1c2080e87965051bd77577156a8268cb645dc44633446a01833473a805"
 metafile = true
@@ -952,6 +967,16 @@ hash = "81cb55170d352d0e7786b5a3f7c6f2ceeecd1f52c4559ee423598b4d62e10af6"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
+hash = "f8f78fbdfa907a32c0d7bc951b9f6e5857b73639c522f1eb03f0e8610b6189fe"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "d7f4e76eab79a1e5d438f44234fc4c75a4827196fed01eddfd851096491b1d31"
+metafile = true
+
+[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "8afe478f0e3b3d0609ea7efac63d9312302ab8261fffc964b9ad5d7b3d9eafc6"
 metafile = true
@@ -964,6 +989,11 @@ metafile = true
 [[files]]
 file = "mods/gliders.pw.toml"
 hash = "4c4ecbb592afa14eb622655aa29b3064152ea458fd941fb7c9004bd10863f0dc"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
 metafile = true
 
 [[files]]
@@ -1404,11 +1434,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
-metafile = true
-
-[[files]]
-file = "mods/philips-ruins.pw.toml"
-hash = "571a53e6ba67ca0392d2690fcf85502f9894c2fb4d6fca52bfbdb07529e083af"
 metafile = true
 
 [[files]]
