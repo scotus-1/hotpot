@@ -1,13 +1,13 @@
 name = "Discord-MC-Chat"
-filename = "Discord-MC-Chat-2.3.3.jar"
+filename = "Discord-MC-Chat-2.3.3-compat.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/D0sHdnXY/versions/elpg20NQ/Discord-MC-Chat-2.3.3.jar"
+url = "https://cdn.modrinth.com/data/D0sHdnXY/versions/eSqIymiM/Discord-MC-Chat-2.3.3-compat.jar"
 hash-format = "sha1"
-hash = "79023c96a775db13f07925b263fa5855123f4886"
+hash = "e3295f5a9b059f70249f1060772e69caf5d1c165"
 
 [update]
 [update.modrinth]
 mod-id = "D0sHdnXY"
-version = "elpg20NQ"
+version = "eSqIymiM"
