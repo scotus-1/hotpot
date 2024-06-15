@@ -42,7 +42,7 @@ hash = "d2bf2b23826e7c516cfdd7ebb8055864a56b12816f687e6af1dce7c2635982d8"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "324f1200ee33099708cc9c64847704f5bfdcb69e03b8e613da8f8a21a80bc3d8"
+hash = "5c44569d9d52a36333d4ae29a2b8c14f6a50b677354537b0697d058c67fdaeb4"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/autohud.pw.toml"
-hash = "df8dce84d53bcf51f281230ca04c3b2e92454005a8e0e734695e4488e19266b9"
+hash = "7742f1c3502f6a3082ddd7663e08fa9490a807fd7b3c6a15e4646e15606a5275"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
-hash = "933cfa7fd5643b6c2a94ea6c9a538b939ef3c018c723f039be4e35a62d02255a"
+hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "8096e16df7f45cb5f252602ff215e95e599d41f5b217b1ee4ffd293ed9b3428d"
+hash = "4e2743db06ce03af709cf9b196d188d6b8fcdb56e39e1ff9ffec01c88affc9d5"
 metafile = true
 
 [[files]]
