@@ -42,12 +42,12 @@
 	}
 	items: {
 		// default: false
-		use-polymer: true
+		use-polymer: false
 		// default: false
-		enable-paper-bag: true
+		enable-paper-bag: false
 		// default: false
-		enable-lunch-box: true
+		enable-lunch-box: false
 		// default: false
-		enable-picnic-basket: true
+		enable-picnic-basket: false
 	}
 }

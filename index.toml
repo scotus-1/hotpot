@@ -18,7 +18,7 @@ hash = "11bb8167bddc4295d45abcd3a9b9887e0b730946a764f4f029494b9358d463da"
 
 [[files]]
 file = "config/modsets/modsets.json"
-hash = "dbb99c57f110465424db63782c4e4737e6a03f49b904d75ee84f3efb7ff016d2"
+hash = "6a357b3e00ac11b0c1ba1ded87522c666d96ac484f36ab38b325e467b4720ac3"
 
 [[files]]
 file = "config/modsets/rules/!multiplayer_only.json"
@@ -33,6 +33,10 @@ file = "config/resourcepackoverrides.json"
 hash = "837385832380e58657f0adf6f57eecbce9c183c784a0652b804894eba7323dd2"
 
 [[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "187384ca6a24cfc7beba345fcaf97dbfcdc603252c88bd3feb78b1a94c561dc5"
+
+[[files]]
 file = "config/sleeprework.json"
 hash = "d2bf2b23826e7c516cfdd7ebb8055864a56b12816f687e6af1dce7c2635982d8"
 
@@ -42,7 +46,7 @@ hash = "324f1200ee33099708cc9c64847704f5bfdcb69e03b8e613da8f8a21a80bc3d8"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "bbffe0b9bfc6386dfe816aa820f89d5aa5c1c7c1a7cf428fd62bb2388369a616"
+hash = "d88400a5408b418699b2e366ed13ff96aa5b3480d8a2d85a924daa6d31b78487"
 
 [[files]]
 file = "config/yosbr/config/adaptive-tooltips.json"
@@ -627,13 +631,13 @@ hash = "cf9852c1ccb3281ea336dfff5cfcce3e3df5b051f6ae0eba975bdd19cf25b667"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "2f7b4303cff064f30e17cfce29235ac4231bcab38d11627c73e59fbde663c6e1"
+file = "mods/crate-delight.pw.toml"
+hash = "11ba292cb594404e86bc163ac9eae01030cc6fc94f9bc17704980cb3fb259b70"
 metafile = true
 
 [[files]]
-file = "mods/crate-delight.pw.toml"
-hash = "11ba292cb594404e86bc163ac9eae01030cc6fc94f9bc17704980cb3fb259b70"
+file = "mods/craterlib.pw.toml"
+hash = "a75b523fdeb0987d0405a20ecfa275795f27fbbed5b0dd2b81d6a13788b15de4"
 metafile = true
 
 [[files]]
@@ -964,6 +968,11 @@ metafile = true
 [[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "92f94f9773950de6a7c63e5421542d96a8ca6d1689e291bcfd94d6d88be0b8a1"
+metafile = true
+
+[[files]]
+file = "mods/fastanim.pw.toml"
+hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
 metafile = true
 
 [[files]]
@@ -1652,6 +1661,11 @@ hash = "c4049f5675e3c0074ffa406f50c780ffbd234abc8acf40deafdbbc4cd8ea5949"
 metafile = true
 
 [[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "f877c23c32e7eb04a89c832c11a3bf1e7262e95a7092cee7a14e95ec758cc11a"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ddf7b50f71430afd4ade232cdafbbe7ec9e0cd1d2e6bcc7b3d42f9ce3c59566c"
 metafile = true
@@ -1704,6 +1718,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "71164245f9e06a916689d4683bd15dec40effbb1a748e353318c243bbee4924e"
 metafile = true
 
 [[files]]

@@ -35,7 +35,8 @@
             "resourcefullib",
             "yungsapi",
             "valkyrienskies",
-            "corgilib"
+            "corgilib",
+            "craterlib"
         ]
     },
     "performance": {
@@ -70,7 +71,9 @@
             "lithium",
             "modernfix",
             "threadtweak",
-            "spark"
+            "spark",
+            "fastanim",
+            "sspb"
         ]
     },
     "fixes": {
@@ -246,7 +249,7 @@
             "text": "Mods unrelated to gameplay or opionated additions"
         },
         "mods": [
-            "craftpresence",
+            "simplerpc",
             "e4mc_minecraft",
             "cubes-without-borders",
             "freecam",
@@ -280,7 +283,8 @@
             "resourcepackoverrides",
             "mod_sets",
             "nochatreports",
-            "voicechat"
+            "voicechat",
+            "defaultoptions"
         ]
     }
 }
