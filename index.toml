@@ -5,6 +5,18 @@ file = "config/boattweaks-common.yaml"
 hash = "22f61504d5bd7376db8fdcffe57f3e1b0d09c10034ea2c27b68412cd7a4266a3"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "e852698ef11efee7f91478ce201629f55da4b6dba588f9e8b2e59cbb6fda7494"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "f51c0a02c16e3e82412117ee286a057e603753e9526cf8d52465607bdc88bb93"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "817bb4954ae3116a4bcd010c06c8167b4b13507aa1d92cd22d8272f03bc2e625"
+
+[[files]]
 file = "config/fwaystones/config.json5"
 hash = "6f2ae9bdeab5b9a24f25a6a735f2bf88726d60307a954f00a1123fe5e59d578c"
 
@@ -47,6 +59,10 @@ hash = "5c44569d9d52a36333d4ae29a2b8c14f6a50b677354537b0697d058c67fdaeb4"
 [[files]]
 file = "config/spiceoffabric.hjson"
 hash = "d88400a5408b418699b2e366ed13ff96aa5b3480d8a2d85a924daa6d31b78487"
+
+[[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "eaa77368926f32a60e74fe5d645cca6dd34d3dd56419379539b6c781a4136c2b"
 
 [[files]]
 file = "config/yosbr/config/adaptive-tooltips.json"
@@ -146,7 +162,7 @@ hash = "a87569e3d1770f89698db54e7ede66ec57d2e99753d9bb85922a73bf0a22bd41"
 
 [[files]]
 file = "config/yosbr/config/modsets/disabled_mods.json"
-hash = "58235218e48489a5d60fe61ab456bc6f9f4030083bc67a1977c4c7cc5d90f7bc"
+hash = "6971aa4f94b5b27df3f147cfe79cdbaf05ee22bcc2ac615a0b8d760b3172abd7"
 
 [[files]]
 file = "config/yosbr/config/particlerain.json5"
@@ -159,6 +175,10 @@ hash = "8b19dc919969a666ff68947b9a7afa7fbd3b5e9a90c9d89019cbcdebdb66820c"
 [[files]]
 file = "config/yosbr/config/quilt-loading-screen.json"
 hash = "c9b843a1d89fbd86aa5e10f015d6ebad265897bfac6f2642f1f46a3c23073e86"
+
+[[files]]
+file = "config/yosbr/config/seamless_loading_screen.json"
+hash = "1bd788ea2770346f27ee356cd0d3497d1f69394310006e4dadfb0f2a4b5a9e6c"
 
 [[files]]
 file = "config/yosbr/config/sleepwarp-server.json"
@@ -185,6 +205,10 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "9c587743ac0285af17ab4839031817622424d53cf88fbc43fbaf2d8aae7116f3"
 
 [[files]]
+file = "config/yosbr/config/stack-to-nearby-chests/mod-options.json"
+hash = "f545f153d3c5bfed01dd3ecc88a515525f423349d81af69d99ce66b62601b62c"
+
+[[files]]
 file = "config/yosbr/config/textile_backup.json5"
 hash = "1902b9a02be841cc2a219a624c3c600754e6399804300dac28cd2bc25d5fac3b"
 
@@ -203,10 +227,6 @@ hash = "5def0afa768bbd03279cdb5904fc032cad5f21f6efbb7a761041b19881a38243"
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "191c58e922c2b4f52f96d616cb138ece9050b494a1f7a6ed8fb5ed6ca4f21a3d"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "995386c2ccf00fd1aa2059f8aeacfa6b772bb4a7f9bdbb9e907f12b8c8fe6028"
 
 [[files]]
 file = "global_packs/required_data/TOTW-Modded-FWaystones-Compat-1.0.1.zip"
