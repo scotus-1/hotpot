@@ -1,0 +1,28 @@
+# Use Cloth Config mod for the descriptions.
+---
+frictionOverrides:
+  blue_ice: 0.95
+  packed_ice: 0.93
+  yellow_glazed_terracotta: 0.93
+  magenta_glazed_terracotta: 0.93
+  ice: 0.93
+forwardForce: 0.08
+backwardForce: 0.01
+turningForce: 0.9
+turningForceInAir: 0.25
+stepUpHeight: 1.0
+outOfControlTicks: 120
+boostingBlock:
+  ticks: 15
+  block: magenta_glazed_terracotta
+  force: 0.08
+ejectingBlock:
+  block: yellow_glazed_terracotta
+  force: 1.0
+wallHit:
+  cooldown: 10
+  speedLoss: 0.4
+degradeOverDistance:
+  forceLossStartFrom: 5000
+  forceMaxLoss: 0.0
+  forceLossPerMeter: 1.0E-4

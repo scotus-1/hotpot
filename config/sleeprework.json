@@ -1,0 +1,40 @@
+{
+  "potion": {
+    "liveliness_tiredness_modifier": 0.5,
+    "drowsiness_tiredness_modifier": 2.0,
+    "liveliness_brewing_item": "minecraft:honeycomb"
+  },
+  "server": {
+    "respect_insomnia_game_rule": true
+  },
+  "client": {
+    "color_3": 15430708,
+    "color_4": 15412525,
+    "do_recolor": true,
+    "show_tutorial": true,
+    "icon_x": 80,
+    "icon_y": 10,
+    "color_1": 16777215,
+    "color_2": 16768256
+  },
+  "player": {
+    "min_sleep_level": 1.0,
+    "sleep_timeout": 400,
+    "wake_up_effects": [
+      {
+        "ambient": true,
+        "effect": "minecraft:regeneration",
+        "duration": 100,
+        "amplifier": 1
+      }
+    ],
+    "tiredness_increase_per_minute": 0.04,
+    "max_tiredness": 5.0
+  },
+  "phantom": {
+    "tiredness_phantoms": true,
+    "phantom_spawn_tiredness": 3.0,
+    "spawn_required_sky_darken": 5,
+    "disable_vanilla_phantom_spawner": true
+  }
+}

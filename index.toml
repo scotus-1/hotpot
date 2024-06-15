@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/boattweaks-common.yaml"
+hash = "22f61504d5bd7376db8fdcffe57f3e1b0d09c10034ea2c27b68412cd7a4266a3"
+
+[[files]]
 file = "config/fwaystones/config.json5"
 hash = "6f2ae9bdeab5b9a24f25a6a735f2bf88726d60307a954f00a1123fe5e59d578c"
+
+[[files]]
+file = "config/guarding.json"
+hash = "b81260a1812a1ae57d81aec0a31928b0618adf8c7028cd1196e195e76fdb612b"
 
 [[files]]
 file = "config/modsets/common.json"
@@ -10,7 +18,7 @@ hash = "11bb8167bddc4295d45abcd3a9b9887e0b730946a764f4f029494b9358d463da"
 
 [[files]]
 file = "config/modsets/modsets.json"
-hash = "0b127574be2e726d17fabb15c79403d18af726861115b6b00a27de059d3af185"
+hash = "dbb99c57f110465424db63782c4e4737e6a03f49b904d75ee84f3efb7ff016d2"
 
 [[files]]
 file = "config/modsets/rules/!multiplayer_only.json"
@@ -25,8 +33,16 @@ file = "config/resourcepackoverrides.json"
 hash = "837385832380e58657f0adf6f57eecbce9c183c784a0652b804894eba7323dd2"
 
 [[files]]
+file = "config/sleeprework.json"
+hash = "d2bf2b23826e7c516cfdd7ebb8055864a56b12816f687e6af1dce7c2635982d8"
+
+[[files]]
 file = "config/sparsestructures.json5"
 hash = "324f1200ee33099708cc9c64847704f5bfdcb69e03b8e613da8f8a21a80bc3d8"
+
+[[files]]
+file = "config/spiceoffabric.hjson"
+hash = "bbffe0b9bfc6386dfe816aa820f89d5aa5c1c7c1a7cf428fd62bb2388369a616"
 
 [[files]]
 file = "config/yosbr/config/adaptive-tooltips.json"
@@ -281,11 +297,6 @@ hash = "42a4e241cc904cd572e6b1e85d425f9d843d4de11f50c861ad39b7bac7079c5d"
 metafile = true
 
 [[files]]
-file = "mods/archaeology-banners.pw.toml"
-hash = "8f781a13efb0c6efb8e6d522aec6ed7089bdb5dcaf0510162b5183fbbb6e8109"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -343,11 +354,6 @@ metafile = true
 [[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "49323e1540fe35dd58946d577dfa9163df4b037eb6231916b1dd86c8204a7e84"
-metafile = true
-
-[[files]]
-file = "mods/bed-benefits.pw.toml"
-hash = "d92589386935109999bdde9a10caae60519fa44b44d655ef7b48d7c0c6e75398"
 metafile = true
 
 [[files]]
@@ -603,11 +609,6 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "90291784f95c409c8b856d8a9e5389a4727be8f6a01dd4fd284705e0013b44ff"
-metafile = true
-
-[[files]]
-file = "mods/corgilib.pw.toml"
-hash = "aed5e57aea0636ea8666ba9e548b5a14aff46c345f1e1e57201c4589b2bdfb82"
 metafile = true
 
 [[files]]
@@ -886,11 +887,6 @@ hash = "a8d3244d58d7722735a72eee2a869d15e5fe38ec7d9a54ff555aadd53cae637c"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-celestials.pw.toml"
-hash = "2553c294bd09039157a462dbf2559bd791671bddb6e7b40fd39ae9148e4791d2"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "9558aa8c50536000d90b990f1bcdaec0242f7bbcbd82b30c9dc6aa7c51d205c5"
 metafile = true
@@ -1078,6 +1074,11 @@ metafile = true
 [[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "5e60804222681b936e5878d228fb10b5682e3af1d0eedbe120c0b4ee63cc8aaf"
+metafile = true
+
+[[files]]
+file = "mods/hostile-mobs-improve-over-time.pw.toml"
+hash = "25be36d4952c46642c218edb049f21491a17367997333fb645426bdd250a3e79"
 metafile = true
 
 [[files]]
@@ -1656,6 +1657,11 @@ hash = "ddf7b50f71430afd4ade232cdafbbe7ec9e0cd1d2e6bcc7b3d42f9ce3c59566c"
 metafile = true
 
 [[files]]
+file = "mods/sleep-rework.pw.toml"
+hash = "d4b561d92d4711b3acb4789d8356c6f5cca4e9ea37f7995311083e34626e4b5a"
+metafile = true
+
+[[files]]
 file = "mods/sleep-warp.pw.toml"
 hash = "624b26b1f2def748fab13e6b56f8ea8bab8cbe25c4a01f237437e6da4fe4ed88"
 metafile = true
@@ -1727,7 +1733,7 @@ metafile = true
 
 [[files]]
 file = "mods/spice-of-fabric.pw.toml"
-hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
+hash = "6ce103cf463401162eb2f09934b5aed9277e1f4788879e11d41b3574c6f7b37c"
 metafile = true
 
 [[files]]

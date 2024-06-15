@@ -1,0 +1,13 @@
+name = "Sleep Rework"
+filename = "sleeprework-FABRIC-beta-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kNEVW1RJ/versions/KI7mjOH2/sleeprework-FABRIC-beta-1.20.1-1.1.0.jar"
+hash-format = "sha1"
+hash = "d63a022e3b15e61a7ab36717b20b1928f51c0b93"
+
+[update]
+[update.modrinth]
+mod-id = "kNEVW1RJ"
+version = "KI7mjOH2"
