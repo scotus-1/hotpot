@@ -11,8 +11,3 @@ hash = "f66f8e31f7d021ecc32c2f34e52627f504ee31b9"
 [update.modrinth]
 mod-id = "6FtRfnLg"
 version = "RlVXmJeD"
-
-[option]
-optional = true
-description = "Disable if you get motion sick easily, but its mainly for elytra flight"
-default = true
