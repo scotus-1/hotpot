@@ -1,0 +1,13 @@
+name = "DoesPotatoTick?"
+filename = "doespotatotick-fabric-quilt-1.20.1-3.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "095e03b570c878769b0b8449df045475c4c34681"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4771330
+project-id = 825355

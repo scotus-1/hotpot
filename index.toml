@@ -281,6 +281,11 @@ hash = "42a4e241cc904cd572e6b1e85d425f9d843d4de11f50c861ad39b7bac7079c5d"
 metafile = true
 
 [[files]]
+file = "mods/archaeology-banners.pw.toml"
+hash = "8f781a13efb0c6efb8e6d522aec6ed7089bdb5dcaf0510162b5183fbbb6e8109"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -403,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
+metafile = true
+
+[[files]]
+file = "mods/boat-tweaks.pw.toml"
+hash = "69a65363b250774b6b254da29d84297aa7815393aa21cc42ff358acf45f53b0e"
 metafile = true
 
 [[files]]
@@ -596,6 +606,11 @@ hash = "90291784f95c409c8b856d8a9e5389a4727be8f6a01dd4fd284705e0013b44ff"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "aed5e57aea0636ea8666ba9e548b5a14aff46c345f1e1e57201c4589b2bdfb82"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
 metafile = true
@@ -766,6 +781,11 @@ hash = "59f568baad73a87e26a3eac172e72b531be55c00dad55de51dd7ddb27cd49a16"
 metafile = true
 
 [[files]]
+file = "mods/doespotatotick.pw.toml"
+hash = "bd4ad03dd9604c4899414d1995dbd8a51c827b82b947add2ae5466fda4cf5f83"
+metafile = true
+
+[[files]]
 file = "mods/draggable-resource-packs.pw.toml"
 hash = "a4b76a464b165ef1882642a7d6396c5dd36af8e59ac78772c108e308e7f554f1"
 metafile = true
@@ -863,6 +883,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "a8d3244d58d7722735a72eee2a869d15e5fe38ec7d9a54ff555aadd53cae637c"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "2553c294bd09039157a462dbf2559bd791671bddb6e7b40fd39ae9148e4791d2"
 metafile = true
 
 [[files]]
@@ -1018,6 +1043,11 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
+metafile = true
+
+[[files]]
+file = "mods/guarding.pw.toml"
+hash = "e25880588a312809a897620f0c46c203500486a9b2ea69eb0690882a9d47335a"
 metafile = true
 
 [[files]]
@@ -1693,6 +1723,11 @@ metafile = true
 [[files]]
 file = "mods/sparsestructures.pw.toml"
 hash = "27b76eb4d8998f3d0b851304d22ea1c4578bc3acb61b354a7964f6f193b7983a"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-fabric.pw.toml"
+hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
 metafile = true
 
 [[files]]

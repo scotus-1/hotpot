@@ -34,7 +34,8 @@
             "quilted_fabric_api",
             "resourcefullib",
             "yungsapi",
-            "valkyrienskies"
+            "valkyrienskies",
+            "corgilib"
         ]
     },
     "performance": {
