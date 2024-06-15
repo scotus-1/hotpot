@@ -1,0 +1,13 @@
+name = "Discord-MC-Chat"
+filename = "Discord-MC-Chat-2.3.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/D0sHdnXY/versions/elpg20NQ/Discord-MC-Chat-2.3.3.jar"
+hash-format = "sha1"
+hash = "79023c96a775db13f07925b263fa5855123f4886"
+
+[update]
+[update.modrinth]
+mod-id = "D0sHdnXY"
+version = "elpg20NQ"

@@ -1,0 +1,20 @@
+{
+    "schema_version": 1,
+    "overrides": [
+        {
+            "id": "create",
+            "breaks": [
+                {
+                    "replace": {
+                        "id": "sound_physics_remastered",
+                        "versions": "*"
+                    },
+                    "with": {
+                        "id": "sound_physics_remastered",
+                        "versions": "<1.4.0"
+                    }
+                }
+            ]
+        }
+    ]
+}
