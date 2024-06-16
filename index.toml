@@ -41,6 +41,10 @@ file = "config/modsets/rules/developer.json"
 hash = "3f1c835d033715e7dad227c5ec9549421b5827a1d439d10ed4a9d15abaea4a68"
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+hash = "bdb66192d717a3d4461d43f7cc5ef3222bc0b3109c23b8260ea17d497615285d"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "837385832380e58657f0adf6f57eecbce9c183c784a0652b804894eba7323dd2"
 
@@ -1756,6 +1760,11 @@ hash = "7b178c6223946a304ee0b78a14e2c35c865fbaac801b0e897c8491ac1e2b8de9"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "575f7098b7bdda654ac1b2a4c6d3855707bbf86c86f210180fe6c1b3957c3c7d"
+metafile = true
+
+[[files]]
 file = "mods/sound.pw.toml"
 hash = "0d7d736f9492301bb9cd26682b3479935fe63efc1cdb036c5c9ed9636b3e4b93"
 metafile = true
@@ -1768,6 +1777,11 @@ metafile = true
 [[files]]
 file = "mods/sparsestructures.pw.toml"
 hash = "27b76eb4d8998f3d0b851304d22ea1c4578bc3acb61b354a7964f6f193b7983a"
+metafile = true
+
+[[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "61e88480a7df95b00cae33f2dec5eadadd96ba4d68e2536ca036584495961a4f"
 metafile = true
 
 [[files]]
