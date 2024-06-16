@@ -1,0 +1,13 @@
+name = "InvMoveCompats"
+filename = "InvMoveCompats-1.20-0.3.2-Quilt.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6IpcGP7T/versions/NRfiDB86/InvMoveCompats-1.20-0.3.2-Quilt.jar"
+hash-format = "sha1"
+hash = "16c118c5d3851729c392f5f6387ea6c6efbaa073"
+
+[update]
+[update.modrinth]
+mod-id = "6IpcGP7T"
+version = "NRfiDB86"

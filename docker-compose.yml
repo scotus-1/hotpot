@@ -21,9 +21,10 @@ services:
       ENFORCE_WHITELIST: true
       ENABLE_WHITELIST: true
       ICON: "./icon.png"
-      MAX_PLAYERS: 10
+      MAX_PLAYERS: 16
       USE_AIKAR_FLAGS: true
       QUILT_LOADER_VERSION: 0.26.0
+      SPAWN_PROTECTION: 0
 
     tty: true
     stdin_open: true

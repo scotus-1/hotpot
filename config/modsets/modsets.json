@@ -172,6 +172,7 @@
             "highlight",
             "inventory-tabs",
             "invmove",
+            "invmovecompats",
             "highlighter",
             "morechathistory",
             "notenoughanimations",
@@ -238,7 +239,9 @@
             "do-a-barrel-roll",
             "moremobvariants",
             "cake-chomps",
-            "talkbubbles"
+            "talkbubbles",
+            "sound_physics_remastered",
+            "spawnanimations"
         ]
     },
     "optional": {
