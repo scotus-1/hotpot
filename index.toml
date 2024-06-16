@@ -30,7 +30,7 @@ hash = "11bb8167bddc4295d45abcd3a9b9887e0b730946a764f4f029494b9358d463da"
 
 [[files]]
 file = "config/modsets/modsets.json"
-hash = "6a357b3e00ac11b0c1ba1ded87522c666d96ac484f36ab38b325e467b4720ac3"
+hash = "4091b90d6742966dfc104dddc0fc6d1856717a4431eac1b0ae65f408ef89051a"
 
 [[files]]
 file = "config/modsets/rules/!multiplayer_only.json"
@@ -63,6 +63,10 @@ hash = "6af06e5c08a21376423f8979d718795e56bb5ee8fc03dbaff6e3f398c500c327"
 [[files]]
 file = "config/spiceoffabric.hjson"
 hash = "d88400a5408b418699b2e366ed13ff96aa5b3480d8a2d85a924daa6d31b78487"
+
+[[files]]
+file = "config/torchhit-common.toml"
+hash = "3eb4cc6cc1a5599afbc45a34b0a8b3a8ce83b4daaae8d983d41809eccf1e8685"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
@@ -243,6 +247,10 @@ hash = "6df88a0d9936fbd47a348d791671e48e0223d381edec1a9c4a0a5624b389d5af"
 [[files]]
 file = "global_packs/required_data/geophilic-v2.2.0-1.20-1.20.2.zip"
 hash = "901435db7b20dabb4d8d6c868867b7cafd940c4f493aeedcb9dc20992b48a0aa"
+
+[[files]]
+file = "global_packs/required_data/ubes-delight-patch.zip"
+hash = "92f42fe7d1e54b03c2741ac6e8ef56d3ea951ad986ae46a3cad9165f1cc3e6ca"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -442,11 +450,6 @@ metafile = true
 [[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
-metafile = true
-
-[[files]]
-file = "mods/boat-tweaks.pw.toml"
-hash = "69a65363b250774b6b254da29d84297aa7815393aa21cc42ff358acf45f53b0e"
 metafile = true
 
 [[files]]
@@ -1175,6 +1178,11 @@ hash = "653e58478a80fa179802706cf4aafd705820c2afe8664f0558d6c9453adfd74b"
 metafile = true
 
 [[files]]
+file = "mods/invmovecompats.pw.toml"
+hash = "6a21032eb4404faaa28e8438424577037e3be9baa08585c66cfce32a1215305b"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
@@ -1766,7 +1774,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "0d7d736f9492301bb9cd26682b3479935fe63efc1cdb036c5c9ed9636b3e4b93"
+hash = "2871c5a1369cee5dca9118e57ab4149a56f27eb375022b933c97e390255ba600"
 metafile = true
 
 [[files]]
@@ -1777,11 +1785,6 @@ metafile = true
 [[files]]
 file = "mods/sparsestructures.pw.toml"
 hash = "27b76eb4d8998f3d0b851304d22ea1c4578bc3acb61b354a7964f6f193b7983a"
-metafile = true
-
-[[files]]
-file = "mods/spawn-animations.pw.toml"
-hash = "61e88480a7df95b00cae33f2dec5eadadd96ba4d68e2536ca036584495961a4f"
 metafile = true
 
 [[files]]
