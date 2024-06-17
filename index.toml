@@ -5,6 +5,10 @@ file = "config/boattweaks-common.yaml"
 hash = "22f61504d5bd7376db8fdcffe57f3e1b0d09c10034ea2c27b68412cd7a4266a3"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "0e5088f0d14c102c68a3c320f5f5ce8c7f2072d46aa6828df20c3f8969d2121f"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "e852698ef11efee7f91478ce201629f55da4b6dba588f9e8b2e59cbb6fda7494"
 
@@ -18,7 +22,7 @@ hash = "817bb4954ae3116a4bcd010c06c8167b4b13507aa1d92cd22d8272f03bc2e625"
 
 [[files]]
 file = "config/fwaystones/config.json5"
-hash = "6f2ae9bdeab5b9a24f25a6a735f2bf88726d60307a954f00a1123fe5e59d578c"
+hash = "a59da55ce78484e618dec1da2314091cc6d657479d9ada8b27e5b7912cbf41ef"
 
 [[files]]
 file = "config/guarding.json"
@@ -54,7 +58,11 @@ hash = "187384ca6a24cfc7beba345fcaf97dbfcdc603252c88bd3feb78b1a94c561dc5"
 
 [[files]]
 file = "config/sleeprework.json"
-hash = "d2bf2b23826e7c516cfdd7ebb8055864a56b12816f687e6af1dce7c2635982d8"
+hash = "b46dfb76adab2a6c8125fe69063c5fb5849b3634141b57fd6249053e111a3f0a"
+
+[[files]]
+file = "config/sleepwarp-server.json"
+hash = "638213188d5ebc2ba18356ac97d86234c188733da9d04f33ad8cbbbb1e7ab41a"
 
 [[files]]
 file = "config/sparsestructures.json5"
@@ -62,11 +70,15 @@ hash = "6af06e5c08a21376423f8979d718795e56bb5ee8fc03dbaff6e3f398c500c327"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "d88400a5408b418699b2e366ed13ff96aa5b3480d8a2d85a924daa6d31b78487"
+hash = "bdaf29f066ce23d3f5c3013d5edf818f6afb3418d0a1011b326e236b595b3f92"
 
 [[files]]
 file = "config/torchhit-common.toml"
 hash = "3eb4cc6cc1a5599afbc45a34b0a8b3a8ce83b4daaae8d983d41809eccf1e8685"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "bbe276383106313c9c89683cef5b697b55ae56ba5daf8ea37f840fa9e0d2bdda"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
@@ -189,10 +201,6 @@ file = "config/yosbr/config/seamless_loading_screen.json"
 hash = "1bd788ea2770346f27ee356cd0d3497d1f69394310006e4dadfb0f2a4b5a9e6c"
 
 [[files]]
-file = "config/yosbr/config/sleepwarp-server.json"
-hash = "577436fe1de7912fc4063254d853764674b3c3d8adfe296aaface9e2899d847a"
-
-[[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
 hash = "005d898b2f6a8f328a2954b1244f869192a9b39b840da6b9f55508c5e0a8fa5f"
 
@@ -227,10 +235,6 @@ hash = "a531c286e8a2a9c6d0a636b0e9f3a83389d5827a05b328d6449cf546626f29ac"
 [[files]]
 file = "config/yosbr/config/voicechat/translations.properties"
 hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
-
-[[files]]
-file = "config/yosbr/config/voicechat/voicechat-server.properties"
-hash = "5def0afa768bbd03279cdb5904fc032cad5f21f6efbb7a761041b19881a38243"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
