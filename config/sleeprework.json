@@ -28,7 +28,7 @@
         "amplifier": 1
       }
     ],
-    "tiredness_increase_per_minute": 0.04,
+    "tiredness_increase_per_minute": 0.075,
     "max_tiredness": 5.0
   },
   "phantom": {
