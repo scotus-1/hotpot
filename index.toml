@@ -307,6 +307,11 @@ hash = "007547564945bca9ebde86d954a2ac045dfbca87667a4e589c99bc004ecdddc2"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "8f16cfd00838e0fea189de57429e08a632944d48a62140d52af15c54b520c9b5"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "16171a0ce86e7905748e7ed4c19bd3c03fab00a9a932213d9b5cd6e1850cd0c0"
 metafile = true
@@ -1704,11 +1709,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ddf7b50f71430afd4ade232cdafbbe7ec9e0cd1d2e6bcc7b3d42f9ce3c59566c"
-metafile = true
-
-[[files]]
-file = "mods/sleep-rework.pw.toml"
-hash = "d4b561d92d4711b3acb4789d8356c6f5cca4e9ea37f7995311083e34626e4b5a"
 metafile = true
 
 [[files]]
