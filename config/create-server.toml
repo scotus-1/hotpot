@@ -404,7 +404,7 @@
 		#.
 		#% of Schematicannon's Fuel filled by 1 Gunpowder.
 		#Range: 0.0 ~ 100.0
-		schematicannonGunpowderWorth = 0.4
+		schematicannonGunpowderWorth = 1
 		#.
 		#% of Schematicannon's Fuel used for each fired block.
 		#Range: 0.0 ~ 100.0

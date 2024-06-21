@@ -6,7 +6,7 @@ hash = "22f61504d5bd7376db8fdcffe57f3e1b0d09c10034ea2c27b68412cd7a4266a3"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "0e5088f0d14c102c68a3c320f5f5ce8c7f2072d46aa6828df20c3f8969d2121f"
+hash = "4243e394bbe4bcbea4f0c4feaaf2ace495667d62e8a4ce784d531613d052e31b"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
