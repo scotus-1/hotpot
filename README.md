@@ -23,12 +23,12 @@ sudo apt install libffi-dev libssl-dev python3 python3-pip
 pip install docker-compose
 
 - mkdir server
-- clone itzg/minecraft-server --depth=1 && cd
+- clone itzg/docker-minecraft-server --depth=1 && cd
 
 - docker login container-registry.oracle.com
 - docker buildx build --build-arg BASE_IMAGE=container-registry.oracle.com/graalvm/jdk-ee:ol8-java17-22.3.2-b1 --tag tnguyen/minecraft-server:java17-graalvm-ee --load .
 
-- download the docker-compose.yml and EDIT IT
+- docker-compose.yml
 
 - set up sftp
 sudoedit /etc/ssh/sshd_config
@@ -44,4 +44,8 @@ sudo addgroup sftp
 sudo usermod -aG sftp ubuntu
 
 go to simplevoicechat config and set bind-address to *
-configure discord-integration
+configure discord-integration, download server jar and move both config and jar into server
+
+fastback:
+curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+sudo apt install git-lfs
