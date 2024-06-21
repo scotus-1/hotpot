@@ -22,11 +22,15 @@ hash = "817bb4954ae3116a4bcd010c06c8167b4b13507aa1d92cd22d8272f03bc2e625"
 
 [[files]]
 file = "config/fwaystones/config.json5"
-hash = "a59da55ce78484e618dec1da2314091cc6d657479d9ada8b27e5b7912cbf41ef"
+hash = "4be3af52d5f96644687e7d29cb01ea31bf0beb87245aeec7cc821c339b75c4fd"
 
 [[files]]
 file = "config/guarding.json"
 hash = "b81260a1812a1ae57d81aec0a31928b0618adf8c7028cd1196e195e76fdb612b"
+
+[[files]]
+file = "config/map_atlases-common.json"
+hash = "3bb6043ebf67a7a953c5e450acbadc2191060bfd749d314849ef1ade7a1f5d29"
 
 [[files]]
 file = "config/modsets/common.json"
@@ -166,11 +170,7 @@ hash = "9d7313b248a8ad75c7522bffb028bc74ea040db51c04d3e8fb60a7c96b35ac33"
 
 [[files]]
 file = "config/yosbr/config/map_atlases-client.json"
-hash = "d16c23cc2c353e5fced7eb82cfece39f642832c24155eb43d3ff8a42c1014c36"
-
-[[files]]
-file = "config/yosbr/config/map_atlases-common.json"
-hash = "b60a3eec748420788516aa36b569bd800feaf143614321b2309db59f6fdce223"
+hash = "917b0d9f992ab728a5b2c0e9f50f964b313301091c51c2b83a401d6fea10cd73"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
@@ -243,6 +243,10 @@ hash = "191c58e922c2b4f52f96d616cb138ece9050b494a1f7a6ed8fb5ed6ca4f21a3d"
 [[files]]
 file = "global_packs/required_data/TOTW-Modded-FWaystones-Compat-1.0.1.zip"
 hash = "15095fc13e49b24437e5f3024f43aae5d5af6e45a17072c944aabaf70d969a59"
+
+[[files]]
+file = "global_packs/required_data/amplified-nether-height.zip"
+hash = "b784754d64c76e4e387ced4e3e37c501cd3bacebf8f2f2827a5cd0aa80507075"
 
 [[files]]
 file = "global_packs/required_data/botw-guardians-data-pack.zip"
