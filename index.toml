@@ -6,7 +6,7 @@ hash = "22f61504d5bd7376db8fdcffe57f3e1b0d09c10034ea2c27b68412cd7a4266a3"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "0e5088f0d14c102c68a3c320f5f5ce8c7f2072d46aa6828df20c3f8969d2121f"
+hash = "4243e394bbe4bcbea4f0c4feaaf2ace495667d62e8a4ce784d531613d052e31b"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -22,11 +22,15 @@ hash = "817bb4954ae3116a4bcd010c06c8167b4b13507aa1d92cd22d8272f03bc2e625"
 
 [[files]]
 file = "config/fwaystones/config.json5"
-hash = "a59da55ce78484e618dec1da2314091cc6d657479d9ada8b27e5b7912cbf41ef"
+hash = "4be3af52d5f96644687e7d29cb01ea31bf0beb87245aeec7cc821c339b75c4fd"
 
 [[files]]
 file = "config/guarding.json"
 hash = "b81260a1812a1ae57d81aec0a31928b0618adf8c7028cd1196e195e76fdb612b"
+
+[[files]]
+file = "config/map_atlases-common.json"
+hash = "3bb6043ebf67a7a953c5e450acbadc2191060bfd749d314849ef1ade7a1f5d29"
 
 [[files]]
 file = "config/modsets/common.json"
@@ -166,11 +170,7 @@ hash = "9d7313b248a8ad75c7522bffb028bc74ea040db51c04d3e8fb60a7c96b35ac33"
 
 [[files]]
 file = "config/yosbr/config/map_atlases-client.json"
-hash = "d16c23cc2c353e5fced7eb82cfece39f642832c24155eb43d3ff8a42c1014c36"
-
-[[files]]
-file = "config/yosbr/config/map_atlases-common.json"
-hash = "b60a3eec748420788516aa36b569bd800feaf143614321b2309db59f6fdce223"
+hash = "917b0d9f992ab728a5b2c0e9f50f964b313301091c51c2b83a401d6fea10cd73"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
@@ -245,6 +245,10 @@ file = "global_packs/required_data/TOTW-Modded-FWaystones-Compat-1.0.1.zip"
 hash = "15095fc13e49b24437e5f3024f43aae5d5af6e45a17072c944aabaf70d969a59"
 
 [[files]]
+file = "global_packs/required_data/amplified-nether-height.zip"
+hash = "b784754d64c76e4e387ced4e3e37c501cd3bacebf8f2f2827a5cd0aa80507075"
+
+[[files]]
 file = "global_packs/required_data/botw-guardians-data-pack.zip"
 hash = "6df88a0d9936fbd47a348d791671e48e0223d381edec1a9c4a0a5624b389d5af"
 
@@ -304,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "007547564945bca9ebde86d954a2ac045dfbca87667a4e589c99bc004ecdddc2"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "8f16cfd00838e0fea189de57429e08a632944d48a62140d52af15c54b520c9b5"
 metafile = true
 
 [[files]]
@@ -1007,6 +1016,11 @@ hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "27058ff24b894fe8d1157017c13db4bb5f4953d9a89a76b7ba0ad9d1723f4d19"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
@@ -1492,6 +1506,11 @@ hash = "1f265c12c3649ab889b96bf8a3f5263521e5afc82c66e094983bfd003b3200a2"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "c7cbbd95efa451ceaa3973018cb17ea3ad67fe2ca63c480c9c2403c903ae4491"
 metafile = true
@@ -1704,11 +1723,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ddf7b50f71430afd4ade232cdafbbe7ec9e0cd1d2e6bcc7b3d42f9ce3c59566c"
-metafile = true
-
-[[files]]
-file = "mods/sleep-rework.pw.toml"
-hash = "d4b561d92d4711b3acb4789d8356c6f5cca4e9ea37f7995311083e34626e4b5a"
 metafile = true
 
 [[files]]

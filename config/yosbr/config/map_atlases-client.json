@@ -6,7 +6,7 @@
     "scale": 1.0,
     "enabled": true,
     "zoom_multiplier": 1.0,
-    "anchoring": "UPPER_LEFT",
+    "anchoring": "UPPER_RIGHT",
     "horizontal_offset": 0,
     "vertical_offset": 0,
     "active_potion_effects_vertical_offset": 26,

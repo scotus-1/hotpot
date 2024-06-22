@@ -1,8 +1,8 @@
 {
   "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
   "general": {
-    "max_map_count": 512,
-    "accept_paper_for_empty_maps": false,
+    "max_map_count": 1024,
+    "accept_paper_for_empty_maps": true,
     "require_empty_maps_to_expand": true,
     "map_entry_value_multiplier": 1,
     "pity_activation_map_count": 9,
