@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/airhop-server.toml"
+hash = "f7bec2ecb6c0fbacde23878e4a415cb0ad9825d33e1f2fd263bfbff6d37df347"
+
+[[files]]
 file = "config/boattweaks-common.yaml"
 hash = "22f61504d5bd7376db8fdcffe57f3e1b0d09c10034ea2c27b68412cd7a4266a3"
 
