@@ -1350,6 +1350,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "72b2a495aae6c3fdee3fac74de0f94d1cfc85514e396103c29552dc4d57fe68d"
+metafile = true
+
+[[files]]
 file = "mods/loud-leads.pw.toml"
 hash = "c4fda7d860a80444c3b44e95b27c14a2708751ebe86585b2aff45143eda51ead"
 metafile = true
