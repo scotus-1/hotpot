@@ -54,7 +54,7 @@ hash = "3f1c835d033715e7dad227c5ec9549421b5827a1d439d10ed4a9d15abaea4a68"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "bdb66192d717a3d4461d43f7cc5ef3222bc0b3109c23b8260ea17d497615285d"
+hash = "338e412da00fe4e1909e6e34e84cc42e96a22a2c0f123e82a0e72b38e86dcfc3"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -1991,7 +1991,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b590386a5e450c17cd097d7242b52bb50a880f2b8f0e10b7babe7edcd61e9ab3"
+hash = "5fa3a100f874ad3d03b674e867105fc7cc7dcf98b5c1c50d7841a25a0dda4607"
 metafile = true
 
 [[files]]
@@ -2051,7 +2051,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "6e3c46cc7523df95fefba675b177ff0abfda3b72c893add5ce64390ad137ab8f"
+hash = "17598a9ccf8f8e5e1ea7b76183a28dbeac6703cccf4e13c92d7cc10503154e75"
 metafile = true
 
 [[files]]
