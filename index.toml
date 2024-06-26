@@ -615,6 +615,11 @@ hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "e9b44c3f02864a9955000fb77b9521a905094d5d3b66cf84d7c5b7629f53e1dd"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "a46683bca99f1dd653bec0714537cafacd6b82388cedc48e155f1d0720505af9"
 metafile = true
