@@ -1,13 +1,13 @@
 name = "Stack to Nearby Chests"
-filename = "stack-to-nearby-chests-mc1.20.1-0.5.5.jar"
+filename = "stack-to-nearby-chests-mc1.20.1-0.5.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HtGckJVc/versions/CRiHYt87/stack-to-nearby-chests-mc1.20.1-0.5.5.jar"
+url = "https://cdn.modrinth.com/data/HtGckJVc/versions/4svKsMe2/stack-to-nearby-chests-mc1.20.1-0.5.8.jar"
 hash-format = "sha1"
-hash = "c17298c33a43d1ad668037f04b6048a941866966"
+hash = "3e9c182894528cc19bb2a7ce223c643c31898961"
 
 [update]
 [update.modrinth]
 mod-id = "HtGckJVc"
-version = "CRiHYt87"
+version = "4svKsMe2"
