@@ -42,7 +42,7 @@ hash = "11bb8167bddc4295d45abcd3a9b9887e0b730946a764f4f029494b9358d463da"
 
 [[files]]
 file = "config/modsets/modsets.json"
-hash = "4091b90d6742966dfc104dddc0fc6d1856717a4431eac1b0ae65f408ef89051a"
+hash = "91cad8abb1289c31671e42a637ba263d0261879f23ad87fafe0ee363c9adfca6"
 
 [[files]]
 file = "config/modsets/rules/!multiplayer_only.json"
