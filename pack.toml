@@ -9,7 +9,6 @@ hash-format = "sha256"
 hash = "3ee39088e2215abcf00b3ccdffefd992692b8b5cc042fef410ca2500b1b3e17b"
 
 [versions]
-lwjgl3 = "3.3.1"
 minecraft = "1.20.1"
 quilt = "0.26.0"
 
