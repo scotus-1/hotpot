@@ -1518,6 +1518,11 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
+file = "mods/no-unused-chunks.pw.toml"
+hash = "460d7ca1ba65914fa857a8a0fb9c7aaeb50b700bb1637be638e0bd620e2928f3"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "e7712ecf20e3c2e52da19f968762b671726222cbc4c48206231b56b6c6cd79a7"
 metafile = true
