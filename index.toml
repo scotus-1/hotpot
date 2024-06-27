@@ -1740,11 +1740,6 @@ hash = "1c3b56092d68f68dab6180cc621b6101fce8e58148f54f2d6b4a891ece961ad7"
 metafile = true
 
 [[files]]
-file = "mods/sleep-warp.pw.toml"
-hash = "624b26b1f2def748fab13e6b56f8ea8bab8cbe25c4a01f237437e6da4fe4ed88"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "8bc19b2297c704b501c34367b2c0f73adef7781d9099bd61becd62df5caea303"
 metafile = true
@@ -1845,6 +1840,11 @@ hash = "f891cc32728a13dec5d8763f86b926498eb745b3bd80676120292bacd03e51ab"
 metafile = true
 
 [[files]]
+file = "mods/stevesrealisticsleep.pw.toml"
+hash = "f1421cb7bf83e7ae00b70b649212e644027a2302bf6bc6fb2471359bfd9dcdaf"
+metafile = true
+
+[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "1798f666165e6d0853949e301ef0e2a9699cc9291da196f9593e878f2fc42c14"
 metafile = true
@@ -1932,6 +1932,11 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "e00cd603e92b6fe4721c930d5de2a7fb018b192033738767d828c91f08b43638"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "64254c688cb5b7e22ef17a129f9b7469899e14a322580e2a7988f4e5b75397f2"
 metafile = true
 
 [[files]]
