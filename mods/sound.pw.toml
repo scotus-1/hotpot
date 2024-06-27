@@ -1,4 +1,4 @@
-name = "Sounds"
+name = "DISABLE ON MAC M1 - Sounds"
 filename = "Sounds-0.7.0+1.20.1.jar"
 side = "client"
 pin = true
@@ -12,3 +12,8 @@ hash = "f767db5cfcb5284e73b570c0cdebf7dc9615a109"
 [update.modrinth]
 mod-id = "ZouiUX7t"
 version = "sKBpHx3X"
+
+[option]
+optional = true
+description = "DISABLE ON MAC"
+default = true
