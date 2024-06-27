@@ -9,9 +9,10 @@
 
 - add aliases
 ```
-export cnt=ubuntu_mc_1
-alias rcon="docker exec -it $cnt rcon-cli"
-alias logs="docker logs --follow $cnt"
+alias rcon="docker exec -it mc rcon-cli"
+alias logs="docker logs --follow mc"
+alias restartmc="docker restart mc"
+alias stop="docker stop mc"
 ```
 
 - install docker

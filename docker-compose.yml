@@ -2,6 +2,7 @@ version: "3"
 
 services:
   mc:
+    container_name: mc
     image: itzg/minecraft-server:java17-jdk
     ports:
       - "25565:25565"
@@ -31,3 +32,17 @@ services:
     restart: unless-stopped
     volumes:
       - ./server:/data
+
+    restarter:
+      image: docker:cli
+      restart: unless-stopped
+      volumes: ["/var/run/docker.sock:/var/run/docker.sock"]
+      entrypoint: ["/bin/sh","-c"]
+      command:
+        - |
+          while true; do
+            if [ "$$(date +'%H:%M')" = '13:00' ]; then
+              docker restart mc
+            fi
+            sleep 60
+          done
