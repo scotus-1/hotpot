@@ -78,7 +78,7 @@ hash = "638213188d5ebc2ba18356ac97d86234c188733da9d04f33ad8cbbbb1e7ab41a"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "6af06e5c08a21376423f8979d718795e56bb5ee8fc03dbaff6e3f398c500c327"
+hash = "8df39acd75e25f49ec4154358a7d8a8ab82dbfcba0ab663658ea5b3349040c99"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
