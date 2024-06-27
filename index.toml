@@ -9,6 +9,10 @@ file = "config/boattweaks-common.yaml"
 hash = "22f61504d5bd7376db8fdcffe57f3e1b0d09c10034ea2c27b68412cd7a4266a3"
 
 [[files]]
+file = "config/cavedust.json"
+hash = "b6fe7db34c80eea34e33c91e26a672c24f7788feece7ff3bf35eb82c509f4c4f"
+
+[[files]]
 file = "config/create-server.toml"
 hash = "4243e394bbe4bcbea4f0c4feaaf2ace495667d62e8a4ce784d531613d052e31b"
 
