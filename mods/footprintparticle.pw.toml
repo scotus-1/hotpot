@@ -1,13 +1,13 @@
 name = "FootprintParticle"
-filename = "footprintparticle-0.5.1-mc1.20.jar"
+filename = "footprintparticle-0.5.2-mc1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xZQOoOaY/versions/FjpGOad8/footprintparticle-0.5.1-mc1.20.jar"
+url = "https://cdn.modrinth.com/data/xZQOoOaY/versions/EmLTEZM2/footprintparticle-0.5.2-mc1.20.jar"
 hash-format = "sha1"
-hash = "9a10df357643187378e7a9d5be3f925fc4341904"
+hash = "fde6a5d9c4f708367d32eb9eeef0b2762a019d2c"
 
 [update]
 [update.modrinth]
 mod-id = "xZQOoOaY"
-version = "FjpGOad8"
+version = "EmLTEZM2"

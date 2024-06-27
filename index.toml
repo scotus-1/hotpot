@@ -621,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a46683bca99f1dd653bec0714537cafacd6b82388cedc48e155f1d0720505af9"
+hash = "124b3050c2ee5707ecc205ef82cc88462632acbceda7f9db0dd5666ef7161635"
 metafile = true
 
 [[files]]
@@ -661,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "80510227311a8bc980c2814700f450c30b825ebadb41f9f1e79400f8a7925ee8"
+hash = "7653b84b1af054e0f583e2630d3ade3e14d81e21377e59e766d474b4f43da3bb"
 metafile = true
 
 [[files]]
@@ -1036,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "mods/fbp-renewed.pw.toml"
-hash = "d5997f1c28bbe90f3cd6450ece8d4aab477f36642163981d004394253c7d13ce"
+hash = "0702a407a2f55836a2f25f5acb9cc9f13653aaf4ef32146b3ce21baaccf5a568"
 metafile = true
 
 [[files]]
@@ -1061,7 +1061,7 @@ metafile = true
 
 [[files]]
 file = "mods/footprintparticle.pw.toml"
-hash = "833c4c1c2080e87965051bd77577156a8268cb645dc44633446a01833473a805"
+hash = "5a3cd32cee9029f9b6a10c885c49676207bfd8dd12d49e3e6eaa3ab22774ef0c"
 metafile = true
 
 [[files]]
@@ -1251,7 +1251,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-mob-heads.pw.toml"
-hash = "c8740a8557f251afae78fff80b979131909997b259074c9e70bccc1cb88cb776"
+hash = "34e72e5538eac41f82ea4db3bd1633e6e92a14c7066a4db27f8b76af6df88648"
 metafile = true
 
 [[files]]
@@ -1456,7 +1456,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b78b609f17189a4ca614d253e5cca22c4daaf1e4f74910fd3d78da7bfafec0f4"
+hash = "8ab7e0ed8da8c512c3389a96ccbc17ef8a2a028e0bce92be5f37418970485de4"
 metafile = true
 
 [[files]]
@@ -1481,7 +1481,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "051b1bee4a7fd8f2a55753fe95eda061e0f2a724c5b8ad38d2ca3619c88f2fae"
+hash = "c67cd681f5b9baf9a1b37f8e01389dc3f9985b66af6adfae1e01b273ac904d80"
 metafile = true
 
 [[files]]
@@ -1601,7 +1601,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "5978d6f4db68755c28d31e9552c27b9fe96a28ce7ba9f897a469feca8ecb9929"
+hash = "b4bd02d679d35e5a952a6e06e5cfd568aa6ec1326bfdb493101fa30c5c9805e4"
 metafile = true
 
 [[files]]
@@ -1631,12 +1631,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "e7150de20c3dae1ab19c99881fd8c4bab920f67f97f26311f7ab63fdee0f13d0"
+hash = "82180c5afb4bafeee1b8296b51d71fa59400368683d85433a11725739a3d85df"
 metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "50f413eb229b578c7dbb5d8665a8ad29e0221a4e16acbe62cb9f52e2bedaa732"
+hash = "c01f250c8df625d2cf7ac638d4b06583ff98b5e9ffca14671d52a81432e4e95f"
 metafile = true
 
 [[files]]
@@ -1826,7 +1826,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-astronomy.pw.toml"
-hash = "acc06bba2ad82711abe724c5b7b6f13796cfbb4cd0cd6d8b4d62e598c3e5ef5b"
+hash = "18b51e8d1b6e076f0333da382b37d92cdb1e2c35bd40522910e60a341d27ab80"
 metafile = true
 
 [[files]]
@@ -2090,7 +2090,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/create-computercraft.pw.toml"
-hash = "ac9f825de7d1bb162e83d303622df192b97a2d76363608784acfa1fe68ac4288"
+hash = "c7a7bbd30e3ff5679b3f9789b487122834c7583025110d3e22c2140ae93be832"
 metafile = true
 
 [[files]]
@@ -2115,7 +2115,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
-hash = "ea9aa90fde2059d507c459c4c9900954ad9f30f631dae12707fce6249396f3db"
+hash = "ceaa0143b2a851a323a30a0909c53f9260948d66b8ede27892bd1f63599c338f"
 metafile = true
 
 [[files]]
@@ -2138,12 +2138,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/rethoughted-trident.pw.toml"
-hash = "e88de42c9923c8865a54b957308c9e273a116a6e2d499b146dbada1d73207904"
+hash = "56fe9868ca45a79dffb298cba58607e704ba78ec4b2f518952faa575c11f21cd"
 metafile = true
 
 [[files]]
 file = "resourcepacks/sparkles.pw.toml"
-hash = "9fb46a8dd6c7300b9918d3936eeb7c395d3e6f1ebcef844cd00584f02f5a5300"
+hash = "681feb3bbc2c898228a3571814ca264fe83fe2d5b65e162b46d8af8bce46cad1"
 metafile = true
 
 [[files]]
