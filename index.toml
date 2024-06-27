@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "007547564945bca9ebde86d954a2ac045dfbca87667a4e589c99bc004ecdddc2"
+hash = "64d78922bc5e9e825411bada42be1ee6816da1f6e419d6034089b3d3b85da2fb"
 metafile = true
 
 [[files]]
@@ -831,7 +831,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "59f568baad73a87e26a3eac172e72b531be55c00dad55de51dd7ddb27cd49a16"
+hash = "aa1e63de697ec8db39b302c9bd21f78fde021dd0040d9162618c06c552bc0d04"
 metafile = true
 
 [[files]]
@@ -886,7 +886,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
-hash = "24d0280548982225903b9ff97b97924f535db1e6a4e76947b9da70618926d857"
+hash = "c6f6a8198f1e6483dcfb2c7aa4714969c26a018f6c7b2251b7647eef73e969de"
 metafile = true
 
 [[files]]
@@ -1091,7 +1091,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "af0a1c16ea26417e97cfecbc48e10fc2cef8649c70d2a7f1adf425a94b482300"
+hash = "3a7db6706e525500dfc81b151f87a60e9719cc24ed3e43c51de90d5e786f49d5"
 metafile = true
 
 [[files]]
@@ -1321,22 +1321,22 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "0585db7d877f46c77fe2da30ec827b84f0bba42b0fea0bf32c965fa2472aafec"
+hash = "859230c7bfd1d06e982069c84d9582f221834eb54b0012564c54ff27accb2f49"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-candlelight.pw.toml"
-hash = "c90580caa48d280901095bef8f61220dcaf133cbcded5c8e2783123f5f7d055d"
+hash = "58235ed6c97ca3f3486fab657e486993808a0a23cdd94c931c9b102e36a0d408"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-herbalbrews.pw.toml"
-hash = "f1226466995223647bb860521ba60b2e54d4230cacf6be0eb3bfe982d82ce63e"
+hash = "fd09d732b4bd8d542687bdd411e7b785755b5e54c2a1857463736cbc5ed399b3"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "a2eb2fc3debbcc4247f86aacf20fb0b6655ee1d9a7020acbc24b4bbe6daa99fe"
+hash = "d213301ec898a35cef0d26de08e322ffbe05abc4fc623453a24858c922d06a85"
 metafile = true
 
 [[files]]
@@ -1431,7 +1431,7 @@ metafile = true
 
 [[files]]
 file = "mods/mod-sets.pw.toml"
-hash = "e9203062321ca674d6ba5538ca30f216f88d20960df45cd2ba4caff8b2359b6c"
+hash = "3c8779d1952e2b3b108b98596fbe0f688208057c53211df988242940dbaf641c"
 metafile = true
 
 [[files]]
@@ -1456,7 +1456,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1870620ac0fb128b9a6f2cb8c6f887cb2a5f42bdf4aed1851f2f4f3d542fffc3"
+hash = "b78b609f17189a4ca614d253e5cca22c4daaf1e4f74910fd3d78da7bfafec0f4"
 metafile = true
 
 [[files]]
@@ -1481,7 +1481,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "051b1bee4a7fd8f2a55753fe95eda061e0f2a724c5b8ad38d2ca3619c88f2fae"
+hash = "426fca3c193968dd537d66c989b196b1a926aa921ea99a7b2933e1025e4a81a5"
 metafile = true
 
 [[files]]
@@ -1851,7 +1851,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "d8829c303534943fec12d10d51496e6ae5a810a24e0b5378246987083d809fa0"
+hash = "89f7693f7a01cff27f51b9b68a4fdfec49a59177b1e1e173bbcaef06f892d7e7"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "[Let's Do] Bakery"
-filename = "letsdo-bakery-fabric-1.1.8.jar"
+filename = "letsdo-bakery-fabric-1.1.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WFwYiVoG/versions/dEpWqTXL/letsdo-bakery-fabric-1.1.8.jar"
+url = "https://cdn.modrinth.com/data/WFwYiVoG/versions/Jz9S9jfw/letsdo-bakery-fabric-1.1.12.jar"
 hash-format = "sha1"
-hash = "ac3fed7bf02e97ecd058387ba131fee65eb415ac"
+hash = "dca4ac1ea897053b4febf7d05f9bd7d64c4af31e"
 
 [update]
 [update.modrinth]
 mod-id = "WFwYiVoG"
-version = "dEpWqTXL"
+version = "Jz9S9jfw"
