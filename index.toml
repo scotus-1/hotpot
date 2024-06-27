@@ -1321,7 +1321,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "859230c7bfd1d06e982069c84d9582f221834eb54b0012564c54ff27accb2f49"
+hash = "ed55c17c7f9195a0f076b15a9e3d8c66e3de234c49feceaebfde6cfc7f8f89a4"
 metafile = true
 
 [[files]]
@@ -1481,7 +1481,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "426fca3c193968dd537d66c989b196b1a926aa921ea99a7b2933e1025e4a81a5"
+hash = "f45f6284b1984d2f2a85f2ba71d66c5a6596c2d089c90733a0250abc673505ea"
 metafile = true
 
 [[files]]

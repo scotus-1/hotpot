@@ -75,7 +75,7 @@ temp removed:
 - diagonal-windows (server mismatch)
 
 pinned:
-yacl, zoomify, sound
+yacl, zoomify, sound, mod-sets
 
 
 
