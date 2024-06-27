@@ -75,7 +75,7 @@ temp removed:
 - diagonal-windows (server mismatch)
 
 pinned:
-yacl, zoomify, sound, mod-sets, mru, create-computercraft, qkl, fancy-crops, rethoughted-trident, sparkles
+yacl, zoomify, sound, mod-sets, mru, create-computercraft, qkl, fancy-crops, rethoughted-trident, sparkles, copycats
 
 
 

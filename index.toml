@@ -57,6 +57,10 @@ file = "config/quilt-loader-overrides.json"
 hash = "338e412da00fe4e1909e6e34e84cc42e96a22a2c0f123e82a0e72b38e86dcfc3"
 
 [[files]]
+file = "config/realisticsleep.json"
+hash = "895f61729fd5def171e634cc0f0d6442684eeb826909bd1c54edea82d5f6c2ee"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "08a0210d23a949bb5bcd18af83fa46b05fc9717a9226e613599fe653c12e33ee"
 
@@ -83,6 +87,10 @@ hash = "bdaf29f066ce23d3f5c3013d5edf818f6afb3418d0a1011b326e236b595b3f92"
 [[files]]
 file = "config/torchhit-common.toml"
 hash = "3eb4cc6cc1a5599afbc45a34b0a8b3a8ce83b4daaae8d983d41809eccf1e8685"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "4735c2a7894be30417d008d91ca719471950e4016a803cac46c89e756223c285"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -661,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "80510227311a8bc980c2814700f450c30b825ebadb41f9f1e79400f8a7925ee8"
+hash = "29e836c266b09128e9739b632821aca77989bf54947f7b888c636c5ce60a563b"
 metafile = true
 
 [[files]]
