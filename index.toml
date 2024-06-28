@@ -22,7 +22,7 @@ hash = "6f7814cd1c0dbcd2ba17c69cb2a485ed8265aab4b1cdd198d1d014ef08ea9f76"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "40a26f7fe7ec71235fb11b73401fb3679c288e6efb1f903071d15961d4baf07a"
+hash = "f2970863b6f4020ef295abb4e2bd3f2b1934ec84c48a4a350326418f0714b858"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -70,7 +70,7 @@ hash = "895f61729fd5def171e634cc0f0d6442684eeb826909bd1c54edea82d5f6c2ee"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "08a0210d23a949bb5bcd18af83fa46b05fc9717a9226e613599fe653c12e33ee"
+hash = "be987f609a87cefbcdc119e895b0ebea8f9a633eab5c9e68a7620fa90d3e4d33"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
@@ -1962,7 +1962,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "64254c688cb5b7e22ef17a129f9b7469899e14a322580e2a7988f4e5b75397f2"
+hash = "4371feacbfd7b741fdd3616f8cd7845e8cb2a0773ec96ac20cc7a5b2f688000f"
 metafile = true
 
 [[files]]
