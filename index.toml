@@ -29,6 +29,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "817bb4954ae3116a4bcd010c06c8167b4b13507aa1d92cd22d8272f03bc2e625"
 
 [[files]]
+file = "config/fbp/config.json"
+hash = "bab1246776426e9d6705f734cb8431e1c906e67cc63bd7f16be1ed7a9ed58593"
+
+[[files]]
 file = "config/fwaystones/config.json5"
 hash = "4be3af52d5f96644687e7d29cb01ea31bf0beb87245aeec7cc821c339b75c4fd"
 
@@ -174,7 +178,7 @@ hash = "36a838b2c0b631bab994852b2769846e70893ec2076a1e2176780e826eb16700"
 
 [[files]]
 file = "config/yosbr/config/fbp/config.json"
-hash = "d6db7ddf14f46c21fc5641b718c570099e34e7b9617037d969b682c62f5c0d9e"
+hash = "bab1246776426e9d6705f734cb8431e1c906e67cc63bd7f16be1ed7a9ed58593"
 
 [[files]]
 file = "config/yosbr/config/illuminations.properties"
