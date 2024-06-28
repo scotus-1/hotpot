@@ -42,7 +42,9 @@ services:
         - |
           while true; do
             if [ "$$(date +'%H:%M')" = '13:00' ]; then
-              docker restart mc
+                docker restart mc
+                sleep 240
+                docker exec -it mc rcon-cli chunky continue
             fi
             sleep 60
           done
