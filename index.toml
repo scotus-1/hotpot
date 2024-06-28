@@ -376,6 +376,11 @@ hash = "c2934c3d89c1e0ab62a1cc87fe56bbb8510355722f977eb42ddf058cad7e5fc1"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "8c3d2ab031956ebc554135689326aca1dc41bc3ae5e700b5a7e316a20c2e8f21"
 metafile = true
