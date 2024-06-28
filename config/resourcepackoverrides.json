@@ -54,7 +54,7 @@
     },
    "bases": [
       "file/xali's Enhanced Vanilla v1.11.1.zip",
-      "file/FreshAnimations_v1.9.zip",
+      "file/FreshAnimations_v1.9.1.zip",
       "continuity/default"
    ],
    "$$bases": {
