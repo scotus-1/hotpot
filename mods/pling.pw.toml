@@ -1,13 +1,13 @@
 name = "Pling"
-filename = "pling-1.8.0.jar"
+filename = "pling-1.8.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4bqq2uqn/versions/5Gytol11/pling-1.8.0.jar"
+url = "https://cdn.modrinth.com/data/4bqq2uqn/versions/BOjivSpA/pling-1.8.1.jar"
 hash-format = "sha1"
-hash = "2d2bb4daa065d6111df93aa2e0c49e3d1f20d05d"
+hash = "bcaaa8d0464942a21c3665f1ba0d7c8901ba88bd"
 
 [update]
 [update.modrinth]
 mod-id = "4bqq2uqn"
-version = "5Gytol11"
+version = "BOjivSpA"

@@ -36,7 +36,8 @@
             "yungsapi",
             "valkyrienskies",
             "corgilib",
-            "craterlib"
+            "craterlib",
+            "cobweb"
         ]
     },
     "performance": {

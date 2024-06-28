@@ -7,7 +7,7 @@
      "continuity/glass_pane_culling_fix",
      "file/Fancy Crops v1.0 pf5-22.zip",
      "file/Default-Dark-Mode-1.20-2023.7.0.zip",
-     "file/FreshAnimations_v1.9.zip",
+     "file/FreshAnimations_v1.9.1.zip",
      "file/FA+Details-v1.0.zip",
      "file/FA+Quivers-v1.1.zip",
      "file/FA+Emissive-v1.1.zip"
@@ -26,7 +26,7 @@
     ],
     "$$ingame": {
       "hidden": true,
-      "required": true 
+      "required": true
     },
     "qol": [
       "file/Sparkles_1.20.4_v1.0.5.zip",
@@ -40,7 +40,7 @@
       "file/better-cauldrons.zip",
       "file/Create Computers 1.2.1 - 1.20.1.zip",
       "file/enchant icons 1.20 v1.3.zip",
-      "file/[1.4] Enhanced Boss Bars.zip",
+      "file/[1.4.1] Enhanced Boss Bars.zip",
       "file/kubban-s-saplings-e2951.zip",
       "file/Alternative Rain Sounds 1.20-1.20.X.zip",
       "file/EclecticTrove-noconfig-1.20.1-1.2.0.zip",
@@ -50,7 +50,7 @@
     ],
     "$$qol": {
       "hidden": true,
-      "required": true 
+      "required": true
     },
    "bases": [
       "file/xali's Enhanced Vanilla v1.11.1.zip",
@@ -65,7 +65,7 @@
       "required": true,
       "default_position": "TOP"
    },
-  "vanilla": { 
+  "vanilla": {
       "required": true,
       "default_position": "BOTTOM"
   }

@@ -1,13 +1,13 @@
 name = "Just Mob Heads"
-filename = "justmobheads-1.20.1-7.7.jar"
+filename = "justmobheads-1.20.1-8.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/jzTUm9hE/versions/lWkFHpqY/justmobheads-1.20.1-7.7.jar"
+url = "https://cdn.modrinth.com/data/jzTUm9hE/versions/9zT2eAoL/justmobheads-1.20.1-8.1.jar"
 hash-format = "sha1"
-hash = "bdbfaa60b3f840251af9bb11a0b88b713cb3d600"
+hash = "a96ca5703008d0ec89a0d1d757d4502df6a9a3cf"
 
 [update]
 [update.modrinth]
 mod-id = "jzTUm9hE"
-version = "lWkFHpqY"
+version = "9zT2eAoL"
