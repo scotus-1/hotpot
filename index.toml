@@ -18,7 +18,7 @@ hash = "4243e394bbe4bcbea4f0c4feaaf2ace495667d62e8a4ce784d531613d052e31b"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "e852698ef11efee7f91478ce201629f55da4b6dba588f9e8b2e59cbb6fda7494"
+hash = "6f7814cd1c0dbcd2ba17c69cb2a485ed8265aab4b1cdd198d1d014ef08ea9f76"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -1682,7 +1682,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "83a91f8d75114989ce95b13302fdf916c400514e8b43c32e8aafc3e17b2f5e03"
+hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
