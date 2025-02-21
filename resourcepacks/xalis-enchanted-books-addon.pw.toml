@@ -1,13 +1,13 @@
 name = "xali's Enchanted Books - Addon"
-filename = "xali's Enchanted Books Addon v2.zip"
+filename = "xali's Enchanted Books Addon v3 1.20.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/LJazX7OI/versions/LoF6ssPV/xali%27s%20Enchanted%20Books%20Addon%20v2.zip"
+url = "https://cdn.modrinth.com/data/LJazX7OI/versions/pmu6mBLW/xali%27s%20Enchanted%20Books%20Addon%20v3%201.20.1.zip"
 hash-format = "sha1"
-hash = "b4d3f8cb215abd22a63311e0df6f8f5e4e552944"
+hash = "43150e199fc3cd1bf195c6dfd081d4d2faab9890"
 
 [update]
 [update.modrinth]
 mod-id = "LJazX7OI"
-version = "LoF6ssPV"
+version = "pmu6mBLW"

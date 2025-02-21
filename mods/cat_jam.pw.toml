@@ -1,13 +1,13 @@
 name = "cat_jam"
-filename = "cat_jam-fabric-mc1.20-1.2.2.jar"
+filename = "cat_jam-fabric-mc1.20-1.3.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/x3s69afN/versions/yL4xn8Kt/cat_jam-fabric-mc1.20-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/x3s69afN/versions/Q4DJyoRR/cat_jam-fabric-mc1.20-1.3.1.jar"
 hash-format = "sha1"
-hash = "f9fa47f3e91ab486d94507f13eb83c32063c8abe"
+hash = "2bcc06b3a2e191c965b8436b18bcd466220b49f9"
 
 [update]
 [update.modrinth]
 mod-id = "x3s69afN"
-version = "yL4xn8Kt"
+version = "Q4DJyoRR"

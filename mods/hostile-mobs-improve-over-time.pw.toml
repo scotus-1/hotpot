@@ -1,13 +1,13 @@
 name = "Hostile Mobs Improve Over Time"
-filename = "hostile-mobs-improve-over-time-1.6.jar"
+filename = "hostile-mobs-improve-over-time-1.9.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/ku4JD9TH/versions/mSVDw6ZO/hostile-mobs-improve-over-time-1.6.jar"
+url = "https://cdn.modrinth.com/data/ku4JD9TH/versions/Q8igQlBc/hostile-mobs-improve-over-time-1.9.1.jar"
 hash-format = "sha1"
-hash = "7edc8928e27502ffec488d1669b0a58a4a9a56e3"
+hash = "df6d744729cb5957870c8a3935f34c1055cfe607"
 
 [update]
 [update.modrinth]
 mod-id = "ku4JD9TH"
-version = "mSVDw6ZO"
+version = "Q8igQlBc"
