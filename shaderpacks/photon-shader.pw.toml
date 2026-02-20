@@ -1,13 +1,13 @@
 name = "Photon Shader"
-filename = "photon_v1.1.zip"
+filename = "photon_v1.2a.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lLqFfGNs/versions/6FdrBtKp/photon_v1.1.zip"
+url = "https://cdn.modrinth.com/data/lLqFfGNs/versions/rz2vlXVm/photon_v1.2a.zip"
 hash-format = "sha1"
-hash = "827c8c31af3b32f86c6be8935cb59f90f73b9bcd"
+hash = "6ad7e57f22ceb5530b168d077414abc8387c9b04"
 
 [update]
 [update.modrinth]
 mod-id = "lLqFfGNs"
-version = "6FdrBtKp"
+version = "rz2vlXVm"

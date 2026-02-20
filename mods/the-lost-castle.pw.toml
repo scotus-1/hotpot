@@ -1,13 +1,13 @@
 name = "The Lost Castle"
-filename = "tlc-fabric-1.0.1-1.20.X.jar"
+filename = "tlc-fabric-1.20.X-1.2.0-eyeSpy.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FGlHZl7X/versions/r1kI9nMD/tlc-fabric-1.0.1-1.20.X.jar"
+url = "https://cdn.modrinth.com/data/FGlHZl7X/versions/9B9A85bd/tlc-fabric-1.20.X-1.2.0-eyeSpy.jar"
 hash-format = "sha1"
-hash = "f5ccb478e0bf9a8c38615858c830b75ee76767b1"
+hash = "95ea92c46002a9b4538870e61d97aaedf98d6f42"
 
 [update]
 [update.modrinth]
 mod-id = "FGlHZl7X"
-version = "r1kI9nMD"
+version = "9B9A85bd"

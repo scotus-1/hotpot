@@ -1,13 +1,13 @@
 name = "Another Furniture"
-filename = "another_furniture-fabric-1.20.1-3.0.1.jar"
+filename = "another_furniture-fabric-1.20.1-3.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ulloLmqG/versions/YKKY0UDo/another_furniture-fabric-1.20.1-3.0.1.jar"
+url = "https://cdn.modrinth.com/data/ulloLmqG/versions/78cQDrFi/another_furniture-fabric-1.20.1-3.0.4.jar"
 hash-format = "sha1"
-hash = "61f8e44dc8a688b7dd2978c43b5c71f922e8fd4d"
+hash = "8d9d1c5773e0af94bd0880a51445466ce36b64e8"
 
 [update]
 [update.modrinth]
 mod-id = "ulloLmqG"
-version = "YKKY0UDo"
+version = "78cQDrFi"

@@ -1,13 +1,13 @@
 name = "Soul Fire'd"
-filename = "soul-fire-d-fabric-1.20.1-4.0.10.jar"
+filename = "soul-fire-d-fabric-1.20.1-4.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/d6MhxwRo/versions/G30Uo6m3/soul-fire-d-fabric-1.20.1-4.0.10.jar"
+url = "https://cdn.modrinth.com/data/d6MhxwRo/versions/AQvnKysL/soul-fire-d-fabric-1.20.1-4.0.11.jar"
 hash-format = "sha1"
-hash = "c6c72c053a1ab8377df4dd2046a432c353a21d1a"
+hash = "a32f011db0ba06701bbe2a0afd9edd372a3462e6"
 
 [update]
 [update.modrinth]
 mod-id = "d6MhxwRo"
-version = "G30Uo6m3"
+version = "AQvnKysL"

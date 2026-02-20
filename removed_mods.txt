@@ -74,8 +74,23 @@ temp removed:
 - diagonal-fences (server mismatch)
 - diagonal-windows (server mismatch)
 
+
+
+1.20.1 reboot:
+- structure-essentials-forge-fabric
+- smooth-chunk-save
+- particle-core
+- raised
+- inventory-tabs
+- fbp-renewed
+- e4mc
+- client-tweaks
+
+
 pinned:
-yacl, zoomify, sound, mod-sets, mru, create-computercraft, qkl, fancy-crops, rethoughted-trident, sparkles, copycats
+yacl, zoomify, sound, mod-sets, mru, create-computercraft, qkl, fancy-crops, rethoughted-trident, sparkles, copycats, 
+resourcify (qkl too high), 
+entity-model-features (crash with puzzeles)
 
 
 

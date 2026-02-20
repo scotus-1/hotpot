@@ -1,13 +1,13 @@
 name = "Alternative Rain Sounds"
-filename = "Alternative Rain Sounds 1.20-1.20.X.zip"
+filename = "Alternative Rain Sounds 1.21.9-1.21.11.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/IjeNkkG5/versions/VyElEmEL/Alternative%20Rain%20Sounds%201.20-1.20.X.zip"
+url = "https://cdn.modrinth.com/data/IjeNkkG5/versions/6NhQYOHT/Alternative%20Rain%20Sounds%201.21.9-1.21.11.zip"
 hash-format = "sha1"
-hash = "8f5a3c87f19d525226141cb92656b54b0c189a74"
+hash = "fd88d1ebd9062566523f75eacd62019edc170fab"
 
 [update]
 [update.modrinth]
 mod-id = "IjeNkkG5"
-version = "VyElEmEL"
+version = "6NhQYOHT"

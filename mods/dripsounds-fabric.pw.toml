@@ -1,13 +1,13 @@
 name = "Drip Sounds (Fabric)"
-filename = "Drip Sounds-0.4.0+1.20.4-Fabric.jar"
+filename = "Drip Sounds-0.5.2+1.20.4-Fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/T8MMXTpr/versions/NE8uu6Ms/Drip%20Sounds-0.4.0%2B1.20.4-Fabric.jar"
+url = "https://cdn.modrinth.com/data/T8MMXTpr/versions/ypXuGxlW/Drip%20Sounds-0.5.2%2B1.20.4-Fabric.jar"
 hash-format = "sha1"
-hash = "9b7b193c7413b6dbe37856f5b2e24dd78a9efd30"
+hash = "3502dddaf4d06205b901b1ee3d4f8bc9e430bd68"
 
 [update]
 [update.modrinth]
 mod-id = "T8MMXTpr"
-version = "NE8uu6Ms"
+version = "ypXuGxlW"

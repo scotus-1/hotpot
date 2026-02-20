@@ -1,13 +1,13 @@
 name = "Sodium Shadowy Path Blocks"
-filename = "sodium-shadowy-path-blocks-3.4.1.jar"
+filename = "sodium-shadowy-path-blocks-3.4.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EIa1eiMm/versions/jPiQnJVA/sodium-shadowy-path-blocks-3.4.1.jar"
+url = "https://cdn.modrinth.com/data/EIa1eiMm/versions/PD6Nlt01/sodium-shadowy-path-blocks-3.4.2.jar"
 hash-format = "sha1"
-hash = "d62f3dd521c0acfa1aa613e2f9c2929cccf68b04"
+hash = "2afe847da4edb058d0d3afe84741405b8f3b7059"
 
 [update]
 [update.modrinth]
 mod-id = "EIa1eiMm"
-version = "jPiQnJVA"
+version = "PD6Nlt01"

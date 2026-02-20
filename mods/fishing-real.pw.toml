@@ -1,13 +1,13 @@
 name = "Fishing Real"
-filename = "Fishingreal-1.20.1-1.7.2.jar"
+filename = "fishingreal-fabric-1.20.1-1.9.1-backport.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MIdaKqt7/versions/wajSCh7f/Fishingreal-1.20.1-1.7.2.jar"
+url = "https://cdn.modrinth.com/data/MIdaKqt7/versions/25it2iB4/fishingreal-fabric-1.20.1-1.9.1-backport.jar"
 hash-format = "sha1"
-hash = "c794dc2f630fde88b39bd2cc75a83000fb6b8de8"
+hash = "e5b75ef374e9af8e23ca6e8177fb839372bccc04"
 
 [update]
 [update.modrinth]
 mod-id = "MIdaKqt7"
-version = "wajSCh7f"
+version = "25it2iB4"
