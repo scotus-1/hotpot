@@ -1,0 +1,13 @@
+name = "Create Enchantment Industry for Create 6"
+filename = "create_enchantment_industry-1.2.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bk7SxCpB/versions/maR1KH4z/create_enchantment_industry-1.2.17.jar"
+hash-format = "sha512"
+hash = "2a680b385542db1d57cacf38fc618c426f7ae8296d99ef1ed962673b01e0fca74ef30d3ed132f0002814cb9b10e7ff5b575167bcb3dd636894ff71c34759c727"
+
+[update]
+[update.modrinth]
+mod-id = "Bk7SxCpB"
+version = "maR1KH4z"

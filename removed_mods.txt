@@ -85,12 +85,14 @@ temp removed:
 - fbp-renewed
 - e4mc
 - client-tweaks
-
+- qkl
+- qsl
+- cccbridge (incompatible w cv6)
+- create-jetpack (incompatible w cv6)
+- slice-and-dice (incompatible w cv6)
 
 pinned:
-yacl, zoomify, sound, mod-sets, mru, create-computercraft, qkl, fancy-crops, rethoughted-trident, sparkles, copycats, 
-resourcify (qkl too high), 
-entity-model-features (crash with puzzeles)
+yacl, zoomify, mod-sets, mru, create-computercraft, fancy-crops, rethoughted-trident
 
 
 

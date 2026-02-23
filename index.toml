@@ -346,11 +346,6 @@ hash = "c0fb764563c122328f9ba69e7d27c2b3b2e21fc607782affd6710b943f03fe75"
 metafile = true
 
 [[files]]
-file = "mods/another-furniture.pw.toml"
-hash = "5460a8c83a31a7c93bbac060d4422ec5ea0d7976c0fc088276de54e4225ddbec"
-metafile = true
-
-[[files]]
 file = "mods/antighost.pw.toml"
 hash = "9f22660d287a6a3ded24f5df8f944972933f04651cb30c9acb2e62132f3ffcd2"
 metafile = true
@@ -527,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "fd522c425b7dd722dcd7a1d5785829ff9f12c67a1907b51d8731bd0ac5984a3a"
+hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
 
 [[files]]
@@ -548,11 +543,6 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "5c94080d3cc803d20b8606c2c016c77f98b708eea504dde14e301827701074b0"
-metafile = true
-
-[[files]]
-file = "mods/cccbridge.pw.toml"
-hash = "7522ce07054dd384baa5d4383245117c0cfff6d513cab9aa6eac837981e9922f"
 metafile = true
 
 [[files]]
@@ -677,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "29e836c266b09128e9739b632821aca77989bf54947f7b888c636c5ce60a563b"
+hash = "79d2d0db0f6cffec9bc3661d9a591ad379e041de1235239dba921f63f452eec7"
 metafile = true
 
 [[files]]
@@ -706,18 +696,13 @@ hash = "dc60989520567ed847ca5a6df78b1c4def29e542d5e01c0e5619e6474e6e1637"
 metafile = true
 
 [[files]]
-file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
+file = "mods/create-enchantment-industry-fabric-(create-6).pw.toml"
+hash = "53256a86d35e72d17ea9990d25a0db8b9a2cd0493811aad8a63eb3e74fe5a3aa"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "e8537ca1ea8ac5fae46ce891b935ad051fd514ac03d63978adee26ec1e584cd3"
-metafile = true
-
-[[files]]
-file = "mods/create-jetpack.pw.toml"
-hash = "7272fe7ad3bb704c810c2e30366ce75f972cabcf4ef76d58188479a39f4a9462"
 metafile = true
 
 [[files]]
@@ -821,8 +806,8 @@ hash = "7129d24085dc41d14f5cd10fbb1ecd83a606750b318e5d64a9351daf5ff3cf55"
 metafile = true
 
 [[files]]
-file = "mods/delightful-creators-fabric.pw.toml"
-hash = "54c459792682a058470f9edd6f36aa4fae8a3c2fa222028037e087ab8165f83e"
+file = "mods/delightful-creators.pw.toml"
+hash = "541a5b9aa01cff808c7a3347abb51beccfecca2565626964074cc59b310c0c71"
 metafile = true
 
 [[files]]
@@ -952,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "7248c9ff656f8ac5cfaaf496dec3be3e94a268b658317e01730b6aa2befc96ae"
+hash = "0df092a3ac1e9d5c9500814f90d30f43ab50803c2632ad29059be48d9ed2e502"
 metafile = true
 
 [[files]]
@@ -988,6 +973,16 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "a822c628af8202734ff60c8d8674211965db934c29b0589ba3d86038063ca5a8"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "1ee56d5feb0ede9397b26f3c5b7543a3556088146d154b55172ef0e8b1a97705"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
@@ -1526,11 +1521,6 @@ hash = "13a6776b6e17d32a8dcc74932ce4af8b13290b1c90fe4c91b41abbd2b2c0d569"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
-metafile = true
-
-[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "5167fe4155561b257e45ca43382ca6f66858d5bf5eefead2ed834854772ef8a9"
 metafile = true
@@ -1636,16 +1626,6 @@ hash = "f1232ae9f84b94590a57ea7520d48ff842a6681268b5995e6a39b061da62e4fe"
 metafile = true
 
 [[files]]
-file = "mods/qkl.pw.toml"
-hash = "c01f250c8df625d2cf7ac638d4b06583ff98b5e9ffca14671d52a81432e4e95f"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "7d7d72c26625edfc2f49247bded95192dd98bd0389bcddc82e0b03fa33661afe"
-metafile = true
-
-[[files]]
 file = "mods/quicker-connect-button.pw.toml"
 hash = "3535f82493a836ccf02351c4ee40febca792d6f724416d1f23c5af981882efa1"
 metafile = true
@@ -1736,11 +1716,6 @@ hash = "a752abe4639c81723205885b5093dc9f133cf7307eaed310dd0001ce68295885"
 metafile = true
 
 [[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "35242355a5725fc5ee4b6e6929f534fdbb32b05e9a7f149f670fcd97eb743079"
-metafile = true
-
-[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "bc1eb877b0c777b75be5854f53c4856c7c9afa65b1910f05cbe7ed43ac8e4a10"
 metafile = true
@@ -1787,7 +1762,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "9fa5368f0141a2d71a271c6079fc8577bbf1dfc283ad4d97cb1e4c2701d8b13b"
+hash = "806f7df271c006bf348f85e2833ca8abe4e91209fff77d73d9e2772548f555d3"
 metafile = true
 
 [[files]]
