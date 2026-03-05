@@ -1,0 +1,13 @@
+name = "BE Style Wither"
+filename = "bestylewither-fabric-mc1.20-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OkmRZ5fH/versions/CMZ4o7jB/bestylewither-fabric-mc1.20-1.6.1.jar"
+hash-format = "sha1"
+hash = "5a511ce0f2afd297787a7b356d7f5e8682fc0b97"
+
+[update]
+[update.modrinth]
+mod-id = "OkmRZ5fH"
+version = "CMZ4o7jB"

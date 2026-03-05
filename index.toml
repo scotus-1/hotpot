@@ -411,6 +411,11 @@ hash = "f0d905f176d47c63139e372c9adc0e7538c60f8b4b2d4d359860eb0921b809a6"
 metafile = true
 
 [[files]]
+file = "mods/backported-wolves.pw.toml"
+hash = "166bfddae9c15e5bd03e5fd2311d9ecab2b117f348258c679d4847ebbc4e0119"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "f257604545941d11f4f44d4616ea24427ef0f8e1a056bbb65567081b6f7efb31"
 metafile = true
@@ -418,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "3c6727cb47f64bbe0ee82d3f678e177f15a7035aa8cf95d9fb2b260a2aff1c70"
+metafile = true
+
+[[files]]
+file = "mods/be-style-wither.pw.toml"
+hash = "7941635ef04059cd626d724b5bb8f9857d40c063f5f907a29ccfbbd18a195e87"
 metafile = true
 
 [[files]]
@@ -438,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
 metafile = true
 
 [[files]]
@@ -491,6 +506,11 @@ hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]
+file = "mods/boids.pw.toml"
+hash = "53aec172c514710426a7a3b646305be9d054bee6eee31917569b336d26838da6"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "31ac3b74bbf3dbac279d03b7713d66b0e9f0379f773a656e4064e838fb2340c5"
 metafile = true
@@ -513,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/calcmod.pw.toml"
 hash = "57e13a6b0b5fb726d390cdf15df562a339d9e9c92752dd4672255182075b0bc6"
+metafile = true
+
+[[files]]
+file = "mods/calm-down-dog.pw.toml"
+hash = "372e8201a9cd6bba38f30a80bab1fd68cb1a4dc57df50b07b53aca782c6bded5"
 metafile = true
 
 [[files]]
@@ -638,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "fd4ec85a4e02683018d27282001b7c3204b0e43a2a11b307b74ce3468abc561a"
+metafile = true
+
+[[files]]
+file = "mods/companion.pw.toml"
+hash = "03cee28cbb55c8d9ca784848885d6b0f9355d8e648cfa788b81d607739eed9a0"
 metafile = true
 
 [[files]]
@@ -1488,6 +1518,11 @@ metafile = true
 [[files]]
 file = "mods/music-duration-reducer.pw.toml"
 hash = "85e9a9b52b2d3673f56a288e3dcf3e48d467573cfe240c467e7fcf683a8ecbee"
+metafile = true
+
+[[files]]
+file = "mods/narrus-yeetus.pw.toml"
+hash = "6ae245fa55bd8c756294da4fbd0b8943b9fb6d8521997e65b5cd01c3b2bd13e2"
 metafile = true
 
 [[files]]
